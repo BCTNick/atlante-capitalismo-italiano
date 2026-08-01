@@ -8,6 +8,11 @@
       content="Atlante open-data delle partecipazioni tra persone, famiglie, enti e società italiane."
     />
     <title>Atlante del Capitalismo Italiano</title>
+    <script>
+      if (new URLSearchParams(window.location.search).get("embed") === "1") {
+        document.documentElement.classList.add("embed-mode");
+      }
+    </script>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -15,17 +20,26 @@
       <header class="topbar">
         <div class="brand">
           <span class="brand-mark" aria-hidden="true"></span>
-          <div>
+          <div class="brand-copy">
             <p class="eyebrow">OPEN DATA · STOCK ANALYSIS</p>
             <h1>Atlante del <span>Capitalismo Italiano</span></h1>
           </div>
+          <p class="embed-brand">Atlante del <span>Capitalismo</span></p>
         </div>
-        <div class="snapshot" aria-label="Seleziona lo snapshot annuale">
-          <span class="pulse"></span>
-          <label for="snapshot-select">Snapshot</label>
-          <select id="snapshot-select" disabled>
-            <option>Caricamento…</option>
-          </select>
+        <div class="topbar-actions">
+          <button class="embed-action" id="embed-controls-button" type="button" aria-expanded="false">
+            Filtri
+          </button>
+          <div class="snapshot" aria-label="Seleziona lo snapshot annuale">
+            <span class="pulse"></span>
+            <label for="snapshot-select">Snapshot</label>
+            <select id="snapshot-select" disabled>
+              <option>Caricamento…</option>
+            </select>
+          </div>
+          <a class="embed-action embed-open" id="embed-open-link" href="./" target="_blank" rel="noreferrer">
+            Apri <span>atlante</span> ↗
+          </a>
         </div>
       </header>
 

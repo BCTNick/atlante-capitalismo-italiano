@@ -15,6 +15,16 @@ python serve.py
 
 Apri <http://127.0.0.1:8000/app/>.
 
+## Incorporare il grafo in un blog
+
+La visualizzazione dispone di una modalità responsive per iframe. Dopo la pubblicazione su GitHub Pages, usa come sorgente:
+
+```text
+https://TUO-USERNAME.github.io/atlante-capitalismo-italiano/embed.html
+```
+
+I filtri diventano un pannello a scomparsa e il dettaglio del nodo si apre sopra il grafo, senza duplicare dati o codice. Il frammento HTML completo e le indicazioni per WordPress e altri CMS sono in [docs/EMBED.md](docs/EMBED.md).
+
 ## Snapshot disponibili
 
 | Data | Stato | Nodi | Relazioni |
@@ -68,4 +78,3 @@ La raccolta iniziale è stata realizzata con il supporto di OpenAI Codex e verif
 - [Governance](GOVERNANCE.md)
 - [Disclaimer](DISCLAIMER.md)
 - [Sicurezza](SECURITY.md)
-

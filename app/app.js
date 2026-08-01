@@ -8,6 +8,9 @@ const searchInput = document.querySelector("#search");
 const dataList = document.querySelector("#node-list");
 const stats = document.querySelector("#graph-stats");
 const snapshotSelect = document.querySelector("#snapshot-select");
+const embedMode = document.documentElement.classList.contains("embed-mode");
+const embedControlsButton = document.querySelector("#embed-controls-button");
+const embedOpenLink = document.querySelector("#embed-open-link");
 
 const state = {
   data: null,
@@ -617,6 +620,7 @@ function relationHtml(edge, selected) {
 
 function selectNode(node) {
   state.selected = node;
+  document.documentElement.classList.toggle("has-selection", Boolean(node));
   if (!node) {
     detailPanel.innerHTML = `
       <div class="empty-detail">
@@ -634,6 +638,7 @@ function selectNode(node) {
   const location = state.groupLocations.get(node.groups[0]);
   const logo = node.category === "organization" ? state.data.logos[node.id] : null;
   detailPanel.innerHTML = `
+    <button class="detail-close" type="button" aria-label="Chiudi il dettaglio">×</button>
     <div class="detail-head">
       <div class="detail-kicker"><span style="background:${colors.fill}"></span>${subtypeLabels[node.subtype] || node.subtype}</div>
       ${logo ? `<div class="detail-logo" style="--logo-bg:${logo.background}">${logo.asset_path ? `<img src="${logo.asset_path}" alt="" />` : `<span>${logo.mark}</span>`}</div>` : ""}
@@ -661,6 +666,10 @@ function setToggle(button, active) {
 }
 
 canvas.addEventListener("pointerdown", (event) => {
+  if (embedMode && document.documentElement.classList.contains("controls-open")) {
+    document.documentElement.classList.remove("controls-open");
+    embedControlsButton.setAttribute("aria-expanded", "false");
+  }
   canvas.setPointerCapture(event.pointerId);
   const rect = canvas.getBoundingClientRect();
   const x = event.clientX - rect.left;
@@ -748,6 +757,26 @@ searchInput.addEventListener("change", () => {
   state.camera.scale = Math.max(state.camera.scale, 1.05);
   state.camera.x = -node.x;
   state.camera.y = -node.y;
+  if (embedMode) {
+    document.documentElement.classList.remove("controls-open");
+    embedControlsButton.setAttribute("aria-expanded", "false");
+  }
+});
+
+embedControlsButton.addEventListener("click", () => {
+  const isOpen = document.documentElement.classList.toggle("controls-open");
+  embedControlsButton.setAttribute("aria-expanded", String(isOpen));
+});
+
+detailPanel.addEventListener("click", (event) => {
+  if (event.target.closest(".detail-close")) selectNode(null);
+});
+
+document.addEventListener("keydown", (event) => {
+  if (event.key !== "Escape" || !embedMode) return;
+  document.documentElement.classList.remove("controls-open");
+  embedControlsButton.setAttribute("aria-expanded", "false");
+  if (state.selected) selectNode(null);
 });
 
 document.querySelector("#toggle-ownership").addEventListener("click", (event) => {
@@ -803,6 +832,9 @@ async function loadSnapshot(snapshotId, updateUrl = true) {
   const data = await fetchJson(`../data/${snapshot.graph_path}`);
   state.currentSnapshot = snapshot.id;
   snapshotSelect.value = snapshot.id;
+  const fullViewUrl = new URL("./", window.location.href);
+  fullViewUrl.searchParams.set("snapshot", snapshot.id);
+  embedOpenLink.href = fullViewUrl.toString();
   initializeGraph(data);
   resize();
   window.setTimeout(fitView, 480);

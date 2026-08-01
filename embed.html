@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Atlante del Capitalismo Italiano — embed</title>
+    <script>
+      const target = new URL("app/", window.location.href);
+      target.searchParams.set("embed", "1");
+      const requestedSnapshot = new URLSearchParams(window.location.search).get("snapshot");
+      if (requestedSnapshot) target.searchParams.set("snapshot", requestedSnapshot);
+      window.location.replace(target);
+    </script>
+  </head>
+  <body>
+    <p><a href="app/?embed=1">Apri la visualizzazione interattiva</a></p>
+  </body>
+</html>

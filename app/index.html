@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Atlante open-data delle partecipazioni tra persone, famiglie, enti e società italiane."
+    />
+    <title>Atlante del Capitalismo Italiano</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <div>
+            <p class="eyebrow">OPEN DATA · STOCK ANALYSIS</p>
+            <h1>Atlante del <span>Capitalismo Italiano</span></h1>
+          </div>
+        </div>
+        <div class="snapshot" aria-label="Seleziona lo snapshot annuale">
+          <span class="pulse"></span>
+          <label for="snapshot-select">Snapshot</label>
+          <select id="snapshot-select" disabled>
+            <option>Caricamento…</option>
+          </select>
+        </div>
+      </header>
+
+      <aside class="controls-panel" aria-label="Controlli del grafo">
+        <div class="panel-intro">
+          <p class="eyebrow">ESPLORA</p>
+          <p>Segui le quote mantenendo una prossimità territoriale morbida tra famiglie, enti e imprese.</p>
+          <p class="release-note">Dataset collaborativo: ogni nodo e relazione rimanda alla propria fonte.</p>
+        </div>
+
+        <label class="field-label" for="search">Cerca un nodo</label>
+        <div class="search-wrap">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="6.5"></circle>
+            <path d="m16 16 4 4"></path>
+          </svg>
+          <input id="search" list="node-list" placeholder="Ferrari, Delfin, Prada…" autocomplete="off" />
+          <datalist id="node-list"></datalist>
+        </div>
+
+        <label class="field-label" for="group-filter">Famiglia / gruppo</label>
+        <select id="group-filter">
+          <option value="all">Tutto il campione</option>
+        </select>
+
+        <div class="field-label split-label">
+          <span>Relazioni</span>
+          <button class="text-button" id="reset-view" type="button">Centra</button>
+        </div>
+        <button class="toggle active" id="toggle-ownership" type="button" aria-pressed="true">
+          <span class="line-sample ownership"></span>
+          <span><strong>Possiede</strong><small>Direzione e quota %</small></span>
+          <span class="switch-dot"></span>
+        </button>
+        <button class="toggle active" id="toggle-family" type="button" aria-pressed="true">
+          <span class="line-sample family"></span>
+          <span><strong>Legame familiare</strong><small>Tipologia dichiarata</small></span>
+          <span class="switch-dot"></span>
+        </button>
+
+        <div class="field-label">Dimensione nodi</div>
+        <div class="segmented" role="group" aria-label="Dimensione dei nodi">
+          <button class="active" id="size-value" type="button">Per valore</button>
+          <button id="size-uniform" type="button">Uniforme</button>
+        </div>
+
+        <div class="legend">
+          <div><span class="legend-node person"></span>Persona</div>
+          <div><span class="legend-node family-node"></span>Famiglia</div>
+          <div><span class="legend-node holding"></span>Holding / trust</div>
+          <div><span class="legend-node company"></span>Azienda</div>
+        </div>
+
+        <p class="hint">Le città orientano il layout senza bloccare i nodi. Rotella per lo zoom · trascina per muoverti.</p>
+        <p class="data-notice">Dati best-effort: verifica sempre le fonti primarie.</p>
+      </aside>
+
+      <main class="graph-stage">
+        <canvas id="graph" aria-label="Grafo interattivo di proprietà e legami familiari"></canvas>
+        <div class="graph-stats" id="graph-stats" aria-live="polite"></div>
+        <div class="value-scale">
+          <span>AREA DEL NODO</span>
+          <strong>≈ valore in €</strong>
+        </div>
+        <div class="loading" id="loading">
+          <span></span>
+          <p>Sto disponendo il grafo…</p>
+        </div>
+      </main>
+
+      <aside class="detail-panel" id="detail-panel" aria-live="polite">
+        <div class="empty-detail">
+          <span class="empty-orbit"><i></i></span>
+          <p class="eyebrow">DETTAGLIO</p>
+          <h2>Seleziona un nodo</h2>
+          <p>Vedrai valore, tipo, relazioni e fonte del dato.</p>
+        </div>
+      </aside>
+    </div>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

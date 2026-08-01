@@ -1,0 +1,27 @@
+name: Validate data
+
+on:
+  pull_request:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Validate committed snapshots
+        run: python scripts/validate_data.py
+      - name: Rebuild graph exports
+        run: python scripts/build_db.py
+      - name: Check generated graph files
+        run: git diff --exit-code -- 'data/snapshots/*/graph.json'
+

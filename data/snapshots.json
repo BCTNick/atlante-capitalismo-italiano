@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "default_snapshot": "2025-12-31",
+  "snapshots": [
+    {
+      "id": "2025-12-31",
+      "year": 2025,
+      "label": "31 dicembre 2025",
+      "status": "published",
+      "seed_path": "snapshots/2025-12-31/seed.json",
+      "graph_path": "snapshots/2025-12-31/graph.json",
+      "database_path": "snapshots/2025-12-31/rich_graph.sqlite"
+    }
+  ]
+}

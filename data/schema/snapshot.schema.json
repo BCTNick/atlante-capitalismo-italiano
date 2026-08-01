@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/atlante/schema/snapshot.schema.json",
+  "title": "Atlante del Capitalismo Italiano — Snapshot",
+  "type": "object",
+  "required": ["meta", "sources", "group_locations", "logos", "nodes", "ownerships", "family_links"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["title", "snapshot_date", "currency", "value_unit", "dataset_status"],
+      "properties": {
+        "snapshot_date": {"type": "string", "format": "date"}
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "publisher", "url"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+          "url": {"type": "string", "format": "uri"}
+        }
+      }
+    },
+    "nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "category", "subtype", "description", "value_eur_bn", "value_basis", "groups", "source_id"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+          "category": {"enum": ["subject", "organization"]},
+          "value_eur_bn": {"type": ["number", "null"], "minimum": 0},
+          "groups": {"type": "array", "minItems": 1, "items": {"type": "string"}}
+        }
+      }
+    },
+    "ownerships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "owner_id", "owned_id", "percentage", "note", "source_id"],
+        "properties": {"percentage": {"type": "number", "minimum": 0, "maximum": 100}}
+      }
+    },
+    "family_links": {"type": "array"},
+    "group_locations": {"type": "array"},
+    "logos": {"type": "object"}
+  }
+}
+

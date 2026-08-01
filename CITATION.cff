@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se utilizzi l’Atlante, cita il progetto e lo snapshot consultato."
+title: "Atlante del Capitalismo Italiano"
+type: dataset
+version: 1.0.0
+date-released: 2026-08-01
+license: ODbL-1.0
+abstract: "Snapshot open-data delle relazioni di partecipazione tra persone, famiglie, enti e società italiane."
+

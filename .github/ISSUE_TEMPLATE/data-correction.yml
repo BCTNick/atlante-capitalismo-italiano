@@ -1,0 +1,38 @@
+name: Correzione di un dato
+description: Segnala un nodo, valore o collegamento inesatto o obsoleto
+title: "[Correzione] "
+labels: ["data", "correction"]
+body:
+  - type: markdown
+    attributes:
+      value: "Non inserire dati personali privati. Per informazioni sensibili contatta privatamente il maintainer."
+  - type: input
+    id: snapshot
+    attributes:
+      label: Snapshot
+      description: Data dello snapshot interessato
+      placeholder: "2025-12-31"
+    validations:
+      required: true
+  - type: input
+    id: record
+    attributes:
+      label: Nodo o relazione
+      description: ID o etichetta del dato da correggere
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Correzione proposta
+      description: Spiega che cosa non va e quale modifica proponi
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Fonti
+      description: Inserisci URL, editore, data e pagina o sezione rilevante
+    validations:
+      required: true
+

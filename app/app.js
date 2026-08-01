@@ -391,13 +391,6 @@ function drawTerritory() {
     ctx.arc(point.x, point.y, active ? 3.1 : 2.2, 0, Math.PI * 2);
     ctx.fillStyle = active ? "#ffbd69" : "rgba(120, 192, 181, .55)";
     ctx.fill();
-    if (state.camera.scale > 0.48 || active) {
-      ctx.font = `${active ? 700 : 600} ${active ? 10 : 8}px Inter, sans-serif`;
-      ctx.textAlign = "left";
-      ctx.textBaseline = "middle";
-      ctx.fillStyle = active ? "rgba(255, 223, 179, .95)" : "rgba(137, 170, 169, .48)";
-      ctx.fillText(location.city.toUpperCase(), point.x + 6, point.y - 1);
-    }
   });
 
   ctx.font = "700 8px Inter, sans-serif";

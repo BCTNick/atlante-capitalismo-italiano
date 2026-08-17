@@ -1,38 +1,37 @@
-name: Correzione di un dato
-description: Segnala un nodo, valore o collegamento inesatto o obsoleto
-title: "[Correzione] "
+name: Data correction
+description: Report an inaccurate or outdated node, value or relationship
+title: "[Correction] "
 labels: ["data", "correction"]
 body:
   - type: markdown
     attributes:
-      value: "Non inserire dati personali privati. Per informazioni sensibili contatta privatamente il maintainer."
+      value: "Do not post private personal data. Contact the maintainer privately for sensitive information."
   - type: input
     id: snapshot
     attributes:
       label: Snapshot
-      description: Data dello snapshot interessato
+      description: Date of the affected snapshot
       placeholder: "2025-12-31"
     validations:
       required: true
   - type: input
     id: record
     attributes:
-      label: Nodo o relazione
-      description: ID o etichetta del dato da correggere
+      label: Node or relationship
+      description: ID or label of the record to correct
     validations:
       required: true
   - type: textarea
     id: correction
     attributes:
-      label: Correzione proposta
-      description: Spiega che cosa non va e quale modifica proponi
+      label: Proposed correction
+      description: Explain what is wrong and what change you propose
     validations:
       required: true
   - type: textarea
     id: sources
     attributes:
-      label: Fonti
-      description: Inserisci URL, editore, data e pagina o sezione rilevante
+      label: Sources
+      description: Include URL, publisher, date and the relevant page or section
     validations:
       required: true
-

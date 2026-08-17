@@ -1,65 +1,64 @@
-# Metodologia e modello dei dati
+# Methodology and data model
 
-## Obiettivo
+## Objective
 
-L’Atlante descrive come persone, famiglie, enti e organizzazioni sono collegati attraverso partecipazioni societarie e legami familiari pubblicamente documentati. Non calcola automaticamente il controllo indiretto e non sostituisce le catene reali con collegamenti sintetici.
+The Atlas describes how people, families, public bodies and organizations are connected through equity stakes and publicly documented family relationships. It does not automatically calculate indirect control and does not replace real ownership chains with synthetic links.
 
-## Unità temporale
+## Time unit
 
-Ogni dataset è uno **snapshot completo** identificato da una data ISO, per esempio `2025-12-31`. Tutti i nodi, valori e rapporti contenuti nello snapshot si intendono riferiti a quella data o alla migliore informazione disponibile sufficientemente vicina.
+Each dataset is a **complete snapshot** identified by an ISO date, such as `2025-12-31`. Every node, value and relationship in a snapshot is understood to refer to that date or to the best available information sufficiently close to it.
 
-Non si inseriscono intervalli temporali dentro le singole relazioni. Quando cambia la situazione, viene creato un nuovo snapshot annuale.
+Individual relationships do not carry date ranges. When the situation changes, a new annual snapshot is created.
 
-## Nodi
+## Nodes
 
-I nodi appartengono a due categorie:
+Nodes belong to two categories:
 
-- `subject`: persona, famiglia, Stato, regione, provincia o comune;
-- `organization`: holding, trust, fondazione, cooperativa, società quotata o società privata.
+- `subject`: person, family, state, region, province or municipality;
+- `organization`: holding, trust, foundation, cooperative, listed company or private company.
 
-Un soggetto territoriale può possedere un’organizzazione ma non può essere posseduto. Un’organizzazione può sia possedere sia essere posseduta.
+A territorial public body may own an organization but cannot itself be owned. An organization may both own and be owned.
 
-Gli ID sono in `snake_case`, descrittivi e stabili tra gli anni. La stessa entità deve mantenere lo stesso ID in ogni snapshot.
+IDs use `snake_case`, are descriptive and remain stable across years. The same entity must retain the same ID in every snapshot.
 
-## Relazione “possiede”
+## The `owns` relationship
 
-È direzionale e va dal titolare legale della quota all’entità partecipata. La percentuale deve essere compresa tra 0 e 100.
+This relationship is directional: it runs from the legal holder of a stake to the entity in which that stake is held. Percentages must be between 0 and 100.
 
-Ogni passaggio della catena viene registrato separatamente. Esempio:
+Every step in a chain is recorded separately. For example:
 
 ```text
-Ministero dell’Economia → CDP → CDP Equity → Fincantieri
+Ministry of Economy and Finance → CDP → CDP Equity → Fincantieri
 ```
 
-Non viene creato un collegamento Ministero dell’Economia → Fincantieri se la partecipazione giuridica passa attraverso CDP e CDP Equity.
+No Ministry of Economy and Finance → Fincantieri link is created when the legal interest passes through CDP and CDP Equity.
 
-La relazione rappresenta una partecipazione dichiarata, non necessariamente il controllo societario. Patti parasociali, diritti di voto maggiorato e altri elementi di governance vanno spiegati nella nota e sostenuti da una fonte.
+The relationship records a disclosed interest, not necessarily corporate control. Shareholder agreements, enhanced voting rights and other governance elements should be explained in the note and supported by a source.
 
-## Legami familiari
+## Family relationships
 
-Collegano esclusivamente due persone e richiedono una tipologia dichiarata, come `coniuge`, `figlio`, `genitore` o `fratello`. Non si deducono legami da cognomi, articoli generici o supposizioni.
+Family relationships connect people only and require a declared type such as `spouse`, `child`, `parent` or `sibling`. Relationships are not inferred from surnames, generic articles or assumptions.
 
-## Valori
+## Values
 
-- Persone e famiglie: stima patrimoniale pubblicata da una fonte riconoscibile.
-- Società quotate: capitalizzazione di mercato alla data dello snapshot o una data molto vicina.
-- Società private e holding: valore indicativo dichiarato nella fonte oppure `null` se non stimabile con sufficiente affidabilità.
+- People and families: wealth estimates published by a recognizable source.
+- Listed companies: market capitalization on the snapshot date or a nearby date.
+- Private companies and holdings: an indicative value stated by the source, or `null` when no sufficiently reliable estimate is available.
 
-Il campo `value_basis` deve spiegare in modo breve che cosa rappresenta il numero. Il valore non misura automaticamente la quota economicamente attribuibile al proprietario.
+The `value_basis` field must briefly explain what the number represents. A value does not automatically measure the economic interest attributable to an owner.
 
-## Fonti
+## Sources
 
-Ogni nodo e relazione contiene un `source_id`. Ordine di preferenza:
+Every node and relationship contains a `source_id`. Preferred source order:
 
-1. bilanci, relazioni di governance e documenti ufficiali dell’emittente;
-2. Consob, Registro Imprese e altre autorità pubbliche;
-3. comunicati e siti investor relations;
-4. fonti giornalistiche economiche affidabili;
-5. fonti secondarie, soltanto quando la fonte primaria non è accessibile.
+1. annual reports, corporate-governance reports and official issuer documents;
+2. Consob, company registers and other public authorities;
+3. press releases and investor-relations websites;
+4. reputable financial journalism;
+5. secondary sources, only when a primary source is not accessible.
 
-La fonte deve sostenere direttamente il dato a cui è collegata. Una fonte generica sulla famiglia non è sufficiente per una percentuale di partecipazione specifica.
+The source must directly support the record to which it is attached. A generic source about a family is not sufficient evidence for a specific ownership percentage.
 
-## Posizionamento territoriale
+## Territorial positioning
 
-La città assegnata a un gruppo è un’ancora visuale morbida basata sulla sua associazione storica, sede principale o centro operativo più riconoscibile. Non rappresenta la residenza esatta delle persone e non deve essere interpretata come dato anagrafico.
-
+The city assigned to each group is a soft visual anchor based on its historical association, main headquarters or most recognizable operating centre. It is not the exact residence of any person and must not be interpreted as personal registry data.

@@ -1,26 +1,25 @@
 # Disclaimer
 
-L’Atlante del Capitalismo Italiano è un progetto indipendente a scopo informativo, divulgativo e di ricerca.
+Atlante del Capitalismo Italiano (Atlas of Italian Capitalism) is an independent project for information, education and research.
 
-La raccolta iniziale dei dati è stata realizzata con il supporto di **OpenAI Codex** e sottoposta a una verifica best-effort sulle fonti pubbliche indicate per ciascun nodo e relazione. Nonostante ciò possono essere presenti errori, omissioni, semplificazioni o interpretazioni inesatte.
+The initial dataset was assembled with the assistance of **OpenAI Codex** and checked on a best-effort basis against the public sources identified for each node and relationship. Errors, omissions, simplifications or inaccurate interpretations may nevertheless remain.
 
-Partecipazioni, valori e relazioni rappresentano esclusivamente uno snapshot alla data indicata. Non descrivono necessariamente la situazione attuale e non devono essere interpretati come una determinazione della titolarità effettiva, del controllo giuridico, dell’influenza economica o della disponibilità patrimoniale di un soggetto.
+Ownership stakes, values and relationships represent only the snapshot on the stated date. They do not necessarily describe the current situation and must not be interpreted as a determination of beneficial ownership, legal control, economic influence or the assets available to any subject.
 
-Le stime di patrimonio personale e i valori attribuiti a società non quotate sono approssimazioni provenienti dalle fonti citate. La dimensione grafica dei nodi è uno strumento visuale, non una valutazione finanziaria.
+Personal wealth estimates and values assigned to unlisted companies are approximations drawn from the cited sources. Graphical node size is a visual device, not a financial valuation.
 
-Il progetto non costituisce consulenza finanziaria, legale, fiscale o d’investimento e non intende formulare accuse o giudizi sulle persone e organizzazioni rappresentate.
+The project does not constitute financial, legal, tax or investment advice and does not seek to make accusations or judgements about the people and organizations represented.
 
-## Persone viventi e rettifiche
+## Living people and corrections
 
-Il dataset limita le informazioni personali a nomi, relazioni familiari pubblicamente documentate e partecipazioni economicamente rilevanti. Non devono essere aggiunti indirizzi privati, recapiti, documenti identificativi, date di nascita complete o altre informazioni non necessarie.
+The dataset limits personal information to names, publicly documented family relationships and economically relevant ownership stakes. Private addresses, contact details, identification documents, complete dates of birth and other unnecessary personal information must not be added.
 
-Chi ritiene che un dato sia inesatto, obsoleto o inappropriato può aprire una issue di correzione nel repository indicando il record interessato e, quando possibile, una fonte pubblica alternativa. Le richieste che contengono dati personali non destinati alla pubblicazione non devono essere inserite in una issue pubblica: in quel caso va usato il contatto privato indicato dal maintainer del repository.
+Anyone who believes that a record is inaccurate, outdated or inappropriate may open a correction issue, identify the affected record and, where possible, provide an alternative public source. Requests containing personal information not intended for publication must not be posted in a public issue; use the private contact method identified by the repository maintainer instead.
 
-## Fonti e diritti di terzi
+## Sources and third-party rights
 
-I collegamenti alle fonti servono a consentire la verifica dei dati. La citazione non implica che gli editori o le società citate approvino o sponsorizzino il progetto. I contenuti delle fonti restano soggetti ai rispettivi diritti e condizioni d’uso.
+Source links enable verification. Citation does not imply that the referenced publishers or companies endorse or sponsor the project. Source materials remain subject to their respective rights and terms of use.
 
-## Assenza di garanzia
+## No warranty
 
-Il progetto e il database sono forniti “così come sono”, senza garanzie espresse o implicite di completezza, correttezza, aggiornamento o idoneità a uno scopo particolare. Prima di usare un dato per decisioni o pubblicazioni, verificarlo direttamente sulla fonte primaria.
-
+The project and database are provided **as is**, without express or implied warranties of completeness, accuracy, currency or fitness for a particular purpose. Verify every record directly against its primary source before relying on it for decisions or publication.

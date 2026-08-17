@@ -1,16 +1,16 @@
-# Incorporare l’Atlante in un sito o blog
+# Embedding the Atlas in a website or blog
 
-La modalità embed mostra lo stesso grafo e gli stessi snapshot dell’applicazione completa, ma è ottimizzata per lo spazio di un articolo: i filtri sono a scomparsa e il dettaglio del nodo si apre sopra il grafo.
+Embed mode displays the same graph and snapshots as the full application but is optimized for article layouts: filters slide in from the side and node details open above the graph.
 
-## Codice da incollare
+## HTML snippet
 
-Sostituisci `TUO-USERNAME` con il tuo nome utente GitHub e incolla questo codice in un blocco HTML personalizzato del blog:
+Paste this code into a custom HTML block:
 
 ```html
 <div style="width:100%;height:min(78vh,760px);min-height:560px;">
   <iframe
-    src="https://TUO-USERNAME.github.io/atlante-capitalismo-italiano/embed.html"
-    title="Atlante del Capitalismo Italiano"
+    src="https://bctnick.github.io/atlante-capitalismo-italiano/embed.html"
+    title="Atlante del Capitalismo Italiano (Atlas of Italian Capitalism)"
     loading="lazy"
     style="width:100%;height:100%;border:0;border-radius:12px;overflow:hidden;"
     allow="fullscreen"
@@ -18,19 +18,17 @@ Sostituisci `TUO-USERNAME` con il tuo nome utente GitHub e incolla questo codice
 </div>
 ```
 
-Per fissare uno snapshot specifico, aggiungi il parametro `snapshot`:
+To pin a specific snapshot, add the `snapshot` parameter:
 
 ```text
-https://TUO-USERNAME.github.io/atlante-capitalismo-italiano/embed.html?snapshot=2025-12-31
+https://bctnick.github.io/atlante-capitalismo-italiano/embed.html?snapshot=2025-12-31
 ```
 
-Senza il parametro viene caricato automaticamente lo snapshot predefinito indicato in `data/snapshots.json`.
+Without the parameter, the default snapshot in `data/snapshots.json` loads automatically.
 
-## Compatibilità
+## Compatibility
 
-- WordPress: usa un blocco **HTML personalizzato**.
-- Ghost e CMS analoghi: usa una card o un blocco HTML.
-- Se il sito applica una Content Security Policy, il dominio `https://TUO-USERNAME.github.io` deve essere consentito nella direttiva `frame-src`.
-- Alcune piattaforme editoriali ospitate rimuovono gli `iframe`; in quel caso inserisci un’immagine di anteprima collegata all’Atlante completo.
-
-La pagina incorporata contiene anche il comando **Apri atlante ↗**, così il lettore può passare alla visualizzazione completa in una nuova scheda.
+- WordPress: use a **Custom HTML** block.
+- Ghost and similar CMSs: use an HTML card or block.
+- If the website uses a Content Security Policy, allow `https://bctnick.github.io` in the `frame-src` directive.
+- Some hosted publishing platforms remove `iframe` elements. In that case, use a preview image linked to the full Atlas.

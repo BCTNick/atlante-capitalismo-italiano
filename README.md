@@ -1,37 +1,37 @@
-# Atlante del Capitalismo Italiano
+# Atlante del Capitalismo Italiano (Atlas of Italian Capitalism)
 
-Una visualizzazione open-data delle relazioni di partecipazione tra persone, famiglie, enti pubblici, holding e società italiane.
+An open-data visualization of ownership relationships among Italian people, families, public bodies, holdings and companies.
 
-L’Atlante rappresenta catene societarie esplicite: se una persona possiede una quota di una holding che possiede un’azienda, vengono mostrate entrambe le relazioni, senza creare scorciatoie tra la persona e l’azienda finale. La dimensione dei nodi può riflettere il patrimonio stimato delle persone o il valore delle società.
+The Atlas represents explicit corporate chains. If a person owns a stake in a holding that owns a company, both relationships are shown; no shortcut is created between the person and the final company. Node size can reflect a person's estimated wealth or a company's indicative value.
 
-## Demo locale
+## Local demo
 
-Richiede Python 3.11 o successivo.
+Python 3.11 or later is required.
 
 ```bash
 python scripts/build_db.py
 python serve.py
 ```
 
-Apri <http://127.0.0.1:8000/app/>.
+Open <http://127.0.0.1:8000/app/>.
 
-## Incorporare il grafo in un blog
+## Embed the graph in a blog
 
-La visualizzazione dispone di una modalità responsive per iframe. Dopo la pubblicazione su GitHub Pages, usa come sorgente:
+The visualization includes a responsive iframe mode. Once GitHub Pages is enabled, use:
 
 ```text
-https://TUO-USERNAME.github.io/atlante-capitalismo-italiano/embed.html
+https://bctnick.github.io/atlante-capitalismo-italiano/embed.html
 ```
 
-I filtri diventano un pannello a scomparsa e il dettaglio del nodo si apre sopra il grafo, senza duplicare dati o codice. Il frammento HTML completo e le indicazioni per WordPress e altri CMS sono in [docs/EMBED.md](docs/EMBED.md).
+Filters become a slide-out panel and node details open above the graph, without duplicating data or application logic. See [docs/EMBED.md](docs/EMBED.md) for the complete HTML snippet and CMS guidance.
 
-## Snapshot disponibili
+## Available snapshots
 
-| Data | Stato | Nodi | Relazioni |
+| Date | Status | Nodes | Relationships |
 |---|---|---:|---:|
-| 31 dicembre 2025 | pubblicato | 107 | 97 |
+| 31 December 2025 | published | 107 | 97 |
 
-Gli snapshot sono fotografie autonome, non aggiornamenti incrementali. Gli ID dei soggetti rimangono stabili tra gli anni; quote, valori, relazioni e fonti appartengono invece allo specifico snapshot.
+Snapshots are independent, complete views rather than incremental updates. Entity IDs remain stable across years; stakes, values, relationships and sources belong to each individual snapshot.
 
 ```text
 data/
@@ -43,38 +43,38 @@ data/
         └── rich_graph.sqlite
 ```
 
-- `seed.json` è il file sorgente da modificare tramite pull request.
-- `graph.json` alimenta l’applicazione web.
-- `rich_graph.sqlite` rende lo snapshot interrogabile anche come database relazionale.
-- `snapshots.json` è l’indice degli anni disponibili.
+- `seed.json` is the canonical source file to edit through pull requests.
+- `graph.json` feeds the web application.
+- `rich_graph.sqlite` makes the snapshot available as a relational database.
+- `snapshots.json` indexes the available years.
 
-## Contribuire
+## Contributing
 
-Correzioni documentate, nuove società e nuovi snapshot sono benvenuti. Prima di aprire una pull request leggi [CONTRIBUTING.md](CONTRIBUTING.md) e [METHODOLOGY.md](METHODOLOGY.md).
+Documented corrections, additional companies and new annual snapshots are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and [METHODOLOGY.md](METHODOLOGY.md) before opening a pull request.
 
-Principio fondamentale: **ogni nodo e ogni relazione devono avere una fonte verificabile**. Sono preferite fonti primarie quali bilanci, relazioni di corporate governance, comunicazioni ufficiali, documenti Consob e siti investor relations.
+Core rule: **every node and every relationship must have a verifiable source**. Primary sources such as annual reports, corporate-governance reports, official disclosures, Consob documents and investor-relations websites are preferred.
 
-Per controllare localmente una modifica:
+To check a change locally:
 
 ```bash
 python scripts/build_db.py
 python scripts/validate_data.py
 ```
 
-## Accuratezza e AI
+## Accuracy and AI assistance
 
-La raccolta iniziale è stata realizzata con il supporto di OpenAI Codex e verificata con criterio best-effort sulle fonti pubbliche indicate. Il progetto può contenere errori, omissioni o interpretazioni inesatte. Leggi il [disclaimer completo](DISCLAIMER.md).
+The initial research was produced with the assistance of OpenAI Codex and checked on a best-effort basis against the public sources attached to the records. The project may contain errors, omissions or inaccurate interpretations. Read the [full disclaimer](DISCLAIMER.md).
 
-## Licenze
+## Licences
 
-- Codice: [MIT](LICENSE).
-- Database originale e contributi ai dati: [Open Database License 1.0](LICENSE-DATA.md).
-- Loghi, nomi e marchi appartengono ai rispettivi titolari, sono esclusi dalle licenze del progetto e vengono usati esclusivamente a scopo identificativo. Vedi [TRADEMARKS.md](TRADEMARKS.md).
+- Code: [MIT](LICENSE).
+- Original database and data contributions: [Open Database License 1.0](LICENSE-DATA.md).
+- Logos, names and trademarks belong to their respective owners, are excluded from the project's licences and are used solely for identification. See [TRADEMARKS.md](TRADEMARKS.md).
 
-## Documentazione
+## Documentation
 
-- [Metodologia e modello dei dati](METHODOLOGY.md)
-- [Linee guida per contribuire](CONTRIBUTING.md)
+- [Methodology and data model](METHODOLOGY.md)
+- [Contribution guidelines](CONTRIBUTING.md)
 - [Governance](GOVERNANCE.md)
 - [Disclaimer](DISCLAIMER.md)
-- [Sicurezza](SECURITY.md)
+- [Security](SECURITY.md)

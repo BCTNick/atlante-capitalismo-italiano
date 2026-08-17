@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://example.invalid/atlante/schema/snapshot.schema.json",
-  "title": "Atlante del Capitalismo Italiano — Snapshot",
+  "title": "Atlante del Capitalismo Italiano (Atlas of Italian Capitalism) — Snapshot",
   "type": "object",
   "required": ["meta", "sources", "group_locations", "logos", "nodes", "ownerships", "family_links"],
   "properties": {
@@ -49,4 +49,3 @@
     "logos": {"type": "object"}
   }
 }
-

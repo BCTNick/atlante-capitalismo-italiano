@@ -1,27 +1,26 @@
-name: Nuova famiglia o catena societaria
-description: Proponi l’aggiunta di nuovi nodi e partecipazioni documentate
-title: "[Nuova catena] "
+name: New family or corporate chain
+description: Propose documented nodes and ownership stakes
+title: "[New chain] "
 labels: ["data", "enhancement"]
 body:
   - type: input
     id: snapshot
     attributes:
-      label: Snapshot proposto
+      label: Proposed snapshot
       placeholder: "2025-12-31"
     validations:
       required: true
   - type: textarea
     id: chain
     attributes:
-      label: Catena societaria
-      description: Elenca i passaggi proprietario → partecipata e le percentuali
+      label: Corporate chain
+      description: List each owner → owned entity step and its percentage
     validations:
       required: true
   - type: textarea
     id: sources
     attributes:
-      label: Fonti primarie
-      description: Una fonte per ogni passaggio rilevante
+      label: Primary sources
+      description: Provide one source for each relevant step
     validations:
       required: true
-

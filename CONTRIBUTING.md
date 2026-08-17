@@ -1,63 +1,62 @@
-# Contribuire all’Atlante
+# Contributing to the Atlas
 
-Grazie per voler migliorare l’Atlante del Capitalismo Italiano. Sono benvenute correzioni, nuove fonti, nuove catene proprietarie e nuovi snapshot annuali.
+Thank you for helping improve Atlante del Capitalismo Italiano (Atlas of Italian Capitalism). Corrections, new sources, additional ownership chains and new annual snapshots are welcome.
 
-## Prima di iniziare
+## Before you begin
 
-1. Leggi [METHODOLOGY.md](METHODOLOGY.md) e [DISCLAIMER.md](DISCLAIMER.md).
-2. Cerca tra issue e pull request aperte per evitare duplicati.
-3. Per modifiche ampie, apri prima una issue descrivendo il perimetro.
-4. Non inserire dati personali non necessari o informazioni ottenute da fonti private.
+1. Read [METHODOLOGY.md](METHODOLOGY.md) and [DISCLAIMER.md](DISCLAIMER.md).
+2. Search open issues and pull requests to avoid duplicates.
+3. For broad changes, open an issue first and describe the proposed scope.
+4. Do not add unnecessary personal data or information obtained from private sources.
 
-## Regole per i dati
+## Data rules
 
-- Una pull request dovrebbe riguardare una singola catena societaria, famiglia o correzione coerente.
-- Ogni nodo e ogni relazione devono indicare una fonte.
-- Preferisci documenti ufficiali e inserisci nella nota la pagina o sezione utile quando il documento è lungo.
-- Non creare relazioni sintetiche di proprietà indiretta.
-- Non sommare quote o stimare percentuali senza spiegare il calcolo.
-- Distingui chiaramente partecipazione, controllo e semplice carica amministrativa.
-- Mantieni gli ID esistenti tra gli snapshot.
-- Non modificare uno snapshot storico soltanto perché la situazione è cambiata dopo la sua data; crea o aggiorna lo snapshot appropriato.
+- A pull request should cover one corporate chain, one family or one coherent correction.
+- Every node and relationship must identify a source.
+- Prefer official documents; when a document is long, cite the relevant page or section in the note.
+- Do not create synthetic links for indirect ownership.
+- Do not add stakes together or estimate percentages without explaining the calculation.
+- Clearly distinguish ownership, control and a board or management role.
+- Preserve existing IDs across snapshots.
+- Do not alter a historical snapshot only because the situation changed after its date; create or update the appropriate snapshot instead.
 
-## Correggere lo snapshot 2025
+## Correcting the 2025 snapshot
 
-Modifica:
+Edit:
 
 ```text
 data/snapshots/2025-12-31/seed.json
 ```
 
-Poi rigenera e valida:
+Then rebuild and validate:
 
 ```bash
 python scripts/build_db.py --snapshot 2025-12-31
 python scripts/validate_data.py
 ```
 
-Includi nella pull request sia `seed.json` sia i file generati `graph.json` e `rich_graph.sqlite`.
+Include `seed.json` and the generated `graph.json` and `rich_graph.sqlite` files in the pull request.
 
-## Aggiungere un nuovo anno
+## Adding a new year
 
-1. Copia la cartella dello snapshot precedente.
-2. Rinominala usando la nuova data ISO, per esempio `2026-12-31`.
-3. Aggiorna `meta.snapshot_date` e tutti i dati che sono cambiati.
-4. Aggiungi lo snapshot a `data/snapshots.json`.
-5. Rigenera e valida tutti gli snapshot.
+1. Copy the previous snapshot directory.
+2. Rename it using the new ISO date, for example `2026-12-31`.
+3. Update `meta.snapshot_date` and every record that changed.
+4. Add the snapshot to `data/snapshots.json`.
+5. Rebuild and validate all snapshots.
 
-Ogni nuovo anno deve essere una fotografia completa e verificabile, non un file contenente soltanto le differenze.
+Each year must be a complete, verifiable view—not a file containing changes only.
 
-## Checklist della pull request
+## Pull-request checklist
 
-- [ ] Ho indicato la data dello snapshot.
-- [ ] Ogni nuovo nodo e relazione ha una fonte raggiungibile.
-- [ ] Le percentuali sono comprese tra 0 e 100.
-- [ ] Non ho aggiunto scorciatoie per proprietà indirette.
-- [ ] Non ho inserito dati personali non necessari.
-- [ ] Ho eseguito build e validazione.
-- [ ] Accetto che il codice sia distribuito sotto MIT e i contributi ai dati sotto ODbL 1.0.
+- [ ] I identified the snapshot date.
+- [ ] Every new node and relationship has an accessible source.
+- [ ] Percentages are between 0 and 100.
+- [ ] I did not add shortcuts for indirect ownership.
+- [ ] I did not add unnecessary personal data.
+- [ ] I ran the build and validation scripts.
+- [ ] I accept the MIT licence for code and ODbL 1.0 for data contributions.
 
-## Licenza dei contributi
+## Contribution licence
 
-Aprendo una pull request dichiari di avere il diritto di fornire il contributo. Il codice viene distribuito secondo la licenza MIT; modifiche e aggiunte al database secondo ODbL 1.0. Loghi e altri materiali di terzi restano esclusi.
-
+By opening a pull request, you represent that you have the right to provide the contribution. Code is distributed under the MIT licence; database changes and additions are distributed under ODbL 1.0. Logos and other third-party materials remain excluded.

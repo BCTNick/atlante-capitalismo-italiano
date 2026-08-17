@@ -1,16 +1,15 @@
-# Bozza di lancio LinkedIn
+# LinkedIn launch draft
 
-Ho costruito l’**Atlante del Capitalismo Italiano**: una visualizzazione interattiva e open-data delle relazioni tra persone, famiglie, holding, enti pubblici e grandi società italiane.
+I built **Atlante del Capitalismo Italiano (Atlas of Italian Capitalism)**: an interactive, open-data visualization of relationships among people, families, holdings, public bodies and major Italian companies.
 
-L’obiettivo è rendere leggibili catene che normalmente sono disperse tra bilanci, relazioni di governance e siti investor relations: persona → holding → società, con percentuali e fonte consultabile per ogni passaggio.
+The objective is to make readable the chains that are usually scattered across annual reports, corporate-governance documents and investor-relations websites: person → holding → company, with a percentage and verifiable source for every step.
 
-La prima release fotografa la situazione al **31 dicembre 2025** e comprende 107 nodi e 97 relazioni. Non vuole essere una verità definitiva: è un progetto indipendente, realizzato con il supporto di OpenAI Codex e verificato con criterio best-effort sulle fonti pubbliche citate.
+The first release is a snapshot dated **31 December 2025** and contains 107 nodes and 97 relationships. It is not intended as a definitive truth: this independent project was produced with the assistance of OpenAI Codex and checked on a best-effort basis against the cited public sources.
 
-Il repository è aperto ai contributi. Se trovi un errore o vuoi aggiungere una catena documentata, puoi aprire una issue o una pull request. In futuro l’Atlante conterrà snapshot annuali confrontabili.
+The repository is open to contributions. If you find an error or want to add a documented chain, open an issue or pull request. Future releases can add comparable annual snapshots.
 
-🔗 Demo: [INSERIRE URL]
+🔗 Demo: https://bctnick.github.io/atlante-capitalismo-italiano/
 
-💻 GitHub: [INSERIRE URL]
+💻 GitHub: https://github.com/BCTNick/atlante-capitalismo-italiano
 
-#opendata #dataviz #finanza #corporategovernance #italia #opensource
-
+#opendata #dataviz #finance #corporategovernance #italy #opensource

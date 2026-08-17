@@ -1,13 +1,12 @@
 # Governance
 
-L’Atlante è mantenuto tramite revisione delle pull request.
+The Atlas is maintained through pull-request review.
 
-- I maintainer decidono cosa integrare nel dataset pubblico.
-- Nessuna modifica ai dati viene accettata senza una fonte verificabile.
-- Una fonte primaria più recente o più specifica prevale normalmente su una fonte secondaria.
-- Le correzioni fattuali hanno priorità sulle espansioni del campione.
-- Le discussioni devono concentrarsi sui dati e sulla metodologia, non su giudizi personali relativi ai soggetti rappresentati.
-- I maintainer possono rifiutare contributi incompleti, promozionali, diffamatori, non verificabili o incompatibili con le licenze.
+- Maintainers decide which contributions enter the public dataset.
+- No data change is accepted without a verifiable source.
+- A newer or more specific primary source normally takes precedence over a secondary source.
+- Factual corrections take priority over expanding the sample.
+- Discussions must focus on data and methodology, not personal judgements about represented subjects.
+- Maintainers may reject incomplete, promotional, defamatory, unverifiable or licence-incompatible contributions.
 
-Le decisioni controverse devono essere motivate nella pull request o nella relativa issue, lasciando una traccia pubblica e verificabile.
-
+Contested decisions should be explained in the pull request or related issue, leaving a public and verifiable record.

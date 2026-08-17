@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Atlante del Capitalismo Italiano",
+    "title": "Atlante del Capitalismo Italiano (Atlas of Italian Capitalism)",
     "snapshot_date": "2025-12-31",
     "currency": "EUR",
     "value_unit": "EUR billions",
@@ -1012,9 +1012,9 @@
       "label": "Giovanni Ferrero",
       "category": "subject",
       "subtype": "person",
-      "description": "Presidente esecutivo del gruppo Ferrero. Patrimonio Forbes di 41,3 miliardi di dollari al 12 dicembre 2025.",
+      "description": "Executive chairman of the Ferrero group. Forbes wealth of $41.3 billion as of 12 December 2025.",
       "value_eur_bn": 35.1,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Ferrero"
@@ -1025,9 +1025,9 @@
       "label": "Maria Franca Fissolo",
       "category": "subject",
       "subtype": "person",
-      "description": "Vedova di Michele Ferrero e madre di Giovanni Ferrero. Patrimonio Forbes di 2,3 miliardi di dollari.",
-      "value_eur_bn": 2.0,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "description": "Widow of Michele Ferrero and mother of Giovanni Ferrero. Forbes wealth of $2.3 billion.",
+      "value_eur_bn": 2,
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Ferrero"
@@ -1038,9 +1038,9 @@
       "label": "Ferrero International",
       "category": "organization",
       "subtype": "holding",
-      "description": "Capogruppo lussemburghese del gruppo Ferrero, impresa familiare con ricavi 2024/25 pari a 19,3 miliardi di euro.",
+      "description": "Luxembourg-based parent company of the Ferrero group, a family business with 2024/25 revenue of €19.3 billion.",
       "value_eur_bn": 46.8,
-      "value_basis": "Stima privata implicita, utile solo per il prototipo",
+      "value_basis": "Implied private valuation used only for the prototype",
       "source_id": "ferrero_key_figures_2025",
       "groups": [
         "Ferrero"
@@ -1051,9 +1051,9 @@
       "label": "Claudio Del Vecchio",
       "category": "subject",
       "subtype": "person",
-      "description": "Uno degli otto eredi titolari di Delfin. Patrimonio Forbes di 7,5 miliardi di dollari.",
+      "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
       "value_eur_bn": 6.4,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1064,9 +1064,9 @@
       "label": "Marisa Del Vecchio",
       "category": "subject",
       "subtype": "person",
-      "description": "Una degli otto eredi titolari di Delfin. Patrimonio Forbes di 7,5 miliardi di dollari.",
+      "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
       "value_eur_bn": 6.4,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1077,9 +1077,9 @@
       "label": "Paola Del Vecchio",
       "category": "subject",
       "subtype": "person",
-      "description": "Una degli otto eredi titolari di Delfin. Patrimonio Forbes di 7,5 miliardi di dollari.",
+      "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
       "value_eur_bn": 6.4,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1090,9 +1090,9 @@
       "label": "Leonardo Maria Del Vecchio",
       "category": "subject",
       "subtype": "person",
-      "description": "Uno degli otto eredi titolari di Delfin. Patrimonio Forbes di 7,5 miliardi di dollari.",
+      "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
       "value_eur_bn": 6.4,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1103,9 +1103,9 @@
       "label": "Luca Del Vecchio",
       "category": "subject",
       "subtype": "person",
-      "description": "Uno degli otto eredi titolari di Delfin. Patrimonio Forbes di 7,5 miliardi di dollari.",
+      "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
       "value_eur_bn": 6.4,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1116,9 +1116,9 @@
       "label": "Clemente Del Vecchio",
       "category": "subject",
       "subtype": "person",
-      "description": "Uno degli otto eredi titolari di Delfin. Patrimonio Forbes di 7,5 miliardi di dollari.",
+      "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
       "value_eur_bn": 6.4,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1129,9 +1129,9 @@
       "label": "Nicoletta Zampillo",
       "category": "subject",
       "subtype": "person",
-      "description": "Vedova di Leonardo Del Vecchio e una degli otto eredi titolari di Delfin. Patrimonio Forbes di 7,5 miliardi di dollari.",
+      "description": "Widow of Leonardo Del Vecchio and one of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
       "value_eur_bn": 6.4,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1142,9 +1142,9 @@
       "label": "Rocco Basilico",
       "category": "subject",
       "subtype": "person",
-      "description": "Figlio di Nicoletta Zampillo e uno degli otto eredi titolari di Delfin. Patrimonio Forbes di 7,5 miliardi di dollari.",
+      "description": "Son of Nicoletta Zampillo and one of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
       "value_eur_bn": 6.4,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1155,9 +1155,9 @@
       "label": "Delfin",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding lussemburghese della famiglia Del Vecchio; il portafoglio è stimato intorno a 55 miliardi di euro.",
-      "value_eur_bn": 55.0,
-      "value_basis": "Valore indicativo del portafoglio",
+      "description": "Luxembourg holding company of the Del Vecchio family; its portfolio is estimated at around €55 billion.",
+      "value_eur_bn": 55,
+      "value_basis": "Indicative portfolio value",
       "source_id": "delfin_essilor_2026",
       "groups": [
         "Del Vecchio",
@@ -1170,9 +1170,9 @@
       "label": "EssilorLuxottica",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo franco-italiano dell'ottica e dell'occhialeria quotato a Parigi.",
-      "value_eur_bn": 126.0,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "description": "Franco-Italian eyewear and optical group listed in Paris.",
+      "value_eur_bn": 126,
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "essilor_urd_2025",
       "groups": [
         "Del Vecchio"
@@ -1180,12 +1180,12 @@
     },
     {
       "id": "agnelli_descendants",
-      "label": "Discendenti Giovanni Agnelli",
+      "label": "Giovanni Agnelli descendants",
       "category": "subject",
       "subtype": "family",
-      "description": "Nodo familiare aggregato: le quote interne della cassaforte Giovanni Agnelli B.V. non sono rappresentate nel prototipo.",
+      "description": "Aggregate family node: internal stakes in the Giovanni Agnelli B.V. family vehicle are not represented in the prototype.",
       "value_eur_bn": 18.2,
-      "value_basis": "Quota economica di EXOR applicata al NAV 2025",
+      "value_basis": "Economic interest in EXOR applied to 2025 NAV",
       "source_id": "exor_ownership_2025",
       "groups": [
         "Agnelli-Elkann"
@@ -1196,9 +1196,9 @@
       "label": "Giovanni Agnelli B.V.",
       "category": "organization",
       "subtype": "holding",
-      "description": "Società privata olandese le cui azioni sono detenute dai discendenti del fondatore della Fiat.",
+      "description": "Dutch private company whose shares are held by descendants of Fiat's founder.",
       "value_eur_bn": 18.2,
-      "value_basis": "Valore look-through indicativo della quota EXOR",
+      "value_basis": "Indicative look-through value of the EXOR stake",
       "source_id": "exor_ownership_2025",
       "groups": [
         "Agnelli-Elkann"
@@ -1209,9 +1209,9 @@
       "label": "EXOR",
       "category": "organization",
       "subtype": "listed_holding",
-      "description": "Holding quotata controllata da Giovanni Agnelli B.V. NAV a fine 2025 pari a 33,2 miliardi di euro.",
+      "description": "Listed holding controlled by Giovanni Agnelli B.V. Year-end 2025 NAV of €33.2 billion.",
       "value_eur_bn": 33.2,
-      "value_basis": "NAV dichiarato",
+      "value_basis": "Reported NAV",
       "source_id": "exor_annual_2025",
       "groups": [
         "Agnelli-Elkann"
@@ -1222,9 +1222,9 @@
       "label": "Ferrari",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Casa automobilistica quotata; nodo condiviso dalle catene EXOR e Piero Ferrari.",
+      "description": "Listed car manufacturer; a shared node in the EXOR and Piero Ferrari chains.",
       "value_eur_bn": 61.7,
-      "value_basis": "Capitalizzazione calcolata dal prezzo di fine 2025",
+      "value_basis": "Market capitalization calculated from the year-end 2025 price",
       "source_id": "ferrari_annual_2025",
       "groups": [
         "Agnelli-Elkann",
@@ -1236,9 +1236,9 @@
       "label": "Stellantis",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo automobilistico quotato partecipato da EXOR.",
+      "description": "Listed automotive group in which EXOR holds a stake.",
       "value_eur_bn": 27.5,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "exor_annual_2025",
       "groups": [
         "Agnelli-Elkann"
@@ -1246,12 +1246,12 @@
     },
     {
       "id": "benetton_family",
-      "label": "Famiglia Benetton",
+      "label": "Benetton family",
       "category": "subject",
       "subtype": "family",
-      "description": "Nodo aggregato dei quattro rami familiari che controllano Edizione.",
+      "description": "Aggregate node representing the four family branches that control Edizione.",
       "value_eur_bn": 9.1,
-      "value_basis": "Somma parziale di patrimoni Forbes dei membri presenti in classifica",
+      "value_basis": "Partial sum of Forbes wealth estimates for ranked family members",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Benetton",
@@ -1263,9 +1263,9 @@
       "label": "Edizione",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding interamente controllata dalla famiglia Benetton. NAV 2025 pari a 14,12 miliardi di euro.",
+      "description": "Holding wholly controlled by the Benetton family. 2025 NAV of €14.12 billion.",
       "value_eur_bn": 14.12,
-      "value_basis": "NAV dichiarato",
+      "value_basis": "Reported NAV",
       "source_id": "edizione_nav_2025",
       "groups": [
         "Benetton",
@@ -1277,9 +1277,9 @@
       "label": "Mundys",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Gruppo di infrastrutture per la mobilità partecipato da Edizione.",
+      "description": "Mobility-infrastructure group in which Edizione holds a stake.",
       "value_eur_bn": 12.11,
-      "value_basis": "Fair value implicito dalla quota Edizione",
+      "value_basis": "Fair value implied by Edizione's stake",
       "source_id": "edizione_nav_2025",
       "groups": [
         "Benetton"
@@ -1290,9 +1290,9 @@
       "label": "Avolta",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo internazionale del travel retail e food & beverage.",
+      "description": "International travel-retail and food-and-beverage group.",
       "value_eur_bn": 7.35,
-      "value_basis": "Fair value implicito dalla quota Edizione",
+      "value_basis": "Fair value implied by Edizione's stake",
       "source_id": "edizione_nav_2025",
       "groups": [
         "Benetton"
@@ -1303,9 +1303,9 @@
       "label": "Benetton Group",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Gruppo tessile controllato da Edizione; il valore mostrato è il valore di libro riportato da Edizione.",
+      "description": "Textile group controlled by Edizione; the displayed value is the carrying value reported by Edizione.",
       "value_eur_bn": 0.035,
-      "value_basis": "Valore di libro",
+      "value_basis": "Carrying value",
       "source_id": "edizione_nav_2025",
       "groups": [
         "Benetton"
@@ -1316,9 +1316,9 @@
       "label": "Miuccia Prada",
       "category": "subject",
       "subtype": "person",
-      "description": "Stilista e azionista ultima della catena Prada. Patrimonio Forbes di 4,9 miliardi di dollari.",
+      "description": "Designer and ultimate shareholder in the Prada chain. Forbes wealth of $4.9 billion.",
       "value_eur_bn": 4.2,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Prada-Bertelli"
@@ -1329,9 +1329,9 @@
       "label": "Patrizio Bertelli",
       "category": "subject",
       "subtype": "person",
-      "description": "Presidente del gruppo Prada. Patrimonio Forbes di 4,9 miliardi di dollari.",
+      "description": "Chairman of the Prada group. Forbes wealth of $4.9 billion.",
       "value_eur_bn": 4.2,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Prada-Bertelli"
@@ -1342,7 +1342,7 @@
       "label": "Lorenzo Bertelli",
       "category": "subject",
       "subtype": "person",
-      "description": "Figlio di Miuccia Prada e Patrizio Bertelli; dirigente del gruppo Prada. Nessuna stima patrimoniale usata.",
+      "description": "Son of Miuccia Prada and Patrizio Bertelli and an executive of the Prada group. No wealth estimate is used.",
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "family_prada",
@@ -1355,9 +1355,9 @@
       "label": "Ludo",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding interamente posseduta da Miuccia Prada nella catena di controllo del gruppo.",
+      "description": "Holding wholly owned by Miuccia Prada within the group's control chain.",
       "value_eur_bn": 3.4,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "prada_annual_2025",
       "groups": [
         "Prada-Bertelli"
@@ -1368,9 +1368,9 @@
       "label": "Bellatrix",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding partecipata al 53,8% da Ludo e titolare del 65% di Prada Holding.",
+      "description": "Holding owned 53.8% by Ludo and holding 65% of Prada Holding.",
       "value_eur_bn": 6.34,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "prada_annual_2025",
       "groups": [
         "Prada-Bertelli"
@@ -1381,9 +1381,9 @@
       "label": "PA BE 1",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding interamente posseduta da Patrizio Bertelli e titolare del 35% di Prada Holding.",
+      "description": "Holding wholly owned by Patrizio Bertelli and holding 35% of Prada Holding.",
       "value_eur_bn": 3.42,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "prada_annual_2025",
       "groups": [
         "Prada-Bertelli"
@@ -1394,9 +1394,9 @@
       "label": "Prada Holding",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding italiana che detiene il 79,98% di Prada S.p.A.",
+      "description": "Italian holding that owns 79.98% of Prada S.p.A.",
       "value_eur_bn": 9.76,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "prada_annual_2025",
       "groups": [
         "Prada-Bertelli"
@@ -1407,9 +1407,9 @@
       "label": "Prada",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo del lusso quotato alla Borsa di Hong Kong.",
+      "description": "Luxury group listed on the Hong Kong Stock Exchange.",
       "value_eur_bn": 12.2,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "prada_annual_2025",
       "groups": [
         "Prada-Bertelli"
@@ -1420,9 +1420,9 @@
       "label": "Piero Ferrari",
       "category": "subject",
       "subtype": "person",
-      "description": "Figlio di Enzo Ferrari. Patrimonio Forbes di 7,6 miliardi di dollari.",
+      "description": "Son of Enzo Ferrari. Forbes wealth of $7.6 billion.",
       "value_eur_bn": 6.5,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Ferrari"
@@ -1433,9 +1433,9 @@
       "label": "Trust Piero Ferrari",
       "category": "organization",
       "subtype": "trust",
-      "description": "Veicolo attraverso cui è detenuta la partecipazione beneficiaria di Piero Ferrari. Il legame persona-trust è una semplificazione del prototipo.",
+      "description": "Vehicle through which Piero Ferrari's beneficial interest is held. The person-to-trust link is a prototype simplification.",
       "value_eur_bn": 6.5,
-      "value_basis": "Valore indicativo della partecipazione Ferrari",
+      "value_basis": "Indicative value of the Ferrari stake",
       "source_id": "ferrari_shareholders_2025",
       "groups": [
         "Ferrari"
@@ -1443,12 +1443,12 @@
     },
     {
       "id": "ferragamo_family",
-      "label": "Famiglia Ferragamo",
+      "label": "Ferragamo family",
       "category": "subject",
       "subtype": "family",
-      "description": "Nodo familiare aggregato della holding Ferragamo Finanziaria; le quote interne non sono pubblicate nel campione.",
+      "description": "Aggregate family node for Ferragamo Finanziaria; internal stakes are not published in the sample.",
       "value_eur_bn": 0.55,
-      "value_basis": "Valore minimo della sola quota quotata",
+      "value_basis": "Minimum value of the listed stake only",
       "source_id": "ferragamo_family_holding",
       "groups": [
         "Ferragamo"
@@ -1459,9 +1459,9 @@
       "label": "Ferragamo Finanziaria",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding della famiglia Ferragamo e azionista di controllo di Salvatore Ferragamo S.p.A.",
+      "description": "Ferragamo family holding and controlling shareholder of Salvatore Ferragamo S.p.A.",
       "value_eur_bn": 0.55,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "ferragamo_family_holding",
       "groups": [
         "Ferragamo"
@@ -1472,9 +1472,9 @@
       "label": "Salvatore Ferragamo",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Casa di moda quotata a Milano.",
-      "value_eur_bn": 1.0,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "description": "Fashion house listed in Milan.",
+      "value_eur_bn": 1,
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "ferragamo_shareholding_2025",
       "groups": [
         "Ferragamo"
@@ -1482,12 +1482,12 @@
     },
     {
       "id": "holland_family",
-      "label": "Famiglia Holland",
+      "label": "Holland family",
       "category": "subject",
       "subtype": "family",
-      "description": "Nodo aggregato della famiglia fondatrice di Amplifon, con Susan Carol Holland come beneficiaria dichiarata della partecipazione Ampliter.",
+      "description": "Aggregate node for Amplifon's founding family, with Susan Carol Holland disclosed as the beneficiary of the Ampliter stake.",
       "value_eur_bn": 1.2,
-      "value_basis": "Patrimonio Forbes di Susan Carol Holland convertito in euro",
+      "value_basis": "Susan Carol Holland's Forbes wealth converted into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Holland-Amplifon"
@@ -1498,9 +1498,9 @@
       "label": "Ampliter",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding della famiglia fondatrice e azionista di maggioranza relativa di Amplifon.",
+      "description": "Holding of the founding family and largest relative shareholder of Amplifon.",
       "value_eur_bn": 1.26,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "amplifon_governance_2025",
       "groups": [
         "Holland-Amplifon"
@@ -1511,9 +1511,9 @@
       "label": "Amplifon",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo quotato attivo nelle soluzioni e nei servizi per l'udito.",
-      "value_eur_bn": 3.0,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "description": "Listed group active in hearing-care solutions and services.",
+      "value_eur_bn": 3,
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "amplifon_governance_2025",
       "groups": [
         "Holland-Amplifon"
@@ -1521,12 +1521,12 @@
     },
     {
       "id": "crippa_family",
-      "label": "Famiglia Crippa",
+      "label": "Crippa family",
       "category": "subject",
       "subtype": "family",
-      "description": "Famiglia fondatrice di Technoprobe e proprietaria della holding T-Plus. Patrimonio Forbes di 6,9 miliardi di dollari.",
+      "description": "Founding family of Technoprobe and owner of the T-Plus holding. Forbes wealth of $6.9 billion.",
       "value_eur_bn": 5.9,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Crippa-Technoprobe"
@@ -1537,9 +1537,9 @@
       "label": "T-Plus",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding della famiglia Crippa che controlla Technoprobe.",
+      "description": "Crippa family holding that controls Technoprobe.",
       "value_eur_bn": 3.67,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "technoprobe_crippa_family",
       "groups": [
         "Crippa-Technoprobe"
@@ -1550,9 +1550,9 @@
       "label": "Technoprobe",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Società quotata che produce interfacce per il test dei semiconduttori.",
+      "description": "Listed company producing interfaces for semiconductor testing.",
       "value_eur_bn": 6.5,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "technoprobe_annual_2025",
       "groups": [
         "Crippa-Technoprobe"
@@ -1563,9 +1563,9 @@
       "label": "Remo Ruffini",
       "category": "subject",
       "subtype": "person",
-      "description": "Presidente e azionista di riferimento di Moncler. Patrimonio Forbes di 3,7 miliardi di dollari.",
+      "description": "Chairman and reference shareholder of Moncler. Forbes wealth of $3.7 billion.",
       "value_eur_bn": 3.1,
-      "value_basis": "Patrimonio Forbes convertito indicativamente in euro",
+      "value_basis": "Forbes wealth converted approximately into euros",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Ruffini-Moncler"
@@ -1576,9 +1576,9 @@
       "label": "Ruffini Partecipazioni Holding",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding interamente posseduta da Remo Ruffini e controllante di Double R.",
+      "description": "Holding wholly owned by Remo Ruffini and controlling Double R.",
       "value_eur_bn": 2.4,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "moncler_annual_2025",
       "groups": [
         "Ruffini-Moncler"
@@ -1589,9 +1589,9 @@
       "label": "Double R",
       "category": "organization",
       "subtype": "holding",
-      "description": "Veicolo che detiene la partecipazione di riferimento in Moncler.",
+      "description": "Vehicle holding the reference stake in Moncler.",
       "value_eur_bn": 2.4,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "moncler_annual_2025",
       "groups": [
         "Ruffini-Moncler"
@@ -1602,9 +1602,9 @@
       "label": "Moncler",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo del lusso quotato a Milano.",
+      "description": "Luxury group listed in Milan.",
       "value_eur_bn": 13.2,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "moncler_annual_2025",
       "groups": [
         "Ruffini-Moncler"
@@ -1612,12 +1612,12 @@
     },
     {
       "id": "aponte_family",
-      "label": "Famiglia Aponte",
+      "label": "Aponte family",
       "category": "subject",
       "subtype": "family",
-      "description": "Famiglia fondatrice di MSC, con radici a Sorrento e guida operativa a Ginevra.",
-      "value_eur_bn": 58.0,
-      "value_basis": "Patrimonio familiare aggregato indicativo; proxy non auditata",
+      "description": "Founding family of MSC, with roots in Sorrento and operational leadership in Geneva.",
+      "value_eur_bn": 58,
+      "value_basis": "Indicative aggregate family wealth; unaudited proxy",
       "source_id": "msc_family_2025",
       "groups": [
         "Aponte-MSC"
@@ -1628,9 +1628,9 @@
       "label": "MSC Group",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Gruppo privato globale nei trasporti, nella logistica e nelle crociere, fondato da Gianluigi Aponte.",
-      "value_eur_bn": 58.0,
-      "value_basis": "Proxy sul patrimonio familiare; società privata senza market cap",
+      "description": "Private global transport, logistics and cruise group founded by Gianluigi Aponte.",
+      "value_eur_bn": 58,
+      "value_basis": "Proxy based on family wealth; private company without a market capitalization",
       "source_id": "msc_family_2025",
       "groups": [
         "Aponte-MSC"
@@ -1638,12 +1638,12 @@
     },
     {
       "id": "aleotti_family",
-      "label": "Famiglia Aleotti",
+      "label": "Aleotti family",
       "category": "subject",
       "subtype": "family",
-      "description": "Lucia e Alberto Giovanni Aleotti sono azionisti e membri del consiglio di Menarini.",
+      "description": "Lucia and Alberto Giovanni Aleotti are shareholders and board members of Menarini.",
       "value_eur_bn": 12.5,
-      "value_basis": "Stima patrimoniale familiare indicativa",
+      "value_basis": "Indicative family wealth estimate",
       "source_id": "menarini_family_2025",
       "groups": [
         "Aleotti-Menarini"
@@ -1654,9 +1654,9 @@
       "label": "Menarini Group",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Gruppo farmaceutico privato con sede storica a Firenze.",
+      "description": "Private pharmaceutical group with historic headquarters in Florence.",
       "value_eur_bn": 12.5,
-      "value_basis": "Proxy sul patrimonio degli azionisti; società privata",
+      "value_basis": "Proxy based on shareholder wealth; private company",
       "source_id": "menarini_family_2025",
       "groups": [
         "Aleotti-Menarini"
@@ -1664,12 +1664,12 @@
     },
     {
       "id": "berlusconi_family",
-      "label": "Famiglia Berlusconi",
+      "label": "Berlusconi family",
       "category": "subject",
       "subtype": "family",
-      "description": "Nodo aggregato per gli eredi Berlusconi che controllano Fininvest attraverso diverse holding italiane.",
+      "description": "Aggregate node for the Berlusconi heirs, who control Fininvest through several Italian holdings.",
       "value_eur_bn": 6.4,
-      "value_basis": "Somma indicativa dei patrimoni familiari",
+      "value_basis": "Indicative sum of family wealth estimates",
       "source_id": "berlusconi_holdings_2025",
       "groups": [
         "Berlusconi-Fininvest"
@@ -1680,9 +1680,9 @@
       "label": "Holding Fininvest (aggregate)",
       "category": "organization",
       "subtype": "holding",
-      "description": "Nodo di sintesi delle sette Holding Italiane attraverso cui gli eredi detengono Fininvest.",
-      "value_eur_bn": 5.0,
-      "value_basis": "Valore patrimoniale indicativo della catena",
+      "description": "Summary node for the seven Italian holdings through which the heirs own Fininvest.",
+      "value_eur_bn": 5,
+      "value_basis": "Indicative asset value of the chain",
       "source_id": "berlusconi_holdings_2025",
       "groups": [
         "Berlusconi-Fininvest"
@@ -1693,9 +1693,9 @@
       "label": "Fininvest",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding familiare con partecipazioni nei media, nell'editoria e in Banca Mediolanum.",
-      "value_eur_bn": 5.0,
-      "value_basis": "Valore indicativo basato sulle principali partecipazioni",
+      "description": "Family holding with interests in media, publishing and Banca Mediolanum.",
+      "value_eur_bn": 5,
+      "value_basis": "Indicative value based on the main holdings",
       "source_id": "fininvest_group_2025",
       "groups": [
         "Berlusconi-Fininvest"
@@ -1706,9 +1706,9 @@
       "label": "MFE-MediaForEurope",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo televisivo paneuropeo controllato da Fininvest.",
+      "description": "Pan-European television group controlled by Fininvest.",
       "value_eur_bn": 3.2,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "mfe_shareholders_2025",
       "groups": [
         "Berlusconi-Fininvest"
@@ -1719,9 +1719,9 @@
       "label": "Mondadori",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo editoriale quotato controllato da Fininvest.",
+      "description": "Listed publishing group controlled by Fininvest.",
       "value_eur_bn": 0.62,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "mondadori_shareholders_2025",
       "groups": [
         "Berlusconi-Fininvest"
@@ -1729,12 +1729,12 @@
     },
     {
       "id": "doris_family",
-      "label": "Famiglia Doris",
+      "label": "Doris family",
       "category": "subject",
       "subtype": "family",
-      "description": "Famiglia fondatrice e primo azionista aggregato di Banca Mediolanum.",
+      "description": "Founding family and largest aggregate shareholder of Banca Mediolanum.",
       "value_eur_bn": 4.5,
-      "value_basis": "Valore look-through indicativo della partecipazione bancaria",
+      "value_basis": "Indicative look-through value of the bank stake",
       "source_id": "mediolanum_shareholders_2025",
       "groups": [
         "Doris-Mediolanum"
@@ -1745,9 +1745,9 @@
       "label": "Fin.Prog.Italia",
       "category": "organization",
       "subtype": "holding",
-      "description": "Veicolo della famiglia Doris e azionista di Banca Mediolanum.",
-      "value_eur_bn": 3.0,
-      "value_basis": "Valore look-through indicativo",
+      "description": "Doris family vehicle and shareholder of Banca Mediolanum.",
+      "value_eur_bn": 3,
+      "value_basis": "Indicative look-through value",
       "source_id": "mediolanum_shareholders_2025",
       "groups": [
         "Doris-Mediolanum"
@@ -1758,9 +1758,9 @@
       "label": "Banca Mediolanum",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Banca quotata partecipata dalla famiglia Doris e da Fininvest.",
+      "description": "Listed bank owned in part by the Doris family and Fininvest.",
       "value_eur_bn": 11.4,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "mediolanum_shareholders_2025",
       "groups": [
         "Doris-Mediolanum",
@@ -1769,12 +1769,12 @@
     },
     {
       "id": "barilla_family",
-      "label": "Famiglia Barilla",
+      "label": "Barilla family",
       "category": "subject",
       "subtype": "family",
-      "description": "Quarta generazione della famiglia proprietaria del gruppo alimentare di Parma.",
+      "description": "Fourth generation of the family that owns the Parma-based food group.",
       "value_eur_bn": 7.5,
-      "value_basis": "Stima patrimoniale familiare indicativa",
+      "value_basis": "Indicative family wealth estimate",
       "source_id": "barilla_family_2025",
       "groups": [
         "Barilla"
@@ -1785,9 +1785,9 @@
       "label": "Barilla Group",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Gruppo alimentare privato e interamente familiare, nato a Parma nel 1877.",
+      "description": "Private, wholly family-owned food group founded in Parma in 1877.",
       "value_eur_bn": 7.5,
-      "value_basis": "Proxy sul patrimonio familiare; società privata",
+      "value_basis": "Proxy based on family wealth; private company",
       "source_id": "barilla_family_2025",
       "groups": [
         "Barilla"
@@ -1795,12 +1795,12 @@
     },
     {
       "id": "lavazza_family",
-      "label": "Famiglia Lavazza",
+      "label": "Lavazza family",
       "category": "subject",
       "subtype": "family",
-      "description": "Famiglia torinese che guida Lavazza da quattro generazioni.",
+      "description": "Turin family that has led Lavazza for four generations.",
       "value_eur_bn": 4.5,
-      "value_basis": "Stima patrimoniale familiare indicativa",
+      "value_basis": "Indicative family wealth estimate",
       "source_id": "lavazza_family_2025",
       "groups": [
         "Lavazza"
@@ -1811,9 +1811,9 @@
       "label": "Luigi Lavazza S.p.A.",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Gruppo del caffè privato, indipendente e a controllo familiare con sede a Torino.",
+      "description": "Independent, privately held family coffee group headquartered in Turin.",
       "value_eur_bn": 4.5,
-      "value_basis": "Proxy sul patrimonio familiare; società privata",
+      "value_basis": "Proxy based on family wealth; private company",
       "source_id": "lavazza_family_2025",
       "groups": [
         "Lavazza"
@@ -1821,12 +1821,12 @@
     },
     {
       "id": "bombassei_family",
-      "label": "Famiglia Bombassei",
+      "label": "Bombassei family",
       "category": "subject",
       "subtype": "family",
-      "description": "Famiglia fondatrice di Brembo; rappresentata nel gruppo dalla holding Nuova FourB.",
-      "value_eur_bn": 3.0,
-      "value_basis": "Valore look-through indicativo",
+      "description": "Founding family of Brembo, represented in the group through the Nuova FourB holding.",
+      "value_eur_bn": 3,
+      "value_basis": "Indicative look-through value",
       "source_id": "brembo_shareholders_2025",
       "groups": [
         "Bombassei-Brembo"
@@ -1837,9 +1837,9 @@
       "label": "Nuova FourB",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding di riferimento della famiglia Bombassei in Brembo.",
+      "description": "Reference holding of the Bombassei family in Brembo.",
       "value_eur_bn": 1.7,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "brembo_shareholders_2025",
       "groups": [
         "Bombassei-Brembo"
@@ -1850,9 +1850,9 @@
       "label": "Brembo",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo globale dei sistemi frenanti, nato e radicato nell'area di Bergamo.",
+      "description": "Global braking-systems group founded and rooted in the Bergamo area.",
       "value_eur_bn": 3.2,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "brembo_shareholders_2025",
       "groups": [
         "Bombassei-Brembo"
@@ -1860,12 +1860,12 @@
     },
     {
       "id": "caltagirone_family",
-      "label": "Famiglia Caltagirone",
+      "label": "Caltagirone family",
       "category": "subject",
       "subtype": "family",
-      "description": "Nodo aggregato per il gruppo imprenditoriale romano riconducibile a Francesco Gaetano Caltagirone.",
+      "description": "Aggregate node for the Rome-based business group associated with Francesco Gaetano Caltagirone.",
       "value_eur_bn": 4.6,
-      "value_basis": "Stima patrimoniale familiare indicativa",
+      "value_basis": "Indicative family wealth estimate",
       "source_id": "caltagirone_editore_2025",
       "groups": [
         "Caltagirone",
@@ -1878,9 +1878,9 @@
       "label": "FGC S.p.A.",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding della catena Caltagirone e controllante ultima di Caltagirone Editore.",
+      "description": "Holding in the Caltagirone chain and ultimate controller of Caltagirone Editore.",
       "value_eur_bn": 1.4,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "caltagirone_editore_2025",
       "groups": [
         "Caltagirone"
@@ -1891,9 +1891,9 @@
       "label": "Parted 1982",
       "category": "organization",
       "subtype": "holding",
-      "description": "Veicolo della catena Caltagirone che detiene azioni di Caltagirone Editore.",
+      "description": "Vehicle in the Caltagirone chain that holds shares in Caltagirone Editore.",
       "value_eur_bn": 0.12,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "caltagirone_editore_2025",
       "groups": [
         "Caltagirone"
@@ -1904,9 +1904,9 @@
       "label": "Caltagirone Editore",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo editoriale quotato, proprietario tra l'altro de Il Messaggero e Il Mattino.",
+      "description": "Listed publishing group whose assets include Il Messaggero and Il Mattino.",
       "value_eur_bn": 0.16,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "caltagirone_editore_2025",
       "groups": [
         "Caltagirone"
@@ -1914,12 +1914,12 @@
     },
     {
       "id": "delonghi_family",
-      "label": "Famiglia De' Longhi",
+      "label": "De' Longhi family",
       "category": "subject",
       "subtype": "family",
-      "description": "Famiglia fondatrice della società trevigiana, rappresentata nella catena dal Long E Trust.",
-      "value_eur_bn": 4.0,
-      "value_basis": "Valore look-through indicativo",
+      "description": "Founding family of the Treviso-based company, represented in the chain by The Long E Trust.",
+      "value_eur_bn": 4,
+      "value_basis": "Indicative look-through value",
       "source_id": "delonghi_governance_2025",
       "groups": [
         "De Longhi"
@@ -1930,9 +1930,9 @@
       "label": "The Long E Trust",
       "category": "organization",
       "subtype": "trust",
-      "description": "Soggetto dichiarante della partecipazione familiare in De Longhi Industrial.",
+      "description": "Reporting entity for the family's interest in De Longhi Industrial.",
       "value_eur_bn": 2.6,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "delonghi_governance_2025",
       "groups": [
         "De Longhi"
@@ -1943,9 +1943,9 @@
       "label": "De Longhi Industrial",
       "category": "organization",
       "subtype": "holding",
-      "description": "Azionista diretto di riferimento di De' Longhi S.p.A.",
+      "description": "Direct reference shareholder of De' Longhi S.p.A.",
       "value_eur_bn": 2.6,
-      "value_basis": "Valore look-through indicativo",
+      "value_basis": "Indicative look-through value",
       "source_id": "delonghi_governance_2025",
       "groups": [
         "De Longhi"
@@ -1956,9 +1956,9 @@
       "label": "De' Longhi",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo quotato degli elettrodomestici e del caffè con radici a Treviso.",
+      "description": "Listed home-appliance and coffee group with roots in Treviso.",
       "value_eur_bn": 4.8,
-      "value_basis": "Capitalizzazione indicativa vicina allo snapshot",
+      "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "delonghi_governance_2025",
       "groups": [
         "De Longhi"
@@ -1969,9 +1969,9 @@
       "label": "Thea Paola Angelini",
       "category": "subject",
       "subtype": "person",
-      "description": "Presidente di Angelini Holding e azionista di riferimento della finanziaria familiare.",
+      "description": "Chair of Angelini Holding and reference shareholder of the family finance company.",
       "value_eur_bn": 2.5,
-      "value_basis": "Valore patrimoniale indicativo della partecipazione",
+      "value_basis": "Indicative asset value of the stake",
       "source_id": "angelini_control",
       "groups": [
         "Angelini"
@@ -1982,9 +1982,9 @@
       "label": "Angelini Finanziaria",
       "category": "organization",
       "subtype": "holding",
-      "description": "Società al vertice della catena di controllo familiare di Angelini Industries.",
+      "description": "Company at the top of the family control chain for Angelini Industries.",
       "value_eur_bn": 2.5,
-      "value_basis": "Patrimonio netto consolidato indicativo",
+      "value_basis": "Indicative consolidated net assets",
       "source_id": "angelini_control",
       "groups": [
         "Angelini"
@@ -1995,9 +1995,9 @@
       "label": "Angelini Holding",
       "category": "organization",
       "subtype": "holding",
-      "description": "Capogruppo industriale di Angelini Industries.",
+      "description": "Industrial parent company of Angelini Industries.",
       "value_eur_bn": 2.45,
-      "value_basis": "Patrimonio netto della holding, ultimo bilancio disponibile vicino allo snapshot",
+      "value_basis": "Holding net assets from the latest financial statements available near the snapshot date",
       "source_id": "angelini_annual_2024",
       "groups": [
         "Angelini"
@@ -2008,9 +2008,9 @@
       "label": "Angelini Pharma",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Società farmaceutica operativa del gruppo Angelini.",
-      "value_eur_bn": 2.0,
-      "value_basis": "Valore indicativo incluso nella holding privata",
+      "description": "Operating pharmaceutical company of the Angelini group.",
+      "value_eur_bn": 2,
+      "value_basis": "Indicative value included in the private holding",
       "source_id": "angelini_annual_2024",
       "groups": [
         "Angelini"
@@ -2021,9 +2021,9 @@
       "label": "Angelini Technologies",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Polo di automazione industriale e robotica del gruppo Angelini.",
+      "description": "Industrial automation and robotics business of the Angelini group.",
       "value_eur_bn": 0.5,
-      "value_basis": "Valore indicativo incluso nella holding privata",
+      "value_basis": "Indicative value included in the private holding",
       "source_id": "angelini_group_2025",
       "groups": [
         "Angelini"
@@ -2034,9 +2034,9 @@
       "label": "UniCredit",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Banca paneuropea quotata con azionariato diffuso e senza un azionista di controllo; nel 2025 è entrata anche nell'azionariato rilevante di Generali.",
+      "description": "Listed pan-European bank with dispersed ownership and no controlling shareholder; in 2025 it also became a significant shareholder of Generali.",
       "value_eur_bn": 104.9,
-      "value_basis": "Capitalizzazione indicativa al 31 dicembre 2025: prezzo di fine periodo per azioni in circolazione",
+      "value_basis": "Indicative market capitalization at 31 December 2025: period-end price multiplied by shares outstanding",
       "source_id": "unicredit_2025_share",
       "groups": [
         "UniCredit",
@@ -2048,9 +2048,9 @@
       "label": "Intesa Sanpaolo",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Grande gruppo bancario italiano quotato; nessun singolo azionista esercita il controllo.",
+      "description": "Major listed Italian banking group; no single shareholder exercises control.",
       "value_eur_bn": 103.105,
-      "value_basis": "Capitalizzazione ufficiale al 31 dicembre 2025",
+      "value_basis": "Official market capitalization at 31 December 2025",
       "source_id": "intesa_2025_market_cap",
       "groups": [
         "Intesa Sanpaolo"
@@ -2061,9 +2061,9 @@
       "label": "Fondazione Compagnia di San Paolo",
       "category": "organization",
       "subtype": "foundation",
-      "description": "Fondazione bancaria torinese e primo azionista stabile di Intesa Sanpaolo tra quelli dichiarati.",
+      "description": "Turin banking foundation and the largest disclosed stable shareholder of Intesa Sanpaolo.",
       "value_eur_bn": null,
-      "value_basis": "Nessuna valorizzazione omogenea usata nel grafo",
+      "value_basis": "No comparable valuation used in the graph",
       "source_id": "intesa_2025_governance",
       "groups": [
         "Intesa Sanpaolo"
@@ -2074,9 +2074,9 @@
       "label": "Fondazione Cariplo",
       "category": "organization",
       "subtype": "foundation",
-      "description": "Fondazione bancaria lombarda e azionista rilevante di Intesa Sanpaolo.",
+      "description": "Lombardy banking foundation and significant shareholder of Intesa Sanpaolo.",
       "value_eur_bn": null,
-      "value_basis": "Nessuna valorizzazione omogenea usata nel grafo",
+      "value_basis": "No comparable valuation used in the graph",
       "source_id": "intesa_2025_governance",
       "groups": [
         "Intesa Sanpaolo"
@@ -2087,9 +2087,9 @@
       "label": "Assicurazioni Generali",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo assicurativo e di asset management con sede a Trieste e azionariato articolato tra gruppi industriali e finanziari.",
+      "description": "Insurance and asset-management group headquartered in Trieste, with a shareholder base spanning industrial and financial groups.",
       "value_eur_bn": 55.4,
-      "value_basis": "Capitalizzazione indicativa a fine 2025",
+      "value_basis": "Indicative market capitalization at year-end 2025",
       "source_id": "generali_ownership_2025",
       "groups": [
         "Generali"
@@ -2100,9 +2100,9 @@
       "label": "Mediobanca",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo bancario milanese entrato nel gruppo MPS nel settembre 2025 e azionista storico di Generali.",
+      "description": "Milan banking group that joined the MPS group in September 2025 and a long-standing shareholder of Generali.",
       "value_eur_bn": 14.5,
-      "value_basis": "Capitalizzazione ufficiale indicativa al 31 dicembre 2025",
+      "value_basis": "Indicative official market capitalization at 31 December 2025",
       "source_id": "mediobanca_mps_2025",
       "groups": [
         "Mediobanca",
@@ -2114,9 +2114,9 @@
       "label": "Banco BPM",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo bancario quotato con sede a Milano; Crédit Agricole è il maggiore azionista rilevante alla data del report 2025.",
-      "value_eur_bn": 20.0,
-      "value_basis": "Capitalizzazione approssimata a fine esercizio 2025",
+      "description": "Listed banking group headquartered in Milan; Crédit Agricole was its largest significant shareholder on the date of the 2025 report.",
+      "value_eur_bn": 20,
+      "value_basis": "Approximate market capitalization at year-end 2025",
       "source_id": "banco_bpm_governance_2025",
       "groups": [
         "Banco BPM",
@@ -2128,9 +2128,9 @@
       "label": "Delfinances · Crédit Agricole",
       "category": "organization",
       "subtype": "holding",
-      "description": "Veicolo indicato come azionista diretto di Banco BPM e ricondotto a Crédit Agricole S.A.",
+      "description": "Vehicle disclosed as the direct shareholder of Banco BPM and attributed to Crédit Agricole S.A.",
       "value_eur_bn": null,
-      "value_basis": "Veicolo di partecipazione; valore non stimato",
+      "value_basis": "Investment vehicle; value not estimated",
       "source_id": "banco_bpm_governance_2025",
       "groups": [
         "Banco BPM"
@@ -2141,9 +2141,9 @@
       "label": "Monte dei Paschi di Siena",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Banca quotata con sede a Siena; dal settembre 2025 controlla Mediobanca.",
-      "value_eur_bn": 25.0,
-      "value_basis": "Capitalizzazione approssimata dopo l'aumento di capitale a servizio dell'operazione Mediobanca",
+      "description": "Listed bank headquartered in Siena; it has controlled Mediobanca since September 2025.",
+      "value_eur_bn": 25,
+      "value_basis": "Approximate market capitalization after the capital increase supporting the Mediobanca transaction",
       "source_id": "mps_governance_2025",
       "groups": [
         "MPS",
@@ -2152,12 +2152,12 @@
     },
     {
       "id": "caltagirone_financial_vehicles",
-      "label": "Veicoli finanziari Caltagirone",
+      "label": "Caltagirone financial vehicles",
       "category": "organization",
       "subtype": "holding",
-      "description": "Nodo aggregato delle società attraverso cui il gruppo Caltagirone detiene partecipazioni finanziarie in MPS e Generali.",
+      "description": "Aggregate node for the companies through which the Caltagirone group holds financial stakes in MPS and Generali.",
       "value_eur_bn": null,
-      "value_basis": "Nodo tecnico aggregato; nessun valore autonomo attribuito",
+      "value_basis": "Aggregate technical node; no standalone value assigned",
       "source_id": "mps_governance_2025",
       "groups": [
         "Caltagirone",
@@ -2170,9 +2170,9 @@
       "label": "Unipol Assicurazioni",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo assicurativo quotato con sede a Bologna e principale azionista industriale di BPER Banca.",
-      "value_eur_bn": 14.0,
-      "value_basis": "Capitalizzazione indicativa a fine 2025",
+      "description": "Listed insurance group headquartered in Bologna and BPER Banca's main industrial shareholder.",
+      "value_eur_bn": 14,
+      "value_basis": "Indicative market capitalization at year-end 2025",
       "source_id": "unipol_governance_2025",
       "groups": [
         "Unipol",
@@ -2184,9 +2184,9 @@
       "label": "Coop Alleanza 3.0",
       "category": "organization",
       "subtype": "cooperative",
-      "description": "Cooperativa di consumatori e maggiore azionista di Unipol per quota di capitale.",
+      "description": "Consumer cooperative and Unipol's largest shareholder by capital stake.",
       "value_eur_bn": null,
-      "value_basis": "Valore non stimato",
+      "value_basis": "Value not estimated",
       "source_id": "unipol_governance_2025",
       "groups": [
         "Unipol"
@@ -2197,9 +2197,9 @@
       "label": "Nova Coop",
       "category": "organization",
       "subtype": "cooperative",
-      "description": "Cooperativa di consumatori e azionista rilevante di Unipol.",
+      "description": "Consumer cooperative and significant shareholder of Unipol.",
       "value_eur_bn": null,
-      "value_basis": "Valore non stimato",
+      "value_basis": "Value not estimated",
       "source_id": "unipol_governance_2025",
       "groups": [
         "Unipol"
@@ -2210,9 +2210,9 @@
       "label": "Holmo",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding azionista rilevante di Unipol.",
+      "description": "Holding and significant shareholder of Unipol.",
       "value_eur_bn": null,
-      "value_basis": "Valore non stimato",
+      "value_basis": "Value not estimated",
       "source_id": "unipol_governance_2025",
       "groups": [
         "Unipol"
@@ -2223,9 +2223,9 @@
       "label": "BPER Banca",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo bancario quotato con sede a Modena, partecipato principalmente da Unipol e Fondazione di Sardegna.",
-      "value_eur_bn": 24.0,
-      "value_basis": "Capitalizzazione indicativa a fine 2025 dopo l'integrazione di Banca Popolare di Sondrio",
+      "description": "Listed banking group headquartered in Modena, primarily owned by Unipol and Fondazione di Sardegna.",
+      "value_eur_bn": 24,
+      "value_basis": "Indicative market capitalization at year-end 2025 after the integration of Banca Popolare di Sondrio",
       "source_id": "bper_annual_2025",
       "groups": [
         "BPER"
@@ -2236,9 +2236,9 @@
       "label": "Fondazione di Sardegna",
       "category": "organization",
       "subtype": "foundation",
-      "description": "Fondazione bancaria e secondo azionista industriale di BPER alla data dello snapshot.",
+      "description": "Banking foundation and BPER's second-largest industrial shareholder on the snapshot date.",
       "value_eur_bn": null,
-      "value_basis": "Valore non stimato",
+      "value_basis": "Value not estimated",
       "source_id": "bper_annual_2025",
       "groups": [
         "BPER"
@@ -2246,12 +2246,12 @@
     },
     {
       "id": "italian_mef",
-      "label": "Stato italiano · MEF",
+      "label": "Italian State · MEF",
       "category": "subject",
       "subtype": "state",
-      "description": "Ministero dell'Economia e delle Finanze, rappresentato come soggetto proprietario delle partecipazioni pubbliche.",
+      "description": "Ministry of Economy and Finance, represented as the owner of public-sector shareholdings.",
       "value_eur_bn": null,
-      "value_basis": "Soggetto pubblico; nessun valore patrimoniale attribuito",
+      "value_basis": "Public-sector subject; no asset value assigned",
       "source_id": "cdp_ownership_2025",
       "groups": [
         "Enel",
@@ -2266,9 +2266,9 @@
       "label": "Leonardo",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo aerospaziale, difesa e sicurezza quotato, sotto controllo di fatto del MEF.",
+      "description": "Listed aerospace, defence and security group under the MEF's de facto control.",
       "value_eur_bn": 28.6,
-      "value_basis": "Capitalizzazione indicativa a fine 2025",
+      "value_basis": "Indicative market capitalization at year-end 2025",
       "source_id": "leonardo_owner_2025",
       "groups": [
         "Leonardo"
@@ -2276,12 +2276,12 @@
     },
     {
       "id": "municipality_milan",
-      "label": "Comune di Milano",
+      "label": "Municipality of Milan",
       "category": "subject",
       "subtype": "municipality",
-      "description": "Ente locale azionista paritetico di A2A insieme al Comune di Brescia.",
+      "description": "Local authority holding an equal stake in A2A alongside the Municipality of Brescia.",
       "value_eur_bn": null,
-      "value_basis": "Ente pubblico; nessun valore patrimoniale attribuito",
+      "value_basis": "Public authority; no asset value assigned",
       "source_id": "a2a_shareholding_2025",
       "groups": [
         "A2A"
@@ -2289,12 +2289,12 @@
     },
     {
       "id": "municipality_brescia",
-      "label": "Comune di Brescia",
+      "label": "Municipality of Brescia",
       "category": "subject",
       "subtype": "municipality",
-      "description": "Ente locale azionista paritetico di A2A insieme al Comune di Milano.",
+      "description": "Local authority holding an equal stake in A2A alongside the Municipality of Milan.",
       "value_eur_bn": null,
-      "value_basis": "Ente pubblico; nessun valore patrimoniale attribuito",
+      "value_basis": "Public authority; no asset value assigned",
       "source_id": "a2a_shareholding_2025",
       "groups": [
         "A2A"
@@ -2305,9 +2305,9 @@
       "label": "A2A",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Multiutility quotata controllata congiuntamente dai Comuni di Milano e Brescia.",
+      "description": "Listed multi-utility jointly controlled by the municipalities of Milan and Brescia.",
       "value_eur_bn": 7.237,
-      "value_basis": "Capitalizzazione ufficiale al 30 dicembre 2025",
+      "value_basis": "Official market capitalization at 30 December 2025",
       "source_id": "a2a_shareholding_2025",
       "groups": [
         "A2A"
@@ -2318,9 +2318,9 @@
       "label": "Trust Brunello Cucinelli",
       "category": "organization",
       "subtype": "trust",
-      "description": "Trust irrevocabile nel quale è stata trasferita la partecipazione in Foro delle Arti; Spafid Trust opera come trustee.",
+      "description": "Irrevocable trust to which the stake in Foro delle Arti was transferred; Spafid Trust acts as trustee.",
       "value_eur_bn": null,
-      "value_basis": "Trust di controllo; valore non attribuito separatamente",
+      "value_basis": "Controlling trust; no separate value assigned",
       "source_id": "cucinelli_control_2025",
       "groups": [
         "Brunello Cucinelli"
@@ -2331,9 +2331,9 @@
       "label": "Foro delle Arti",
       "category": "organization",
       "subtype": "holding",
-      "description": "Holding controllante di Brunello Cucinelli S.p.A., detenuta dal trustee del Trust Brunello Cucinelli.",
+      "description": "Holding controlling Brunello Cucinelli S.p.A., owned by the trustee of the Brunello Cucinelli Trust.",
       "value_eur_bn": 3.35,
-      "value_basis": "Valore look-through indicativo della quota in Brunello Cucinelli",
+      "value_basis": "Indicative look-through value of the Brunello Cucinelli stake",
       "source_id": "cucinelli_control_2025",
       "groups": [
         "Brunello Cucinelli"
@@ -2344,9 +2344,9 @@
       "label": "Brunello Cucinelli",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Casa di moda del lusso con sede a Solomeo, controllata da Foro delle Arti.",
+      "description": "Luxury fashion house headquartered in Solomeo and controlled by Foro delle Arti.",
       "value_eur_bn": 6.693,
-      "value_basis": "Capitalizzazione dichiarata nell'ultimo giorno di borsa del 2025",
+      "value_basis": "Market capitalization reported on the final trading day of 2025",
       "source_id": "cucinelli_control_2025",
       "groups": [
         "Brunello Cucinelli"
@@ -2357,9 +2357,9 @@
       "label": "Cassa Depositi e Prestiti",
       "category": "organization",
       "subtype": "holding",
-      "description": "Istituzione finanziaria nazionale controllata dal MEF e azionista di imprese strategiche.",
-      "value_eur_bn": 32.0,
-      "value_basis": "Patrimonio netto CDP indicativo a fine 2025",
+      "description": "National financial institution controlled by the MEF and shareholder of strategic companies.",
+      "value_eur_bn": 32,
+      "value_basis": "Indicative CDP net assets at year-end 2025",
       "source_id": "cdp_ownership_2025",
       "groups": [
         "Eni",
@@ -2371,9 +2371,9 @@
       "label": "CDP Equity",
       "category": "organization",
       "subtype": "holding",
-      "description": "Veicolo di partecipazioni interamente detenuto da Cassa Depositi e Prestiti.",
+      "description": "Investment vehicle wholly owned by Cassa Depositi e Prestiti.",
       "value_eur_bn": null,
-      "value_basis": "Valore non stimato separatamente",
+      "value_basis": "Value not estimated separately",
       "source_id": "fincantieri_owner_2025",
       "groups": [
         "Fincantieri"
@@ -2384,9 +2384,9 @@
       "label": "Enel",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo energetico quotato sotto controllo di fatto del MEF.",
+      "description": "Listed energy group under the MEF's de facto control.",
       "value_eur_bn": 89.191,
-      "value_basis": "Capitalizzazione dichiarata per il 2025, calcolata sul prezzo medio di dicembre",
+      "value_basis": "Reported 2025 market capitalization calculated using the average December price",
       "source_id": "enel_annual_2025",
       "groups": [
         "Enel"
@@ -2397,9 +2397,9 @@
       "label": "Eni",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo energetico quotato controllato di fatto dal MEF attraverso quote dirette e CDP.",
-      "value_eur_bn": 48.0,
-      "value_basis": "Capitalizzazione ufficiale a fine 2025",
+      "description": "Listed energy group under the MEF's de facto control through direct and CDP stakes.",
+      "value_eur_bn": 48,
+      "value_basis": "Official market capitalization at year-end 2025",
       "source_id": "eni_annual_2025",
       "groups": [
         "Eni"
@@ -2410,9 +2410,9 @@
       "label": "Fincantieri",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Gruppo navalmeccanico quotato controllato da CDP Equity.",
+      "description": "Listed shipbuilding group controlled by CDP Equity.",
       "value_eur_bn": 5.9,
-      "value_basis": "Capitalizzazione indicativa a fine 2025",
+      "value_basis": "Indicative market capitalization at year-end 2025",
       "source_id": "fincantieri_owner_2025",
       "groups": [
         "Fincantieri"
@@ -2425,8 +2425,8 @@
       "id": "own_ferrero_1",
       "owner_id": "giovanni_ferrero",
       "owned_id": "ferrero_international",
-      "percentage": 75.0,
-      "note": "Quota riportata da El País; il restante 25% è attribuito ad altri eredi e non è scomposto nel prototipo.",
+      "percentage": 75,
+      "note": "Stake reported by El País; the remaining 25% is attributed to other heirs and is not broken down in the prototype.",
       "source_id": "ferrero_ownership_2025"
     },
     {
@@ -2435,7 +2435,7 @@
       "owner_id": "claudio_del_vecchio",
       "owned_id": "delfin",
       "percentage": 12.5,
-      "note": "Quota ereditaria individuale.",
+      "note": "Individual inherited stake.",
       "source_id": "delfin_heirs_2026"
     },
     {
@@ -2444,7 +2444,7 @@
       "owner_id": "marisa_del_vecchio",
       "owned_id": "delfin",
       "percentage": 12.5,
-      "note": "Quota ereditaria individuale.",
+      "note": "Individual inherited stake.",
       "source_id": "delfin_heirs_2026"
     },
     {
@@ -2453,7 +2453,7 @@
       "owner_id": "paola_del_vecchio",
       "owned_id": "delfin",
       "percentage": 12.5,
-      "note": "Quota ereditaria individuale.",
+      "note": "Individual inherited stake.",
       "source_id": "delfin_heirs_2026"
     },
     {
@@ -2462,7 +2462,7 @@
       "owner_id": "leonardo_maria_del_vecchio",
       "owned_id": "delfin",
       "percentage": 12.5,
-      "note": "Quota ereditaria individuale alla data dello snapshot.",
+      "note": "Individual inherited stake on the snapshot date.",
       "source_id": "delfin_heirs_2026"
     },
     {
@@ -2471,7 +2471,7 @@
       "owner_id": "luca_del_vecchio",
       "owned_id": "delfin",
       "percentage": 12.5,
-      "note": "Quota ereditaria individuale alla data dello snapshot.",
+      "note": "Individual inherited stake on the snapshot date.",
       "source_id": "delfin_heirs_2026"
     },
     {
@@ -2480,7 +2480,7 @@
       "owner_id": "clemente_del_vecchio",
       "owned_id": "delfin",
       "percentage": 12.5,
-      "note": "Quota ereditaria individuale.",
+      "note": "Individual inherited stake.",
       "source_id": "delfin_heirs_2026"
     },
     {
@@ -2489,7 +2489,7 @@
       "owner_id": "nicoletta_zampillo",
       "owned_id": "delfin",
       "percentage": 12.5,
-      "note": "Quota ereditaria individuale.",
+      "note": "Individual inherited stake.",
       "source_id": "delfin_heirs_2026"
     },
     {
@@ -2498,7 +2498,7 @@
       "owner_id": "rocco_basilico",
       "owned_id": "delfin",
       "percentage": 12.5,
-      "note": "Quota ereditaria individuale.",
+      "note": "Individual inherited stake.",
       "source_id": "delfin_heirs_2026"
     },
     {
@@ -2507,7 +2507,7 @@
       "owner_id": "delfin",
       "owned_id": "essilorluxottica",
       "percentage": 32.4,
-      "note": "Partecipazione principale di Delfin.",
+      "note": "Delfin's main investment.",
       "source_id": "delfin_essilor_2026"
     },
     {
@@ -2515,8 +2515,8 @@
       "id": "own_agnelli_gabv",
       "owner_id": "agnelli_descendants",
       "owned_id": "giovanni_agnelli_bv",
-      "percentage": 100.0,
-      "note": "Nodo familiare aggregato; le quote tra i discendenti non sono pubblicate nel dataset.",
+      "percentage": 100,
+      "note": "Aggregate family node; stakes among descendants are not published in the dataset.",
       "source_id": "exor_ownership_2025"
     },
     {
@@ -2525,7 +2525,7 @@
       "owner_id": "giovanni_agnelli_bv",
       "owned_id": "exor",
       "percentage": 54.94,
-      "note": "Diritti economici; i diritti di voto dichiarati sono 83,97%.",
+      "note": "Economic rights; disclosed voting rights are 83.97%.",
       "source_id": "exor_ownership_2025"
     },
     {
@@ -2534,7 +2534,7 @@
       "owner_id": "exor",
       "owned_id": "ferrari",
       "percentage": 19.5,
-      "note": "Diritti economici; i diritti di voto dichiarati sono 32,3%.",
+      "note": "Economic rights; disclosed voting rights are 32.3%.",
       "source_id": "exor_annual_2025"
     },
     {
@@ -2543,7 +2543,7 @@
       "owner_id": "exor",
       "owned_id": "stellantis",
       "percentage": 15.5,
-      "note": "Diritti economici; i diritti di voto dichiarati sono 23,9%.",
+      "note": "Economic rights; disclosed voting rights are 23.9%.",
       "source_id": "exor_annual_2025"
     },
     {
@@ -2551,8 +2551,8 @@
       "id": "own_benetton_edizione",
       "owner_id": "benetton_family",
       "owned_id": "edizione",
-      "percentage": 100.0,
-      "note": "Edizione dichiara di essere interamente controllata dalla famiglia Benetton.",
+      "percentage": 100,
+      "note": "Edizione states that it is wholly controlled by the Benetton family.",
       "source_id": "edizione_family"
     },
     {
@@ -2561,7 +2561,7 @@
       "owner_id": "edizione",
       "owned_id": "mundys",
       "percentage": 57.01,
-      "note": "Quota riportata nella composizione del NAV 2025.",
+      "note": "Stake reported in the 2025 NAV composition.",
       "source_id": "edizione_nav_2025"
     },
     {
@@ -2570,7 +2570,7 @@
       "owner_id": "edizione",
       "owned_id": "avolta",
       "percentage": 22.77,
-      "note": "Quota riportata nella composizione del NAV 2025.",
+      "note": "Stake reported in the 2025 NAV composition.",
       "source_id": "edizione_nav_2025"
     },
     {
@@ -2578,8 +2578,8 @@
       "id": "own_edizione_benetton",
       "owner_id": "edizione",
       "owned_id": "benetton_group",
-      "percentage": 100.0,
-      "note": "Benetton Group è riportata tra le partecipazioni tessili integralmente possedute.",
+      "percentage": 100,
+      "note": "Benetton Group is reported among the wholly owned textile investments.",
       "source_id": "edizione_nav_2025"
     },
     {
@@ -2587,8 +2587,8 @@
       "id": "own_miuccia_ludo",
       "owner_id": "miuccia_prada",
       "owned_id": "ludo",
-      "percentage": 100.0,
-      "note": "Quota indicata nel diagramma azionario del bilancio Prada 2025.",
+      "percentage": 100,
+      "note": "Stake shown in the shareholder diagram in Prada's 2025 annual report.",
       "source_id": "prada_annual_2025"
     },
     {
@@ -2597,7 +2597,7 @@
       "owner_id": "ludo",
       "owned_id": "bellatrix",
       "percentage": 53.8,
-      "note": "Quota indicata nel diagramma azionario del bilancio Prada 2025.",
+      "note": "Stake shown in the shareholder diagram in Prada's 2025 annual report.",
       "source_id": "prada_annual_2025"
     },
     {
@@ -2605,8 +2605,8 @@
       "id": "own_bellatrix_pradaholding",
       "owner_id": "bellatrix",
       "owned_id": "prada_holding",
-      "percentage": 65.0,
-      "note": "Quota indicata nel diagramma azionario del bilancio Prada 2025.",
+      "percentage": 65,
+      "note": "Stake shown in the shareholder diagram in Prada's 2025 annual report.",
       "source_id": "prada_annual_2025"
     },
     {
@@ -2614,8 +2614,8 @@
       "id": "own_patrizio_pabe",
       "owner_id": "patrizio_bertelli",
       "owned_id": "pa_be_1",
-      "percentage": 100.0,
-      "note": "Quota indicata nel diagramma azionario del bilancio Prada 2025.",
+      "percentage": 100,
+      "note": "Stake shown in the shareholder diagram in Prada's 2025 annual report.",
       "source_id": "prada_annual_2025"
     },
     {
@@ -2623,8 +2623,8 @@
       "id": "own_pabe_pradaholding",
       "owner_id": "pa_be_1",
       "owned_id": "prada_holding",
-      "percentage": 35.0,
-      "note": "Quota indicata nel diagramma azionario del bilancio Prada 2025.",
+      "percentage": 35,
+      "note": "Stake shown in the shareholder diagram in Prada's 2025 annual report.",
       "source_id": "prada_annual_2025"
     },
     {
@@ -2633,7 +2633,7 @@
       "owner_id": "prada_holding",
       "owned_id": "prada",
       "percentage": 79.98,
-      "note": "Quota al 31 dicembre 2025.",
+      "note": "Stake at 31 December 2025.",
       "source_id": "prada_annual_2025"
     },
     {
@@ -2641,8 +2641,8 @@
       "id": "own_piero_trust",
       "owner_id": "piero_ferrari",
       "owned_id": "trust_piero_ferrari",
-      "percentage": 100.0,
-      "note": "Semplificazione: rappresenta l'interesse beneficiario di Piero Ferrari nel trust, non una normale quota societaria.",
+      "percentage": 100,
+      "note": "Simplification: represents Piero Ferrari's beneficial interest in the trust, not an ordinary corporate stake.",
       "source_id": "ferrari_annual_2025"
     },
     {
@@ -2651,7 +2651,7 @@
       "owner_id": "trust_piero_ferrari",
       "owned_id": "ferrari",
       "percentage": 10.61,
-      "note": "Quota di capitale beneficiariamente detenuta tramite Trust Piero Ferrari.",
+      "note": "Capital stake beneficially held through Trust Piero Ferrari.",
       "source_id": "ferrari_shareholders_2025"
     },
     {
@@ -2659,8 +2659,8 @@
       "id": "own_ferragamo_family_holding",
       "owner_id": "ferragamo_family",
       "owned_id": "ferragamo_finanziaria",
-      "percentage": 100.0,
-      "note": "Nodo aggregato: la fonte definisce Ferragamo Finanziaria holding della famiglia; le quote interne non sono scomposte.",
+      "percentage": 100,
+      "note": "Aggregate node: the source defines Ferragamo Finanziaria as the family's holding; internal stakes are not broken down.",
       "source_id": "ferragamo_family_holding"
     },
     {
@@ -2669,7 +2669,7 @@
       "owner_id": "ferragamo_finanziaria",
       "owned_id": "salvatore_ferragamo",
       "percentage": 54.276,
-      "note": "La quota dispone del 66,009% dei diritti di voto per effetto del voto maggiorato.",
+      "note": "The stake carries 66.009% of voting rights because of enhanced voting rights.",
       "source_id": "ferragamo_shareholding_2025"
     },
     {
@@ -2677,8 +2677,8 @@
       "id": "own_holland_ampliter",
       "owner_id": "holland_family",
       "owned_id": "ampliter",
-      "percentage": 100.0,
-      "note": "Nodo familiare aggregato: Ampliter è indicata come holding della famiglia fondatrice.",
+      "percentage": 100,
+      "note": "Aggregate family node: Ampliter is identified as the founding family's holding.",
       "source_id": "amplifon_governance_2025"
     },
     {
@@ -2687,7 +2687,7 @@
       "owner_id": "ampliter",
       "owned_id": "amplifon",
       "percentage": 42.01,
-      "note": "Quota del capitale riportata nel 2025; i diritti di voto erano superiori grazie al voto maggiorato.",
+      "note": "Capital stake reported for 2025; voting rights were higher because of enhanced voting rights.",
       "source_id": "amplifon_governance_2025"
     },
     {
@@ -2695,8 +2695,8 @@
       "id": "own_crippa_tplus",
       "owner_id": "crippa_family",
       "owned_id": "t_plus",
-      "percentage": 100.0,
-      "note": "T-Plus è identificata dalla società come holding della famiglia Crippa; le quote interne non sono scomposte.",
+      "percentage": 100,
+      "note": "The company identifies T-Plus as the Crippa family's holding; internal stakes are not broken down.",
       "source_id": "technoprobe_crippa_family"
     },
     {
@@ -2705,7 +2705,7 @@
       "owner_id": "t_plus",
       "owned_id": "technoprobe",
       "percentage": 56.43,
-      "note": "Quota al 31 dicembre 2025; diritti di voto 67,27%.",
+      "note": "Stake at 31 December 2025; voting rights 67.27%.",
       "source_id": "technoprobe_annual_2025"
     },
     {
@@ -2713,8 +2713,8 @@
       "id": "own_crippa_technoprobe",
       "owner_id": "crippa_family",
       "owned_id": "technoprobe",
-      "percentage": 6.0,
-      "note": "Quota direttamente detenuta da membri della famiglia, separata dalla partecipazione T-Plus; valore arrotondato.",
+      "percentage": 6,
+      "note": "Stake held directly by family members, separate from the T-Plus interest; rounded value.",
       "source_id": "technoprobe_crippa_family"
     },
     {
@@ -2722,8 +2722,8 @@
       "id": "own_remo_rph",
       "owner_id": "remo_ruffini",
       "owned_id": "ruffini_partecipazioni",
-      "percentage": 100.0,
-      "note": "Intero capitale sociale detenuto da Remo Ruffini.",
+      "percentage": 100,
+      "note": "Entire share capital held by Remo Ruffini.",
       "source_id": "moncler_annual_2025"
     },
     {
@@ -2731,8 +2731,8 @@
       "id": "own_rph_doubler",
       "owner_id": "ruffini_partecipazioni",
       "owned_id": "double_r",
-      "percentage": 90.0,
-      "note": "Quota usata nel prototipo sulla base della struttura della holding; verificare eventuali variazioni successive.",
+      "percentage": 90,
+      "note": "Stake used in the prototype based on the holding structure; later changes should be checked.",
       "source_id": "moncler_annual_2025"
     },
     {
@@ -2741,7 +2741,7 @@
       "owner_id": "double_r",
       "owned_id": "moncler",
       "percentage": 18.2,
-      "note": "Partecipazione al 31 dicembre 2025.",
+      "note": "Stake at 31 December 2025.",
       "source_id": "moncler_annual_2025"
     },
     {
@@ -2749,8 +2749,8 @@
       "id": "own_aponte_msc",
       "owner_id": "aponte_family",
       "owned_id": "msc_group",
-      "percentage": 100.0,
-      "note": "Nodo familiare aggregato: MSC si definisce indipendente e family-owned; le quote tra i membri non sono pubblicate.",
+      "percentage": 100,
+      "note": "Aggregate family node: MSC describes itself as independent and family-owned; stakes among family members are not published.",
       "source_id": "msc_family_2025"
     },
     {
@@ -2758,8 +2758,8 @@
       "id": "own_aleotti_menarini",
       "owner_id": "aleotti_family",
       "owned_id": "menarini_group",
-      "percentage": 100.0,
-      "note": "Rappresentazione aggregata della proprietà familiare; la ripartizione interna non è pubblicata.",
+      "percentage": 100,
+      "note": "Aggregate representation of family ownership; the internal allocation is not published.",
       "source_id": "menarini_family_2025"
     },
     {
@@ -2767,8 +2767,8 @@
       "id": "own_berlusconi_vehicles",
       "owner_id": "berlusconi_family",
       "owned_id": "fininvest_holdings",
-      "percentage": 100.0,
-      "note": "Nodo aggregato delle sette holding possedute dagli eredi Berlusconi.",
+      "percentage": 100,
+      "note": "Aggregate node for the seven holdings owned by the Berlusconi heirs.",
       "source_id": "berlusconi_holdings_2025"
     },
     {
@@ -2777,7 +2777,7 @@
       "owner_id": "fininvest_holdings",
       "owned_id": "fininvest",
       "percentage": 97.94,
-      "note": "Quota aggregata delle holding familiari; il residuo è costituito da azioni proprie Fininvest.",
+      "note": "Aggregate stake of the family holdings; the remainder consists of Fininvest treasury shares.",
       "source_id": "berlusconi_holdings_2025"
     },
     {
@@ -2786,7 +2786,7 @@
       "owner_id": "fininvest",
       "owned_id": "mfe",
       "percentage": 46.29,
-      "note": "Quota del capitale per valore nominale al 1 ottobre 2025.",
+      "note": "Capital stake by nominal value at 1 October 2025.",
       "source_id": "mfe_shareholders_2025"
     },
     {
@@ -2795,7 +2795,7 @@
       "owner_id": "fininvest",
       "owned_id": "mondadori",
       "percentage": 53.3,
-      "note": "Fininvest disponeva del 69,53% dei diritti di voto.",
+      "note": "Fininvest held 69.53% of voting rights.",
       "source_id": "mondadori_shareholders_2025"
     },
     {
@@ -2804,7 +2804,7 @@
       "owner_id": "fininvest",
       "owned_id": "banca_mediolanum",
       "percentage": 30.028,
-      "note": "Partecipazione al 31 dicembre 2025.",
+      "note": "Stake at 31 December 2025.",
       "source_id": "mediolanum_shareholders_2025"
     },
     {
@@ -2812,8 +2812,8 @@
       "id": "own_doris_finprog",
       "owner_id": "doris_family",
       "owned_id": "finprog_italia",
-      "percentage": 100.0,
-      "note": "Fin.Prog.Italia è posseduta dai membri della famiglia Doris senza un singolo controllante.",
+      "percentage": 100,
+      "note": "Fin.Prog.Italia is owned by members of the Doris family without a single controlling shareholder.",
       "source_id": "mediolanum_shareholders_2025"
     },
     {
@@ -2822,7 +2822,7 @@
       "owner_id": "finprog_italia",
       "owned_id": "banca_mediolanum",
       "percentage": 26.2,
-      "note": "Quota detenuta dal principale veicolo familiare al 30 giugno 2025 e confermata nella struttura di fine anno.",
+      "note": "Stake held by the main family vehicle at 30 June 2025 and confirmed in the year-end structure.",
       "source_id": "mediolanum_shareholders_2025"
     },
     {
@@ -2831,7 +2831,7 @@
       "owner_id": "doris_family",
       "owned_id": "banca_mediolanum",
       "percentage": 14.009,
-      "note": "Residuo della quota familiare aggregata del 40,209%, detenuto direttamente o tramite altri veicoli familiari.",
+      "note": "Remainder of the aggregate 40.209% family stake, held directly or through other family vehicles.",
       "source_id": "mediolanum_shareholders_2025"
     },
     {
@@ -2839,8 +2839,8 @@
       "id": "own_barilla_group",
       "owner_id": "barilla_family",
       "owned_id": "barilla_group",
-      "percentage": 100.0,
-      "note": "Barilla si definisce società familiare non quotata; quote interne non pubblicate.",
+      "percentage": 100,
+      "note": "Barilla describes itself as an unlisted family company; internal stakes are not published.",
       "source_id": "barilla_family_2025"
     },
     {
@@ -2848,8 +2848,8 @@
       "id": "own_lavazza_group",
       "owner_id": "lavazza_family",
       "owned_id": "luigi_lavazza",
-      "percentage": 100.0,
-      "note": "Rappresentazione aggregata di una società posseduta dalla famiglia da quattro generazioni.",
+      "percentage": 100,
+      "note": "Aggregate representation of a company owned by the family for four generations.",
       "source_id": "lavazza_family_2025"
     },
     {
@@ -2857,8 +2857,8 @@
       "id": "own_bombassei_fourb",
       "owner_id": "bombassei_family",
       "owned_id": "nuova_fourb",
-      "percentage": 100.0,
-      "note": "Nodo familiare aggregato per la holding di riferimento; ripartizione interna non esposta nel prototipo.",
+      "percentage": 100,
+      "note": "Aggregate family node for the reference holding; the internal allocation is not shown in the prototype.",
       "source_id": "brembo_shareholders_2025"
     },
     {
@@ -2867,7 +2867,7 @@
       "owner_id": "nuova_fourb",
       "owned_id": "brembo",
       "percentage": 53.56,
-      "note": "Quota sulle azioni ordinarie riportata dalla società vicino allo snapshot.",
+      "note": "Stake in ordinary shares reported by the company near the snapshot date.",
       "source_id": "brembo_shareholders_2025"
     },
     {
@@ -2875,8 +2875,8 @@
       "id": "own_caltagirone_fgc",
       "owner_id": "caltagirone_family",
       "owned_id": "fgc",
-      "percentage": 100.0,
-      "note": "Nodo familiare aggregato per la holding di controllo FGC.",
+      "percentage": 100,
+      "note": "Aggregate family node for the controlling FGC holding.",
       "source_id": "caltagirone_editore_2025"
     },
     {
@@ -2884,8 +2884,8 @@
       "id": "own_caltagirone_parted",
       "owner_id": "caltagirone_family",
       "owned_id": "parted_1982",
-      "percentage": 100.0,
-      "note": "Nodo familiare aggregato per il veicolo Parted 1982.",
+      "percentage": 100,
+      "note": "Aggregate family node for the Parted 1982 vehicle.",
       "source_id": "caltagirone_editore_2025"
     },
     {
@@ -2894,7 +2894,7 @@
       "owner_id": "fgc",
       "owned_id": "caltagirone_editore",
       "percentage": 25.747,
-      "note": "Quota diretta al 31 dicembre 2025.",
+      "note": "Direct stake at 31 December 2025.",
       "source_id": "caltagirone_editore_2025"
     },
     {
@@ -2903,7 +2903,7 @@
       "owner_id": "parted_1982",
       "owned_id": "caltagirone_editore",
       "percentage": 35.564,
-      "note": "Quota diretta al 31 dicembre 2025.",
+      "note": "Direct stake at 31 December 2025.",
       "source_id": "caltagirone_editore_2025"
     },
     {
@@ -2911,8 +2911,8 @@
       "id": "own_delonghi_trust",
       "owner_id": "delonghi_family",
       "owned_id": "long_e_trust",
-      "percentage": 100.0,
-      "note": "Attribuzione familiare aggregata del trust; non rappresenta una ripartizione tra beneficiari.",
+      "percentage": 100,
+      "note": "Aggregate family attribution of the trust; it does not represent an allocation among beneficiaries.",
       "source_id": "delonghi_governance_2025"
     },
     {
@@ -2920,8 +2920,8 @@
       "id": "own_trust_delonghi_industrial",
       "owner_id": "long_e_trust",
       "owned_id": "delonghi_industrial",
-      "percentage": 100.0,
-      "note": "Il report identifica The Long E Trust come dichiarante e De Longhi Industrial come azionista diretto; quota interna normalizzata nel prototipo.",
+      "percentage": 100,
+      "note": "The report identifies The Long E Trust as the reporting entity and De Longhi Industrial as the direct shareholder; the internal stake is normalized in the prototype.",
       "source_id": "delonghi_governance_2025"
     },
     {
@@ -2930,7 +2930,7 @@
       "owner_id": "delonghi_industrial",
       "owned_id": "delonghi",
       "percentage": 53.511,
-      "note": "Quota del capitale ordinario riportata nel report 2025; 69,468% dei diritti di voto.",
+      "note": "Ordinary-capital stake reported in the 2025 report; 69.468% of voting rights.",
       "source_id": "delonghi_governance_2025"
     },
     {
@@ -2938,8 +2938,8 @@
       "id": "own_thea_angelini_finanziaria",
       "owner_id": "thea_angelini",
       "owned_id": "angelini_finanziaria",
-      "percentage": 68.0,
-      "note": "Nuda proprietà con diritti di voto ordinari riportata nella fonte societaria.",
+      "percentage": 68,
+      "note": "Bare ownership with ordinary voting rights as reported by the corporate source.",
       "source_id": "angelini_control"
     },
     {
@@ -2947,8 +2947,8 @@
       "id": "own_angelini_finanziaria_holding",
       "owner_id": "angelini_finanziaria",
       "owned_id": "angelini_holding",
-      "percentage": 100.0,
-      "note": "Catena di controllo familiare; percentuale normalizzata per la rappresentazione del prototipo.",
+      "percentage": 100,
+      "note": "Family control chain; percentage normalized for the prototype representation.",
       "source_id": "angelini_control"
     },
     {
@@ -2956,8 +2956,8 @@
       "id": "own_angelini_holding_pharma",
       "owner_id": "angelini_holding",
       "owned_id": "angelini_pharma",
-      "percentage": 100.0,
-      "note": "Società operativa integralmente consolidata nel gruppo.",
+      "percentage": 100,
+      "note": "Operating company fully consolidated in the group.",
       "source_id": "angelini_annual_2024"
     },
     {
@@ -2965,8 +2965,8 @@
       "id": "own_angelini_holding_technologies",
       "owner_id": "angelini_holding",
       "owned_id": "angelini_technologies",
-      "percentage": 100.0,
-      "note": "Angelini Industries ha riacquisito il 100% della società nel 2022.",
+      "percentage": 100,
+      "note": "Angelini Industries reacquired 100% of the company in 2022.",
       "source_id": "angelini_group_2025"
     },
     {
@@ -2975,7 +2975,7 @@
       "owner_id": "compagnia_san_paolo",
       "owned_id": "intesa_sanpaolo",
       "percentage": 6.627,
-      "note": "Partecipazione rilevante riportata nella relazione sulla governance 2025.",
+      "note": "Significant stake reported in the 2025 corporate-governance report.",
       "source_id": "intesa_2025_governance"
     },
     {
@@ -2984,7 +2984,7 @@
       "owner_id": "fondazione_cariplo",
       "owned_id": "intesa_sanpaolo",
       "percentage": 5.521,
-      "note": "Partecipazione rilevante riportata nella relazione sulla governance 2025.",
+      "note": "Significant stake reported in the 2025 corporate-governance report.",
       "source_id": "intesa_2025_governance"
     },
     {
@@ -2993,7 +2993,7 @@
       "owner_id": "mps",
       "owned_id": "mediobanca",
       "percentage": 86.35,
-      "note": "Quota acquisita al termine dell'offerta del settembre 2025; MPS esercita il controllo di diritto.",
+      "note": "Stake acquired at the close of the September 2025 offer; MPS exercises legal control.",
       "source_id": "mediobanca_mps_2025"
     },
     {
@@ -3002,7 +3002,7 @@
       "owner_id": "mediobanca",
       "owned_id": "generali",
       "percentage": 13.19,
-      "note": "Partecipazione al 31 dicembre 2025; una piccola porzione era oggetto di prestito titoli.",
+      "note": "Stake at 31 December 2025; a small portion was subject to securities lending.",
       "source_id": "generali_ownership_2025"
     },
     {
@@ -3011,7 +3011,7 @@
       "owner_id": "delfin",
       "owned_id": "generali",
       "percentage": 10.05,
-      "note": "Partecipazione del Gruppo Del Vecchio al 31 dicembre 2025.",
+      "note": "Del Vecchio Group stake at 31 December 2025.",
       "source_id": "generali_ownership_2025"
     },
     {
@@ -3020,7 +3020,7 @@
       "owner_id": "unicredit",
       "owned_id": "generali",
       "percentage": 6.68,
-      "note": "Partecipazione del Gruppo UniCredit al 31 dicembre 2025.",
+      "note": "UniCredit Group stake at 31 December 2025.",
       "source_id": "generali_ownership_2025"
     },
     {
@@ -3029,7 +3029,7 @@
       "owner_id": "caltagirone_financial_vehicles",
       "owned_id": "generali",
       "percentage": 6.28,
-      "note": "Quota aggregata del Gruppo Caltagirone al 31 dicembre 2025.",
+      "note": "Aggregate Caltagirone Group stake at 31 December 2025.",
       "source_id": "generali_ownership_2025"
     },
     {
@@ -3038,7 +3038,7 @@
       "owner_id": "edizione",
       "owned_id": "generali",
       "percentage": 4.86,
-      "note": "Partecipazione del Gruppo Benetton al 31 dicembre 2025.",
+      "note": "Benetton Group stake at 31 December 2025.",
       "source_id": "generali_ownership_2025"
     },
     {
@@ -3047,7 +3047,7 @@
       "owner_id": "credit_agricole_delfinances",
       "owned_id": "banco_bpm",
       "percentage": 20.104,
-      "note": "Quota di capitale detenuta direttamente da Delfinances e ricondotta a Crédit Agricole nel report 2025.",
+      "note": "Capital stake held directly by Delfinances and attributed to Crédit Agricole in the 2025 report.",
       "source_id": "banco_bpm_governance_2025"
     },
     {
@@ -3056,7 +3056,7 @@
       "owner_id": "delfin",
       "owned_id": "mps",
       "percentage": 17.533,
-      "note": "Partecipazione e diritti di voto riportati nella relazione MPS 2025.",
+      "note": "Stake and voting rights reported in MPS's 2025 report.",
       "source_id": "mps_governance_2025"
     },
     {
@@ -3064,8 +3064,8 @@
       "id": "own_caltagirone_family_financial_vehicles",
       "owner_id": "caltagirone_family",
       "owned_id": "caltagirone_financial_vehicles",
-      "percentage": 100.0,
-      "note": "Nodo aggregato delle 24 società ricondotte al gruppo; il 100% rappresenta l'appartenenza del perimetro, non una singola quota societaria.",
+      "percentage": 100,
+      "note": "Aggregate node for the 24 companies attributed to the group; 100% denotes inclusion in the perimeter, not one corporate stake.",
       "source_id": "mps_governance_2025"
     },
     {
@@ -3074,7 +3074,7 @@
       "owner_id": "caltagirone_financial_vehicles",
       "owned_id": "mps",
       "percentage": 10.262,
-      "note": "Quota aggregata detenuta attraverso 24 società del Gruppo Caltagirone.",
+      "note": "Aggregate stake held through 24 Caltagirone Group companies.",
       "source_id": "mps_governance_2025"
     },
     {
@@ -3083,7 +3083,7 @@
       "owner_id": "italian_mef",
       "owned_id": "mps",
       "percentage": 4.863,
-      "note": "Partecipazione del Ministero dell'Economia e delle Finanze al 31 dicembre 2025.",
+      "note": "Stake held by the Ministry of Economy and Finance at 31 December 2025.",
       "source_id": "mps_governance_2025"
     },
     {
@@ -3092,7 +3092,7 @@
       "owner_id": "banco_bpm",
       "owned_id": "mps",
       "percentage": 3.741,
-      "note": "Quota aggregata attribuita al gruppo Banco BPM, incluse Anima Holding e Banco BPM Vita.",
+      "note": "Aggregate stake attributed to the Banco BPM group, including Anima Holding and Banco BPM Vita.",
       "source_id": "mps_governance_2025"
     },
     {
@@ -3101,7 +3101,7 @@
       "owner_id": "coop_alleanza",
       "owned_id": "unipol",
       "percentage": 23.48,
-      "note": "Quota del capitale; i diritti di voto sono superiori per effetto del voto maggiorato.",
+      "note": "Capital stake; voting rights are higher because of enhanced voting rights.",
       "source_id": "unipol_governance_2025"
     },
     {
@@ -3110,7 +3110,7 @@
       "owner_id": "nova_coop",
       "owned_id": "unipol",
       "percentage": 6.827,
-      "note": "Quota del capitale riportata nella relazione sulla governance 2025.",
+      "note": "Capital stake reported in the 2025 corporate-governance report.",
       "source_id": "unipol_governance_2025"
     },
     {
@@ -3119,7 +3119,7 @@
       "owner_id": "holmo",
       "owned_id": "unipol",
       "percentage": 6.735,
-      "note": "Quota del capitale riportata nella relazione sulla governance 2025.",
+      "note": "Capital stake reported in the 2025 corporate-governance report.",
       "source_id": "unipol_governance_2025"
     },
     {
@@ -3128,7 +3128,7 @@
       "owner_id": "unipol",
       "owned_id": "bper",
       "percentage": 19.9,
-      "note": "Partecipazione principale in BPER al 31 dicembre 2025.",
+      "note": "Main investment in BPER at 31 December 2025.",
       "source_id": "bper_annual_2025"
     },
     {
@@ -3137,7 +3137,7 @@
       "owner_id": "fondazione_sardegna",
       "owned_id": "bper",
       "percentage": 7.4,
-      "note": "Partecipazione riportata nel bilancio BPER al 31 dicembre 2025.",
+      "note": "Stake reported in BPER's financial statements at 31 December 2025.",
       "source_id": "bper_annual_2025"
     },
     {
@@ -3146,7 +3146,7 @@
       "owner_id": "italian_mef",
       "owned_id": "leonardo",
       "percentage": 30.204,
-      "note": "Il MEF esercita il controllo di fatto con questa partecipazione diretta.",
+      "note": "The MEF exercises de facto control through this direct stake.",
       "source_id": "leonardo_owner_2025"
     },
     {
@@ -3154,8 +3154,8 @@
       "id": "own_milan_a2a",
       "owner_id": "municipality_milan",
       "owned_id": "a2a",
-      "percentage": 25.0,
-      "note": "Partecipazione del Comune di Milano al 31 dicembre 2025.",
+      "percentage": 25,
+      "note": "Stake held by the Municipality of Milan at 31 December 2025.",
       "source_id": "a2a_shareholding_2025"
     },
     {
@@ -3163,8 +3163,8 @@
       "id": "own_brescia_a2a",
       "owner_id": "municipality_brescia",
       "owned_id": "a2a",
-      "percentage": 25.0,
-      "note": "Partecipazione del Comune di Brescia al 31 dicembre 2025.",
+      "percentage": 25,
+      "note": "Stake held by the Municipality of Brescia at 31 December 2025.",
       "source_id": "a2a_shareholding_2025"
     },
     {
@@ -3172,8 +3172,8 @@
       "id": "own_trust_foro_delle_arti",
       "owner_id": "trust_brunello_cucinelli",
       "owned_id": "foro_delle_arti",
-      "percentage": 100.0,
-      "note": "Spafid Trust, quale trustee del Trust Brunello Cucinelli, detiene l'intero capitale di Foro delle Arti.",
+      "percentage": 100,
+      "note": "Spafid Trust, as trustee of the Brunello Cucinelli Trust, holds the entire share capital of Foro delle Arti.",
       "source_id": "cucinelli_control_2025"
     },
     {
@@ -3182,7 +3182,7 @@
       "owner_id": "foro_delle_arti",
       "owned_id": "brunello_cucinelli",
       "percentage": 50.05,
-      "note": "Quota del capitale; la maggiorazione del voto porta i diritti di voto al 64,91%.",
+      "note": "Capital stake; enhanced voting rights increase voting rights to 64.91%.",
       "source_id": "cucinelli_control_2025"
     },
     {
@@ -3191,7 +3191,7 @@
       "owner_id": "italian_mef",
       "owned_id": "cdp",
       "percentage": 82.77,
-      "note": "Partecipazione di controllo del MEF in Cassa Depositi e Prestiti.",
+      "note": "MEF controlling stake in Cassa Depositi e Prestiti.",
       "source_id": "cdp_ownership_2025"
     },
     {
@@ -3200,7 +3200,7 @@
       "owner_id": "italian_mef",
       "owned_id": "enel",
       "percentage": 23.585,
-      "note": "Quota diretta che consente al MEF di esercitare il controllo di fatto.",
+      "note": "Direct stake that allows the MEF to exercise de facto control.",
       "source_id": "enel_annual_2025"
     },
     {
@@ -3209,7 +3209,7 @@
       "owner_id": "cdp",
       "owned_id": "eni",
       "percentage": 29.751,
-      "note": "Partecipazione di CDP nel capitale Eni al 31 dicembre 2025.",
+      "note": "CDP stake in Eni's share capital at 31 December 2025.",
       "source_id": "eni_governance_2025"
     },
     {
@@ -3218,7 +3218,7 @@
       "owner_id": "italian_mef",
       "owned_id": "eni",
       "percentage": 2.084,
-      "note": "Partecipazione diretta del MEF nel capitale Eni al 31 dicembre 2025.",
+      "note": "Direct MEF stake in Eni's share capital at 31 December 2025.",
       "source_id": "eni_governance_2025"
     },
     {
@@ -3226,8 +3226,8 @@
       "id": "own_cdp_cdp_equity",
       "owner_id": "cdp",
       "owned_id": "cdp_equity",
-      "percentage": 100.0,
-      "note": "CDP Equity è interamente detenuta da Cassa Depositi e Prestiti.",
+      "percentage": 100,
+      "note": "CDP Equity is wholly owned by Cassa Depositi e Prestiti.",
       "source_id": "fincantieri_owner_2025"
     },
     {
@@ -3236,7 +3236,7 @@
       "owner_id": "cdp_equity",
       "owned_id": "fincantieri",
       "percentage": 64.24,
-      "note": "Quota della maggioranza CDP Equity riportata per l'esercizio 2025.",
+      "note": "CDP Equity majority stake reported for financial year 2025.",
       "source_id": "fincantieri_owner_2025"
     },
     {
@@ -3244,8 +3244,8 @@
       "id": "family_ferrero_mother",
       "person_a_id": "maria_franca_fissolo",
       "person_b_id": "giovanni_ferrero",
-      "relation_type": "madre di",
-      "note": "Legame familiare.",
+      "relation_type": "mother of",
+      "note": "Family relationship.",
       "source_id": "ferrero_ownership_2025"
     },
     {
@@ -3253,8 +3253,8 @@
       "id": "family_zampillo_leonardo",
       "person_a_id": "nicoletta_zampillo",
       "person_b_id": "leonardo_maria_del_vecchio",
-      "relation_type": "madre di",
-      "note": "Legame familiare.",
+      "relation_type": "mother of",
+      "note": "Family relationship.",
       "source_id": "family_del_vecchio"
     },
     {
@@ -3262,8 +3262,8 @@
       "id": "family_zampillo_rocco",
       "person_a_id": "nicoletta_zampillo",
       "person_b_id": "rocco_basilico",
-      "relation_type": "madre di",
-      "note": "Legame familiare.",
+      "relation_type": "mother of",
+      "note": "Family relationship.",
       "source_id": "family_del_vecchio"
     },
     {
@@ -3271,8 +3271,8 @@
       "id": "family_prada_spouse",
       "person_a_id": "miuccia_prada",
       "person_b_id": "patrizio_bertelli",
-      "relation_type": "coniugi",
-      "note": "Legame simmetrico.",
+      "relation_type": "spouses",
+      "note": "Symmetric relationship.",
       "source_id": "family_prada"
     },
     {
@@ -3280,8 +3280,8 @@
       "id": "family_prada_mother",
       "person_a_id": "miuccia_prada",
       "person_b_id": "lorenzo_bertelli",
-      "relation_type": "madre di",
-      "note": "Legame familiare.",
+      "relation_type": "mother of",
+      "note": "Family relationship.",
       "source_id": "family_prada"
     },
     {
@@ -3289,8 +3289,8 @@
       "id": "family_bertelli_father",
       "person_a_id": "patrizio_bertelli",
       "person_b_id": "lorenzo_bertelli",
-      "relation_type": "padre di",
-      "note": "Legame familiare.",
+      "relation_type": "father of",
+      "note": "Family relationship.",
       "source_id": "family_prada"
     }
   ]

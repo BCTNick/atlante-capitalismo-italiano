@@ -1,22 +1,21 @@
-## Cosa cambia
+## What changes
 
-Descrivi in modo sintetico la catena societaria, il soggetto o lo snapshot modificato.
+Briefly describe the corporate chain, subject or snapshot changed by this pull request.
 
 ## Snapshot
 
-- Data: `YYYY-MM-DD`
+- Date: `YYYY-MM-DD`
 
-## Fonti
+## Sources
 
-Elenca le fonti primarie aggiunte o sostituite e indica pagina/sezione quando utile.
+List the primary sources added or replaced. Include a page or section when useful.
 
 ## Checklist
 
-- [ ] Ogni nuovo nodo e relazione ha una fonte verificabile.
-- [ ] Le quote rappresentano partecipazioni esplicite, senza scorciatoie indirette.
-- [ ] Le percentuali sono comprese tra 0 e 100.
-- [ ] Non ho aggiunto dati personali non necessari.
-- [ ] Ho eseguito `python scripts/build_db.py`.
-- [ ] Ho eseguito `python scripts/validate_data.py`.
-- [ ] Accetto MIT per il codice e ODbL 1.0 per i contributi ai dati.
-
+- [ ] Every new node and relationship has a verifiable source.
+- [ ] Stakes represent explicit ownership, without indirect shortcuts.
+- [ ] Percentages are between 0 and 100.
+- [ ] I did not add unnecessary personal data.
+- [ ] I ran `python scripts/build_db.py`.
+- [ ] I ran `python scripts/validate_data.py`.
+- [ ] I accept MIT for code and ODbL 1.0 for data contributions.

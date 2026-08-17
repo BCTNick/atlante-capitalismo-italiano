@@ -47,17 +47,17 @@ const palette = {
 };
 
 const subtypeLabels = {
-  person: "Persona",
-  family: "Famiglia",
+  person: "Person",
+  family: "Family",
   holding: "Holding",
-  listed_holding: "Holding quotata",
+  listed_holding: "Listed holding",
   trust: "Trust",
-  foundation: "Fondazione",
-  cooperative: "Cooperativa",
-  state: "Stato / amministrazione centrale",
-  municipality: "Comune",
-  listed_company: "Società quotata",
-  private_company: "Società privata",
+  foundation: "Foundation",
+  cooperative: "Cooperative",
+  state: "State / central government",
+  municipality: "Municipality",
+  listed_company: "Listed company",
+  private_company: "Private company",
 };
 
 const mapBounds = {
@@ -86,10 +86,10 @@ function nodePalette(node) {
 }
 
 function formatValue(value) {
-  if (value == null) return "Valore non stimato";
-  if (value >= 10) return `€ ${value.toLocaleString("it-IT", { maximumFractionDigits: 1 })} mld`;
-  if (value >= 1) return `€ ${value.toLocaleString("it-IT", { maximumFractionDigits: 2 })} mld`;
-  return `€ ${(value * 1000).toLocaleString("it-IT", { maximumFractionDigits: 0 })} mln`;
+  if (value == null) return "Value not estimated";
+  if (value >= 10) return `€ ${value.toLocaleString("en-GB", { maximumFractionDigits: 1 })}bn`;
+  if (value >= 1) return `€ ${value.toLocaleString("en-GB", { maximumFractionDigits: 2 })}bn`;
+  return `€ ${(value * 1000).toLocaleString("en-GB", { maximumFractionDigits: 0 })}m`;
 }
 
 function radiusFor(node) {
@@ -119,7 +119,7 @@ function deterministic(seed) {
 }
 
 function initializeGraph(data) {
-  groupFilter.replaceChildren(new Option("Tutto il campione", "all"));
+  groupFilter.replaceChildren(new Option("Entire sample", "all"));
   dataList.replaceChildren();
   state.selected = null;
   state.hover = null;
@@ -319,7 +319,7 @@ function drawArrow(edge, sourcePoint, targetPoint) {
   if (state.camera.scale > 0.54 && !dimmed && (active || state.selectedGroup !== "all" || state.camera.scale > 1.25)) {
     const mx = (start.x + end.x) / 2;
     const my = (start.y + end.y) / 2;
-    const label = `${edge.percentage.toLocaleString("it-IT", { maximumFractionDigits: 3 })}%`;
+    const label = `${edge.percentage.toLocaleString("en-GB", { maximumFractionDigits: 3 })}%`;
     ctx.font = `${active ? 700 : 600} ${active ? 10 : 8}px Inter, sans-serif`;
     const metrics = ctx.measureText(label);
     ctx.fillStyle = "rgba(7, 16, 21, .88)";
@@ -396,7 +396,7 @@ function drawTerritory() {
   ctx.letterSpacing = "1px";
   ctx.textAlign = "left";
   ctx.fillStyle = "rgba(132, 167, 169, .38)";
-  ctx.fillText("PROSSIMITÀ TERRITORIALE · ANCORE MORBIDE", 18, 24);
+  ctx.fillText("SOFT TERRITORIAL PROXIMITY · ANCHORS", 18, 24);
   ctx.restore();
 }
 
@@ -572,10 +572,10 @@ function fitView() {
 function updateStats() {
   const nodes = state.nodes.filter(isVisibleNode);
   const edges = state.edges.filter(isVisibleEdge);
-  stats.innerHTML = `<strong>${nodes.length}</strong> nodi&nbsp;&nbsp;·&nbsp;&nbsp;<strong>${edges.length}</strong> relazioni`;
+  stats.innerHTML = `<strong>${nodes.length}</strong> nodes&nbsp;&nbsp;·&nbsp;&nbsp;<strong>${edges.length}</strong> relationships`;
 }
 
-function sourceLink(sourceId, label = "Fonte del nodo") {
+function sourceLink(sourceId, label = "Node source") {
   const source = state.data.sources[sourceId];
   return `
     <a class="source-link" href="${source.url}" target="_blank" rel="noreferrer">
@@ -586,18 +586,18 @@ function sourceLink(sourceId, label = "Fonte del nodo") {
 
 function relationSourceLink(sourceId) {
   const source = state.data.sources[sourceId];
-  return `<a class="relation-source" href="${source.url}" target="_blank" rel="noreferrer" title="${source.title}">Fonte della relazione ↗</a>`;
+  return `<a class="relation-source" href="${source.url}" target="_blank" rel="noreferrer" title="${source.title}">Relationship source ↗</a>`;
 }
 
 function relationHtml(edge, selected) {
   const other = edge.source.id === selected.id ? edge.target : edge.source;
   if (edge.kind === "owns") {
-    const direction = edge.source.id === selected.id ? `Possiede ${other.label}` : `Posseduta da ${other.label}`;
+    const direction = edge.source.id === selected.id ? `Owns ${other.label}` : `Owned by ${other.label}`;
     return `
       <div class="relation-card">
         <strong>${direction}</strong>
-        <span class="percentage">${edge.percentage.toLocaleString("it-IT", { maximumFractionDigits: 3 })}%</span>
-        <small>${edge.note || "Relazione di proprietà."}</small>
+        <span class="percentage">${edge.percentage.toLocaleString("en-GB", { maximumFractionDigits: 3 })}%</span>
+        <small>${edge.note || "Ownership relationship."}</small>
         ${relationSourceLink(edge.source_id)}
       </div>`;
   }
@@ -605,7 +605,7 @@ function relationHtml(edge, selected) {
     <div class="relation-card">
       <strong>${other.label}</strong>
       <span class="percentage">${edge.relation_type}</span>
-      <small>${edge.note || "Legame familiare."}</small>
+      <small>${edge.note || "Family relationship."}</small>
       ${relationSourceLink(edge.source_id)}
     </div>`;
 }
@@ -617,9 +617,9 @@ function selectNode(node) {
     detailPanel.innerHTML = `
       <div class="empty-detail">
         <span class="empty-orbit"><i></i></span>
-        <p class="eyebrow">DETTAGLIO</p>
-        <h2>Seleziona un nodo</h2>
-        <p>Vedrai valore, tipo, relazioni e fonte del dato.</p>
+        <p class="eyebrow">DETAILS</p>
+        <h2>Select a node</h2>
+        <p>See its value, type, relationships and data source.</p>
       </div>`;
     return;
   }
@@ -630,7 +630,7 @@ function selectNode(node) {
   const location = state.groupLocations.get(node.groups[0]);
   const logo = node.category === "organization" ? state.data.logos[node.id] : null;
   detailPanel.innerHTML = `
-    <button class="detail-close" type="button" aria-label="Chiudi il dettaglio">×</button>
+    <button class="detail-close" type="button" aria-label="Close details">×</button>
     <div class="detail-head">
       <div class="detail-kicker"><span style="background:${colors.fill}"></span>${subtypeLabels[node.subtype] || node.subtype}</div>
       ${logo ? `<div class="detail-logo" style="--logo-bg:${logo.background}">${logo.asset_path ? `<img src="${logo.asset_path}" alt="" />` : `<span>${logo.mark}</span>`}</div>` : ""}
@@ -639,14 +639,14 @@ function selectNode(node) {
       <p>${node.description}</p>
     </div>
     <div class="value-card">
-      <span>Valore usato nel grafo</span>
+      <span>Value used in the graph</span>
       <strong>${formatValue(node.value_eur_bn)}</strong>
-      <small>${node.value_basis || "Nessuna stima disponibile per questo nodo."}</small>
+      <small>${node.value_basis || "No estimate is available for this node."}</small>
     </div>
-    ${ownership.length ? `<section class="detail-section"><h3>Proprietà</h3>${ownership.map((edge) => relationHtml(edge, node)).join("")}</section>` : ""}
-    ${family.length ? `<section class="detail-section"><h3>Famiglia</h3>${family.map((edge) => relationHtml(edge, node)).join("")}</section>` : ""}
+    ${ownership.length ? `<section class="detail-section"><h3>Ownership</h3>${ownership.map((edge) => relationHtml(edge, node)).join("")}</section>` : ""}
+    ${family.length ? `<section class="detail-section"><h3>Family</h3>${family.map((edge) => relationHtml(edge, node)).join("")}</section>` : ""}
     <section class="detail-section">
-      <h3>Fonte principale</h3>
+      <h3>Primary source</h3>
       ${sourceLink(node.source_id)}
     </section>
   `;
@@ -736,9 +736,9 @@ groupFilter.addEventListener("change", () => {
 });
 
 searchInput.addEventListener("change", () => {
-  const query = searchInput.value.trim().toLocaleLowerCase("it");
-  const node = state.nodes.find((item) => item.label.toLocaleLowerCase("it") === query)
-    || state.nodes.find((item) => item.label.toLocaleLowerCase("it").includes(query));
+  const query = searchInput.value.trim().toLocaleLowerCase("en");
+  const node = state.nodes.find((item) => item.label.toLocaleLowerCase("en") === query)
+    || state.nodes.find((item) => item.label.toLocaleLowerCase("en").includes(query));
   if (!node) return;
   if (!isVisibleNode(node)) {
     state.selectedGroup = "all";
@@ -814,12 +814,12 @@ function snapshotById(snapshotId) {
 
 async function loadSnapshot(snapshotId, updateUrl = true) {
   const snapshot = snapshotById(snapshotId);
-  if (!snapshot) throw new Error(`Snapshot sconosciuto: ${snapshotId}`);
+  if (!snapshot) throw new Error(`Unknown snapshot: ${snapshotId}`);
 
   snapshotSelect.disabled = true;
   loading.classList.remove("hidden");
   const loadingText = loading.querySelector("p");
-  if (loadingText) loadingText.textContent = `Caricamento snapshot ${snapshot.year}…`;
+  if (loadingText) loadingText.textContent = `Loading ${snapshot.year} snapshot…`;
 
   const data = await fetchJson(`../data/${snapshot.graph_path}`);
   state.currentSnapshot = snapshot.id;
@@ -853,10 +853,10 @@ async function bootstrap() {
 
     const requested = new URL(window.location.href).searchParams.get("snapshot");
     const initial = snapshotById(requested) || snapshotById(state.manifest.default_snapshot) || snapshots[0];
-    if (!initial) throw new Error("Nessuno snapshot disponibile");
+    if (!initial) throw new Error("No snapshots are available");
     await loadSnapshot(initial.id, Boolean(requested));
   } catch (error) {
-    loading.innerHTML = `<p>Impossibile caricare il dataset: ${error.message}</p>`;
+    loading.innerHTML = `<p>Unable to load the dataset: ${error.message}</p>`;
     snapshotSelect.disabled = true;
   }
 }
@@ -865,7 +865,7 @@ snapshotSelect.addEventListener("change", async () => {
   try {
     await loadSnapshot(snapshotSelect.value);
   } catch (error) {
-    loading.innerHTML = `<p>Impossibile caricare lo snapshot: ${error.message}</p>`;
+    loading.innerHTML = `<p>Unable to load the snapshot: ${error.message}</p>`;
   }
 });
 

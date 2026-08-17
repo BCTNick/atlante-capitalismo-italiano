@@ -1,8 +1,7 @@
-# Sicurezza
+# Security
 
-L’applicazione è statica e non gestisce account o credenziali. Non pubblicare vulnerabilità che espongano dati sensibili in una issue pubblica.
+The application is static and does not manage accounts or credentials. Do not disclose vulnerabilities that expose sensitive data in a public issue.
 
-Per problemi ordinari apri una issue. Per vulnerabilità con impatto concreto usa la funzione privata “Report a vulnerability” del repository GitHub, se abilitata, oppure il contatto privato indicato dal maintainer.
+Open an issue for ordinary problems. For vulnerabilities with concrete security impact, use GitHub's private **Report a vulnerability** feature when enabled, or the private contact method provided by the maintainer.
 
-Versioni supportate: l’ultimo commit del branch predefinito.
-
+Supported version: the latest commit on the default branch.

@@ -1,17 +1,16 @@
-# Licenza del database
+# Database licence
 
-Salvo diversa indicazione, la struttura originale del database e i contributi al dataset dell’Atlante del Capitalismo Italiano sono messi a disposizione secondo la **Open Database License 1.0 (ODbL)**.
+Unless otherwise stated, the original database structure and data contributions to Atlante del Capitalismo Italiano (Atlas of Italian Capitalism) are made available under the **Open Database License 1.0 (ODbL)**.
 
-Testo completo della licenza: <https://opendatacommons.org/licenses/odbl/1-0/>
+Full licence text: <https://opendatacommons.org/licenses/odbl/1-0/>
 
-In sintesi, è possibile copiare, usare, modificare e ridistribuire il database a condizione di attribuire il progetto, mantenere aperti gli eventuali database derivati distribuiti pubblicamente e lasciare accessibili le modifiche secondo i termini ODbL.
+In summary, you may copy, use, modify and redistribute the database provided that you attribute the project, keep publicly distributed derivative databases open and make modifications available under the ODbL terms.
 
-Questa licenza riguarda il database realizzato dal progetto, non concede diritti sui singoli materiali di terzi citati o incorporati. Sono esclusi in particolare:
+This licence covers the database created by the project. It does not grant rights to individual third-party materials that are cited or incorporated. In particular, it excludes:
 
-- loghi, marchi e denominazioni commerciali;
-- testi, immagini e documenti presenti nei siti delle fonti;
-- dati per i quali la fonte originaria preveda condizioni più restrittive;
-- software, disciplinato separatamente dalla licenza MIT.
+- logos, trademarks and trade names;
+- text, images and documents hosted by source websites;
+- data for which the original source imposes more restrictive terms;
+- software, which is separately governed by the MIT licence.
 
-Con una pull request che modifica i dati, il contributore dichiara di poter fornire il contributo e accetta che esso sia distribuito secondo questa licenza.
-
+By submitting a pull request that changes the data, a contributor represents that they may provide the contribution and agrees that it will be distributed under this licence.

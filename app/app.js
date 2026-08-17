@@ -10,7 +10,6 @@ const stats = document.querySelector("#graph-stats");
 const snapshotSelect = document.querySelector("#snapshot-select");
 const embedMode = document.documentElement.classList.contains("embed-mode");
 const embedControlsButton = document.querySelector("#embed-controls-button");
-const embedOpenLink = document.querySelector("#embed-open-link");
 
 const state = {
   data: null,
@@ -825,9 +824,6 @@ async function loadSnapshot(snapshotId, updateUrl = true) {
   const data = await fetchJson(`../data/${snapshot.graph_path}`);
   state.currentSnapshot = snapshot.id;
   snapshotSelect.value = snapshot.id;
-  const fullViewUrl = new URL("./", window.location.href);
-  fullViewUrl.searchParams.set("snapshot", snapshot.id);
-  embedOpenLink.href = fullViewUrl.toString();
   initializeGraph(data);
   resize();
   window.setTimeout(fitView, 480);

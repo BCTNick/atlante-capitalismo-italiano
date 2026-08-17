@@ -1002,10 +1002,6 @@ html.embed-mode .detail-close:hover {
     width: 126px;
   }
 
-  html.embed-mode .embed-open span {
-    display: none;
-  }
-
   html.embed-mode .detail-panel {
     top: auto;
     left: 10px;

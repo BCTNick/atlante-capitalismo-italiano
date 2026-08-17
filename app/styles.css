@@ -175,7 +175,7 @@ button {
 }
 
 .snapshot select:disabled {
-  cursor: default;
+  cursor: default !important;
   opacity: 0.85;
 }
 

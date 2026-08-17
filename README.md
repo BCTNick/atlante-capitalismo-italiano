@@ -15,15 +15,7 @@ python serve.py
 
 Open <http://127.0.0.1:8000/app/>.
 
-## Embed the graph in a blog
-
-The visualization includes a responsive iframe mode. Once GitHub Pages is enabled, use:
-
-```text
-https://bctnick.github.io/atlante-capitalismo-italiano/embed.html
-```
-
-Filters become a slide-out panel and node details open above the graph, without duplicating data or application logic. See [docs/EMBED.md](docs/EMBED.md) for the complete HTML snippet and CMS guidance.
+Or open it in my blog: <https://www.scognamiglionicola.com/atlante/app/index.html?snapshot=2025-12-31>.
 
 ## Available snapshots
 
@@ -63,7 +55,7 @@ python scripts/validate_data.py
 
 ## Accuracy and AI assistance
 
-The initial research was produced with the assistance of OpenAI Codex and checked on a best-effort basis against the public sources attached to the records. The project may contain errors, omissions or inaccurate interpretations. Read the [full disclaimer](DISCLAIMER.md).
+The initial research was produced with the assistance of OpenAI Codex (GPT 5.6 Sol) and checked on a best-effort basis against the public sources attached to the records. The project may contain errors, omissions or inaccurate interpretations. Read the [full disclaimer](DISCLAIMER.md).
 
 ## Licences
 

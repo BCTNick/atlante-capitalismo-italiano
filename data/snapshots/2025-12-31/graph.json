@@ -909,6 +909,390 @@
       "title": "Ferretti market capitalization history",
       "publisher": "CompaniesMarketCap",
       "url": "https://companiesmarketcap.com/eur/ferretti/marketcap/"
+    },
+    "cdp_reti_ownership_2025": {
+      "id": "cdp_reti_ownership_2025",
+      "title": "CDP Reti portfolio at 31 December 2025",
+      "publisher": "Cassa Depositi e Prestiti",
+      "url": "https://www.cdp.it/sitointernet/en/cdp_reti.page"
+    },
+    "snam_annual_report_2025": {
+      "id": "snam_annual_report_2025",
+      "title": "Snam Annual Report 2025",
+      "publisher": "Snam",
+      "url": "https://www.snam.it/content/dam/snam/pages-attachments-search/en/documenti/bilanci-annuali/2025/annual_report_2025.pdf"
+    },
+    "poste_annual_report_2025": {
+      "id": "poste_annual_report_2025",
+      "title": "Poste Italiane Annual Report 2025",
+      "publisher": "Poste Italiane",
+      "url": "https://www.posteitaliane.it/files/1476646637138/Annual-Report-2025.pdf"
+    },
+    "tim_governance_2025": {
+      "id": "tim_governance_2025",
+      "title": "Corporate governance and ownership structure report 2025",
+      "publisher": "TIM",
+      "url": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2026/Relazione-sul-governo-societario-e-gli-assetti-proprietariAssemblea-15-Aprile-2026.pdf"
+    },
+    "enav_annual_report_2024": {
+      "id": "enav_annual_report_2024",
+      "title": "ENAV Integrated Annual Report 2024",
+      "publisher": "ENAV",
+      "url": "https://cdn-web.enav.it/content/2025-05/INTEGRATED%20ANNUAL%20REPORT%202024.pdf"
+    },
+    "rai_transparency_2025": {
+      "id": "rai_transparency_2025",
+      "title": "Corporate Transparency Plan 2025",
+      "publisher": "RAI",
+      "url": "https://www.rai.it/dl/doc/2025/05/16/1747397943665_Aggiornamento%20PTCA%202025%20def_clean%20per%20CdA%2016%20aprile%202025_EN.pdf"
+    },
+    "raiway_annual_report_2025": {
+      "id": "raiway_annual_report_2025",
+      "title": "Annual Report and Accounts at 31 December 2025",
+      "publisher": "Rai Way",
+      "url": "https://www.raiway.it/en/documents/investor-documents/bilanci-e-relazioni/2025/annual-report-and-accounts-at-31-december-2025.pdf"
+    },
+    "acea_financial_statements_2025": {
+      "id": "acea_financial_statements_2025",
+      "title": "Acea Group Consolidated Financial Statements 2025",
+      "publisher": "Acea",
+      "url": "https://reports.gruppoacea.it/2025/sites/default/files/files_to_zip/2025-consolidated-financial-statements.pdf"
+    },
+    "saipem_governance_2025": {
+      "id": "saipem_governance_2025",
+      "title": "Corporate Governance and Shareholding Structure Report 2025",
+      "publisher": "Saipem",
+      "url": "https://www.saipem.com/sites/default/files/2026-04/2025%20Corporate%20Governance%20and%20Shareholding%20Structure%20Report.pdf"
+    },
+    "cdp_equity_financial_statements_2025": {
+      "id": "cdp_equity_financial_statements_2025",
+      "title": "CDP Equity Financial Statements at 31 December 2025",
+      "publisher": "CDP Equity",
+      "url": "https://www.cdp.it/internet/public/cms/documents/CDP_Equity_RFA-2025_ENG.pdf"
+    },
+    "exor_annual_report_2025": {
+      "id": "exor_annual_report_2025",
+      "title": "EXOR Annual Report 2025",
+      "publisher": "EXOR",
+      "url": "https://exor.com/system/files/2026/document-documents/EXOR%202025%20Annual%20Report.pdf"
+    },
+    "bper_annual_report_2025": {
+      "id": "bper_annual_report_2025",
+      "title": "BPER 2025 Annual Reports",
+      "publisher": "BPER Banca",
+      "url": "https://group.bper.it/documents/133577364/191166662/2025%2BAnnual%2BReports.pdf/51f8f204-b79e-4770-d3ed-3cc816b4e713"
+    },
+    "credem_annual_report_2025": {
+      "id": "credem_annual_report_2025",
+      "title": "Credem Consolidated Financial Statements 2025",
+      "publisher": "Credito Emiliano",
+      "url": "https://www.credem.it/content/dam/credem/documenti/Investor_Relations/EN_Investor_Relations/Financials/2025/Bilancio%20consolidato%202025_EN%20def.pdf"
+    },
+    "banco_desio_prospectus_2025": {
+      "id": "banco_desio_prospectus_2025",
+      "title": "Banco di Desio Covered Bond Prospectus 2025",
+      "publisher": "Banco di Desio e della Brianza",
+      "url": "https://www.bancodesio.it/sites/default/files/Desio%20CB%20-%20Prospectus%202025_FINAL%20%2825.09.2025%29.pdf"
+    },
+    "buzzi_annual_report_2025": {
+      "id": "buzzi_annual_report_2025",
+      "title": "Buzzi Annual Report 2025",
+      "publisher": "Buzzi",
+      "url": "https://www.buzzi.com/documents/d/guest/annual-report-buzzi-spa-2025"
+    },
+    "reply_annual_report_2025": {
+      "id": "reply_annual_report_2025",
+      "title": "Reply Annual Report 2025",
+      "publisher": "Reply",
+      "url": "https://www.reply.com/contents/REPLY_Bilancio_2025_ENG.pdf"
+    },
+    "sol_annual_report_2025": {
+      "id": "sol_annual_report_2025",
+      "title": "SOL Group Annual Report 2025",
+      "publisher": "SOL Group",
+      "url": "https://www.solgroup.com/en/investors/results-and-presentations/annual-reports/sol-group-2025-annual-report"
+    },
+    "erg_annual_report_2025": {
+      "id": "erg_annual_report_2025",
+      "title": "ERG Annual Report 2025",
+      "publisher": "ERG",
+      "url": "https://www.erg.eu/c/document_library/get_file?groupId=10181&uuid=b77ad3e1-e854-9cc2-bddb-d836c4cf038a&version=1.0"
+    },
+    "interpump_annual_report_2025": {
+      "id": "interpump_annual_report_2025",
+      "title": "Interpump Group Annual Report 2025",
+      "publisher": "Interpump Group",
+      "url": "https://www.interpumpgroup.it/sites/default/files/documents/ip_annual_report_2025_30_april_2026.pdf"
+    },
+    "comer_investor_relations_2025": {
+      "id": "comer_investor_relations_2025",
+      "title": "Shareholding structure and investor information",
+      "publisher": "Comer Industries",
+      "url": "https://www.comerindustries.com/en/investors/investor-relations/"
+    },
+    "cembre_governance_2025": {
+      "id": "cembre_governance_2025",
+      "title": "Corporate Governance and Ownership Structure Report 2025",
+      "publisher": "Cembre",
+      "url": "https://cdn.cembre.com/en/documents/cembre-2026-cg-report"
+    },
+    "inwit_governance_2025": {
+      "id": "inwit_governance_2025",
+      "title": "Report on Corporate Governance and Share Ownership 2025",
+      "publisher": "INWIT",
+      "url": "https://www.inwit.it/wp-content/uploads/2026/04/INWIT-Report-on-Corporate-Governance-2025_ENG.pdf"
+    },
+    "pirelli_governance_2025": {
+      "id": "pirelli_governance_2025",
+      "title": "Corporate Governance and Share Ownership Report 2025",
+      "publisher": "Pirelli",
+      "url": "https://corp-assets.pirelli.com/corporate/AR_PIRELLI_2025_REPORT_CORPORATE_GOVERNANCE_SHARE_OWNERSHIP.pdf"
+    },
+    "ariston_annual_report_2025": {
+      "id": "ariston_annual_report_2025",
+      "title": "Ariston Group Annual Report 2025",
+      "publisher": "Ariston Group",
+      "url": "https://www.aristongroup.com/content/dam/aristongroup/downloads/corporate-publications/Ariston%20Group_Annual%20Report%202025.pdf"
+    },
+    "ferretti_annual_report_2025": {
+      "id": "ferretti_annual_report_2025",
+      "title": "Ferretti Annual Report 2025",
+      "publisher": "Ferretti",
+      "url": "https://www.ferrettigroup.com/Upload/EI_IPO_IT/20260424100515_2026042400099.pdf"
+    },
+    "bf_annual_report_2025": {
+      "id": "bf_annual_report_2025",
+      "title": "BF Annual Financial Report at 31 December 2025",
+      "publisher": "B.F. S.p.A.",
+      "url": "https://www.bfspa.it/files/02992/bfs.p.a.relazionefinanziariaannualeal31dicembre2025conopinion.pdf"
+    },
+    "webuild_shareholders_2025": {
+      "id": "webuild_shareholders_2025",
+      "title": "Shareholders and share capital",
+      "publisher": "Webuild",
+      "url": "https://www.webuildgroup.com/en/investor-relations/shareholders-capital/"
+    },
+    "banca_generali_annual_report_2025": {
+      "id": "banca_generali_annual_report_2025",
+      "title": "Banca Generali Annual Integrated Report 2025",
+      "publisher": "Banca Generali",
+      "url": "https://cdn-pro.bancagenerali.ows.farm/mediaObject/bgcom/documents/Corporate-Governance/Assemblea-degli-azionisti/2026/ASSEMBLEA-2026---ENG/ASSEMBLEA-2026---ENG/ODG-2/BG-RAI-2025-ENG/original/BG%2BRAI%2B2025%2BENG.pdf"
+    },
+    "lottomatica_governance_2025": {
+      "id": "lottomatica_governance_2025",
+      "title": "Report on Corporate Governance and Ownership Structure 2025",
+      "publisher": "Lottomatica Group",
+      "url": "https://lottomaticagroup.com/Lottomaticagroup.com/media/library_documents/Governo_Societario_Eng_Digitale_Nav.pdf"
+    },
+    "edison_governance_2025": {
+      "id": "edison_governance_2025",
+      "title": "Management, Sustainability and Governance Report 2025",
+      "publisher": "Edison",
+      "url": "https://www.edison.it/sites/default/files/documents/digital_2025_eng_management_sustainability_and_governance_report.pdf"
+    },
+    "edf_urd_2025": {
+      "id": "edf_urd_2025",
+      "title": "Universal Registration Document 2025",
+      "publisher": "EDF",
+      "url": "https://www.edf.fr/sites/groupe/files/2026-04/2026-04-02-urd-edf-2025-en.pdf"
+    },
+    "edison_edf_international_chain": {
+      "id": "edison_edf_international_chain",
+      "title": "Transalpina di Energia shareholder proposal and ownership disclosure",
+      "publisher": "Edison",
+      "url": "https://www.edison.it/sites/default/files/art_accordion_files/TdE%20Presentazione%20Candidature%20e%20Proposte%20def%20%2811%29.pdf"
+    },
+    "danieli_half_year_2025": {
+      "id": "danieli_half_year_2025",
+      "title": "Consolidated half-year financial report at December 31, 2025",
+      "publisher": "Danieli",
+      "url": "https://www.danieli.com/en/m7/investors/tmp_134.htm?lp=e&t=official"
+    },
+    "cementir_annual_report_2025": {
+      "id": "cementir_annual_report_2025",
+      "title": "Annual Report 2025",
+      "publisher": "Cementir Holding",
+      "url": "https://www.cementirholding.com/sites/default/files/general-meetings/2026-03/CH_2025%20Annual%20Report.pdf"
+    },
+    "iren_governance_2025": {
+      "id": "iren_governance_2025",
+      "title": "Report on Corporate Governance and Ownership Structure 2025",
+      "publisher": "Iren",
+      "url": "https://www.gruppoiren.it/content/dam/iren/documents/en/meetings/2026/RGS_V1%20clean%2021.04.2026_EN%20%281%29.pdf?view=yes%2F"
+    },
+    "genoa_fsu_2025": {
+      "id": "genoa_fsu_2025",
+      "title": "Finanziaria Sviluppo Utilities - municipal participation",
+      "publisher": "Comune di Genova",
+      "url": "https://www2.comune.genova.it/content/finanziaria-sviluppo-utilities-srl"
+    },
+    "turin_participations_2025": {
+      "id": "turin_participations_2025",
+      "title": "Periodic review of municipal shareholdings 2025",
+      "publisher": "Citta di Torino",
+      "url": "https://servizi.comune.torino.it/consiglio/prg/intranet/display_testi.php?doc=A-P202536233%3A112233"
+    },
+    "parma_participations_2025": {
+      "id": "parma_participations_2025",
+      "title": "Financial report 2025 - municipal participations",
+      "publisher": "Comune di Parma",
+      "url": "https://atti.comune.parma.it/AttiVisualizzatore/download/allegato/3396434?fId=3396441"
+    },
+    "recordati_rossini_2025": {
+      "id": "recordati_rossini_2025",
+      "title": "Results of proposed placing of ordinary shares in Recordati",
+      "publisher": "Rossini S.a r.l.",
+      "url": "https://www.rossini-sarl.com/~/media/Files/C/CVC-Advisers-SARL-IR/documents/press-releases/results-of-proposed-placing-of-ordinary-shares-in-recordati.pdf"
+    },
+    "carel_governance_2025": {
+      "id": "carel_governance_2025",
+      "title": "Corporate Governance Report 2025",
+      "publisher": "Carel Industries",
+      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260331_180735.pdf"
+    },
+    "zegna_form_20f_2025": {
+      "id": "zegna_form_20f_2025",
+      "title": "Annual Report on Form 20-F for 2025",
+      "publisher": "Ermenegildo Zegna / U.S. SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1877787/000187778726000015/zgn-20251231.htm"
+    },
+    "banca_ifis_governance_2025": {
+      "id": "banca_ifis_governance_2025",
+      "title": "Report on Corporate Governance and Shareholding Structure 2025",
+      "publisher": "Banca Ifis",
+      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260317_179071.pdf"
+    },
+    "de_nora_shareholding_2025": {
+      "id": "de_nora_shareholding_2025",
+      "title": "Shareholding structure at 31 December 2025",
+      "publisher": "Industrie De Nora",
+      "url": "https://denora.com/en/investors/share-information/shareholding"
+    },
+    "leonardo_annual_report_2025": {
+      "id": "leonardo_annual_report_2025",
+      "title": "Integrated Annual Report 2025",
+      "publisher": "Leonardo",
+      "url": "https://www.leonardo.com/documents/15646808/0/LDO_bilanciointegrato2025_ENG_INDICIZZATO_07.05.2026.pdf/0fb2a026-ece3-a715-a41b-06c9f85bbf76?t=1778570798981"
+    },
+    "sanlorenzo_annual_report_2025": {
+      "id": "sanlorenzo_annual_report_2025",
+      "title": "Annual Financial Report 2025",
+      "publisher": "Sanlorenzo",
+      "url": "https://www.sanlorenzoyacht.com/hubfs/Investors/Financial-results-and-financial-documents/EN/2025/5858-Sanlorenzo%20-%20Annual%20financial%20report%20as%20at%2031%20December%202025.pdf"
+    },
+    "sanlorenzo_perotti_chain": {
+      "id": "sanlorenzo_perotti_chain",
+      "title": "Periodic Financial Information at 31 March 2026 - ownership reorganisation",
+      "publisher": "Sanlorenzo",
+      "url": "https://www.sanlorenzoyacht.com/hubfs/Sanlorenzo%20-%20Periodic%20Financial%20Information%20as%20at%2031.03.2026.pdf"
+    },
+    "intercos_annual_report_2025": {
+      "id": "intercos_annual_report_2025",
+      "title": "Consolidated Annual Report 2025",
+      "publisher": "Intercos",
+      "url": "https://www.intercos-investor.com/wp-content/uploads/2026/04/Bilancio-Consolidato-al-31-dicembre-2025-in-formato-PDF.pdf"
+    },
+    "italmobiliare_governance_2025": {
+      "id": "italmobiliare_governance_2025",
+      "title": "Report on Corporate Governance and Ownership Structure 2025",
+      "publisher": "Italmobiliare",
+      "url": "https://www.italmobiliare.it/sites/default/files/documenti/2026-03/Corporate%20Governance%20ENG.pdf"
+    },
+    "moltiply_ownership_2025": {
+      "id": "moltiply_ownership_2025",
+      "title": "2025 financial statements approval and shareholder disclosure",
+      "publisher": "Moltiply Group",
+      "url": "https://www.moltiplygroup.com/cms-sitopubblicomol/2026_04_29_Comunicato_stampa_Approvazione_bilancio_SDIR_79668779a0.pdf"
+    },
+    "moltiply_control_chain": {
+      "id": "moltiply_control_chain",
+      "title": "Annual Report 2024 - Alma Ventures control chain",
+      "publisher": "Moltiply Group",
+      "url": "https://www.moltiplygroup.com/cms-sitopubblicomol/Nota_e_relazione_Consolidato_IFRS_2024_DEF_con_opinion_e04a91d9b0.pdf"
+    },
+    "sesa_shareholders_2025": {
+      "id": "sesa_shareholders_2025",
+      "title": "Share capital and shareholders",
+      "publisher": "Sesa",
+      "url": "https://www.sesa.it/en/investors/share-capital-and-shareholders/shareholders/"
+    },
+    "sesa_control_chain_2025": {
+      "id": "sesa_control_chain_2025",
+      "title": "Integrated Annual Report at 30 April 2025",
+      "publisher": "Sesa",
+      "url": "https://www.sesa.it/wp-content/uploads/2025/07/ENG_SESA_RAI_2025_2309_web_07-1.pdf"
+    },
+    "ovs_annual_report_2025": {
+      "id": "ovs_annual_report_2025",
+      "title": "Annual Report 2025 and governance documents",
+      "publisher": "OVS",
+      "url": "https://www.ovscorporate.it/en/governance/shareholders-meeting"
+    },
+    "hera_shareholding_2025": {
+      "id": "hera_shareholding_2025",
+      "title": "Shareholding and municipal shareholders' agreement",
+      "publisher": "Hera Group",
+      "url": "https://www.gruppohera.it/gruppo/governance/azionariato"
+    },
+    "banco_bpm_annual_2025_anima": {
+      "id": "banco_bpm_annual_2025_anima",
+      "title": "Annual Financial Report at 31 December 2025",
+      "publisher": "Banco BPM",
+      "url": "https://gruppo.bancobpm.it/media/dlm_uploads/Annual-Report-2025.pdf"
+    },
+    "elen_governance_2025": {
+      "id": "elen_governance_2025",
+      "title": "Corporate Governance and Ownership Structure Report 2026 (financial year 2025)",
+      "publisher": "EL.En.",
+      "url": "https://elengroup.com/media/ElEn_Report_of_Corporate_Governance_2026.pdf"
+    },
+    "rosetti_shareholders_2025": {
+      "id": "rosetti_shareholders_2025",
+      "title": "Financial Statements at 31 December 2024 — shareholders represented at the 29 April 2025 meeting",
+      "publisher": "Rosetti Marino",
+      "url": "https://www.rosetti.it/wp-content/uploads/2025/07/Rosetti-Marino-Financial-Statements-31.12.2024.pdf"
+    },
+    "fineco_annual_2025_ownership": {
+      "id": "fineco_annual_2025_ownership",
+      "title": "Accounts and Reports 2025 — shareholders at 31 December 2025",
+      "publisher": "FinecoBank",
+      "url": "https://images.finecobank.com/docs/pdf/pub/corporate/investors/bilanci-e-relazioni/accounts-and-reports-2025.pdf"
+    },
+    "prysmian_annual_2025_ownership": {
+      "id": "prysmian_annual_2025_ownership",
+      "title": "Integrated Annual Report 2025 — composition of the shareholder base",
+      "publisher": "Prysmian",
+      "url": "https://www.prysmian.com/sites/www.prysmian.com/files/media/documents/PRYSMIAN_2025%20-INTEGRATED%20ANNUAL%20REPORT_1.pdf"
+    },
+    "azimut_governance_2025": {
+      "id": "azimut_governance_2025",
+      "title": "Governance — shareholder agreement at 31 December 2025",
+      "publisher": "Azimut Holding",
+      "url": "https://www.azimut-group.com/governance"
+    },
+    "bff_shareholding_2025": {
+      "id": "bff_shareholding_2025",
+      "title": "Shareholder structure and 2025 financial reports",
+      "publisher": "BFF Bank",
+      "url": "https://investor.bff.com/shareholder-structure"
+    },
+    "tods_shareholders_after_offer": {
+      "id": "tods_shareholders_after_offer",
+      "title": "Essential information on the framework and shareholders' agreements",
+      "publisher": "Tod's",
+      "url": "https://www.todsgroup.com/sites/default/files/2024-05/Informazioni%20essenziali%20ex.%20art.%20122%20TUF%20per%20Accordo%20Quadro%20%28ENG%29%2021052024.pdf"
+    },
+    "mapei_holding_2025": {
+      "id": "mapei_holding_2025",
+      "title": "Mapei family holding and 2024 accounts",
+      "publisher": "Calcio e Finanza",
+      "url": "https://www.calcioefinanza.it/2025/07/23/quanto-guadagnano-squinzi-mapei-dividendi/"
+    },
+    "technogym_oiren_chain": {
+      "id": "technogym_oiren_chain",
+      "title": "Technogym listing prospectus — Oiren ownership",
+      "publisher": "Technogym / Borsa Italiana",
+      "url": "https://www.borsaitaliana.it/azioni/documenti/prospetti-informativi/prosp-1845.pdf"
     }
   },
   "group_locations": [
@@ -2345,6 +2729,411 @@
       "asset_path": null,
       "mark": "FERR",
       "background": "#235f72"
+    },
+    "cdp_reti": {
+      "asset_path": null,
+      "mark": "CR",
+      "background": "#315f72"
+    },
+    "rai": {
+      "asset_path": null,
+      "mark": "RAI",
+      "background": "#315f72"
+    },
+    "suez_sa": {
+      "asset_path": null,
+      "mark": "SSA",
+      "background": "#315f72"
+    },
+    "salini_spa": {
+      "asset_path": null,
+      "mark": "SSP",
+      "background": "#315f72"
+    },
+    "credito_emiliano_holding": {
+      "asset_path": null,
+      "mark": "CEH",
+      "background": "#315f72"
+    },
+    "brianza_unione": {
+      "asset_path": null,
+      "mark": "BU",
+      "background": "#315f72"
+    },
+    "presa_spa": {
+      "asset_path": null,
+      "mark": "PSP",
+      "background": "#315f72"
+    },
+    "fimedi_spa": {
+      "asset_path": null,
+      "mark": "FSP",
+      "background": "#315f72"
+    },
+    "iceberg_reply": {
+      "asset_path": null,
+      "mark": "ISR",
+      "background": "#315f72"
+    },
+    "alika_reply": {
+      "asset_path": null,
+      "mark": "ASR",
+      "background": "#315f72"
+    },
+    "gas_technologies_world": {
+      "asset_path": null,
+      "mark": "GAT",
+      "background": "#315f72"
+    },
+    "san_quirico": {
+      "asset_path": null,
+      "mark": "SQS",
+      "background": "#315f72"
+    },
+    "nzf_bidco_2": {
+      "asset_path": null,
+      "mark": "NBL",
+      "background": "#315f72"
+    },
+    "sq_renewables": {
+      "asset_path": null,
+      "mark": "SR",
+      "background": "#315f72"
+    },
+    "leila_montipo_sorelle": {
+      "asset_path": null,
+      "mark": "LME",
+      "background": "#315f72"
+    },
+    "tamburi_investment_partners": {
+      "asset_path": null,
+      "mark": "TIP",
+      "background": "#315f72"
+    },
+    "gruppo_ipg_holding": {
+      "asset_path": null,
+      "mark": "GIH",
+      "background": "#315f72"
+    },
+    "eagles_oak": {
+      "asset_path": null,
+      "mark": "EOS",
+      "background": "#315f72"
+    },
+    "lysne_spa": {
+      "asset_path": null,
+      "mark": "LSP",
+      "background": "#315f72"
+    },
+    "central_tower_holding": {
+      "asset_path": null,
+      "mark": "CTH",
+      "background": "#315f72"
+    },
+    "daphne_3": {
+      "asset_path": null,
+      "mark": "D3S",
+      "background": "#315f72"
+    },
+    "marco_polo_international_italy": {
+      "asset_path": null,
+      "mark": "MPI",
+      "background": "#315f72"
+    },
+    "camfin": {
+      "asset_path": null,
+      "mark": "CSP",
+      "background": "#315f72"
+    },
+    "longmarch_holding": {
+      "asset_path": null,
+      "mark": "LH",
+      "background": "#315f72"
+    },
+    "camfin_alternative_assets": {
+      "asset_path": null,
+      "mark": "CAA",
+      "background": "#315f72"
+    },
+    "merloni_holding": {
+      "asset_path": null,
+      "mark": "MH",
+      "background": "#315f72"
+    },
+    "shandong_guohui": {
+      "asset_path": null,
+      "mark": "SGI",
+      "background": "#315f72"
+    },
+    "shig": {
+      "asset_path": null,
+      "mark": "SHI",
+      "background": "#315f72"
+    },
+    "weichai_group": {
+      "asset_path": null,
+      "mark": "WG",
+      "background": "#315f72"
+    },
+    "weichai_holding_hk": {
+      "asset_path": null,
+      "mark": "WHH",
+      "background": "#315f72"
+    },
+    "ferretti_international_holding": {
+      "asset_path": null,
+      "mark": "FIH",
+      "background": "#315f72"
+    },
+    "azur_as": {
+      "asset_path": null,
+      "mark": "AAS",
+      "background": "#315f72"
+    },
+    "dompe_holdings": {
+      "asset_path": null,
+      "mark": "DH",
+      "background": "#315f72"
+    },
+    "arum_spa": {
+      "asset_path": null,
+      "mark": "ASP",
+      "background": "#315f72"
+    },
+    "generali_italia": {
+      "asset_path": null,
+      "mark": "GI",
+      "background": "#315f72"
+    },
+    "generali_vie": {
+      "asset_path": null,
+      "mark": "GV",
+      "background": "#315f72"
+    },
+    "alleanza_assicurazioni": {
+      "asset_path": null,
+      "mark": "AA",
+      "background": "#315f72"
+    },
+    "genertel": {
+      "asset_path": null,
+      "mark": "GENE",
+      "background": "#315f72"
+    },
+    "edf": {
+      "asset_path": null,
+      "mark": "EDF",
+      "background": "#315f72"
+    },
+    "edf_international": {
+      "asset_path": null,
+      "mark": "EI",
+      "background": "#315f72"
+    },
+    "transalpina_energia": {
+      "asset_path": null,
+      "mark": "TDE",
+      "background": "#315f72"
+    },
+    "sind_international": {
+      "asset_path": null,
+      "mark": "SI",
+      "background": "#315f72"
+    },
+    "calt_2004": {
+      "asset_path": null,
+      "mark": "C2",
+      "background": "#315f72"
+    },
+    "caltagirone_spa": {
+      "asset_path": null,
+      "mark": "CSP",
+      "background": "#315f72"
+    },
+    "azufin": {
+      "asset_path": null,
+      "mark": "AZUF",
+      "background": "#315f72"
+    },
+    "capitolium": {
+      "asset_path": null,
+      "mark": "CAPI",
+      "background": "#315f72"
+    },
+    "socogeim": {
+      "asset_path": null,
+      "mark": "SCG",
+      "background": "#315f72"
+    },
+    "compagnia_gestioni_immobiliari": {
+      "asset_path": null,
+      "mark": "CGI",
+      "background": "#315f72"
+    },
+    "vianini_lavori": {
+      "asset_path": null,
+      "mark": "VL",
+      "background": "#315f72"
+    },
+    "fsu_iren": {
+      "asset_path": null,
+      "mark": "FSU",
+      "background": "#315f72"
+    },
+    "fct_holding": {
+      "asset_path": null,
+      "mark": "FH",
+      "background": "#315f72"
+    },
+    "metro_holding_torino": {
+      "asset_path": null,
+      "mark": "MHT",
+      "background": "#315f72"
+    },
+    "stt_holding": {
+      "asset_path": null,
+      "mark": "SH",
+      "background": "#315f72"
+    },
+    "parma_infrastrutture": {
+      "asset_path": null,
+      "mark": "PI",
+      "background": "#315f72"
+    },
+    "rossini_sarl": {
+      "asset_path": null,
+      "mark": "RSA",
+      "background": "#315f72"
+    },
+    "luigi_rossi_luciani_sapa": {
+      "asset_path": null,
+      "mark": "LRL",
+      "background": "#315f72"
+    },
+    "athena_fh": {
+      "asset_path": null,
+      "mark": "AF",
+      "background": "#315f72"
+    },
+    "seven_industries_holding": {
+      "asset_path": null,
+      "mark": "7IH",
+      "background": "#315f72"
+    },
+    "monterubello": {
+      "asset_path": null,
+      "mark": "MONT",
+      "background": "#315f72"
+    },
+    "furstenberg_scogliera_holding": {
+      "asset_path": null,
+      "mark": "FSH",
+      "background": "#315f72"
+    },
+    "federico_de_nora_spa": {
+      "asset_path": null,
+      "mark": "FDN",
+      "background": "#315f72"
+    },
+    "norfin": {
+      "asset_path": null,
+      "mark": "NORF",
+      "background": "#315f72"
+    },
+    "asset_company_10": {
+      "asset_path": null,
+      "mark": "AC1",
+      "background": "#315f72"
+    },
+    "holding_happy_life": {
+      "asset_path": null,
+      "mark": "HHL",
+      "background": "#315f72"
+    },
+    "dafe_4000": {
+      "asset_path": null,
+      "mark": "D4",
+      "background": "#315f72"
+    },
+    "dafe_5000": {
+      "asset_path": null,
+      "mark": "D5",
+      "background": "#315f72"
+    },
+    "serfis": {
+      "asset_path": null,
+      "mark": "SERF",
+      "background": "#315f72"
+    },
+    "guderian_spa": {
+      "asset_path": null,
+      "mark": "GUDE",
+      "background": "#315f72"
+    },
+    "casper_srl": {
+      "asset_path": null,
+      "mark": "CASP",
+      "background": "#315f72"
+    },
+    "alma_ventures": {
+      "asset_path": null,
+      "mark": "AV",
+      "background": "#315f72"
+    },
+    "hse_spa": {
+      "asset_path": null,
+      "mark": "HSE",
+      "background": "#315f72"
+    },
+    "ith_spa": {
+      "asset_path": null,
+      "mark": "ITH",
+      "background": "#315f72"
+    },
+    "banco_bpm_vita": {
+      "asset_path": null,
+      "mark": "BBV",
+      "background": "#315f72"
+    },
+    "smil": {
+      "asset_path": null,
+      "mark": "SMI",
+      "background": "#315f72"
+    },
+    "immobiliare_il_ciliegio": {
+      "asset_path": null,
+      "mark": "IIC",
+      "background": "#315f72"
+    },
+    "rosfin": {
+      "asset_path": null,
+      "mark": "ROSF",
+      "background": "#315f72"
+    },
+    "cosmi_holding": {
+      "asset_path": null,
+      "mark": "CH",
+      "background": "#315f72"
+    },
+    "crown_bidco": {
+      "asset_path": null,
+      "mark": "CB",
+      "background": "#315f72"
+    },
+    "delphine_sas": {
+      "asset_path": null,
+      "mark": "DSA",
+      "background": "#315f72"
+    },
+    "divi_finanziaria": {
+      "asset_path": null,
+      "mark": "DVF",
+      "background": "#315f72"
+    },
+    "emme_esse_vi": {
+      "asset_path": null,
+      "mark": "EEV",
+      "background": "#315f72"
     }
   },
   "nodes": [
@@ -4362,10 +5151,10 @@
       "label": "Oiren",
       "category": "organization",
       "subtype": "holding",
-      "description": "Vehicle controlled by Nerio Alessandri; it owns 75% of TGH.",
+      "description": "Nerio Alessandri's wholly owned vehicle and direct 75% shareholder of TGH.",
       "value_eur_bn": null,
       "value_basis": null,
-      "source_id": "technogym_governance_2025",
+      "source_id": "technogym_oiren_chain",
       "groups": [
         "Alessandri-Technogym"
       ]
@@ -4388,7 +5177,7 @@
       "label": "Technogym",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Fitness-equipment and digital-wellness company listed in Milan.",
+      "description": "Fitness-equipment group linked through the complete Nerio Alessandri → Oiren → TGH ownership chain.",
       "value_eur_bn": 3.22,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "technogym_marketcap_2025",
@@ -4543,8 +5332,8 @@
       "id": "sandro_veronesi_family",
       "label": "Sandro Veronesi and family",
       "category": "subject",
-      "subtype": "family",
-      "description": "Founder and majority-owner family behind Oniverse.",
+      "subtype": "person",
+      "description": "Oniverse founder and sole owner of De la Costa; the displayed wealth estimate is reported for him and his family.",
       "value_eur_bn": 1.62,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
@@ -4570,7 +5359,7 @@
       "label": "Oniverse",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Private fashion and retail group formerly known as Calzedonia Group. It is controlled by De la Costa; no ownership arrow is drawn because the official source does not publish the capital percentage.",
+      "description": "Private fashion and retail group directly controlled by the single-member company De la Costa, owned by founder Sandro Veronesi.",
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "oniverse_control_2025",
@@ -4635,35 +5424,22 @@
       "label": "Tod's",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Italian luxury group delisted after the 2024 tender offer. The family retained control, but the exact 2025 legal split is not drawn because the latest official percentage table predates the completed transaction.",
+      "description": "Private luxury group after delisting, linked to the exact direct Della Valle vehicles and personal stakes, Crown Bidco and Delphine disclosed for the transaction.",
       "value_eur_bn": null,
       "value_basis": null,
-      "source_id": "tods_offer_2024",
+      "source_id": "tods_shareholders_after_offer",
       "groups": [
         "Della Valle-Tod's"
       ]
     },
     {
-      "id": "mario_moretti_polegato_family",
+      "id": "mario_moretti_polegato",
       "label": "Mario Moretti Polegato and family",
       "category": "subject",
-      "subtype": "family",
-      "description": "Founder family controlling Geox through LIR.",
+      "subtype": "person",
+      "description": "Geox founder and 85% direct shareholder of LIR; the displayed Forbes estimate is reported for him and his family.",
       "value_eur_bn": 1.193,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
-      "source_id": "forbes_italia_2025",
-      "groups": [
-        "Moretti Polegato-Geox"
-      ]
-    },
-    {
-      "id": "mario_moretti_polegato",
-      "label": "Mario Moretti Polegato",
-      "category": "subject",
-      "subtype": "person",
-      "description": "Founder of Geox and 85% shareholder of LIR.",
-      "value_eur_bn": null,
-      "value_basis": null,
       "source_id": "geox_annual_2025",
       "groups": [
         "Moretti Polegato-Geox"
@@ -4804,10 +5580,10 @@
       "label": "Mapei",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Family-owned construction-chemicals group. Public accounts identify the family shareholders but do not provide a sufficiently authoritative exact 2025 split, so no inferred ownership arrows are drawn.",
+      "description": "Family-owned construction-chemicals group held through Emme Esse Vi, whose approximately equal family shareholdings are shown separately.",
       "value_eur_bn": null,
       "value_basis": null,
-      "source_id": "mapei_forbes_2025",
+      "source_id": "mapei_holding_2025",
       "groups": [
         "Giorgetta-Mapei"
       ]
@@ -4921,7 +5697,7 @@
       "label": "Poste Italiane",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (PST.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Italian postal, logistics, payments and financial-services group. Its 2025 ownership is now linked to MEF and CDP.",
       "value_eur_bn": 27.91,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_poste_italiane",
@@ -4934,10 +5710,10 @@
       "label": "Prysmian Group",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (PRY.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Public company with a broad shareholder base: at year-end 2025 institutional investors represented about 76%, with no family or controlling shareholder. It remains visible without a fictitious control edge.",
       "value_eur_bn": 24.7,
       "value_basis": "Market capitalization at the end of 2025",
-      "source_id": "marketcap_2025_prysmian_group",
+      "source_id": "prysmian_annual_2025_ownership",
       "groups": [
         "Listed market"
       ]
@@ -4947,7 +5723,7 @@
       "label": "Snam",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (SRG.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Italian gas-infrastructure company. Its direct 2025 shareholders shown here include CDP Reti and Romano Minozzi.",
       "value_eur_bn": 18.86,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_snam",
@@ -4960,7 +5736,7 @@
       "label": "Terna",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (TRN.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Italian electricity-transmission operator, linked through its direct shareholder CDP Reti.",
       "value_eur_bn": 18.08,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_terna",
@@ -4973,10 +5749,10 @@
       "label": "FinecoBank",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (FBK.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Public company without a controlling family or shareholder. Its 2025 annual report identifies BlackRock as the only major shareholder (9.171%); the aggregate fund-manager position is not drawn as a direct legal ownership shortcut.",
       "value_eur_bn": 13.52,
       "value_basis": "Market capitalization at the end of 2025",
-      "source_id": "marketcap_2025_finecobank",
+      "source_id": "fineco_annual_2025_ownership",
       "groups": [
         "Listed market"
       ]
@@ -4986,7 +5762,7 @@
       "label": "Edison",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (EDNR.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Italian energy company linked through the full Transalpina di Energia and EDF International chain to EDF and the French State.",
       "value_eur_bn": 11.27,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_edison",
@@ -4999,7 +5775,7 @@
       "label": "Telecom Italia",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (TIT.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "TIM, linked to Poste Italiane's direct 27.32% ordinary-capital interest at 31 December 2025.",
       "value_eur_bn": 11.01,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_telecom_italia",
@@ -5012,7 +5788,7 @@
       "label": "Recordati",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (REC.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Pharmaceutical group whose immediate parent at 31 December 2025 was CVC-controlled Rossini S.a r.l.",
       "value_eur_bn": 9.97,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_recordati",
@@ -5025,7 +5801,7 @@
       "label": "Italgas",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (IG.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Italian gas-distribution company, linked to its direct shareholders CDP Reti and Snam.",
       "value_eur_bn": 9.56,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_italgas",
@@ -5038,7 +5814,7 @@
       "label": "Buzzi Unicem",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BZU.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Cement group linked to the Buzzi-family vehicles Presa and Fimedi.",
       "value_eur_bn": 9.43,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_buzzi_unicem",
@@ -5051,7 +5827,7 @@
       "label": "Banca Popolare di Sondrio",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BPSO.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Bank controlled by BPER following the acquisition completed in 2025.",
       "value_eur_bn": 7.41,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_banca_popolare_di_sondrio",
@@ -5064,8 +5840,8 @@
       "label": "INWIT",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (INW.MI). It remains unconnected until a material, source-backed ownership chain is added.",
-      "value_eur_bn": 7.0,
+      "description": "Telecom-tower company with Central Tower Holding and Daphne 3 as direct reference shareholders.",
+      "value_eur_bn": 7,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_inwit",
       "groups": [
@@ -5077,7 +5853,7 @@
       "label": "Banca Generali",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BGN.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Private-banking company whose direct Generali Group shareholders together held about 50.2% at year-end 2025.",
       "value_eur_bn": 6.63,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_banca_generali",
@@ -5090,10 +5866,10 @@
       "label": "Hera Group",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (HER.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Italian multi-utility with roughly 200 public shareholders and a municipal shareholders' agreement; it is intentionally not assigned a single controlling-owner edge.",
       "value_eur_bn": 5.87,
       "value_basis": "Market capitalization at the end of 2025",
-      "source_id": "marketcap_2025_hera",
+      "source_id": "hera_shareholding_2025",
       "groups": [
         "Listed market"
       ]
@@ -5103,7 +5879,7 @@
       "label": "Pirelli",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (PIRC.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Tyre manufacturer linked to its direct 2025 shareholders; no indirect shortcut to their ultimate owners is drawn.",
       "value_eur_bn": 5.79,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_pirelli",
@@ -5116,7 +5892,7 @@
       "label": "Lottomatica Group",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (LTMC.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Italian listed gaming group. It is intentionally left without a controlling-owner edge: its 2025 governance report describes a dispersed, non-concentrated ownership structure after Apollo sold its entire stake.",
       "value_eur_bn": 5.38,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_lottomatica_group",
@@ -5129,7 +5905,7 @@
       "label": "Credito Emiliano",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (CE.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Bank directly controlled by Credito Emiliano Holding.",
       "value_eur_bn": 5.19,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_credito_emiliano",
@@ -5142,10 +5918,10 @@
       "label": "Azimut Holding",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (AZM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Listed asset manager with a broad employee-and-management shareholder agreement covering about 21% at 31 December 2025. The agreement is not a legal owner, so no ownership edge is fabricated.",
       "value_eur_bn": 5.07,
       "value_basis": "Market capitalization at the end of 2025",
-      "source_id": "marketcap_2025_azimut_holding",
+      "source_id": "azimut_governance_2025",
       "groups": [
         "Listed market"
       ]
@@ -5155,8 +5931,8 @@
       "label": "Iveco Group",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (IVG.MI). It remains unconnected until a material, source-backed ownership chain is added.",
-      "value_eur_bn": 5.0,
+      "description": "Commercial-vehicle group linked to EXOR's direct economic interest at 31 December 2025.",
+      "value_eur_bn": 5,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_iveco_group",
       "groups": [
@@ -5168,7 +5944,7 @@
       "label": "Interpump Group",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (IP.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Industrial group linked through Gruppo IPG Holding and its direct shareholders.",
       "value_eur_bn": 4.89,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_interpump_group",
@@ -5181,7 +5957,7 @@
       "label": "Nexi",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (NEXI.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Payments company with a material direct CDP Equity interest at 31 December 2025.",
       "value_eur_bn": 4.82,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_nexi",
@@ -5194,7 +5970,7 @@
       "label": "Saipem",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (SPM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Energy-services group under the joint influence of direct shareholders Eni and CDP Equity.",
       "value_eur_bn": 4.76,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_saipem",
@@ -5207,7 +5983,7 @@
       "label": "ACEA",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ACE.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Rome-based multi-utility directly controlled by Roma Capitale, with Suez as the other major strategic shareholder.",
       "value_eur_bn": 4.66,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_acea",
@@ -5220,7 +5996,7 @@
       "label": "SOL S.p.A.",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (SOL.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Industrial and medical gases group controlled by Gas and Technologies World.",
       "value_eur_bn": 4.43,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_sol_italy",
@@ -5233,7 +6009,7 @@
       "label": "Reply",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (REY.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Technology-services group linked through the full Mario Rizzante → Iceberg → Alika chain.",
       "value_eur_bn": 4.3,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_reply",
@@ -5246,7 +6022,7 @@
       "label": "Danieli & C. Officine Meccaniche",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (DAN.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Italian plant-making group directly controlled by Sind International at 31 December 2025.",
       "value_eur_bn": 3.57,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_danieli_c_officine_meccaniche",
@@ -5259,7 +6035,7 @@
       "label": "Webuild S.p.A.",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (WBD.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Infrastructure group with Salini, CDP Equity and Intesa Sanpaolo shown as direct shareholders.",
       "value_eur_bn": 3.48,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_webuild",
@@ -5272,7 +6048,7 @@
       "label": "Iren",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (IRE.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Multi-utility with a dispersed public ownership pact; its principal municipalities and their direct holding vehicles are shown separately.",
       "value_eur_bn": 3.26,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_iren",
@@ -5285,7 +6061,7 @@
       "label": "ERG",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ERG.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Renewable-energy group controlled by SQ Renewables.",
       "value_eur_bn": 3.16,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_erg",
@@ -5298,7 +6074,7 @@
       "label": "Cementir",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (CEM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Cement producer linked to its exact direct Caltagirone-perimeter shareholders rather than to one aggregated shortcut.",
       "value_eur_bn": 2.93,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_cementir",
@@ -5311,7 +6087,7 @@
       "label": "Carel Industries",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (CRL.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Control-technology group linked to the direct reference shareholders disclosed in its 2025 governance report.",
       "value_eur_bn": 2.76,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_carel_industries",
@@ -5324,7 +6100,7 @@
       "label": "ENAV",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ENAV.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Italian air-navigation-services company, directly controlled by MEF.",
       "value_eur_bn": 2.56,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_enav",
@@ -5337,7 +6113,7 @@
       "label": "Ermenegildo Zegna",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ZGN). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Luxury group directly controlled by the Zegna-family partnership Monterubello.",
       "value_eur_bn": 2.26,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_ermenegildo_zegna",
@@ -5350,10 +6126,10 @@
       "label": "Anima Holding",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ANIM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Asset manager directly controlled by Banco BPM Vita after the 2025 tender offer; the full Banco BPM → Banco BPM Vita → Anima chain is shown.",
       "value_eur_bn": 1.96,
       "value_basis": "Market capitalization at the end of 2025",
-      "source_id": "marketcap_2025_anima_holding",
+      "source_id": "banco_bpm_annual_2025_anima",
       "groups": [
         "Listed market"
       ]
@@ -5363,10 +6139,10 @@
       "label": "BFF Bank",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BFF.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Listed specialty bank with a dispersed shareholder base and no family or state controller identified in the 2025 official shareholder disclosures.",
       "value_eur_bn": 1.76,
       "value_basis": "Market capitalization at the end of 2025",
-      "source_id": "marketcap_2025_bff_bank",
+      "source_id": "bff_shareholding_2025",
       "groups": [
         "Listed market"
       ]
@@ -5376,7 +6152,7 @@
       "label": "Ariston Holding",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ARIS.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Thermal-comfort group controlled by Merloni Holding through capital and multiple-vote shares.",
       "value_eur_bn": 1.66,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_ariston_holding",
@@ -5389,7 +6165,7 @@
       "label": "Banca IFIS",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (IF.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Specialty bank directly controlled by Furstenberg Scogliera Holding after the 2025 illimity transaction.",
       "value_eur_bn": 1.55,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_banca_ifis",
@@ -5402,7 +6178,7 @@
       "label": "Rai Way",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (RWAY.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Broadcast-infrastructure company directly controlled by RAI.",
       "value_eur_bn": 1.49,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_rai_way",
@@ -5415,7 +6191,7 @@
       "label": "Industrie De Nora",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (DNR.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Electrochemistry group linked to its direct De Nora-family holders and to Snam through Asset Company 10.",
       "value_eur_bn": 1.44,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_industrie_de_nora",
@@ -5428,7 +6204,7 @@
       "label": "Moltiply Group",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (MOL.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Digital intermediation and BPO group linked through Alma Ventures and its two disclosed equal-share vehicles.",
       "value_eur_bn": 1.35,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_moltiply_group",
@@ -5441,7 +6217,7 @@
       "label": "Avio S.p.A.",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (AVIO.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Space-propulsion company with Leonardo's direct post-capital-increase stake shown at year-end 2025.",
       "value_eur_bn": 1.34,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_avio_spa",
@@ -5454,7 +6230,7 @@
       "label": "SeSa S.p.A.",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (SES.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Technology group linked through ITH and HSE, with Tamburi Investment Partners' direct ITH stake shown separately.",
       "value_eur_bn": 1.31,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_sesa",
@@ -5467,7 +6243,7 @@
       "label": "Comer Industries",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (COM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Industrial company controlled by the Storchi-family vehicle Eagles Oak.",
       "value_eur_bn": 1.28,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_comer_industries",
@@ -5480,7 +6256,7 @@
       "label": "Banco di Desio e della Brianza",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BDB.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Bank controlled by Brianza Unione.",
       "value_eur_bn": 1.23,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_banco_di_desio_e_della_brianza",
@@ -5493,7 +6269,7 @@
       "label": "Italmobiliare",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ITM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Investment holding. Only Carlo Pesenti's separately disclosed direct stake is drawn for him; the unsplit indirect 48.045% is not shortcut across unnamed legal links.",
       "value_eur_bn": 1.16,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_italmobiliare",
@@ -5506,7 +6282,7 @@
       "label": "OVS S.p.A.",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (OVS.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Fashion retailer linked to its direct reference shareholder Tamburi Investment Partners.",
       "value_eur_bn": 1.16,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_ovs_spa",
@@ -5519,7 +6295,7 @@
       "label": "Cembre S.p.A.",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (CMB.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Electrical-connectors company linked to Lysne and the documented Rosani-family holdings.",
       "value_eur_bn": 1.15,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_cembre_spa",
@@ -5532,10 +6308,10 @@
       "label": "EL.En. S.p.A.",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ELN.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Laser-technology company linked to the direct founder and holding stakes disclosed at 31 December 2025; it has no single majority owner.",
       "value_eur_bn": 1.11,
       "value_basis": "Market capitalization at the end of 2025",
-      "source_id": "marketcap_2025_elen_group",
+      "source_id": "elen_governance_2025",
       "groups": [
         "Listed market"
       ]
@@ -5545,7 +6321,7 @@
       "label": "Juventus Turin",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (JUVE.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Football club controlled by EXOR through a direct economic interest and enhanced voting rights.",
       "value_eur_bn": 1.09,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_juventus_turin",
@@ -5558,7 +6334,7 @@
       "label": "B.F. S.p.A.",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BFG.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Agro-industrial group with Dompé Holdings and Arum as its two largest direct shareholders at 31 December 2025.",
       "value_eur_bn": 1.08,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_bfspa",
@@ -5571,7 +6347,7 @@
       "label": "Sanlorenzo",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (SL.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Yacht builder directly controlled by the Perotti-family vehicle Holding Happy Life at 31 December 2025.",
       "value_eur_bn": 1.06,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_sanlorenzo",
@@ -5584,7 +6360,7 @@
       "label": "Intercos",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ICOS.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Cosmetics manufacturer linked to the two direct Dafe vehicles attributed to Dario Gianandrea Ferrari.",
       "value_eur_bn": 1.05,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_intercos",
@@ -5597,10 +6373,10 @@
       "label": "Rosetti Marino",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (YRM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Engineering group linked to Rosfin, Saipem and Cosmi Holding using direct shareholdings represented at the April 2025 meeting.",
       "value_eur_bn": 1.02,
       "value_basis": "Market capitalization at the end of 2025",
-      "source_id": "marketcap_2025_rosetti_marino",
+      "source_id": "rosetti_shareholders_2025",
       "groups": [
         "Listed market"
       ]
@@ -5610,12 +6386,1353 @@
       "label": "Ferretti",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (F3T1.F). It remains unconnected until a material, source-backed ownership chain is added.",
+      "description": "Yacht manufacturer linked through the complete disclosed Weichai/SHIG ownership chain and to Azúr.",
       "value_eur_bn": 1.02,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_ferretti",
       "groups": [
         "Listed market"
+      ]
+    },
+    {
+      "id": "cdp_reti",
+      "label": "CDP Reti",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "CDP infrastructure holding that directly owns stakes in Snam, Terna and Italgas.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cdp_reti_ownership_2025",
+      "groups": [
+        "Eni",
+        "Fincantieri"
+      ]
+    },
+    {
+      "id": "rai",
+      "label": "RAI",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Italian public-service broadcaster, directly owned by MEF and SIAE.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "rai_transparency_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "roma_capitale",
+      "label": "Roma Capitale",
+      "category": "subject",
+      "subtype": "municipality",
+      "description": "Municipality of Rome and controlling shareholder of ACEA.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "acea_financial_statements_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "suez_sa",
+      "label": "Suez S.A.",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "French water and environmental-services group and direct shareholder of ACEA.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "acea_financial_statements_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "salini_spa",
+      "label": "Salini S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct controlling shareholder of Webuild.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "webuild_shareholders_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "credito_emiliano_holding",
+      "label": "Credito Emiliano Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct controlling shareholder of Credito Emiliano.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "credem_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "brianza_unione",
+      "label": "Brianza Unione",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Controlling shareholder of Banco di Desio e della Brianza.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "banco_desio_prospectus_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "presa_spa",
+      "label": "Presa S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Buzzi-family vehicle and direct shareholder of Buzzi.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "buzzi_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "fimedi_spa",
+      "label": "Fimedi S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Buzzi-family vehicle and direct shareholder of Buzzi.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "buzzi_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "mario_rizzante",
+      "label": "Mario Rizzante",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Founder of Reply and ultimate owner of its documented control chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "reply_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "iceberg_reply",
+      "label": "Iceberg S.r.l.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Mario Rizzante's direct holding company in the Reply chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "reply_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "alika_reply",
+      "label": "Alika S.r.l.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct shareholder of Reply, controlled through Iceberg.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "reply_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "gas_technologies_world",
+      "label": "Gas and Technologies World",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct majority shareholder of SOL.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "sol_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "san_quirico",
+      "label": "San Quirico S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct majority shareholder of SQ Renewables.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "erg_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "nzf_bidco_2",
+      "label": "NZF BidCo Luxembourg 2",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct minority shareholder of SQ Renewables.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "erg_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "sq_renewables",
+      "label": "SQ Renewables",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct controlling shareholder of ERG.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "erg_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "leila_montipo_sorelle",
+      "label": "Leila Montipò e Sorelle",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Montipò-family vehicle and majority owner of Gruppo IPG Holding.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "interpump_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "tamburi_investment_partners",
+      "label": "Tamburi Investment Partners",
+      "category": "organization",
+      "subtype": "listed_holding",
+      "description": "Direct minority shareholder of Gruppo IPG Holding.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "interpump_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "gruppo_ipg_holding",
+      "label": "Gruppo IPG Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct reference shareholder of Interpump Group.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "interpump_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "matteo_storchi",
+      "label": "Matteo Storchi",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Member of the Storchi family and shareholder of Comer Industries, directly and through Eagles Oak.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "comer_investor_relations_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "eagles_oak",
+      "label": "Eagles Oak S.r.l.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Storchi-family holding and controlling shareholder of Comer Industries.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "comer_investor_relations_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "giovanni_rosani",
+      "label": "Giovanni Rosani",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Rosani-family shareholder of Lysne and Cembre.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cembre_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "sara_rosani",
+      "label": "Sara Rosani",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Rosani-family shareholder of Lysne and Cembre.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cembre_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "lysne_spa",
+      "label": "Lysne S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Rosani-family holding and controlling shareholder of Cembre.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cembre_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "central_tower_holding",
+      "label": "Central Tower Holding Company",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct largest shareholder of INWIT at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "inwit_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "daphne_3",
+      "label": "Daphne 3 S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct shareholder of INWIT at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "inwit_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "marco_polo_international_italy",
+      "label": "Marco Polo International Italy",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Pirelli shareholder in the Sinochem ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "pirelli_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "camfin",
+      "label": "Camfin S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Pirelli shareholder associated with Marco Tronchetti Provera.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "pirelli_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "longmarch_holding",
+      "label": "Longmarch Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Pirelli shareholder associated with Marco Tronchetti Provera.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "pirelli_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "camfin_alternative_assets",
+      "label": "Camfin Alternative Assets",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Pirelli shareholder associated with Marco Tronchetti Provera.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "pirelli_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "merloni_holding",
+      "label": "Merloni Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct controlling shareholder of Ariston Group, with multiple-vote shares.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ariston_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "shandong_sasac",
+      "label": "Shandong SASAC",
+      "category": "subject",
+      "subtype": "state",
+      "description": "Shandong provincial state-assets authority at the top of part of Ferretti's ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ferretti_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "shandong_guohui",
+      "label": "Shandong Guohui Investment",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "State-owned investment vehicle and direct shareholder of SHIG.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ferretti_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "shandong_social_security_fund",
+      "label": "Shandong Social Security Fund",
+      "category": "subject",
+      "subtype": "state",
+      "description": "Provincial social-security fund and direct shareholder of SHIG.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ferretti_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "shig",
+      "label": "Shandong Heavy Industry Group",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Chinese state-controlled industrial holding in Ferretti's ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ferretti_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "weichai_group",
+      "label": "Weichai Group",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Wholly owned SHIG subsidiary in Ferretti's ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ferretti_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "weichai_holding_hk",
+      "label": "Weichai Holding (HK)",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Wholly owned Weichai Group subsidiary in Ferretti's ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ferretti_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "ferretti_international_holding",
+      "label": "Ferretti International Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct shareholder of Ferretti.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ferretti_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "azur_as",
+      "label": "Azúr a.s.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Ferretti shareholder associated with Karel Komárek and the Valea Foundation.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ferretti_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "dompe_holdings",
+      "label": "Dompé Holdings",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct reference shareholder of B.F. S.p.A. at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "bf_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "arum_spa",
+      "label": "Arum S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct reference shareholder of B.F. S.p.A. at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "bf_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "generali_italia",
+      "label": "Generali Italia",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Generali Group company and direct shareholder of Banca Generali.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "banca_generali_annual_report_2025",
+      "groups": [
+        "Generali"
+      ]
+    },
+    {
+      "id": "generali_vie",
+      "label": "Generali Vie",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Generali Group company and direct shareholder of Banca Generali.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "banca_generali_annual_report_2025",
+      "groups": [
+        "Generali"
+      ]
+    },
+    {
+      "id": "alleanza_assicurazioni",
+      "label": "Alleanza Assicurazioni",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Generali Group company and direct shareholder of Banca Generali.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "banca_generali_annual_report_2025",
+      "groups": [
+        "Generali"
+      ]
+    },
+    {
+      "id": "genertel",
+      "label": "Genertel",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Generali Group company and direct shareholder of Banca Generali.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "banca_generali_annual_report_2025",
+      "groups": [
+        "Generali"
+      ]
+    },
+    {
+      "id": "french_state",
+      "label": "French State",
+      "category": "subject",
+      "subtype": "state",
+      "description": "Sole shareholder of EDF at the 2025 snapshot date.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "edf_urd_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "edf",
+      "label": "EDF",
+      "category": "organization",
+      "subtype": "state_owned_company",
+      "description": "French state-owned electricity group at the top of Edison's documented ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "edf_urd_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "edf_international",
+      "label": "EDF International",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "EDF subsidiary directly above Transalpina di Energia in the Edison ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "edison_edf_international_chain",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "transalpina_energia",
+      "label": "Transalpina di Energia",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct controlling shareholder of Edison.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "edison_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "sind_international",
+      "label": "Sind International",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct reference shareholder of Danieli at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "danieli_half_year_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "francesco_gaetano_caltagirone",
+      "label": "Francesco Gaetano Caltagirone",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Entrepreneur with a direct personal interest in Cementir in addition to interests held through companies.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cementir_annual_report_2025",
+      "groups": [
+        "Caltagirone"
+      ]
+    },
+    {
+      "id": "calt_2004",
+      "label": "Calt 2004",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Cementir shareholder in the Caltagirone ownership perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cementir_annual_report_2025",
+      "groups": [
+        "Caltagirone"
+      ]
+    },
+    {
+      "id": "caltagirone_spa",
+      "label": "Caltagirone S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Cementir shareholder in the Caltagirone ownership perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cementir_annual_report_2025",
+      "groups": [
+        "Caltagirone"
+      ]
+    },
+    {
+      "id": "azufin",
+      "label": "Azufin",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Cementir shareholder in the Caltagirone ownership perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cementir_annual_report_2025",
+      "groups": [
+        "Caltagirone"
+      ]
+    },
+    {
+      "id": "capitolium",
+      "label": "Capitolium",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Cementir shareholder in the Caltagirone ownership perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cementir_annual_report_2025",
+      "groups": [
+        "Caltagirone"
+      ]
+    },
+    {
+      "id": "socogeim",
+      "label": "SO.CO.GE.IM",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Cementir shareholder in the Caltagirone ownership perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cementir_annual_report_2025",
+      "groups": [
+        "Caltagirone"
+      ]
+    },
+    {
+      "id": "compagnia_gestioni_immobiliari",
+      "label": "Compagnia Gestioni Immobiliari",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Cementir shareholder in the Caltagirone ownership perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cementir_annual_report_2025",
+      "groups": [
+        "Caltagirone"
+      ]
+    },
+    {
+      "id": "vianini_lavori",
+      "label": "Vianini Lavori",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Direct Cementir shareholder in the Caltagirone ownership perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "cementir_annual_report_2025",
+      "groups": [
+        "Caltagirone"
+      ]
+    },
+    {
+      "id": "comune_genova",
+      "label": "Comune di Genova",
+      "category": "subject",
+      "subtype": "municipality",
+      "description": "Municipality of Genoa, sole shareholder of FSU.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "genoa_fsu_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "fsu_iren",
+      "label": "Finanziaria Sviluppo Utilities",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Municipal holding directly owning an Iren stake for the City of Genoa.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "iren_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "comune_torino",
+      "label": "Comune di Torino",
+      "category": "subject",
+      "subtype": "municipality",
+      "description": "Municipality of Turin, sole shareholder of FCT Holding.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "turin_participations_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "fct_holding",
+      "label": "FCT Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Municipal holding directly owning an Iren stake for the City of Turin.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "iren_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "citta_metropolitana_torino",
+      "label": "Citta Metropolitana di Torino",
+      "category": "subject",
+      "subtype": "province",
+      "description": "Metropolitan authority that owns Metro Holding Torino.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "turin_participations_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "metro_holding_torino",
+      "label": "Metro Holding Torino",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Iren shareholder owned by the Metropolitan City of Turin.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "iren_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "comune_reggio_emilia",
+      "label": "Comune di Reggio Emilia",
+      "category": "subject",
+      "subtype": "municipality",
+      "description": "Direct municipal shareholder of Iren.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "iren_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "comune_parma",
+      "label": "Comune di Parma",
+      "category": "subject",
+      "subtype": "municipality",
+      "description": "Iren shareholder directly and through two wholly owned municipal vehicles.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "iren_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "stt_holding",
+      "label": "STT Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Wholly owned Parma municipal vehicle and direct Iren shareholder.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "parma_participations_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "parma_infrastrutture",
+      "label": "Parma Infrastrutture",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Wholly owned Parma municipal vehicle and direct Iren shareholder.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "parma_participations_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "rossini_sarl",
+      "label": "Rossini S.a r.l.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "CVC-controlled investment vehicle and immediate parent of Recordati.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "recordati_rossini_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "luigi_rossi_luciani_sapa",
+      "label": "Luigi Rossi Luciani S.a.p.a.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct reference shareholder of Carel Industries.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "carel_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "athena_fh",
+      "label": "Athena FH",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct reference shareholder of Carel Industries at the 2025 reporting date.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "carel_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "seven_industries_holding",
+      "label": "7 Industries Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct Carel shareholder disclosed in the 2025 governance report.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "carel_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "zegna_family",
+      "label": "Zegna family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Family whose members hold the quotas of Monterubello.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "zegna_form_20f_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "monterubello",
+      "label": "Monterubello",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Zegna-family vehicle and controlling shareholder of Ermenegildo Zegna N.V.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "zegna_form_20f_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "furstenberg_scogliera_holding",
+      "label": "Furstenberg Scogliera Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct controlling shareholder of Banca Ifis at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "banca_ifis_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "federico_de_nora",
+      "label": "Federico De Nora",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Member of the De Nora family with a direct personal stake in Industrie De Nora.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "de_nora_shareholding_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "federico_de_nora_spa",
+      "label": "Federico De Nora S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Largest direct De Nora-family shareholder of Industrie De Nora.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "de_nora_shareholding_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "norfin",
+      "label": "Norfin",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct De Nora-family shareholder of Industrie De Nora.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "de_nora_shareholding_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "asset_company_10",
+      "label": "Asset Company 10",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Wholly owned Snam vehicle and direct Industrie De Nora shareholder.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "de_nora_shareholding_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "perotti_family",
+      "label": "Perotti family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Ultimate family owner of Holding Happy Life and Sanlorenzo.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "sanlorenzo_perotti_chain",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "holding_happy_life",
+      "label": "Holding Happy Life",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Perotti-family holding and direct controlling shareholder of Sanlorenzo at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "sanlorenzo_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "dafe_4000",
+      "label": "Dafe 4000",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Dario Gianandrea Ferrari's direct shareholding vehicle in Intercos.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "intercos_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "dafe_5000",
+      "label": "Dafe 5000",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Dario Gianandrea Ferrari's direct shareholding vehicle in Intercos.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "intercos_annual_report_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "carlo_pesenti",
+      "label": "Carlo Pesenti",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Controlling shareholder of Italmobiliare, including a separately disclosed direct personal stake.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "italmobiliare_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "serfis",
+      "label": "Serfis",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct significant shareholder of Italmobiliare.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "italmobiliare_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "guderian_spa",
+      "label": "Guderian",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Marco Pescarmona's vehicle in the Alma Ventures ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "moltiply_control_chain",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "casper_srl",
+      "label": "Casper",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Alessandro Fracassi's vehicle in the Alma Ventures ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "moltiply_control_chain",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "alma_ventures",
+      "label": "Alma Ventures",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct reference shareholder of Moltiply Group.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "moltiply_ownership_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "hse_spa",
+      "label": "HSE",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Holding that controls ITH in the Sesa ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "sesa_control_chain_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "ith_spa",
+      "label": "ITH",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct controlling shareholder of Sesa.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "sesa_shareholders_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "banco_bpm_vita",
+      "label": "Banco BPM Vita",
+      "category": "organization",
+      "subtype": "insurance_company",
+      "description": "Wholly owned Banco BPM insurance subsidiary and the immediate shareholder of Anima Holding at year-end 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "banco_bpm_annual_2025_anima",
+      "groups": [
+        "Banco BPM",
+        "Listed market"
+      ]
+    },
+    {
+      "id": "andrea_cangioli",
+      "label": "Andrea Cangioli",
+      "category": "subject",
+      "subtype": "person",
+      "description": "EL.En. managing director and largest disclosed direct individual shareholder at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "elen_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "alberto_pecci",
+      "label": "Alberto Pecci",
+      "category": "subject",
+      "subtype": "person",
+      "description": "EL.En. founder with a direct personal stake and a separately disclosed interest through S.M.I.L.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "elen_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "gabriele_clementi",
+      "label": "Gabriele Clementi",
+      "category": "subject",
+      "subtype": "person",
+      "description": "EL.En. chairman and direct shareholder at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "elen_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "smil",
+      "label": "S.M.I.L.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct EL.En. shareholder declared by Alberto Pecci.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "elen_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "immobiliare_il_ciliegio",
+      "label": "Immobiliare Il Ciliegio",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct significant shareholder of EL.En. at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "elen_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "rosfin",
+      "label": "Rosfin",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct controlling shareholder of Rosetti Marino at the April 2025 shareholders' meeting.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "rosetti_shareholders_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "cosmi_holding",
+      "label": "Cosmi Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct shareholder of Rosetti Marino at the April 2025 shareholders' meeting.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "rosetti_shareholders_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "crown_bidco",
+      "label": "Crown Bidco",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "L Catterton vehicle and direct Tod's shareholder after the delisting offer.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "tods_shareholders_after_offer",
+      "groups": [
+        "Della Valle-Tod's"
+      ]
+    },
+    {
+      "id": "delphine_sas",
+      "label": "Delphine S.A.S.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "LVMH-group vehicle retaining a direct minority interest in Tod's.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "tods_shareholders_after_offer",
+      "groups": [
+        "Della Valle-Tod's"
+      ]
+    },
+    {
+      "id": "divi_finanziaria",
+      "label": "DI.VI. Finanziaria",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Principal direct Della Valle family shareholder of Tod's.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "tods_shareholders_after_offer",
+      "groups": [
+        "Della Valle-Tod's"
+      ]
+    },
+    {
+      "id": "andrea_della_valle",
+      "label": "Andrea Della Valle",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Della Valle family member with a direct Tod's shareholding.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "tods_shareholders_after_offer",
+      "groups": [
+        "Della Valle-Tod's"
+      ]
+    },
+    {
+      "id": "emme_esse_vi",
+      "label": "Emme Esse Vi",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Family holding that owns Mapei, held in approximately equal thirds by Marco Squinzi, Veronica Squinzi and Simona Giorgetta.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "mapei_holding_2025",
+      "groups": [
+        "Giorgetta-Mapei"
       ]
     }
   ],
@@ -6688,7 +8805,7 @@
       "owner_id": "oiren",
       "owned_id": "tgh",
       "percentage": 75,
-      "note": "Oiren's equity interest in TGH.",
+      "note": "Direct interest in TGH at 31 December 2025.",
       "source_id": "technogym_governance_2025"
     },
     {
@@ -6870,6 +8987,1293 @@
       "percentage": 24.5,
       "note": "Indirect economic interest in Nayara Energy following the completed transaction.",
       "source_id": "nayara_ownership_2023"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cdp_cdp_reti",
+      "owner_id": "cdp",
+      "owned_id": "cdp_reti",
+      "percentage": 59.1,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cdp_reti_ownership_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cdp_reti_snam",
+      "owner_id": "cdp_reti",
+      "owned_id": "market_snam",
+      "percentage": 31.35,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cdp_reti_ownership_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cdp_reti_terna",
+      "owner_id": "cdp_reti",
+      "owned_id": "market_terna",
+      "percentage": 29.85,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cdp_reti_ownership_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cdp_reti_italgas",
+      "owner_id": "cdp_reti",
+      "owned_id": "market_italgas",
+      "percentage": 25.94,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cdp_reti_ownership_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_snam_italgas",
+      "owner_id": "market_snam",
+      "owned_id": "market_italgas",
+      "percentage": 11.39,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "snam_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_minozzi_snam",
+      "owner_id": "romano_minozzi",
+      "owned_id": "market_snam",
+      "percentage": 7.39,
+      "note": "Direct shareholding disclosed at 31 December 2025.",
+      "source_id": "snam_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mef_poste",
+      "owner_id": "italian_mef",
+      "owned_id": "market_poste_italiane",
+      "percentage": 29.26,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "poste_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cdp_poste",
+      "owner_id": "cdp",
+      "owned_id": "market_poste_italiane",
+      "percentage": 35,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "poste_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_poste_tim",
+      "owner_id": "market_poste_italiane",
+      "owned_id": "market_telecom_italia",
+      "percentage": 27.32,
+      "note": "Ordinary share-capital interest at 31 December 2025; the voting-capital percentage differs.",
+      "source_id": "tim_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mef_enav",
+      "owner_id": "italian_mef",
+      "owned_id": "market_enav",
+      "percentage": 53.28,
+      "note": "Direct MEF shareholding; the official 2024 annual report records the same unchanged reference stake.",
+      "source_id": "enav_annual_report_2024"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mef_rai",
+      "owner_id": "italian_mef",
+      "owned_id": "rai",
+      "percentage": 99.5583,
+      "note": "Direct shareholding documented in RAI's 2025 transparency plan.",
+      "source_id": "rai_transparency_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_rai_raiway",
+      "owner_id": "rai",
+      "owned_id": "market_rai_way",
+      "percentage": 64.971,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "raiway_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_roma_capitale_acea",
+      "owner_id": "roma_capitale",
+      "owned_id": "market_acea",
+      "percentage": 51,
+      "note": "Direct controlling shareholding at 31 December 2025.",
+      "source_id": "acea_financial_statements_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_suez_acea",
+      "owner_id": "suez_sa",
+      "owned_id": "market_acea",
+      "percentage": 23.33,
+      "note": "Direct shareholding reported for 2025.",
+      "source_id": "acea_financial_statements_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_eni_saipem",
+      "owner_id": "eni",
+      "owned_id": "market_saipem",
+      "percentage": 21.19,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "saipem_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cdp_equity_saipem",
+      "owner_id": "cdp_equity",
+      "owned_id": "market_saipem",
+      "percentage": 12.82,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "saipem_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cdp_equity_nexi",
+      "owner_id": "cdp_equity",
+      "owned_id": "market_nexi",
+      "percentage": 19.14,
+      "note": "Direct shareholding at 31 December 2025 after the merger of CDPE Investimenti.",
+      "source_id": "cdp_equity_financial_statements_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_salini_webuild",
+      "owner_id": "salini_spa",
+      "owned_id": "market_webuild",
+      "percentage": 39.55,
+      "note": "Direct ordinary-capital interest; increased voting rights are shown separately by Webuild.",
+      "source_id": "webuild_shareholders_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cdp_equity_webuild",
+      "owner_id": "cdp_equity",
+      "owned_id": "market_webuild",
+      "percentage": 16.47,
+      "note": "Direct ordinary-capital interest; increased voting rights are shown separately by Webuild.",
+      "source_id": "webuild_shareholders_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_intesa_webuild",
+      "owner_id": "intesa_sanpaolo",
+      "owned_id": "market_webuild",
+      "percentage": 4.62,
+      "note": "Direct ordinary-capital interest.",
+      "source_id": "webuild_shareholders_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_exor_iveco",
+      "owner_id": "exor",
+      "owned_id": "market_iveco_group",
+      "percentage": 27.1,
+      "note": "Economic interest at 31 December 2025; voting rights are higher due to loyalty voting.",
+      "source_id": "exor_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_exor_juventus",
+      "owner_id": "exor",
+      "owned_id": "market_juventus_turin",
+      "percentage": 65.4,
+      "note": "Economic interest at 31 December 2025; voting rights are higher.",
+      "source_id": "exor_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_bper_bps",
+      "owner_id": "bper",
+      "owned_id": "market_banca_popolare_di_sondrio",
+      "percentage": 80.691,
+      "note": "Direct controlling interest following the 2025 acquisition.",
+      "source_id": "bper_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_credem_holding_credem",
+      "owner_id": "credito_emiliano_holding",
+      "owned_id": "market_credito_emiliano",
+      "percentage": 79.82,
+      "note": "Direct controlling shareholding at 31 December 2025.",
+      "source_id": "credem_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_brianza_unione_banco_desio",
+      "owner_id": "brianza_unione",
+      "owned_id": "market_banco_di_desio_e_della_brianza",
+      "percentage": 51.52,
+      "note": "Voting-capital interest disclosed in the 2025 prospectus.",
+      "source_id": "banco_desio_prospectus_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_presa_buzzi",
+      "owner_id": "presa_spa",
+      "owned_id": "market_buzzi_unicem",
+      "percentage": 43.04,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "buzzi_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_fimedi_buzzi",
+      "owner_id": "fimedi_spa",
+      "owned_id": "market_buzzi_unicem",
+      "percentage": 9.99,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "buzzi_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_rizzante_iceberg",
+      "owner_id": "mario_rizzante",
+      "owned_id": "iceberg_reply",
+      "percentage": 100,
+      "note": "Direct ownership at 31 December 2025.",
+      "source_id": "reply_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_iceberg_alika",
+      "owner_id": "iceberg_reply",
+      "owned_id": "alika_reply",
+      "percentage": 51,
+      "note": "Direct ownership at 31 December 2025.",
+      "source_id": "reply_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_alika_reply",
+      "owner_id": "alika_reply",
+      "owned_id": "market_reply",
+      "percentage": 37.082,
+      "note": "Direct capital interest at 31 December 2025; voting rights were 63.874%.",
+      "source_id": "reply_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_gtw_sol",
+      "owner_id": "gas_technologies_world",
+      "owned_id": "market_sol_italy",
+      "percentage": 59.978,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "sol_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_san_quirico_sq",
+      "owner_id": "san_quirico",
+      "owned_id": "sq_renewables",
+      "percentage": 51,
+      "note": "Direct ownership at 31 December 2025.",
+      "source_id": "erg_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_nzf_sq",
+      "owner_id": "nzf_bidco_2",
+      "owned_id": "sq_renewables",
+      "percentage": 49,
+      "note": "Direct ownership at 31 December 2025.",
+      "source_id": "erg_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_sq_erg",
+      "owner_id": "sq_renewables",
+      "owned_id": "market_erg",
+      "percentage": 62.533,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "erg_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_montipo_ipg",
+      "owner_id": "leila_montipo_sorelle",
+      "owned_id": "gruppo_ipg_holding",
+      "percentage": 73.08,
+      "note": "Direct ownership at 31 December 2025.",
+      "source_id": "interpump_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_tip_ipg",
+      "owner_id": "tamburi_investment_partners",
+      "owned_id": "gruppo_ipg_holding",
+      "percentage": 26.92,
+      "note": "Direct ownership at 31 December 2025.",
+      "source_id": "interpump_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_ipg_interpump",
+      "owner_id": "gruppo_ipg_holding",
+      "owned_id": "market_interpump_group",
+      "percentage": 23.422,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "interpump_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_matteo_eagles",
+      "owner_id": "matteo_storchi",
+      "owned_id": "eagles_oak",
+      "percentage": 25,
+      "note": "Direct holding-company interest disclosed by Comer.",
+      "source_id": "comer_investor_relations_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_eagles_comer",
+      "owner_id": "eagles_oak",
+      "owned_id": "market_comer_industries",
+      "percentage": 51.05,
+      "note": "Direct capital interest; voting rights were 65.1%.",
+      "source_id": "comer_investor_relations_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_matteo_comer",
+      "owner_id": "matteo_storchi",
+      "owned_id": "market_comer_industries",
+      "percentage": 2.33,
+      "note": "Direct personal shareholding.",
+      "source_id": "comer_investor_relations_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_giovanni_lysne",
+      "owner_id": "giovanni_rosani",
+      "owned_id": "lysne_spa",
+      "percentage": 29.289,
+      "note": "Direct Lysne interest derived from the exact share count disclosed in the 2025 governance report.",
+      "source_id": "cembre_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_sara_lysne",
+      "owner_id": "sara_rosani",
+      "owned_id": "lysne_spa",
+      "percentage": 29.289,
+      "note": "Direct Lysne interest derived from the exact share count disclosed in the 2025 governance report.",
+      "source_id": "cembre_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_lysne_cembre",
+      "owner_id": "lysne_spa",
+      "owned_id": "market_cembre_spa",
+      "percentage": 51.5696,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cembre_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_giovanni_cembre",
+      "owner_id": "giovanni_rosani",
+      "owned_id": "market_cembre_spa",
+      "percentage": 8.5294,
+      "note": "Direct personal shareholding at 31 December 2025.",
+      "source_id": "cembre_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_sara_cembre",
+      "owner_id": "sara_rosani",
+      "owned_id": "market_cembre_spa",
+      "percentage": 8.6471,
+      "note": "Direct personal shareholding at 31 December 2025.",
+      "source_id": "cembre_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_central_tower_inwit",
+      "owner_id": "central_tower_holding",
+      "owned_id": "market_inwit",
+      "percentage": 37.6,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "inwit_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_daphne_inwit",
+      "owner_id": "daphne_3",
+      "owned_id": "market_inwit",
+      "percentage": 30.97,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "inwit_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_marco_polo_pirelli",
+      "owner_id": "marco_polo_international_italy",
+      "owned_id": "market_pirelli",
+      "percentage": 34.119,
+      "note": "Direct shareholding after the December 2025 bond conversion.",
+      "source_id": "pirelli_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_camfin_pirelli",
+      "owner_id": "camfin",
+      "owned_id": "market_pirelli",
+      "percentage": 15.531,
+      "note": "Direct shareholding after the December 2025 bond conversion.",
+      "source_id": "pirelli_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_longmarch_pirelli",
+      "owner_id": "longmarch_holding",
+      "owned_id": "market_pirelli",
+      "percentage": 3.391,
+      "note": "Direct shareholding after the December 2025 bond conversion.",
+      "source_id": "pirelli_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_camfin_alt_pirelli",
+      "owner_id": "camfin_alternative_assets",
+      "owned_id": "market_pirelli",
+      "percentage": 7.261,
+      "note": "Direct shareholding after the December 2025 bond conversion.",
+      "source_id": "pirelli_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_merloni_ariston",
+      "owner_id": "merloni_holding",
+      "owned_id": "market_ariston_holding",
+      "percentage": 58.87,
+      "note": "Economic interest at 31 December 2025; voting rights were 79.59%.",
+      "source_id": "ariston_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_sasac_shig",
+      "owner_id": "shandong_sasac",
+      "owned_id": "shig",
+      "percentage": 70,
+      "note": "Direct ownership disclosed in Ferretti's 2025 annual report.",
+      "source_id": "ferretti_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_sasac_guohui",
+      "owner_id": "shandong_sasac",
+      "owned_id": "shandong_guohui",
+      "percentage": 100,
+      "note": "Wholly owned provincial investment company.",
+      "source_id": "ferretti_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_guohui_shig",
+      "owner_id": "shandong_guohui",
+      "owned_id": "shig",
+      "percentage": 20,
+      "note": "Direct ownership disclosed in Ferretti's 2025 annual report.",
+      "source_id": "ferretti_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_security_fund_shig",
+      "owner_id": "shandong_social_security_fund",
+      "owned_id": "shig",
+      "percentage": 10,
+      "note": "Direct ownership disclosed in Ferretti's 2025 annual report.",
+      "source_id": "ferretti_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_shig_weichai",
+      "owner_id": "shig",
+      "owned_id": "weichai_group",
+      "percentage": 100,
+      "note": "Wholly owned subsidiary.",
+      "source_id": "ferretti_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_weichai_hk",
+      "owner_id": "weichai_group",
+      "owned_id": "weichai_holding_hk",
+      "percentage": 100,
+      "note": "Wholly owned subsidiary.",
+      "source_id": "ferretti_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_weichai_hk_fih",
+      "owner_id": "weichai_holding_hk",
+      "owned_id": "ferretti_international_holding",
+      "percentage": 100,
+      "note": "Wholly owned subsidiary.",
+      "source_id": "ferretti_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_fih_ferretti",
+      "owner_id": "ferretti_international_holding",
+      "owned_id": "market_ferretti",
+      "percentage": 37.54,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "ferretti_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_azur_ferretti",
+      "owner_id": "azur_as",
+      "owned_id": "market_ferretti",
+      "percentage": 14.07,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "ferretti_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_dompe_bf",
+      "owner_id": "dompe_holdings",
+      "owned_id": "market_bfspa",
+      "percentage": 24.98,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "bf_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_arum_bf",
+      "owner_id": "arum_spa",
+      "owned_id": "market_bfspa",
+      "percentage": 24.15,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "bf_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_generali_italia_bg",
+      "owner_id": "generali_italia",
+      "owned_id": "market_banca_generali",
+      "percentage": 33.011,
+      "note": "Direct shareholding included in Generali Group's 50.2% aggregate interest.",
+      "source_id": "banca_generali_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_generali_vie_bg",
+      "owner_id": "generali_vie",
+      "owned_id": "market_banca_generali",
+      "percentage": 9.508,
+      "note": "Direct shareholding included in Generali Group's 50.2% aggregate interest.",
+      "source_id": "banca_generali_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_alleanza_bg",
+      "owner_id": "alleanza_assicurazioni",
+      "owned_id": "market_banca_generali",
+      "percentage": 7.218,
+      "note": "Direct shareholding included in Generali Group's 50.2% aggregate interest.",
+      "source_id": "banca_generali_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_genertel_bg",
+      "owner_id": "genertel",
+      "owned_id": "market_banca_generali",
+      "percentage": 0.435,
+      "note": "Direct shareholding included in Generali Group's 50.2% aggregate interest.",
+      "source_id": "banca_generali_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_french_state_edf",
+      "owner_id": "french_state",
+      "owned_id": "edf",
+      "percentage": 100,
+      "note": "The French State was EDF's sole shareholder at the snapshot date.",
+      "source_id": "edf_urd_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_edf_edf_international",
+      "owner_id": "edf",
+      "owned_id": "edf_international",
+      "percentage": 100,
+      "note": "Wholly owned company in EDF's disclosed 2025 group structure.",
+      "source_id": "edf_urd_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_edf_international_transalpina",
+      "owner_id": "edf_international",
+      "owned_id": "transalpina_energia",
+      "percentage": 100,
+      "note": "Direct ownership in the legal chain above Edison.",
+      "source_id": "edison_edf_international_chain"
+    },
+    {
+      "kind": "owns",
+      "id": "own_transalpina_edison",
+      "owner_id": "transalpina_energia",
+      "owned_id": "market_edison",
+      "percentage": 97.172,
+      "note": "Direct economic interest at 31 December 2025; voting rights were 99.473%.",
+      "source_id": "edison_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_sind_danieli",
+      "owner_id": "sind_international",
+      "owned_id": "market_danieli_c_officine_meccaniche",
+      "percentage": 68.216,
+      "note": "Direct ordinary-share capital interest at 31 December 2025.",
+      "source_id": "danieli_half_year_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_fgc_cementir",
+      "owner_id": "fgc",
+      "owned_id": "market_cementir",
+      "percentage": 11.061,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cementir_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_calt2004_cementir",
+      "owner_id": "calt_2004",
+      "owned_id": "market_cementir",
+      "percentage": 30.9,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cementir_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_caltagirone_spa_cementir",
+      "owner_id": "caltagirone_spa",
+      "owned_id": "market_cementir",
+      "percentage": 14.329,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cementir_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_azufin_cementir",
+      "owner_id": "azufin",
+      "owned_id": "market_cementir",
+      "percentage": 6.737,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cementir_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_capitolium_cementir",
+      "owner_id": "capitolium",
+      "owned_id": "market_cementir",
+      "percentage": 1.634,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cementir_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_socogeim_cementir",
+      "owner_id": "socogeim",
+      "owned_id": "market_cementir",
+      "percentage": 0.943,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cementir_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cgi_cementir",
+      "owner_id": "compagnia_gestioni_immobiliari",
+      "owned_id": "market_cementir",
+      "percentage": 0.314,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cementir_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_vianini_cementir",
+      "owner_id": "vianini_lavori",
+      "owned_id": "market_cementir",
+      "percentage": 0.001,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "cementir_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_fgc_person_cementir",
+      "owner_id": "francesco_gaetano_caltagirone",
+      "owned_id": "market_cementir",
+      "percentage": 0.834,
+      "note": "Direct personal shareholding at 31 December 2025.",
+      "source_id": "cementir_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_genoa_fsu",
+      "owner_id": "comune_genova",
+      "owned_id": "fsu_iren",
+      "percentage": 100,
+      "note": "Wholly owned municipal holding.",
+      "source_id": "genoa_fsu_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_fsu_iren",
+      "owner_id": "fsu_iren",
+      "owned_id": "market_iren",
+      "percentage": 18.851,
+      "note": "Direct capital interest at 31 December 2025; voting rights were 23.580%.",
+      "source_id": "iren_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_torino_fct",
+      "owner_id": "comune_torino",
+      "owned_id": "fct_holding",
+      "percentage": 100,
+      "note": "Wholly owned municipal holding.",
+      "source_id": "turin_participations_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_fct_iren",
+      "owner_id": "fct_holding",
+      "owned_id": "market_iren",
+      "percentage": 13.803,
+      "note": "Direct capital interest at 31 December 2025; voting rights were 17.265%.",
+      "source_id": "iren_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_metropolitan_turin_metro",
+      "owner_id": "citta_metropolitana_torino",
+      "owned_id": "metro_holding_torino",
+      "percentage": 100,
+      "note": "Wholly owned metropolitan holding.",
+      "source_id": "turin_participations_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_metro_iren",
+      "owner_id": "metro_holding_torino",
+      "owned_id": "market_iren",
+      "percentage": 5.371,
+      "note": "Direct capital interest at 31 December 2025; voting rights were 4.921%.",
+      "source_id": "iren_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_reggio_iren",
+      "owner_id": "comune_reggio_emilia",
+      "owned_id": "market_iren",
+      "percentage": 6.423,
+      "note": "Direct capital interest at 31 December 2025; voting rights were 8.034%.",
+      "source_id": "iren_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_parma_iren",
+      "owner_id": "comune_parma",
+      "owned_id": "market_iren",
+      "percentage": 0.43,
+      "note": "Direct portion of Parma's Iren interest at 31 December 2025.",
+      "source_id": "iren_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_parma_stt",
+      "owner_id": "comune_parma",
+      "owned_id": "stt_holding",
+      "percentage": 100,
+      "note": "Wholly owned municipal vehicle.",
+      "source_id": "parma_participations_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_stt_iren",
+      "owner_id": "stt_holding",
+      "owned_id": "market_iren",
+      "percentage": 1.179,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "iren_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_parma_parma_infra",
+      "owner_id": "comune_parma",
+      "owned_id": "parma_infrastrutture",
+      "percentage": 100,
+      "note": "Wholly owned municipal vehicle.",
+      "source_id": "parma_participations_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_parma_infra_iren",
+      "owner_id": "parma_infrastrutture",
+      "owned_id": "market_iren",
+      "percentage": 1.554,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "iren_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_compagnia_iren",
+      "owner_id": "compagnia_san_paolo",
+      "owned_id": "market_iren",
+      "percentage": 3.848,
+      "note": "Direct capital interest at 31 December 2025.",
+      "source_id": "iren_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_rossini_recordati",
+      "owner_id": "rossini_sarl",
+      "owned_id": "market_recordati",
+      "percentage": 46.82,
+      "note": "Direct shareholding after the February 2025 placement, unchanged through year-end disclosures.",
+      "source_id": "recordati_rossini_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_lrl_carel",
+      "owner_id": "luigi_rossi_luciani_sapa",
+      "owned_id": "market_carel_industries",
+      "percentage": 33.96,
+      "note": "Direct capital interest disclosed in the 2025 governance report; voting rights were higher.",
+      "source_id": "carel_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_athena_carel",
+      "owner_id": "athena_fh",
+      "owned_id": "market_carel_industries",
+      "percentage": 18.79,
+      "note": "Direct capital interest disclosed before the post-snapshot 2026 placement.",
+      "source_id": "carel_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_seven_industries_carel",
+      "owner_id": "seven_industries_holding",
+      "owned_id": "market_carel_industries",
+      "percentage": 6.57,
+      "note": "Direct capital interest disclosed in the 2025 governance report.",
+      "source_id": "carel_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_zegna_family_monterubello",
+      "owner_id": "zegna_family",
+      "owned_id": "monterubello",
+      "percentage": 100,
+      "note": "All partnership quotas are held by members of the Zegna family; this is an aggregate family node.",
+      "source_id": "zegna_form_20f_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_monterubello_zegna",
+      "owner_id": "monterubello",
+      "owned_id": "market_ermenegildo_zegna",
+      "percentage": 60.5,
+      "note": "Direct ordinary-share interest disclosed for the 2025 reporting period; voting power was higher.",
+      "source_id": "zegna_form_20f_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_furstenberg_ifis",
+      "owner_id": "furstenberg_scogliera_holding",
+      "owned_id": "market_banca_ifis",
+      "percentage": 45.051,
+      "note": "Direct controlling interest at 31 December 2025.",
+      "source_id": "banca_ifis_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_fdn_spa_de_nora",
+      "owner_id": "federico_de_nora_spa",
+      "owned_id": "market_industrie_de_nora",
+      "percentage": 44.3,
+      "note": "Direct capital interest at 31 December 2025, combining multiple-vote and ordinary shares.",
+      "source_id": "de_nora_shareholding_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_norfin_de_nora",
+      "owner_id": "norfin",
+      "owned_id": "market_industrie_de_nora",
+      "percentage": 5.77,
+      "note": "Direct capital interest at 31 December 2025, combining multiple-vote and ordinary shares.",
+      "source_id": "de_nora_shareholding_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_federico_de_nora_direct",
+      "owner_id": "federico_de_nora",
+      "owned_id": "market_industrie_de_nora",
+      "percentage": 3.28,
+      "note": "Direct personal capital interest at 31 December 2025.",
+      "source_id": "de_nora_shareholding_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_snam_asset_company_10",
+      "owner_id": "market_snam",
+      "owned_id": "asset_company_10",
+      "percentage": 100,
+      "note": "Wholly owned Snam vehicle at 31 December 2025.",
+      "source_id": "de_nora_shareholding_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_asset_company_10_de_nora",
+      "owner_id": "asset_company_10",
+      "owned_id": "market_industrie_de_nora",
+      "percentage": 21.59,
+      "note": "Direct capital interest at 31 December 2025; voting rights were 25.99%.",
+      "source_id": "de_nora_shareholding_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_leonardo_avio",
+      "owner_id": "leonardo",
+      "owned_id": "market_avio_spa",
+      "percentage": 19.3,
+      "note": "Direct stake after Avio's 2025 capital increase and Leonardo's documented dilution.",
+      "source_id": "leonardo_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_perotti_hhl",
+      "owner_id": "perotti_family",
+      "owned_id": "holding_happy_life",
+      "percentage": 100,
+      "note": "Wholly owned by the Perotti family; aggregate family node.",
+      "source_id": "sanlorenzo_perotti_chain"
+    },
+    {
+      "kind": "owns",
+      "id": "own_hhl_sanlorenzo",
+      "owner_id": "holding_happy_life",
+      "owned_id": "market_sanlorenzo",
+      "percentage": 55.7,
+      "note": "Direct capital interest at 31 December 2025; voting rights were 71.22%.",
+      "source_id": "sanlorenzo_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_dafe4000_intercos",
+      "owner_id": "dafe_4000",
+      "owned_id": "market_intercos",
+      "percentage": 23.869,
+      "note": "Direct capital interest at 31 December 2025; voting rights were 36.119%.",
+      "source_id": "intercos_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_dafe5000_intercos",
+      "owner_id": "dafe_5000",
+      "owned_id": "market_intercos",
+      "percentage": 8.3,
+      "note": "Direct capital interest at 31 December 2025; voting rights were 12.560%.",
+      "source_id": "intercos_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_carlo_pesenti_italmobiliare",
+      "owner_id": "carlo_pesenti",
+      "owned_id": "market_italmobiliare",
+      "percentage": 1.078,
+      "note": "Direct personal stake only. Pesenti's additional 48.045% indirect interest is not drawn as a shortcut because the report does not split it across the intermediate vehicles.",
+      "source_id": "italmobiliare_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_serfis_italmobiliare",
+      "owner_id": "serfis",
+      "owned_id": "market_italmobiliare",
+      "percentage": 11.212,
+      "note": "Direct shareholding at 31 December 2025.",
+      "source_id": "italmobiliare_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mediobanca_italmobiliare",
+      "owner_id": "mediobanca",
+      "owned_id": "market_italmobiliare",
+      "percentage": 6.81,
+      "note": "Direct shareholding attributed to MPS through its controlled Mediobanca at 31 December 2025.",
+      "source_id": "italmobiliare_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_guderian_alma",
+      "owner_id": "guderian_spa",
+      "owned_id": "alma_ventures",
+      "percentage": 50,
+      "note": "Direct half of Alma Ventures in the disclosed founder control chain.",
+      "source_id": "moltiply_control_chain"
+    },
+    {
+      "kind": "owns",
+      "id": "own_casper_alma",
+      "owner_id": "casper_srl",
+      "owned_id": "alma_ventures",
+      "percentage": 50,
+      "note": "Direct half of Alma Ventures in the disclosed founder control chain.",
+      "source_id": "moltiply_control_chain"
+    },
+    {
+      "kind": "owns",
+      "id": "own_alma_moltiply",
+      "owner_id": "alma_ventures",
+      "owned_id": "market_moltiply_group",
+      "percentage": 33.622,
+      "note": "13,448,847 direct shares at the 2025 snapshot; the same share count was reaffirmed with the 2025 accounts.",
+      "source_id": "moltiply_ownership_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_hse_ith",
+      "owner_id": "hse_spa",
+      "owned_id": "ith_spa",
+      "percentage": 73.28,
+      "note": "Direct controlling interest disclosed in Sesa's 2025 annual report.",
+      "source_id": "sesa_control_chain_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_tip_ith",
+      "owner_id": "tamburi_investment_partners",
+      "owned_id": "ith_spa",
+      "percentage": 21.5,
+      "note": "Direct interest immediately before the post-snapshot February 2026 increase to 23.8%.",
+      "source_id": "sesa_shareholders_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_ith_sesa",
+      "owner_id": "ith_spa",
+      "owned_id": "market_sesa",
+      "percentage": 54.056,
+      "note": "Direct controlling interest after the August 2025 treasury-share cancellation.",
+      "source_id": "sesa_shareholders_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_tip_ovs",
+      "owner_id": "tamburi_investment_partners",
+      "owned_id": "market_ovs_spa",
+      "percentage": 28.44,
+      "note": "Direct reference shareholding carried into OVS's 2025 reporting period.",
+      "source_id": "ovs_annual_report_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_banco_bpm_banco_bpm_vita",
+      "owner_id": "banco_bpm",
+      "owned_id": "banco_bpm_vita",
+      "percentage": 100,
+      "note": "Direct interest at 31 December 2025.",
+      "source_id": "banco_bpm_annual_2025_anima"
+    },
+    {
+      "kind": "owns",
+      "id": "own_banco_bpm_vita_anima",
+      "owner_id": "banco_bpm_vita",
+      "owned_id": "market_anima_holding",
+      "percentage": 89.949,
+      "note": "Direct interest after the 2025 tender offer and transfer of Banco BPM's pre-existing stake.",
+      "source_id": "banco_bpm_annual_2025_anima"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cangioli_elen",
+      "owner_id": "andrea_cangioli",
+      "owned_id": "market_elen_group",
+      "percentage": 14.743,
+      "note": "Direct ordinary-share capital interest at 31 December 2025.",
+      "source_id": "elen_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_smil_elen",
+      "owner_id": "smil",
+      "owned_id": "market_elen_group",
+      "percentage": 10.154,
+      "note": "Direct ordinary-share capital interest declared by Alberto Pecci at 31 December 2025.",
+      "source_id": "elen_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_alberto_pecci_elen",
+      "owner_id": "alberto_pecci",
+      "owned_id": "market_elen_group",
+      "percentage": 0.332,
+      "note": "Separately disclosed direct personal interest at 31 December 2025.",
+      "source_id": "elen_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_clementi_elen",
+      "owner_id": "gabriele_clementi",
+      "owned_id": "market_elen_group",
+      "percentage": 9.512,
+      "note": "Direct ordinary-share capital interest at 31 December 2025.",
+      "source_id": "elen_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_ciliegio_elen",
+      "owner_id": "immobiliare_il_ciliegio",
+      "owned_id": "market_elen_group",
+      "percentage": 7.214,
+      "note": "Direct ordinary-share capital interest at 31 December 2025.",
+      "source_id": "elen_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_rosfin_rosetti",
+      "owner_id": "rosfin",
+      "owned_id": "market_rosetti_marino",
+      "percentage": 56.19,
+      "note": "Direct shareholding represented at the 29 April 2025 meeting.",
+      "source_id": "rosetti_shareholders_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_saipem_rosetti",
+      "owner_id": "market_saipem",
+      "owned_id": "market_rosetti_marino",
+      "percentage": 20,
+      "note": "Direct shareholding represented at the 29 April 2025 meeting.",
+      "source_id": "rosetti_shareholders_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cosmi_rosetti",
+      "owner_id": "cosmi_holding",
+      "owned_id": "market_rosetti_marino",
+      "percentage": 17.5,
+      "note": "Direct shareholding represented at the 29 April 2025 meeting.",
+      "source_id": "rosetti_shareholders_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_delacosta_oniverse",
+      "owner_id": "de_la_costa",
+      "owned_id": "oniverse",
+      "percentage": 100,
+      "note": "Oniverse identifies De la Costa as its single-member controlling shareholder.",
+      "source_id": "oniverse_control_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_divi_tods",
+      "owner_id": "divi_finanziaria",
+      "owned_id": "tods",
+      "percentage": 50.29,
+      "note": "Direct shareholding within the 54% Della Valle family control block.",
+      "source_id": "tods_shareholders_after_offer"
+    },
+    {
+      "kind": "owns",
+      "id": "own_ddv_tods",
+      "owner_id": "ddv",
+      "owned_id": "tods",
+      "percentage": 2.14,
+      "note": "Direct shareholding within the 54% Della Valle family control block.",
+      "source_id": "tods_shareholders_after_offer"
+    },
+    {
+      "kind": "owns",
+      "id": "own_diego_della_valle_tods",
+      "owner_id": "diego_della_valle",
+      "owned_id": "tods",
+      "percentage": 0.76,
+      "note": "Direct personal shareholding within the 54% Della Valle family control block.",
+      "source_id": "tods_shareholders_after_offer"
+    },
+    {
+      "kind": "owns",
+      "id": "own_andrea_della_valle_tods",
+      "owner_id": "andrea_della_valle",
+      "owned_id": "tods",
+      "percentage": 0.81,
+      "note": "Direct personal shareholding within the 54% Della Valle family control block.",
+      "source_id": "tods_shareholders_after_offer"
+    },
+    {
+      "kind": "owns",
+      "id": "own_crown_bidco_tods",
+      "owner_id": "crown_bidco",
+      "owned_id": "tods",
+      "percentage": 36,
+      "note": "Direct post-offer interest targeted and documented for L Catterton's acquisition vehicle.",
+      "source_id": "tods_shareholders_after_offer"
+    },
+    {
+      "kind": "owns",
+      "id": "own_delphine_tods",
+      "owner_id": "delphine_sas",
+      "owned_id": "tods",
+      "percentage": 10,
+      "note": "Direct minority interest retained by the LVMH-group vehicle.",
+      "source_id": "tods_shareholders_after_offer"
+    },
+    {
+      "kind": "owns",
+      "id": "own_marco_squinzi_emme_esse_vi",
+      "owner_id": "marco_squinzi",
+      "owned_id": "emme_esse_vi",
+      "percentage": 33.333,
+      "note": "Approximately one third of the family holding; the public source rounds each family member's interest.",
+      "source_id": "mapei_holding_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_veronica_squinzi_emme_esse_vi",
+      "owner_id": "veronica_squinzi",
+      "owned_id": "emme_esse_vi",
+      "percentage": 33.333,
+      "note": "Approximately one third of the family holding; the public source rounds each family member's interest.",
+      "source_id": "mapei_holding_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_simona_giorgetta_emme_esse_vi",
+      "owner_id": "simona_giorgetta",
+      "owned_id": "emme_esse_vi",
+      "percentage": 33.333,
+      "note": "Approximately one third of the family holding; the public source rounds each family member's interest.",
+      "source_id": "mapei_holding_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_emme_esse_vi_mapei",
+      "owner_id": "emme_esse_vi",
+      "owned_id": "mapei",
+      "percentage": 100,
+      "note": "The holding's sole participation is Mapei S.p.A.",
+      "source_id": "mapei_holding_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_nerio_oiren",
+      "owner_id": "nerio_alessandri",
+      "owned_id": "oiren",
+      "percentage": 100,
+      "note": "Direct full ownership documented in Technogym's listing prospectus; the current governance report continues to identify control through Oiren.",
+      "source_id": "technogym_oiren_chain"
     },
     {
       "kind": "family",

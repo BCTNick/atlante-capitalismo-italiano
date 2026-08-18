@@ -9,7 +9,7 @@ This file states exactly what “EUR 1 billion coverage” means in the 31 Decem
 - Wealth cutoff: USD 1.1731 billion. Forbes entries at USD 1.2 billion qualify; entries at USD 1.1 billion do not.
 - Listed-company universe: companies classified as Italian by CompaniesMarketCap with end-of-2025 market capitalization of at least EUR 1 billion.
 
-The graph has 250 nodes. It covers all 71 qualifying Forbes wealth entries and all 83 qualifying listed companies in the provider-defined Italian universe. Private-company coverage is intentionally relationship-driven rather than claimed as exhaustive, because private valuations are neither continuously observable nor collected in a complete public register.
+The graph has 352 nodes and 288 relationships backed by 214 source records. It covers all 71 qualifying Forbes wealth entries and all 83 qualifying listed companies in the provider-defined Italian universe. Private-company coverage is intentionally relationship-driven rather than claimed as exhaustive, because private valuations are neither continuously observable nor collected in a complete public register.
 
 ## Wealth-entry mapping
 
@@ -53,12 +53,12 @@ The number in the last column is the number of qualifying Forbes entries represe
 | Alberto and Marina Prada | Two individual nodes | Separate Bellatrix vehicles | 2 |
 | Nicola and Paolo Bulgari | Two individual nodes | No stale post-sale percentage drawn | 2 |
 | Massimo Moratti | `massimo_moratti` | No obsolete Saras edge after completed sale | 1 |
-| Sandro Veronesi and family | `sandro_veronesi_family` | Family aggregate | 1 |
+| Sandro Veronesi and family | `sandro_veronesi_family` | Named legal owner; wealth estimate includes family | 1 |
 | Giovanni Arvedi | `giovanni_arvedi` | Individual | 1 |
 | Filippo Ghirelli | `filippo_ghirelli` | Individual | 1 |
 | Diego Della Valle | `diego_della_valle` | Individual | 1 |
 | Susan Carol Holland | `holland_family` | Existing family-chain node | 1 |
-| Mario Moretti Polegato and family | `mario_moretti_polegato_family` | Family wealth node plus legal holders | 1 |
+| Mario Moretti Polegato and family | `mario_moretti_polegato` | Named legal holder; wealth estimate includes family | 1 |
 | Alessandro Rosano | `alessandro_rosano` | No obsolete HeyDude edge after completed sale | 1 |
 | Antonio Percassi | `percassi_family` | Family aggregate | 1 |
 | Simona Giorgetta | `simona_giorgetta` | Individual | 1 |
@@ -68,7 +68,9 @@ The number in the last column is the number of qualifying Forbes entries represe
 
 ## Listed companies
 
-There are 83 companies at or above the threshold. Twenty-nine were already represented by an existing ownership chain or were added with the wealth expansion; 54 additional nodes are grouped under `Listed market`. A standalone listed-company node means only that a material, source-backed controlling chain has not yet been added. It must not be read as evidence that the company has no large shareholders.
+There are 83 companies at or above the threshold. Twenty-nine were already represented by an existing ownership chain or were added with the wealth expansion; 54 additional nodes are grouped under `Listed market`. Research based primarily on 2025 annual reports, governance reports and official shareholder disclosures has added direct ownership relationships for 48 of those 54 companies.
+
+Six listed companies remain deliberately without an ownership edge: Prysmian, FinecoBank, Hera, Lottomatica, Azimut Holding and BFF Bank. They remain fully visible. In these cases the official evidence describes a dispersed shareholder base, an institutional or employee pool rather than a legal controlling owner, or no family/state controller suitable for this Atlas. A missing edge must not be read as evidence that the company has no shareholders.
 
 Every added market node links to its own historical market-cap page. Existing nodes keep their primary issuer, governance or annual-report source when that source provides a closer or more authoritative snapshot value.
 

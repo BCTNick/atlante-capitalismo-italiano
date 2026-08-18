@@ -8,6 +8,7 @@ const searchInput = document.querySelector("#search");
 const dataList = document.querySelector("#node-list");
 const stats = document.querySelector("#graph-stats");
 const snapshotSelect = document.querySelector("#snapshot-select");
+const unconnectedToggle = document.querySelector("#toggle-unconnected");
 const embedMode = document.documentElement.classList.contains("embed-mode");
 const embedControlsButton = document.querySelector("#embed-controls-button");
 
@@ -23,6 +24,7 @@ const state = {
   selectedGroup: "all",
   showOwnership: true,
   showFamily: true,
+  showUnconnected: false,
   sizeByValue: true,
   width: 0,
   height: 0,
@@ -100,7 +102,8 @@ function radiusFor(node) {
 }
 
 function isVisibleNode(node) {
-  return state.selectedGroup === "all" || node.groups.includes(state.selectedGroup);
+  const matchesGroup = state.selectedGroup === "all" || node.groups.includes(state.selectedGroup);
+  return matchesGroup && (state.showUnconnected || !node.isUnconnected);
 }
 
 function isVisibleEdge(edge) {
@@ -124,6 +127,8 @@ function initializeGraph(data) {
   state.selected = null;
   state.hover = null;
   state.selectedGroup = "all";
+  state.showUnconnected = false;
+  setToggle(unconnectedToggle, false);
   state.didInitialFit = false;
   state.alpha = 1;
   state.camera = { x: 0, y: 0, scale: 1 };
@@ -160,6 +165,12 @@ function initializeGraph(data) {
     groupFilter.append(option);
   });
 
+  const connectedNodeIds = new Set();
+  data.edges.forEach((edge) => {
+    connectedNodeIds.add(edge.owner_id || edge.person_a_id);
+    connectedNodeIds.add(edge.owned_id || edge.person_b_id);
+  });
+
   state.nodes = data.nodes.map((node) => {
     const anchor = anchors.get(node.groups[0]) || { x: 0, y: 0 };
     const theta = deterministic(`${node.id}-angle`) * Math.PI * 2;
@@ -173,6 +184,7 @@ function initializeGraph(data) {
       fixed: false,
       r: radiusFor(node),
       anchor,
+      isUnconnected: !connectedNodeIds.has(node.id),
     };
   });
   state.nodeById = new Map(state.nodes.map((node) => [node.id, node]));
@@ -572,7 +584,14 @@ function fitView() {
 function updateStats() {
   const nodes = state.nodes.filter(isVisibleNode);
   const edges = state.edges.filter(isVisibleEdge);
-  stats.innerHTML = `<strong>${nodes.length}</strong> nodes&nbsp;&nbsp;·&nbsp;&nbsp;<strong>${edges.length}</strong> relationships`;
+  const groupNodes = state.nodes.filter((node) =>
+    state.selectedGroup === "all" || node.groups.includes(state.selectedGroup)
+  );
+  const hidden = state.showUnconnected ? 0 : groupNodes.filter((node) => node.isUnconnected).length;
+  const hiddenLabel = hidden
+    ? `&nbsp;&nbsp;·&nbsp;&nbsp;<strong>${hidden}</strong> unconnected hidden`
+    : "";
+  stats.innerHTML = `<strong>${nodes.length}</strong> nodes&nbsp;&nbsp;·&nbsp;&nbsp;<strong>${edges.length}</strong> relationships${hiddenLabel}`;
 }
 
 function sourceLink(sourceId, label = "Node source") {
@@ -740,6 +759,10 @@ searchInput.addEventListener("change", () => {
   const node = state.nodes.find((item) => item.label.toLocaleLowerCase("en") === query)
     || state.nodes.find((item) => item.label.toLocaleLowerCase("en").includes(query));
   if (!node) return;
+  if (node.isUnconnected && !state.showUnconnected) {
+    state.showUnconnected = true;
+    setToggle(unconnectedToggle, true);
+  }
   if (!isVisibleNode(node)) {
     state.selectedGroup = "all";
     groupFilter.value = "all";
@@ -780,6 +803,17 @@ document.querySelector("#toggle-ownership").addEventListener("click", (event) =>
 document.querySelector("#toggle-family").addEventListener("click", (event) => {
   state.showFamily = !state.showFamily;
   setToggle(event.currentTarget, state.showFamily);
+  updateStats();
+});
+
+unconnectedToggle.addEventListener("click", (event) => {
+  state.showUnconnected = !state.showUnconnected;
+  setToggle(event.currentTarget, state.showUnconnected);
+  if (!state.showUnconnected && state.selected?.isUnconnected) selectNode(null);
+  state.hover = null;
+  state.nodes.forEach((node) => { node.fixed = false; });
+  state.alpha = 0.65;
+  window.setTimeout(fitView, 360);
   updateStats();
 });
 

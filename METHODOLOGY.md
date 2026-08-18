@@ -47,6 +47,21 @@ Family relationships connect people only and require a declared type such as `sp
 
 The `value_basis` field must briefly explain what the number represents. A value does not automatically measure the economic interest attributable to an owner.
 
+## EUR 1 billion coverage rule
+
+The expanded 2025 snapshot uses two reproducible universes:
+
+- people and families: the Forbes Italy ranking published on 16 December 2025, whose underlying estimates were dated 12 December 2025;
+- listed companies: companies classified as Italian by CompaniesMarketCap with an end-of-2025 market capitalization of at least EUR 1 billion.
+
+Forbes publishes its estimates in US dollars. They are converted using the ECB reference rate on 12 December 2025, EUR 1 = USD 1.1731. The qualifying cutoff is therefore USD 1.1731 billion: entries reported at USD 1.2 billion qualify, while USD 1.1 billion entries do not.
+
+Several ranked people can derive their wealth from the same family pool and the same ownership chain. In those cases the Atlas may use one family node whose value is the sum of the qualifying ranked entries. The coverage register maps those entries to the aggregate. This avoids drawing the same family asset several times and makes the graph answer its main question: which family is wealthy, and through which companies?
+
+The listed-company universe is exhaustive within the stated provider definition. No equivalent observable universe exists for private-company valuations. Private companies are therefore included when they are necessary to explain a covered person's or family's wealth, and their value remains `null` unless a sufficiently reliable public valuation is available.
+
+An included wealth node may have no ownership arrow. This is intentional when the fortune comes from a completed sale, when the asset is held through a trust that cannot legally be treated as owned by its beneficiary, or when no defensible 2025 percentage is public. Descriptions explain those cases; the Atlas does not invent a stake to make the graph look complete.
+
 ## Sources
 
 Every node and relationship contains a `source_id`. Preferred source order:

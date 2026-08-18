@@ -21,7 +21,7 @@ Or open it in my blog: <https://www.scognamiglionicola.com/atlante/app/index.htm
 
 | Date | Status | Nodes | Relationships |
 |---|---|---:|---:|
-| 31 December 2025 | published | 107 | 97 |
+| 31 December 2025 | published | 250 | 145 |
 
 Snapshots are independent, complete views rather than incremental updates. Entity IDs remain stable across years; stakes, values, relationships and sources belong to each individual snapshot.
 
@@ -46,6 +46,8 @@ Documented corrections, additional companies and new annual snapshots are welcom
 
 Core rule: **every node and every relationship must have a verifiable source**. Primary sources such as annual reports, corporate-governance reports, official disclosures, Consob documents and investor-relations websites are preferred.
 
+The 2025 expansion covers the 71 Forbes Italy wealth entries equivalent to at least EUR 1 billion and the 83 Italian listed companies whose year-end market capitalization met the same threshold. Related people can be represented by one family node when separate nodes would double-count the same ownership chain. See [COVERAGE_2025.md](COVERAGE_2025.md) for the boundary, aggregation map and known limitations.
+
 To check a change locally:
 
 ```bash
@@ -66,6 +68,7 @@ The initial research was produced with the assistance of OpenAI Codex (GPT 5.6 S
 ## Documentation
 
 - [Methodology and data model](METHODOLOGY.md)
+- [2025 coverage register](COVERAGE_2025.md)
 - [Contribution guidelines](CONTRIBUTING.md)
 - [Governance](GOVERNANCE.md)
 - [Disclaimer](DISCLAIMER.md)

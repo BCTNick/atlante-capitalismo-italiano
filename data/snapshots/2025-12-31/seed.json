@@ -4,7 +4,10 @@
     "snapshot_date": "2025-12-31",
     "currency": "EUR",
     "value_unit": "EUR billions",
-    "dataset_status": "published_snapshot"
+    "dataset_status": "published_snapshot",
+    "scope_note": "Expanded coverage of Italian wealth estimates at or above EUR 1 billion, using the Forbes Italy ranking published 16 December 2025 and the ECB reference exchange rate of 12 December 2025.",
+    "listed_company_threshold_eur_bn": 1,
+    "listed_company_universe_count": 83
   },
   "sources": [
     {
@@ -324,6 +327,588 @@
       "title": "CDP 2025 ownership structure",
       "publisher": "Cassa Depositi e Prestiti",
       "url": "https://www.cdp.it/internet/public/cms/documents/CDP_HYR_2025_ENG_PW.pdf"
+    },
+    {
+      "id": "ecb_fx_2025_12_12",
+      "title": "Euro exchange rates — 12 December 2025",
+      "publisher": "European Central Bank / Official Journal of the EU",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202506390"
+    },
+    {
+      "id": "pignataro_bloomberg_2025",
+      "title": "Andrea Pignataro",
+      "publisher": "Bloomberg Billionaires Index",
+      "url": "https://www.bloomberg.com/billionaires/profiles/andrea-pignataro/"
+    },
+    {
+      "id": "devasini_forbes_2025",
+      "title": "Giancarlo Devasini",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/profile/giancarlo-devasini/"
+    },
+    {
+      "id": "tether_forbes_ownership",
+      "title": "How Crypto Giant Tether's New CEO Is Remaking The Company",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/ninabambysheva/2024/05/09/how-crypto-giant-tethers-new-ceo-is-remaking-the-company-for-the-apocalypse/"
+    },
+    {
+      "id": "tenaris_annual_2025",
+      "title": "Tenaris Annual Report 2025",
+      "publisher": "Tenaris",
+      "url": "https://ir.tenaris.com/static-files/2408a2e7-23f9-4aae-aa00-ad40390a22b6"
+    },
+    {
+      "id": "tenaris_marketcap_2025",
+      "title": "Tenaris market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/tenaris/marketcap/"
+    },
+    {
+      "id": "stevanato_annual_2025",
+      "title": "Stevanato Group Form 20-F 2025",
+      "publisher": "Stevanato Group / SEC",
+      "url": "https://ir.stevanatogroup.com/sec-filings/content/0001193125-26-091540/stvn-20251231.htm"
+    },
+    {
+      "id": "stevanato_marketcap_2025",
+      "title": "Stevanato Group market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/de/stevanato/marktkapitalisierung/"
+    },
+    {
+      "id": "rosso_otb_ownership",
+      "title": "Diesel Jeans Mogul Is New Italian Billionaire",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/andreamurphy/2012/12/21/diesel-jeans-mogul-is-new-italian-billionaire/"
+    },
+    {
+      "id": "otb_report_2025",
+      "title": "OTB Group Consolidated Financial Statements 2025",
+      "publisher": "OTB Group",
+      "url": "https://otb-strapi-prod-assets.otb-frame.com/OTB_Group_Consolidated_Financial_Statements_2025_517c327b49.pdf"
+    },
+    {
+      "id": "coesia_group_2025",
+      "title": "Coesia group profile",
+      "publisher": "Coesia",
+      "url": "https://www.coesia.com/en/group/coesia"
+    },
+    {
+      "id": "perfetti_forbes_2025",
+      "title": "Giorgio Perfetti",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/profile/giorgio-perfetti/"
+    },
+    {
+      "id": "perfetti_legal_2025",
+      "title": "Perfetti Van Melle legal information",
+      "publisher": "Perfetti Van Melle",
+      "url": "https://www.perfettivanmelle.com/services/legal/"
+    },
+    {
+      "id": "maire_shareholders_2025",
+      "title": "Ordinary Shareholders' Meeting of MAIRE held on 14 April 2025",
+      "publisher": "MAIRE",
+      "url": "https://www.groupmaire.com/en/newsroom/press-releases/detail/ordinary-shareholders-meeting-of-maire-spa-held-on-14-april-2025/"
+    },
+    {
+      "id": "maire_marketcap_2025",
+      "title": "MAIRE market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/maire-tecnimont/marketcap/"
+    },
+    {
+      "id": "dolce_gabbana_ownership",
+      "title": "Dolce & Gabbana ownership and governance",
+      "publisher": "Cinco Días",
+      "url": "https://cincodias.elpais.com/companias/2026-04-13/dolce-gabbana-ficha-al-exdirector-general-de-gucci-stefano-cantino-para-codirigir-la-firma-tras-la-salida-de-su-presidente.html"
+    },
+    {
+      "id": "beretta_forbes_2025",
+      "title": "How This 16th-Century Gunmaker Keeps Reinventing Itself",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/giacomotognini/2025/03/25/how-this-16th-century-gunmaker-keeps-reinventing-itself/"
+    },
+    {
+      "id": "campari_annual_2025",
+      "title": "Campari Group Annual Report at 31 December 2025",
+      "publisher": "Campari Group",
+      "url": "https://www.camparigroup.com/sites/default/files/downloads/Campari%20Group%20Annual%20Report%20at%2031%20December%202025.pdf"
+    },
+    {
+      "id": "armani_inheritance_2025",
+      "title": "Giorgio Armani's will gives heirs stakes in the fashion house",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/98555730af55f504727d78b9360737e4"
+    },
+    {
+      "id": "diasorin_ownership_2025",
+      "title": "DiaSorin Shareholders' Meeting — board appointments and principal shareholder",
+      "publisher": "DiaSorin",
+      "url": "https://int.diasorin.com/sites/default/files/press-releases/2025%2004%2028%20Comunicato%20stampa%20post%20assemblea%20e%20nomine%20CdA%20%28ENG%29.pdf"
+    },
+    {
+      "id": "diasorin_marketcap_2025",
+      "title": "DiaSorin market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/diasorin/marketcap/"
+    },
+    {
+      "id": "minozzi_forbes_2025",
+      "title": "Romano Minozzi",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/profile/romano-minozzi/"
+    },
+    {
+      "id": "iris_governance_2025",
+      "title": "Iris Ceramica Group governance",
+      "publisher": "Iris Ceramica Group",
+      "url": "https://www.irisceramicagroup.com/group/governance/"
+    },
+    {
+      "id": "minozzi_eni_2025",
+      "title": "Romano Minozzi public holdings",
+      "publisher": "MarketScreener",
+      "url": "https://www.marketscreener.com/insider/ROMANO-MINOZZI-A03RMO/"
+    },
+    {
+      "id": "technogym_governance_2025",
+      "title": "Technogym Corporate Governance and Ownership Structure Report 2025",
+      "publisher": "Technogym",
+      "url": "https://corporate.technogym.com/~/media/Files/T/Technogym-Corporate/investor-relations/shareholder-meetings/2026/report-corporate-governance-and-ownership-structure.pdf"
+    },
+    {
+      "id": "technogym_marketcap_2025",
+      "title": "Technogym market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/technogym/marketcap/"
+    },
+    {
+      "id": "lefebvre_heritage_2025",
+      "title": "Manfredi Lefebvre and Heritage Group",
+      "publisher": "Manfredi Lefebvre",
+      "url": "https://www.manfredilefebvre.com/"
+    },
+    {
+      "id": "lefebvre_ak_ownership",
+      "title": "Our strength lies in intelligent diversification",
+      "publisher": "Journal des Palaces",
+      "url": "https://www.journaldespalaces.com/en/article-76838-leader-manfredi-lefebvre-d-ovidio-executive-chairman-heritage-group-our-strength-lies-in-intelligent-diversification.html"
+    },
+    {
+      "id": "bulgari_forbes_2025",
+      "title": "Paolo Bulgari",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/profile/paolo-bulgari/"
+    },
+    {
+      "id": "oniverse_control_2025",
+      "title": "Oniverse corporate governance",
+      "publisher": "Oniverse",
+      "url": "https://www.oniverse.it/en/organization/corporate-governance"
+    },
+    {
+      "id": "arvedi_forbes_2025",
+      "title": "Giovanni Arvedi",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/profile/giovanni-arvedi/"
+    },
+    {
+      "id": "finarvedi_group_2025",
+      "title": "Finarvedi and the Arvedi Group",
+      "publisher": "Arvedi Group",
+      "url": "https://www.arvedi.it/azienda/finarvedi-e-il-gruppo/"
+    },
+    {
+      "id": "tods_offer_2024",
+      "title": "Tod's voluntary tender offer announcement",
+      "publisher": "Tod's Group",
+      "url": "https://www.todsgroup.com/sites/default/files/2024-03/Communication-ex-art102-TUF-10-02-24-ENG.pdf"
+    },
+    {
+      "id": "geox_annual_2025",
+      "title": "Geox Annual Financial Report 2025",
+      "publisher": "Geox",
+      "url": "https://www.geox.biz/static/bilancio/relazione-finanziaria-2025.html"
+    },
+    {
+      "id": "rosano_forbes_2025",
+      "title": "Alessandro Rosano",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/profile/alessandro-rosano/"
+    },
+    {
+      "id": "kiko_lcatterton_2024",
+      "title": "L Catterton acquires majority stake in KIKO Milano",
+      "publisher": "L Catterton",
+      "url": "https://www.prnewswire.com/news-releases/l-catterton-acquires-majority-stake-in-kiko-milano-from-percassi-family-302128682.html"
+    },
+    {
+      "id": "percassi_kiko_2025",
+      "title": "Percassi holding closes 2024 accounts",
+      "publisher": "Atalantini Online",
+      "url": "https://atalantini.online/blog/la-holding-dei-percassi-chiude-il-bilancio-2024-in-utile-per-760-milioni"
+    },
+    {
+      "id": "mapei_forbes_2025",
+      "title": "Simona Giorgetta",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/profile/simona-giorgetta/"
+    },
+    {
+      "id": "mapei_family_ownership",
+      "title": "The Squinzi family's Mapei ownership",
+      "publisher": "Money.it",
+      "url": "https://www.money.it/a-quanto-ammonta-il-patrimonio-della-famiglia-squinzi-alla-guida-del-colosso-italiano-mapei"
+    },
+    {
+      "id": "esselunga_ownership_2020",
+      "title": "Giuliana and Marina Caprotti acquire control of 100% of Esselunga",
+      "publisher": "Esselunga",
+      "url": "https://www.esselunga.it/media/investor-relations/financial-releases/2020/giulianaalbera-caprotti-and-marina-sylvia-caprotti-acquire-control-of-100-of-esselunga.pdf"
+    },
+    {
+      "id": "iervolino_forbes_2025",
+      "title": "Danilo Iervolino",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/profile/danilo-iervolino/"
+    },
+    {
+      "id": "ghirelli_forbes_2025",
+      "title": "Filippo Ghirelli",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/profile/filippo-ghirelli/"
+    },
+    {
+      "id": "nayara_ownership_2023",
+      "title": "Hara Capital completes purchase of Trafigura's interest in Nayara Energy",
+      "publisher": "Trafigura",
+      "url": "https://www.trafigura.com/news-and-insights/press-releases/2023/hara-capital-sarl-completes-purchase-of-trafiguras-interest-in-nayara-energy/"
+    },
+    {
+      "id": "marketcap_2025_poste_italiane",
+      "title": "Poste Italiane market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/poste-italiane/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_prysmian_group",
+      "title": "Prysmian Group market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/prysmian-group/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_snam",
+      "title": "Snam market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/snam/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_terna",
+      "title": "Terna market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/terna/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_finecobank",
+      "title": "FinecoBank market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/finecobank/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_edison",
+      "title": "Edison market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/edison/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_telecom_italia",
+      "title": "Telecom Italia market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/telecom-italia/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_recordati",
+      "title": "Recordati market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/recordati/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_italgas",
+      "title": "Italgas market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/italgas/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_buzzi_unicem",
+      "title": "Buzzi Unicem market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/buzzi-unicem/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_banca_popolare_di_sondrio",
+      "title": "Banca Popolare di Sondrio market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/banca-popolare-di-sondrio/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_inwit",
+      "title": "INWIT market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/inwit/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_banca_generali",
+      "title": "Banca Generali market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/banca-generali/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_hera",
+      "title": "Hera Group market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/hera/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_pirelli",
+      "title": "Pirelli market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/pirelli/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_lottomatica_group",
+      "title": "Lottomatica Group market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/lottomatica-group/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_credito_emiliano",
+      "title": "Credito Emiliano market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/credito-emiliano/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_azimut_holding",
+      "title": "Azimut Holding market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/azimut-holding/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_iveco_group",
+      "title": "Iveco Group market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/iveco-group/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_interpump_group",
+      "title": "Interpump Group market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/interpump-group/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_nexi",
+      "title": "Nexi market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/nexi/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_saipem",
+      "title": "Saipem market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/saipem/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_acea",
+      "title": "ACEA market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/acea/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_sol_italy",
+      "title": "SOL S.p.A. market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/sol-italy/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_reply",
+      "title": "Reply market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/reply/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_danieli_c_officine_meccaniche",
+      "title": "Danieli & C. Officine Meccaniche market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/danieli-c-officine-meccaniche/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_webuild",
+      "title": "Webuild S.p.A. market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/webuild/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_iren",
+      "title": "Iren market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/iren/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_erg",
+      "title": "ERG market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/erg/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_cementir",
+      "title": "Cementir market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/cementir/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_carel_industries",
+      "title": "Carel Industries market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/carel-industries/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_enav",
+      "title": "ENAV market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/enav/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_ermenegildo_zegna",
+      "title": "Ermenegildo Zegna market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/ermenegildo-zegna/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_anima_holding",
+      "title": "Anima Holding market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/anima-holding/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_bff_bank",
+      "title": "BFF Bank market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/bff-bank/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_ariston_holding",
+      "title": "Ariston Holding market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/ariston-holding/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_banca_ifis",
+      "title": "Banca IFIS market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/banca-ifis/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_rai_way",
+      "title": "Rai Way market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/rai-way/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_industrie_de_nora",
+      "title": "Industrie De Nora market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/industrie-de-nora/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_moltiply_group",
+      "title": "Moltiply Group market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/moltiply-group/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_avio_spa",
+      "title": "Avio S.p.A. market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/avio-spa/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_sesa",
+      "title": "SeSa S.p.A. market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/sesa/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_comer_industries",
+      "title": "Comer Industries market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/comer-industries/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_banco_di_desio_e_della_brianza",
+      "title": "Banco di Desio e della Brianza market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/banco-di-desio-e-della-brianza/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_italmobiliare",
+      "title": "Italmobiliare market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/italmobiliare/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_ovs_spa",
+      "title": "OVS S.p.A. market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/ovs-spa/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_cembre_spa",
+      "title": "Cembre S.p.A. market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/cembre-spa/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_elen_group",
+      "title": "EL.En. S.p.A. market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/elen-group/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_juventus_turin",
+      "title": "Juventus Turin market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/juventus-turin/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_bfspa",
+      "title": "B.F. S.p.A. market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/bfspa/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_sanlorenzo",
+      "title": "Sanlorenzo market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/sanlorenzo/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_intercos",
+      "title": "Intercos market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/intercos/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_rosetti_marino",
+      "title": "Rosetti Marino market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/rosetti-marino/marketcap/"
+    },
+    {
+      "id": "marketcap_2025_ferretti",
+      "title": "Ferretti market capitalization history",
+      "publisher": "CompaniesMarketCap",
+      "url": "https://companiesmarketcap.com/eur/ferretti/marketcap/"
     }
   ],
   "group_locations": [
@@ -632,6 +1217,267 @@
       "longitude": 13.7768,
       "offset_x": 170,
       "offset_y": 90
+    },
+    {
+      "group_name": "ION-Pignataro",
+      "city": "Bologna",
+      "region": "Emilia-Romagna",
+      "latitude": 44.4949,
+      "longitude": 11.3426,
+      "offset_x": -175,
+      "offset_y": -85
+    },
+    {
+      "group_name": "Tether",
+      "city": "Torino",
+      "region": "Piemonte",
+      "latitude": 45.0703,
+      "longitude": 7.6869,
+      "offset_x": -150,
+      "offset_y": 70
+    },
+    {
+      "group_name": "Rocca-Techint",
+      "city": "Milano",
+      "region": "Lombardia",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "offset_x": 175,
+      "offset_y": -125
+    },
+    {
+      "group_name": "Stevanato",
+      "city": "Piombino Dese",
+      "region": "Veneto",
+      "latitude": 45.6097,
+      "longitude": 11.9962,
+      "offset_x": 185,
+      "offset_y": -20
+    },
+    {
+      "group_name": "Rosso-OTB",
+      "city": "Breganze",
+      "region": "Veneto",
+      "latitude": 45.7041,
+      "longitude": 11.5628,
+      "offset_x": 130,
+      "offset_y": 95
+    },
+    {
+      "group_name": "Seragnoli-Coesia",
+      "city": "Bologna",
+      "region": "Emilia-Romagna",
+      "latitude": 44.4949,
+      "longitude": 11.3426,
+      "offset_x": -45,
+      "offset_y": 135
+    },
+    {
+      "group_name": "Perfetti",
+      "city": "Lainate",
+      "region": "Lombardia",
+      "latitude": 45.5718,
+      "longitude": 9.0268,
+      "offset_x": -165,
+      "offset_y": -125
+    },
+    {
+      "group_name": "Di Amato-MAIRE",
+      "city": "Roma",
+      "region": "Lazio",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "offset_x": 155,
+      "offset_y": -105
+    },
+    {
+      "group_name": "Dolce-Gabbana",
+      "city": "Milano",
+      "region": "Lombardia",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "offset_x": 25,
+      "offset_y": 155
+    },
+    {
+      "group_name": "Beretta",
+      "city": "Gardone Val Trompia",
+      "region": "Lombardia",
+      "latitude": 45.6917,
+      "longitude": 10.1861,
+      "offset_x": 180,
+      "offset_y": 95
+    },
+    {
+      "group_name": "Garavoglia-Campari",
+      "city": "Milano",
+      "region": "Lombardia",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "offset_x": -205,
+      "offset_y": 35
+    },
+    {
+      "group_name": "Armani",
+      "city": "Milano",
+      "region": "Lombardia",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "offset_x": 195,
+      "offset_y": 35
+    },
+    {
+      "group_name": "Denegri-DiaSorin",
+      "city": "Saluggia",
+      "region": "Piemonte",
+      "latitude": 45.2366,
+      "longitude": 8.0145,
+      "offset_x": -190,
+      "offset_y": -35
+    },
+    {
+      "group_name": "Minozzi-Iris",
+      "city": "Fiorano Modenese",
+      "region": "Emilia-Romagna",
+      "latitude": 44.5388,
+      "longitude": 10.8115,
+      "offset_x": 160,
+      "offset_y": -105
+    },
+    {
+      "group_name": "Alessandri-Technogym",
+      "city": "Cesena",
+      "region": "Emilia-Romagna",
+      "latitude": 44.1391,
+      "longitude": 12.2431,
+      "offset_x": 190,
+      "offset_y": 40
+    },
+    {
+      "group_name": "Lefebvre-Heritage",
+      "city": "Roma",
+      "region": "Lazio",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "offset_x": -170,
+      "offset_y": 100
+    },
+    {
+      "group_name": "Bulgari",
+      "city": "Roma",
+      "region": "Lazio",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "offset_x": -20,
+      "offset_y": -160
+    },
+    {
+      "group_name": "Moratti",
+      "city": "Milano",
+      "region": "Lombardia",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "offset_x": -65,
+      "offset_y": 205
+    },
+    {
+      "group_name": "Veronesi-Oniverse",
+      "city": "Verona",
+      "region": "Veneto",
+      "latitude": 45.4384,
+      "longitude": 10.9916,
+      "offset_x": 175,
+      "offset_y": 155
+    },
+    {
+      "group_name": "Arvedi",
+      "city": "Cremona",
+      "region": "Lombardia",
+      "latitude": 45.1332,
+      "longitude": 10.0227,
+      "offset_x": -165,
+      "offset_y": 135
+    },
+    {
+      "group_name": "Della Valle-Tod's",
+      "city": "Sant'Elpidio a Mare",
+      "region": "Marche",
+      "latitude": 43.2298,
+      "longitude": 13.6861,
+      "offset_x": 150,
+      "offset_y": -70
+    },
+    {
+      "group_name": "Moretti Polegato-Geox",
+      "city": "Montebelluna",
+      "region": "Veneto",
+      "latitude": 45.7753,
+      "longitude": 12.0381,
+      "offset_x": 40,
+      "offset_y": -165
+    },
+    {
+      "group_name": "Rosano",
+      "city": "Pistoia",
+      "region": "Toscana",
+      "latitude": 43.9335,
+      "longitude": 10.9177,
+      "offset_x": -165,
+      "offset_y": 15
+    },
+    {
+      "group_name": "Percassi",
+      "city": "Bergamo",
+      "region": "Lombardia",
+      "latitude": 45.6983,
+      "longitude": 9.6773,
+      "offset_x": 85,
+      "offset_y": -180
+    },
+    {
+      "group_name": "Giorgetta-Mapei",
+      "city": "Milano",
+      "region": "Lombardia",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "offset_x": 215,
+      "offset_y": -205
+    },
+    {
+      "group_name": "Caprotti-Esselunga",
+      "city": "Milano",
+      "region": "Lombardia",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "offset_x": -225,
+      "offset_y": -205
+    },
+    {
+      "group_name": "Iervolino",
+      "city": "Roma",
+      "region": "Lazio",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "offset_x": 185,
+      "offset_y": 110
+    },
+    {
+      "group_name": "Ghirelli-Mareterra",
+      "city": "Roma",
+      "region": "Lazio",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "offset_x": -190,
+      "offset_y": -75
+    },
+    {
+      "group_name": "Listed market",
+      "city": "Milano",
+      "region": "Lombardia",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "offset_x": 0,
+      "offset_y": 340
     }
   ],
   "logos": {
@@ -1004,6 +1850,501 @@
       "asset_path": "assets/logos/fincantieri.png",
       "mark": "FC",
       "background": "#005b93"
+    },
+    "ion_investment_group": {
+      "asset_path": null,
+      "mark": "ION",
+      "background": "#11253b"
+    },
+    "tether_holdings": {
+      "asset_path": null,
+      "mark": "₮",
+      "background": "#26a17b"
+    },
+    "san_faustin": {
+      "asset_path": null,
+      "mark": "SF",
+      "background": "#465364"
+    },
+    "techint_holdings": {
+      "asset_path": null,
+      "mark": "TH",
+      "background": "#1b5791"
+    },
+    "tenaris": {
+      "asset_path": null,
+      "mark": "TEN",
+      "background": "#005596"
+    },
+    "stevanato_holding": {
+      "asset_path": null,
+      "mark": "SH",
+      "background": "#3e6077"
+    },
+    "stevanato_group": {
+      "asset_path": null,
+      "mark": "STV",
+      "background": "#006f91"
+    },
+    "otb_group": {
+      "asset_path": null,
+      "mark": "OTB",
+      "background": "#111111"
+    },
+    "coesia": {
+      "asset_path": null,
+      "mark": "CO",
+      "background": "#e2202c"
+    },
+    "perfetti_van_melle": {
+      "asset_path": null,
+      "mark": "PVM",
+      "background": "#e31b23"
+    },
+    "glv_capital": {
+      "asset_path": null,
+      "mark": "GLV",
+      "background": "#42536a"
+    },
+    "maire": {
+      "asset_path": null,
+      "mark": "M",
+      "background": "#ed1c24"
+    },
+    "dolce_gabbana_holding": {
+      "asset_path": null,
+      "mark": "D&G",
+      "background": "#111111"
+    },
+    "dolce_gabbana": {
+      "asset_path": null,
+      "mark": "DG",
+      "background": "#111111"
+    },
+    "beretta_holding": {
+      "asset_path": null,
+      "mark": "PB",
+      "background": "#1c3827"
+    },
+    "lagfin": {
+      "asset_path": null,
+      "mark": "LF",
+      "background": "#8b171b"
+    },
+    "campari": {
+      "asset_path": null,
+      "mark": "C",
+      "background": "#c8102e"
+    },
+    "giorgio_armani_foundation": {
+      "asset_path": null,
+      "mark": "GA",
+      "background": "#2e2e2e"
+    },
+    "giorgio_armani_spa": {
+      "asset_path": null,
+      "mark": "GA",
+      "background": "#111111"
+    },
+    "ip_investimenti": {
+      "asset_path": null,
+      "mark": "IP",
+      "background": "#35556f"
+    },
+    "diasorin": {
+      "asset_path": null,
+      "mark": "DIA",
+      "background": "#0067a5"
+    },
+    "iris_ceramica_group": {
+      "asset_path": null,
+      "mark": "IRIS",
+      "background": "#41524c"
+    },
+    "oiren": {
+      "asset_path": null,
+      "mark": "O",
+      "background": "#515e69"
+    },
+    "tgh": {
+      "asset_path": null,
+      "mark": "TGH",
+      "background": "#364c5c"
+    },
+    "technogym": {
+      "asset_path": null,
+      "mark": "TG",
+      "background": "#f5b400"
+    },
+    "lefebvre_family_trust": {
+      "asset_path": null,
+      "mark": "LFT",
+      "background": "#645a4c"
+    },
+    "heritage_group": {
+      "asset_path": null,
+      "mark": "HG",
+      "background": "#162f49"
+    },
+    "abercrombie_kent": {
+      "asset_path": null,
+      "mark": "A&K",
+      "background": "#9a7629"
+    },
+    "rigel": {
+      "asset_path": null,
+      "mark": "R",
+      "background": "#76699e"
+    },
+    "mirar": {
+      "asset_path": null,
+      "mark": "MR",
+      "background": "#76699e"
+    },
+    "de_la_costa": {
+      "asset_path": null,
+      "mark": "DLC",
+      "background": "#3a5867"
+    },
+    "oniverse": {
+      "asset_path": null,
+      "mark": "ON",
+      "background": "#1c3557"
+    },
+    "finarvedi": {
+      "asset_path": null,
+      "mark": "FA",
+      "background": "#39546c"
+    },
+    "ddv": {
+      "asset_path": null,
+      "mark": "DDV",
+      "background": "#405064"
+    },
+    "tods": {
+      "asset_path": null,
+      "mark": "T",
+      "background": "#a47d4e"
+    },
+    "lir": {
+      "asset_path": null,
+      "mark": "LIR",
+      "background": "#425f6d"
+    },
+    "geox": {
+      "asset_path": null,
+      "mark": "GEOX",
+      "background": "#174a7e"
+    },
+    "odissea": {
+      "asset_path": null,
+      "mark": "OD",
+      "background": "#4a5563"
+    },
+    "kiko_milano": {
+      "asset_path": null,
+      "mark": "KIKO",
+      "background": "#111111"
+    },
+    "mapei": {
+      "asset_path": null,
+      "mark": "MAP",
+      "background": "#0075bf"
+    },
+    "supermarkets_italiani": {
+      "asset_path": null,
+      "mark": "SI",
+      "background": "#3b5e69"
+    },
+    "esselunga": {
+      "asset_path": null,
+      "mark": "ES",
+      "background": "#ee1b24"
+    },
+    "mareterra_group": {
+      "asset_path": null,
+      "mark": "MT",
+      "background": "#34536a"
+    },
+    "hara_capital": {
+      "asset_path": null,
+      "mark": "HC",
+      "background": "#556370"
+    },
+    "nayara_energy": {
+      "asset_path": null,
+      "mark": "NE",
+      "background": "#ed6c21"
+    },
+    "market_poste_italiane": {
+      "asset_path": null,
+      "mark": "PI",
+      "background": "#235f72"
+    },
+    "market_prysmian_group": {
+      "asset_path": null,
+      "mark": "PG",
+      "background": "#235f72"
+    },
+    "market_snam": {
+      "asset_path": null,
+      "mark": "SNAM",
+      "background": "#235f72"
+    },
+    "market_terna": {
+      "asset_path": null,
+      "mark": "TERN",
+      "background": "#235f72"
+    },
+    "market_finecobank": {
+      "asset_path": null,
+      "mark": "FINE",
+      "background": "#235f72"
+    },
+    "market_edison": {
+      "asset_path": null,
+      "mark": "EDIS",
+      "background": "#235f72"
+    },
+    "market_telecom_italia": {
+      "asset_path": null,
+      "mark": "TI",
+      "background": "#235f72"
+    },
+    "market_recordati": {
+      "asset_path": null,
+      "mark": "RECO",
+      "background": "#235f72"
+    },
+    "market_italgas": {
+      "asset_path": null,
+      "mark": "ITAL",
+      "background": "#235f72"
+    },
+    "market_buzzi_unicem": {
+      "asset_path": null,
+      "mark": "BU",
+      "background": "#235f72"
+    },
+    "market_banca_popolare_di_sondrio": {
+      "asset_path": null,
+      "mark": "BPD",
+      "background": "#235f72"
+    },
+    "market_inwit": {
+      "asset_path": null,
+      "mark": "INWI",
+      "background": "#235f72"
+    },
+    "market_banca_generali": {
+      "asset_path": null,
+      "mark": "BG",
+      "background": "#235f72"
+    },
+    "market_hera": {
+      "asset_path": null,
+      "mark": "HG",
+      "background": "#235f72"
+    },
+    "market_pirelli": {
+      "asset_path": null,
+      "mark": "PIRE",
+      "background": "#235f72"
+    },
+    "market_lottomatica_group": {
+      "asset_path": null,
+      "mark": "LG",
+      "background": "#235f72"
+    },
+    "market_credito_emiliano": {
+      "asset_path": null,
+      "mark": "CE",
+      "background": "#235f72"
+    },
+    "market_azimut_holding": {
+      "asset_path": null,
+      "mark": "AH",
+      "background": "#235f72"
+    },
+    "market_iveco_group": {
+      "asset_path": null,
+      "mark": "IG",
+      "background": "#235f72"
+    },
+    "market_interpump_group": {
+      "asset_path": null,
+      "mark": "IG",
+      "background": "#235f72"
+    },
+    "market_nexi": {
+      "asset_path": null,
+      "mark": "NEXI",
+      "background": "#235f72"
+    },
+    "market_saipem": {
+      "asset_path": null,
+      "mark": "SAIP",
+      "background": "#235f72"
+    },
+    "market_acea": {
+      "asset_path": null,
+      "mark": "ACEA",
+      "background": "#235f72"
+    },
+    "market_sol_italy": {
+      "asset_path": null,
+      "mark": "SSP",
+      "background": "#235f72"
+    },
+    "market_reply": {
+      "asset_path": null,
+      "mark": "REPL",
+      "background": "#235f72"
+    },
+    "market_danieli_c_officine_meccaniche": {
+      "asset_path": null,
+      "mark": "DCO",
+      "background": "#235f72"
+    },
+    "market_webuild": {
+      "asset_path": null,
+      "mark": "WSP",
+      "background": "#235f72"
+    },
+    "market_iren": {
+      "asset_path": null,
+      "mark": "IREN",
+      "background": "#235f72"
+    },
+    "market_erg": {
+      "asset_path": null,
+      "mark": "ERG",
+      "background": "#235f72"
+    },
+    "market_cementir": {
+      "asset_path": null,
+      "mark": "CEME",
+      "background": "#235f72"
+    },
+    "market_carel_industries": {
+      "asset_path": null,
+      "mark": "CI",
+      "background": "#235f72"
+    },
+    "market_enav": {
+      "asset_path": null,
+      "mark": "ENAV",
+      "background": "#235f72"
+    },
+    "market_ermenegildo_zegna": {
+      "asset_path": null,
+      "mark": "EZ",
+      "background": "#235f72"
+    },
+    "market_anima_holding": {
+      "asset_path": null,
+      "mark": "AH",
+      "background": "#235f72"
+    },
+    "market_bff_bank": {
+      "asset_path": null,
+      "mark": "BB",
+      "background": "#235f72"
+    },
+    "market_ariston_holding": {
+      "asset_path": null,
+      "mark": "AH",
+      "background": "#235f72"
+    },
+    "market_banca_ifis": {
+      "asset_path": null,
+      "mark": "BI",
+      "background": "#235f72"
+    },
+    "market_rai_way": {
+      "asset_path": null,
+      "mark": "RW",
+      "background": "#235f72"
+    },
+    "market_industrie_de_nora": {
+      "asset_path": null,
+      "mark": "IDN",
+      "background": "#235f72"
+    },
+    "market_moltiply_group": {
+      "asset_path": null,
+      "mark": "MG",
+      "background": "#235f72"
+    },
+    "market_avio_spa": {
+      "asset_path": null,
+      "mark": "ASP",
+      "background": "#235f72"
+    },
+    "market_sesa": {
+      "asset_path": null,
+      "mark": "SSP",
+      "background": "#235f72"
+    },
+    "market_comer_industries": {
+      "asset_path": null,
+      "mark": "CI",
+      "background": "#235f72"
+    },
+    "market_banco_di_desio_e_della_brianza": {
+      "asset_path": null,
+      "mark": "BDD",
+      "background": "#235f72"
+    },
+    "market_italmobiliare": {
+      "asset_path": null,
+      "mark": "ITAL",
+      "background": "#235f72"
+    },
+    "market_ovs_spa": {
+      "asset_path": null,
+      "mark": "OSP",
+      "background": "#235f72"
+    },
+    "market_cembre_spa": {
+      "asset_path": null,
+      "mark": "CSP",
+      "background": "#235f72"
+    },
+    "market_elen_group": {
+      "asset_path": null,
+      "mark": "EES",
+      "background": "#235f72"
+    },
+    "market_juventus_turin": {
+      "asset_path": null,
+      "mark": "JT",
+      "background": "#235f72"
+    },
+    "market_bfspa": {
+      "asset_path": null,
+      "mark": "BFS",
+      "background": "#235f72"
+    },
+    "market_sanlorenzo": {
+      "asset_path": null,
+      "mark": "SANL",
+      "background": "#235f72"
+    },
+    "market_intercos": {
+      "asset_path": null,
+      "mark": "INTE",
+      "background": "#235f72"
+    },
+    "market_rosetti_marino": {
+      "asset_path": null,
+      "mark": "RM",
+      "background": "#235f72"
+    },
+    "market_ferretti": {
+      "asset_path": null,
+      "mark": "FERR",
+      "background": "#235f72"
     }
   },
   "nodes": [
@@ -1013,8 +2354,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "Executive chairman of the Ferrero group. Forbes wealth of $41.3 billion as of 12 December 2025.",
-      "value_eur_bn": 35.1,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 35.206,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Ferrero"
@@ -1026,8 +2367,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "Widow of Michele Ferrero and mother of Giovanni Ferrero. Forbes wealth of $2.3 billion.",
-      "value_eur_bn": 2,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 1.961,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Ferrero"
@@ -1052,8 +2393,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
-      "value_eur_bn": 6.4,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 6.393,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1065,8 +2406,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
-      "value_eur_bn": 6.4,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 6.393,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1078,8 +2419,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
-      "value_eur_bn": 6.4,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 6.393,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1091,8 +2432,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
-      "value_eur_bn": 6.4,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 6.393,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1104,8 +2445,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
-      "value_eur_bn": 6.4,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 6.393,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1117,8 +2458,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "One of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
-      "value_eur_bn": 6.4,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 6.393,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1130,8 +2471,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "Widow of Leonardo Del Vecchio and one of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
-      "value_eur_bn": 6.4,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 6.393,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1143,8 +2484,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "Son of Nicoletta Zampillo and one of the eight heirs who own Delfin. Forbes wealth of $7.5 billion.",
-      "value_eur_bn": 6.4,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 6.393,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Del Vecchio"
@@ -1250,8 +2591,8 @@
       "category": "subject",
       "subtype": "family",
       "description": "Aggregate node representing the four family branches that control Edizione.",
-      "value_eur_bn": 9.1,
-      "value_basis": "Partial sum of Forbes wealth estimates for ranked family members",
+      "value_eur_bn": 9.121,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Benetton",
@@ -1317,8 +2658,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "Designer and ultimate shareholder in the Prada chain. Forbes wealth of $4.9 billion.",
-      "value_eur_bn": 4.2,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 4.177,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Prada-Bertelli"
@@ -1330,8 +2671,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "Chairman of the Prada group. Forbes wealth of $4.9 billion.",
-      "value_eur_bn": 4.2,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 4.177,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Prada-Bertelli"
@@ -1421,8 +2762,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "Son of Enzo Ferrari. Forbes wealth of $7.6 billion.",
-      "value_eur_bn": 6.5,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 6.479,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Ferrari"
@@ -1486,8 +2827,8 @@
       "category": "subject",
       "subtype": "family",
       "description": "Aggregate node for Amplifon's founding family, with Susan Carol Holland disclosed as the beneficiary of the Ampliter stake.",
-      "value_eur_bn": 1.2,
-      "value_basis": "Susan Carol Holland's Forbes wealth converted into euros",
+      "value_eur_bn": 1.193,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Holland-Amplifon"
@@ -1525,8 +2866,8 @@
       "category": "subject",
       "subtype": "family",
       "description": "Founding family of Technoprobe and owner of the T-Plus holding. Forbes wealth of $6.9 billion.",
-      "value_eur_bn": 5.9,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 5.882,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Crippa-Technoprobe"
@@ -1564,8 +2905,8 @@
       "category": "subject",
       "subtype": "person",
       "description": "Chairman and reference shareholder of Moncler. Forbes wealth of $3.7 billion.",
-      "value_eur_bn": 3.1,
-      "value_basis": "Forbes wealth converted approximately into euros",
+      "value_eur_bn": 3.154,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
       "groups": [
         "Ruffini-Moncler"
@@ -1642,8 +2983,8 @@
       "category": "subject",
       "subtype": "family",
       "description": "Lucia and Alberto Giovanni Aleotti are shareholders and board members of Menarini.",
-      "value_eur_bn": 12.5,
-      "value_basis": "Indicative family wealth estimate",
+      "value_eur_bn": 6.905,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "menarini_family_2025",
       "groups": [
         "Aleotti-Menarini"
@@ -1668,8 +3009,8 @@
       "category": "subject",
       "subtype": "family",
       "description": "Aggregate node for the Berlusconi heirs, who control Fininvest through several Italian holdings.",
-      "value_eur_bn": 6.4,
-      "value_basis": "Indicative sum of family wealth estimates",
+      "value_eur_bn": 8.865,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "berlusconi_holdings_2025",
       "groups": [
         "Berlusconi-Fininvest"
@@ -1733,8 +3074,8 @@
       "category": "subject",
       "subtype": "family",
       "description": "Founding family and largest aggregate shareholder of Banca Mediolanum.",
-      "value_eur_bn": 4.5,
-      "value_basis": "Indicative look-through value of the bank stake",
+      "value_eur_bn": 6.393,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "mediolanum_shareholders_2025",
       "groups": [
         "Doris-Mediolanum"
@@ -1825,8 +3166,8 @@
       "category": "subject",
       "subtype": "family",
       "description": "Founding family of Brembo, represented in the group through the Nuova FourB holding.",
-      "value_eur_bn": 3,
-      "value_basis": "Indicative look-through value",
+      "value_eur_bn": 1.961,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "brembo_shareholders_2025",
       "groups": [
         "Bombassei-Brembo"
@@ -1864,8 +3205,8 @@
       "category": "subject",
       "subtype": "family",
       "description": "Aggregate node for the Rome-based business group associated with Francesco Gaetano Caltagirone.",
-      "value_eur_bn": 4.6,
-      "value_basis": "Indicative family wealth estimate",
+      "value_eur_bn": 8.354,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "caltagirone_editore_2025",
       "groups": [
         "Caltagirone",
@@ -1918,8 +3259,8 @@
       "category": "subject",
       "subtype": "family",
       "description": "Founding family of the Treviso-based company, represented in the chain by The Long E Trust.",
-      "value_eur_bn": 4,
-      "value_basis": "Indicative look-through value",
+      "value_eur_bn": 5.115,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "delonghi_governance_2025",
       "groups": [
         "De Longhi"
@@ -2416,6 +3757,1865 @@
       "source_id": "fincantieri_owner_2025",
       "groups": [
         "Fincantieri"
+      ]
+    },
+    {
+      "id": "andrea_pignataro",
+      "label": "Andrea Pignataro",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Founder of financial-data and software group ION.",
+      "value_eur_bn": 31.455,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "ION-Pignataro"
+      ]
+    },
+    {
+      "id": "ion_investment_group",
+      "label": "ION Investment Group",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Privately held financial-data, analytics and software group.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "pignataro_bloomberg_2025",
+      "groups": [
+        "ION-Pignataro"
+      ]
+    },
+    {
+      "id": "giancarlo_devasini",
+      "label": "Giancarlo Devasini",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Tether shareholder; Forbes estimates that he owns about 45% of the issuer.",
+      "value_eur_bn": 19.095,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Tether"
+      ]
+    },
+    {
+      "id": "paolo_ardoino",
+      "label": "Paolo Ardoino",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Tether chief executive; Forbes estimates that he owns about 20% of the issuer.",
+      "value_eur_bn": 8.098,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Tether"
+      ]
+    },
+    {
+      "id": "tether_holdings",
+      "label": "Tether Holdings",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Private issuer of the USDT stablecoin; ownership percentages are Forbes estimates.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "tether_forbes_ownership",
+      "groups": [
+        "Tether"
+      ]
+    },
+    {
+      "id": "rocca_family",
+      "label": "Rocca family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Paolo and Gianfelice Rocca, aggregated because their fortunes arise from the same Techint network. No upstream ownership arrow is drawn: Tenaris reports that no person or group controls RP STAK, which controls San Faustin.",
+      "value_eur_bn": 10.4,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Rocca-Techint"
+      ]
+    },
+    {
+      "id": "san_faustin",
+      "label": "San Faustin",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Luxembourg controlling shareholder in the Techint corporate network.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "tenaris_annual_2025",
+      "groups": [
+        "Rocca-Techint"
+      ]
+    },
+    {
+      "id": "techint_holdings",
+      "label": "Techint Holdings",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Wholly owned San Faustin subsidiary and holder of the Tenaris stake.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "tenaris_annual_2025",
+      "groups": [
+        "Rocca-Techint"
+      ]
+    },
+    {
+      "id": "tenaris",
+      "label": "Tenaris",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Global steel-pipe manufacturer listed in Milan, New York and Mexico.",
+      "value_eur_bn": 16.75,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "tenaris_marketcap_2025",
+      "groups": [
+        "Rocca-Techint"
+      ]
+    },
+    {
+      "id": "sergio_stevanato",
+      "label": "Sergio Stevanato",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Second-generation leader of Stevanato Group and holder of a 68% voting interest in the family holding.",
+      "value_eur_bn": 4.262,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Stevanato"
+      ]
+    },
+    {
+      "id": "franco_stevanato",
+      "label": "Franco Stevanato",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Member of the Stevanato family holding and executive chairman of Stevanato Group.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "stevanato_annual_2025",
+      "groups": [
+        "Stevanato"
+      ]
+    },
+    {
+      "id": "marco_stevanato",
+      "label": "Marco Stevanato",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Member of the Stevanato family holding.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "stevanato_annual_2025",
+      "groups": [
+        "Stevanato"
+      ]
+    },
+    {
+      "id": "stevanato_holding",
+      "label": "Stevanato Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Family holding that owns the multiple-vote shares in Stevanato Group.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "stevanato_annual_2025",
+      "groups": [
+        "Stevanato"
+      ]
+    },
+    {
+      "id": "stevanato_group",
+      "label": "Stevanato Group",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Provider of drug-containment, delivery and diagnostic solutions, listed on the NYSE.",
+      "value_eur_bn": 4.81,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "stevanato_marketcap_2025",
+      "groups": [
+        "Stevanato"
+      ]
+    },
+    {
+      "id": "renzo_rosso_family",
+      "label": "Renzo Rosso and family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Founder-owner family behind OTB, whose brands include Diesel, Jil Sander, Maison Margiela and Marni.",
+      "value_eur_bn": 3.666,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Rosso-OTB"
+      ]
+    },
+    {
+      "id": "otb_group",
+      "label": "OTB Group",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Privately held fashion group founded by Renzo Rosso.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "otb_report_2025",
+      "groups": [
+        "Rosso-OTB"
+      ]
+    },
+    {
+      "id": "brunello_cucinelli_person",
+      "label": "Brunello Cucinelli and family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Founder family behind the listed luxury company. The trust chain is shown separately; a trust is not treated as property of its settlor.",
+      "value_eur_bn": 3.58,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Brunello Cucinelli"
+      ]
+    },
+    {
+      "id": "isabella_seragnoli",
+      "label": "Isabella Seragnoli",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Sole shareholder of industrial packaging group Coesia.",
+      "value_eur_bn": 2.984,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Seragnoli-Coesia"
+      ]
+    },
+    {
+      "id": "coesia",
+      "label": "Coesia",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Bologna-based group of industrial and packaging-solutions companies.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "coesia_group_2025",
+      "groups": [
+        "Seragnoli-Coesia"
+      ]
+    },
+    {
+      "id": "perfetti_family",
+      "label": "Perfetti family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Giorgio and Augusto Perfetti, aggregated around their jointly owned confectionery group.",
+      "value_eur_bn": 5.541,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Perfetti"
+      ]
+    },
+    {
+      "id": "perfetti_van_melle",
+      "label": "Perfetti Van Melle",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Privately held confectionery group owned by the Perfetti family.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "perfetti_legal_2025",
+      "groups": [
+        "Perfetti"
+      ]
+    },
+    {
+      "id": "fabrizio_di_amato",
+      "label": "Fabrizio Di Amato",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Founder of MAIRE and controlling shareholder through GLV Capital.",
+      "value_eur_bn": 2.643,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Di Amato-MAIRE"
+      ]
+    },
+    {
+      "id": "glv_capital",
+      "label": "GLV Capital",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Controlling shareholder of MAIRE.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "maire_shareholders_2025",
+      "groups": [
+        "Di Amato-MAIRE"
+      ]
+    },
+    {
+      "id": "maire",
+      "label": "MAIRE",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Engineering and technology group focused on energy and petrochemicals.",
+      "value_eur_bn": 4.33,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "maire_marketcap_2025",
+      "groups": [
+        "Di Amato-MAIRE"
+      ]
+    },
+    {
+      "id": "domenico_dolce",
+      "label": "Domenico Dolce",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Co-founder and co-owner of Dolce & Gabbana.",
+      "value_eur_bn": 2.557,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Dolce-Gabbana"
+      ]
+    },
+    {
+      "id": "stefano_gabbana",
+      "label": "Stefano Gabbana",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Co-founder and co-owner of Dolce & Gabbana.",
+      "value_eur_bn": 2.557,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Dolce-Gabbana"
+      ]
+    },
+    {
+      "id": "dolce_gabbana_holding",
+      "label": "Dolce & Gabbana Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Holding company jointly owned by Domenico Dolce and Stefano Gabbana.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "dolce_gabbana_ownership",
+      "groups": [
+        "Dolce-Gabbana"
+      ]
+    },
+    {
+      "id": "dolce_gabbana",
+      "label": "Dolce & Gabbana",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Privately held Italian luxury-fashion company.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "dolce_gabbana_ownership",
+      "groups": [
+        "Dolce-Gabbana"
+      ]
+    },
+    {
+      "id": "beretta_family",
+      "label": "Beretta family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Ugo Gussalli Beretta and family, owners of Beretta Holding.",
+      "value_eur_bn": 2.472,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Beretta"
+      ]
+    },
+    {
+      "id": "beretta_holding",
+      "label": "Beretta Holding",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Family-owned international firearms, optics and outdoor-products group.",
+      "value_eur_bn": 1.875,
+      "value_basis": "Forbes March 2025 private-company valuation converted at the snapshot FX rate",
+      "source_id": "beretta_forbes_2025",
+      "groups": [
+        "Beretta"
+      ]
+    },
+    {
+      "id": "garavoglia_family",
+      "label": "Garavoglia family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Luca and Alessandra Garavoglia, aggregated around the same Campari control chain. Lagfin is shown separately because its internal capital split is not public.",
+      "value_eur_bn": 4.433,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Garavoglia-Campari"
+      ]
+    },
+    {
+      "id": "lagfin",
+      "label": "Lagfin",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Family holding and controlling shareholder of Campari Group.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "campari_annual_2025",
+      "groups": [
+        "Garavoglia-Campari"
+      ]
+    },
+    {
+      "id": "campari",
+      "label": "Campari Group",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Global spirits group listed in Milan.",
+      "value_eur_bn": 6.819,
+      "value_basis": "Market capitalization reported in the 2025 annual report",
+      "source_id": "campari_annual_2025",
+      "groups": [
+        "Garavoglia-Campari"
+      ]
+    },
+    {
+      "id": "pantaleo_dellorco",
+      "label": "Pantaleo Dell'Orco",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Armani executive and largest capital beneficiary under Giorgio Armani's will.",
+      "value_eur_bn": 2.131,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Armani"
+      ]
+    },
+    {
+      "id": "silvana_armani",
+      "label": "Silvana Armani",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Giorgio Armani's niece and beneficiary of a 15% capital stake.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "armani_inheritance_2025",
+      "groups": [
+        "Armani"
+      ]
+    },
+    {
+      "id": "andrea_camerana",
+      "label": "Andrea Camerana",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Giorgio Armani's nephew and beneficiary of a 15% capital stake.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "armani_inheritance_2025",
+      "groups": [
+        "Armani"
+      ]
+    },
+    {
+      "id": "roberta_armani",
+      "label": "Roberta Armani",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Giorgio Armani's niece and beneficiary of a 15% non-voting capital stake.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "armani_inheritance_2025",
+      "groups": [
+        "Armani"
+      ]
+    },
+    {
+      "id": "rosanna_armani",
+      "label": "Rosanna Armani",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Giorgio Armani's sister and beneficiary of a 15% non-voting capital stake.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "armani_inheritance_2025",
+      "groups": [
+        "Armani"
+      ]
+    },
+    {
+      "id": "giorgio_armani_foundation",
+      "label": "Giorgio Armani Foundation",
+      "category": "organization",
+      "subtype": "foundation",
+      "description": "Foundation created to preserve the fashion house and its values.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "armani_inheritance_2025",
+      "groups": [
+        "Armani"
+      ]
+    },
+    {
+      "id": "giorgio_armani_spa",
+      "label": "Giorgio Armani S.p.A.",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Privately held fashion group whose post-founder capital allocation is set out in Giorgio Armani's will.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "armani_inheritance_2025",
+      "groups": [
+        "Armani"
+      ]
+    },
+    {
+      "id": "denegri_family",
+      "label": "Denegri family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Gustavo Denegri and family, whose principal listed asset is DiaSorin. IP Investimenti is shown separately because a complete upstream family percentage is not public.",
+      "value_eur_bn": 1.875,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Denegri-DiaSorin"
+      ]
+    },
+    {
+      "id": "ip_investimenti",
+      "label": "IP Investimenti e Partecipazioni",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Holding company through which the Denegri family controls DiaSorin.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "diasorin_ownership_2025",
+      "groups": [
+        "Denegri-DiaSorin"
+      ]
+    },
+    {
+      "id": "diasorin",
+      "label": "DiaSorin",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian diagnostics company listed in Milan.",
+      "value_eur_bn": 3.53,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "diasorin_marketcap_2025",
+      "groups": [
+        "Denegri-DiaSorin"
+      ]
+    },
+    {
+      "id": "romano_minozzi",
+      "label": "Romano Minozzi",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Founder of Iris Ceramica Group; Forbes also attributes a substantial part of his fortune to listed energy holdings.",
+      "value_eur_bn": 1.79,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "minozzi_forbes_2025",
+      "groups": [
+        "Minozzi-Iris"
+      ]
+    },
+    {
+      "id": "iris_ceramica_group",
+      "label": "Iris Ceramica Group",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Family-owned ceramics group founded by Romano Minozzi.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "iris_governance_2025",
+      "groups": [
+        "Minozzi-Iris"
+      ]
+    },
+    {
+      "id": "nerio_alessandri",
+      "label": "Nerio Alessandri",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Founder and controlling shareholder of Technogym through Oiren and TGH.",
+      "value_eur_bn": 1.79,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Alessandri-Technogym"
+      ]
+    },
+    {
+      "id": "oiren",
+      "label": "Oiren",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Vehicle controlled by Nerio Alessandri; it owns 75% of TGH.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "technogym_governance_2025",
+      "groups": [
+        "Alessandri-Technogym"
+      ]
+    },
+    {
+      "id": "tgh",
+      "label": "TGH",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Technogym controlling shareholder.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "technogym_governance_2025",
+      "groups": [
+        "Alessandri-Technogym"
+      ]
+    },
+    {
+      "id": "technogym",
+      "label": "Technogym",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Fitness-equipment and digital-wellness company listed in Milan.",
+      "value_eur_bn": 3.22,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "technogym_marketcap_2025",
+      "groups": [
+        "Alessandri-Technogym"
+      ]
+    },
+    {
+      "id": "lefebvre_family",
+      "label": "Lefebvre d'Ovidio family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Manfredi Lefebvre d'Ovidio and family; the family trust owns Heritage Group.",
+      "value_eur_bn": 1.79,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Lefebvre-Heritage"
+      ]
+    },
+    {
+      "id": "lefebvre_family_trust",
+      "label": "Lefebvre family trust",
+      "category": "organization",
+      "subtype": "trust",
+      "description": "Family trust identified as the owner of Heritage Group. The beneficiaries are not modeled as owners of the trust.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "lefebvre_heritage_2025",
+      "groups": [
+        "Lefebvre-Heritage"
+      ]
+    },
+    {
+      "id": "heritage_group",
+      "label": "Heritage Group",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Family-owned investment group chaired by Manfredi Lefebvre.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "lefebvre_heritage_2025",
+      "groups": [
+        "Lefebvre-Heritage"
+      ]
+    },
+    {
+      "id": "abercrombie_kent",
+      "label": "Abercrombie & Kent",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Luxury travel group owned by Heritage Group.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "lefebvre_ak_ownership",
+      "groups": [
+        "Lefebvre-Heritage"
+      ]
+    },
+    {
+      "id": "alberto_prada",
+      "label": "Alberto Prada",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Miuccia Prada's sibling and shareholder in Bellatrix through Rigel.",
+      "value_eur_bn": 1.705,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Prada-Bertelli"
+      ]
+    },
+    {
+      "id": "marina_prada",
+      "label": "Marina Prada",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Miuccia Prada's sibling and shareholder in Bellatrix through Mirar.",
+      "value_eur_bn": 1.705,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Prada-Bertelli"
+      ]
+    },
+    {
+      "id": "rigel",
+      "label": "Rigel",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Alberto Prada's holding vehicle in the Bellatrix ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "prada_annual_2025",
+      "groups": [
+        "Prada-Bertelli"
+      ]
+    },
+    {
+      "id": "mirar",
+      "label": "Mirar",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Marina Prada's holding vehicle in the Bellatrix ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "prada_annual_2025",
+      "groups": [
+        "Prada-Bertelli"
+      ]
+    },
+    {
+      "id": "nicola_bulgari",
+      "label": "Nicola Bulgari",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Bulgari family member whose fortune largely derives from the 2011 sale of Bulgari to LVMH; no current percentage is drawn without a 2025 disclosure.",
+      "value_eur_bn": 1.705,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Bulgari"
+      ]
+    },
+    {
+      "id": "paolo_bulgari",
+      "label": "Paolo Bulgari",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Bulgari family member whose fortune largely derives from the 2011 sale of Bulgari to LVMH; no current percentage is drawn without a 2025 disclosure.",
+      "value_eur_bn": 1.364,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "bulgari_forbes_2025",
+      "groups": [
+        "Bulgari"
+      ]
+    },
+    {
+      "id": "massimo_moratti",
+      "label": "Massimo Moratti",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Former controlling shareholder of Saras. His 2025 fortune is largely financial wealth following the completed sale, so no current Saras edge is drawn.",
+      "value_eur_bn": 1.62,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Moratti"
+      ]
+    },
+    {
+      "id": "sandro_veronesi_family",
+      "label": "Sandro Veronesi and family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Founder and majority-owner family behind Oniverse.",
+      "value_eur_bn": 1.62,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Veronesi-Oniverse"
+      ]
+    },
+    {
+      "id": "de_la_costa",
+      "label": "De la Costa",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Sole-member company owned by Sandro Veronesi and identified by Oniverse as its controlling shareholder.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "oniverse_control_2025",
+      "groups": [
+        "Veronesi-Oniverse"
+      ]
+    },
+    {
+      "id": "oniverse",
+      "label": "Oniverse",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Private fashion and retail group formerly known as Calzedonia Group. It is controlled by De la Costa; no ownership arrow is drawn because the official source does not publish the capital percentage.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "oniverse_control_2025",
+      "groups": [
+        "Veronesi-Oniverse"
+      ]
+    },
+    {
+      "id": "giovanni_arvedi",
+      "label": "Giovanni Arvedi",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Founder-owner of the Arvedi steel group.",
+      "value_eur_bn": 1.534,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Arvedi"
+      ]
+    },
+    {
+      "id": "finarvedi",
+      "label": "Finarvedi",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Parent company of the Arvedi industrial group.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "finarvedi_group_2025",
+      "groups": [
+        "Arvedi"
+      ]
+    },
+    {
+      "id": "diego_della_valle",
+      "label": "Diego Della Valle",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Founder and controlling shareholder of Tod's through DDV and a direct stake.",
+      "value_eur_bn": 1.193,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Della Valle-Tod's"
+      ]
+    },
+    {
+      "id": "ddv",
+      "label": "DDV",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Della Valle family vehicle in the Tod's ownership chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "tods_offer_2024",
+      "groups": [
+        "Della Valle-Tod's"
+      ]
+    },
+    {
+      "id": "tods",
+      "label": "Tod's",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Italian luxury group delisted after the 2024 tender offer. The family retained control, but the exact 2025 legal split is not drawn because the latest official percentage table predates the completed transaction.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "tods_offer_2024",
+      "groups": [
+        "Della Valle-Tod's"
+      ]
+    },
+    {
+      "id": "mario_moretti_polegato_family",
+      "label": "Mario Moretti Polegato and family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Founder family controlling Geox through LIR.",
+      "value_eur_bn": 1.193,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Moretti Polegato-Geox"
+      ]
+    },
+    {
+      "id": "mario_moretti_polegato",
+      "label": "Mario Moretti Polegato",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Founder of Geox and 85% shareholder of LIR.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "geox_annual_2025",
+      "groups": [
+        "Moretti Polegato-Geox"
+      ]
+    },
+    {
+      "id": "enrico_moretti_polegato",
+      "label": "Enrico Moretti Polegato",
+      "category": "subject",
+      "subtype": "person",
+      "description": "15% shareholder of LIR.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "geox_annual_2025",
+      "groups": [
+        "Moretti Polegato-Geox"
+      ]
+    },
+    {
+      "id": "lir",
+      "label": "LIR",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Moretti Polegato family holding and controlling shareholder of Geox.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "geox_annual_2025",
+      "groups": [
+        "Moretti Polegato-Geox"
+      ]
+    },
+    {
+      "id": "geox",
+      "label": "Geox",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian footwear company listed in Milan.",
+      "value_eur_bn": null,
+      "value_basis": "Below the EUR 1 billion company threshold; included as the source of family wealth",
+      "source_id": "geox_annual_2025",
+      "groups": [
+        "Moretti Polegato-Geox"
+      ]
+    },
+    {
+      "id": "alessandro_rosano",
+      "label": "Alessandro Rosano",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Founder of HeyDude; his fortune derives mainly from the completed 2022 sale to Crocs, so no current HeyDude ownership edge is drawn.",
+      "value_eur_bn": 1.193,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "rosano_forbes_2025",
+      "groups": [
+        "Rosano"
+      ]
+    },
+    {
+      "id": "percassi_family",
+      "label": "Percassi family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Antonio Percassi and family, with interests including a retained minority in KIKO Milano.",
+      "value_eur_bn": 1.108,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Percassi"
+      ]
+    },
+    {
+      "id": "odissea",
+      "label": "Odissea",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Percassi family holding company.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "percassi_kiko_2025",
+      "groups": [
+        "Percassi"
+      ]
+    },
+    {
+      "id": "kiko_milano",
+      "label": "KIKO Milano",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Cosmetics company majority-owned by L Catterton since 2024; the Percassi family retained a minority.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "kiko_lcatterton_2024",
+      "groups": [
+        "Percassi"
+      ]
+    },
+    {
+      "id": "simona_giorgetta",
+      "label": "Simona Giorgetta",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Member of the Squinzi family and a major Mapei shareholder.",
+      "value_eur_bn": 1.023,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Giorgetta-Mapei"
+      ]
+    },
+    {
+      "id": "marco_squinzi",
+      "label": "Marco Squinzi",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Mapei shareholder; below the Atlas wealth threshold but included to complete the disclosed family ownership.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "mapei_family_ownership",
+      "groups": [
+        "Giorgetta-Mapei"
+      ]
+    },
+    {
+      "id": "veronica_squinzi",
+      "label": "Veronica Squinzi",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Mapei shareholder; below the Atlas wealth threshold but included to complete the disclosed family ownership.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "mapei_family_ownership",
+      "groups": [
+        "Giorgetta-Mapei"
+      ]
+    },
+    {
+      "id": "mapei",
+      "label": "Mapei",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Family-owned construction-chemicals group. Public accounts identify the family shareholders but do not provide a sufficiently authoritative exact 2025 split, so no inferred ownership arrows are drawn.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "mapei_forbes_2025",
+      "groups": [
+        "Giorgetta-Mapei"
+      ]
+    },
+    {
+      "id": "caprotti_family",
+      "label": "Caprotti family",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Giuliana and Marina Caprotti, aggregated around their joint ownership of Esselunga.",
+      "value_eur_bn": 2.046,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Caprotti-Esselunga"
+      ]
+    },
+    {
+      "id": "supermarkets_italiani",
+      "label": "Supermarkets Italiani",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Caprotti family holding company and parent of Esselunga.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "esselunga_ownership_2020",
+      "groups": [
+        "Caprotti-Esselunga"
+      ]
+    },
+    {
+      "id": "esselunga",
+      "label": "Esselunga",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Privately held Italian supermarket group.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "esselunga_ownership_2020",
+      "groups": [
+        "Caprotti-Esselunga"
+      ]
+    },
+    {
+      "id": "danilo_iervolino",
+      "label": "Danilo Iervolino",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Entrepreneur whose fortune derives substantially from the completed sale of Multiversity; no obsolete ownership edge is retained.",
+      "value_eur_bn": 1.023,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "iervolino_forbes_2025",
+      "groups": [
+        "Iervolino"
+      ]
+    },
+    {
+      "id": "filippo_ghirelli",
+      "label": "Filippo Ghirelli",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Founder of Mareterra Group and investor in Nayara Energy through Hara Capital.",
+      "value_eur_bn": 1.279,
+      "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
+      "source_id": "forbes_italia_2025",
+      "groups": [
+        "Ghirelli-Mareterra"
+      ]
+    },
+    {
+      "id": "mareterra_group",
+      "label": "Mareterra Group",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Investment group founded and controlled by Filippo Ghirelli.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ghirelli_forbes_2025",
+      "groups": [
+        "Ghirelli-Mareterra"
+      ]
+    },
+    {
+      "id": "hara_capital",
+      "label": "Hara Capital",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Mareterra subsidiary holding an indirect interest in Nayara Energy.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "nayara_ownership_2023",
+      "groups": [
+        "Ghirelli-Mareterra"
+      ]
+    },
+    {
+      "id": "nayara_energy",
+      "label": "Nayara Energy",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Indian refining and fuel-retail company; Hara Capital owns an indirect 24.5% interest.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "nayara_ownership_2023",
+      "groups": [
+        "Ghirelli-Mareterra"
+      ]
+    },
+    {
+      "id": "market_poste_italiane",
+      "label": "Poste Italiane",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (PST.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 27.91,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_poste_italiane",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_prysmian_group",
+      "label": "Prysmian Group",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (PRY.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 24.7,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_prysmian_group",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_snam",
+      "label": "Snam",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (SRG.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 18.86,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_snam",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_terna",
+      "label": "Terna",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (TRN.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 18.08,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_terna",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_finecobank",
+      "label": "FinecoBank",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (FBK.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 13.52,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_finecobank",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_edison",
+      "label": "Edison",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (EDNR.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 11.27,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_edison",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_telecom_italia",
+      "label": "Telecom Italia",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (TIT.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 11.01,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_telecom_italia",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_recordati",
+      "label": "Recordati",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (REC.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 9.97,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_recordati",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_italgas",
+      "label": "Italgas",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (IG.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 9.56,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_italgas",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_buzzi_unicem",
+      "label": "Buzzi Unicem",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BZU.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 9.43,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_buzzi_unicem",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_banca_popolare_di_sondrio",
+      "label": "Banca Popolare di Sondrio",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BPSO.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 7.41,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_banca_popolare_di_sondrio",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_inwit",
+      "label": "INWIT",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (INW.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 7.0,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_inwit",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_banca_generali",
+      "label": "Banca Generali",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BGN.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 6.63,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_banca_generali",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_hera",
+      "label": "Hera Group",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (HER.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 5.87,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_hera",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_pirelli",
+      "label": "Pirelli",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (PIRC.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 5.79,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_pirelli",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_lottomatica_group",
+      "label": "Lottomatica Group",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (LTMC.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 5.38,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_lottomatica_group",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_credito_emiliano",
+      "label": "Credito Emiliano",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (CE.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 5.19,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_credito_emiliano",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_azimut_holding",
+      "label": "Azimut Holding",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (AZM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 5.07,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_azimut_holding",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_iveco_group",
+      "label": "Iveco Group",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (IVG.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 5.0,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_iveco_group",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_interpump_group",
+      "label": "Interpump Group",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (IP.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 4.89,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_interpump_group",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_nexi",
+      "label": "Nexi",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (NEXI.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 4.82,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_nexi",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_saipem",
+      "label": "Saipem",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (SPM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 4.76,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_saipem",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_acea",
+      "label": "ACEA",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ACE.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 4.66,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_acea",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_sol_italy",
+      "label": "SOL S.p.A.",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (SOL.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 4.43,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_sol_italy",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_reply",
+      "label": "Reply",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (REY.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 4.3,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_reply",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_danieli_c_officine_meccaniche",
+      "label": "Danieli & C. Officine Meccaniche",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (DAN.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 3.57,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_danieli_c_officine_meccaniche",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_webuild",
+      "label": "Webuild S.p.A.",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (WBD.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 3.48,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_webuild",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_iren",
+      "label": "Iren",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (IRE.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 3.26,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_iren",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_erg",
+      "label": "ERG",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ERG.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 3.16,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_erg",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_cementir",
+      "label": "Cementir",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (CEM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 2.93,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_cementir",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_carel_industries",
+      "label": "Carel Industries",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (CRL.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 2.76,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_carel_industries",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_enav",
+      "label": "ENAV",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ENAV.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 2.56,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_enav",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_ermenegildo_zegna",
+      "label": "Ermenegildo Zegna",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ZGN). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 2.26,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_ermenegildo_zegna",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_anima_holding",
+      "label": "Anima Holding",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ANIM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.96,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_anima_holding",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_bff_bank",
+      "label": "BFF Bank",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BFF.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.76,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_bff_bank",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_ariston_holding",
+      "label": "Ariston Holding",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ARIS.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.66,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_ariston_holding",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_banca_ifis",
+      "label": "Banca IFIS",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (IF.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.55,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_banca_ifis",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_rai_way",
+      "label": "Rai Way",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (RWAY.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.49,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_rai_way",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_industrie_de_nora",
+      "label": "Industrie De Nora",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (DNR.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.44,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_industrie_de_nora",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_moltiply_group",
+      "label": "Moltiply Group",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (MOL.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.35,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_moltiply_group",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_avio_spa",
+      "label": "Avio S.p.A.",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (AVIO.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.34,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_avio_spa",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_sesa",
+      "label": "SeSa S.p.A.",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (SES.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.31,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_sesa",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_comer_industries",
+      "label": "Comer Industries",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (COM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.28,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_comer_industries",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_banco_di_desio_e_della_brianza",
+      "label": "Banco di Desio e della Brianza",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BDB.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.23,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_banco_di_desio_e_della_brianza",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_italmobiliare",
+      "label": "Italmobiliare",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ITM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.16,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_italmobiliare",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_ovs_spa",
+      "label": "OVS S.p.A.",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (OVS.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.16,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_ovs_spa",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_cembre_spa",
+      "label": "Cembre S.p.A.",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (CMB.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.15,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_cembre_spa",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_elen_group",
+      "label": "EL.En. S.p.A.",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ELN.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.11,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_elen_group",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_juventus_turin",
+      "label": "Juventus Turin",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (JUVE.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.09,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_juventus_turin",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_bfspa",
+      "label": "B.F. S.p.A.",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (BFG.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.08,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_bfspa",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_sanlorenzo",
+      "label": "Sanlorenzo",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (SL.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.06,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_sanlorenzo",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_intercos",
+      "label": "Intercos",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (ICOS.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.05,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_intercos",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_rosetti_marino",
+      "label": "Rosetti Marino",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (YRM.MI). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.02,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_rosetti_marino",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "market_ferretti",
+      "label": "Ferretti",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Italian listed company included in the complete EUR 1 billion year-end market-cap universe (F3T1.F). It remains unconnected until a material, source-backed ownership chain is added.",
+      "value_eur_bn": 1.02,
+      "value_basis": "Market capitalization at the end of 2025",
+      "source_id": "marketcap_2025_ferretti",
+      "groups": [
+        "Listed market"
       ]
     }
   ],
@@ -3147,6 +6347,390 @@
       "percentage": 64.24,
       "note": "CDP Equity majority stake reported for financial year 2025.",
       "source_id": "fincantieri_owner_2025"
+    },
+    {
+      "id": "own_pignataro_ion",
+      "owner_id": "andrea_pignataro",
+      "owned_id": "ion_investment_group",
+      "percentage": 100,
+      "note": "Bloomberg describes Pignataro as the sole shareholder of ION's main operating units; shown as an ultimate 100% attribution.",
+      "source_id": "pignataro_bloomberg_2025"
+    },
+    {
+      "id": "own_devasini_tether",
+      "owner_id": "giancarlo_devasini",
+      "owned_id": "tether_holdings",
+      "percentage": 45,
+      "note": "Estimated private-company stake reported by Forbes; Tether does not publish a conventional shareholder register.",
+      "source_id": "devasini_forbes_2025"
+    },
+    {
+      "id": "own_ardoino_tether",
+      "owner_id": "paolo_ardoino",
+      "owned_id": "tether_holdings",
+      "percentage": 20,
+      "note": "Estimated private-company stake reported by Forbes; Tether does not publish a conventional shareholder register.",
+      "source_id": "tether_forbes_ownership"
+    },
+    {
+      "id": "own_sanfaustin_techint",
+      "owner_id": "san_faustin",
+      "owned_id": "techint_holdings",
+      "percentage": 100,
+      "note": "Wholly owned subsidiary at 31 December 2025.",
+      "source_id": "tenaris_annual_2025"
+    },
+    {
+      "id": "own_techint_tenaris",
+      "owner_id": "techint_holdings",
+      "owned_id": "tenaris",
+      "percentage": 66.13,
+      "note": "Issued share-capital interest at 31 December 2025; corresponding voting rights were 70.07%.",
+      "source_id": "tenaris_annual_2025"
+    },
+    {
+      "id": "own_sergio_stevanato_holding",
+      "owner_id": "sergio_stevanato",
+      "owned_id": "stevanato_holding",
+      "percentage": 68,
+      "note": "Voting interest in the family holding; reserved decisions require unanimous board approval.",
+      "source_id": "stevanato_annual_2025"
+    },
+    {
+      "id": "own_franco_stevanato_holding",
+      "owner_id": "franco_stevanato",
+      "owned_id": "stevanato_holding",
+      "percentage": 16,
+      "note": "Voting interest in the family holding; reserved decisions require unanimous board approval.",
+      "source_id": "stevanato_annual_2025"
+    },
+    {
+      "id": "own_marco_stevanato_holding",
+      "owner_id": "marco_stevanato",
+      "owned_id": "stevanato_holding",
+      "percentage": 16,
+      "note": "Voting interest in the family holding; reserved decisions require unanimous board approval.",
+      "source_id": "stevanato_annual_2025"
+    },
+    {
+      "id": "own_stevanato_holding_group",
+      "owner_id": "stevanato_holding",
+      "owned_id": "stevanato_group",
+      "percentage": 73.73,
+      "note": "Share-capital interest; multiple-vote shares represented 93.09% of voting rights excluding treasury shares.",
+      "source_id": "stevanato_annual_2025"
+    },
+    {
+      "id": "own_rosso_otb",
+      "owner_id": "renzo_rosso_family",
+      "owned_id": "otb_group",
+      "percentage": 100,
+      "note": "Ultimate family ownership; the source describes Renzo Rosso as sole owner.",
+      "source_id": "rosso_otb_ownership"
+    },
+    {
+      "id": "own_seragnoli_coesia",
+      "owner_id": "isabella_seragnoli",
+      "owned_id": "coesia",
+      "percentage": 100,
+      "note": "Coesia identifies Isabella Seragnoli as its sole shareholder.",
+      "source_id": "coesia_group_2025"
+    },
+    {
+      "id": "own_perfetti_pvm",
+      "owner_id": "perfetti_family",
+      "owned_id": "perfetti_van_melle",
+      "percentage": 100,
+      "note": "Aggregate family ownership; Forbes describes Giorgio and Augusto Perfetti as the owners.",
+      "source_id": "perfetti_forbes_2025"
+    },
+    {
+      "id": "own_glv_maire",
+      "owner_id": "glv_capital",
+      "owned_id": "maire",
+      "percentage": 51.02,
+      "note": "Share capital held at the April 2025 shareholders' meeting.",
+      "source_id": "maire_shareholders_2025"
+    },
+    {
+      "id": "own_dolce_dg_holding",
+      "owner_id": "domenico_dolce",
+      "owned_id": "dolce_gabbana_holding",
+      "percentage": 50,
+      "note": "Equal co-ownership attribution reported for the founders' holding.",
+      "source_id": "dolce_gabbana_ownership"
+    },
+    {
+      "id": "own_gabbana_dg_holding",
+      "owner_id": "stefano_gabbana",
+      "owned_id": "dolce_gabbana_holding",
+      "percentage": 50,
+      "note": "Equal co-ownership attribution reported for the founders' holding.",
+      "source_id": "dolce_gabbana_ownership"
+    },
+    {
+      "id": "own_dg_holding_company",
+      "owner_id": "dolce_gabbana_holding",
+      "owned_id": "dolce_gabbana",
+      "percentage": 80,
+      "note": "Holding stake reported in the cited ownership account.",
+      "source_id": "dolce_gabbana_ownership"
+    },
+    {
+      "id": "own_beretta_family_holding",
+      "owner_id": "beretta_family",
+      "owned_id": "beretta_holding",
+      "percentage": 100,
+      "note": "Aggregate ownership of Ugo, Pietro and Franco Gussalli Beretta.",
+      "source_id": "beretta_forbes_2025"
+    },
+    {
+      "id": "own_lagfin_campari",
+      "owner_id": "lagfin",
+      "owned_id": "campari",
+      "percentage": 50.98,
+      "note": "Ordinary-share capital at 31 December 2025; voting rights were 82.33%.",
+      "source_id": "campari_annual_2025"
+    },
+    {
+      "id": "own_dellorco_armani",
+      "owner_id": "pantaleo_dellorco",
+      "owned_id": "giorgio_armani_spa",
+      "percentage": 30,
+      "note": "Capital interest under Giorgio Armani's will; associated control rights were 40%.",
+      "source_id": "armani_inheritance_2025"
+    },
+    {
+      "id": "own_silvana_armani",
+      "owner_id": "silvana_armani",
+      "owned_id": "giorgio_armani_spa",
+      "percentage": 15,
+      "note": "Capital interest under Giorgio Armani's will.",
+      "source_id": "armani_inheritance_2025"
+    },
+    {
+      "id": "own_camerana_armani",
+      "owner_id": "andrea_camerana",
+      "owned_id": "giorgio_armani_spa",
+      "percentage": 15,
+      "note": "Capital interest under Giorgio Armani's will.",
+      "source_id": "armani_inheritance_2025"
+    },
+    {
+      "id": "own_roberta_armani",
+      "owner_id": "roberta_armani",
+      "owned_id": "giorgio_armani_spa",
+      "percentage": 15,
+      "note": "Non-voting capital interest under Giorgio Armani's will.",
+      "source_id": "armani_inheritance_2025"
+    },
+    {
+      "id": "own_rosanna_armani",
+      "owner_id": "rosanna_armani",
+      "owned_id": "giorgio_armani_spa",
+      "percentage": 15,
+      "note": "Non-voting capital interest under Giorgio Armani's will.",
+      "source_id": "armani_inheritance_2025"
+    },
+    {
+      "id": "own_foundation_armani",
+      "owner_id": "giorgio_armani_foundation",
+      "owned_id": "giorgio_armani_spa",
+      "percentage": 10,
+      "note": "Capital interest under Giorgio Armani's will; associated control rights were 30%.",
+      "source_id": "armani_inheritance_2025"
+    },
+    {
+      "id": "own_ip_diasorin",
+      "owner_id": "ip_investimenti",
+      "owned_id": "diasorin",
+      "percentage": 43.957,
+      "note": "Share capital reported by DiaSorin at the April 2025 shareholders' meeting.",
+      "source_id": "diasorin_ownership_2025"
+    },
+    {
+      "id": "own_minozzi_iris",
+      "owner_id": "romano_minozzi",
+      "owned_id": "iris_ceramica_group",
+      "percentage": 100,
+      "note": "The company identifies Romano Minozzi as proprietor; shown as full ultimate ownership.",
+      "source_id": "iris_governance_2025"
+    },
+    {
+      "id": "own_minozzi_eni",
+      "owner_id": "romano_minozzi",
+      "owned_id": "eni",
+      "percentage": 3.095,
+      "note": "Reported direct listed-equity interest in 2025.",
+      "source_id": "minozzi_eni_2025"
+    },
+    {
+      "id": "own_oiren_tgh",
+      "owner_id": "oiren",
+      "owned_id": "tgh",
+      "percentage": 75,
+      "note": "Oiren's equity interest in TGH.",
+      "source_id": "technogym_governance_2025"
+    },
+    {
+      "id": "own_tgh_technogym",
+      "owner_id": "tgh",
+      "owned_id": "technogym",
+      "percentage": 33.78,
+      "note": "Share-capital interest; voting rights were 60.47%.",
+      "source_id": "technogym_governance_2025"
+    },
+    {
+      "id": "own_lefebvre_trust_heritage",
+      "owner_id": "lefebvre_family_trust",
+      "owned_id": "heritage_group",
+      "percentage": 100,
+      "note": "Heritage is described as owned by the Lefebvre family trust.",
+      "source_id": "lefebvre_heritage_2025"
+    },
+    {
+      "id": "own_heritage_ak",
+      "owner_id": "heritage_group",
+      "owned_id": "abercrombie_kent",
+      "percentage": 100,
+      "note": "Heritage Group's chairman states that it owns 100% of Abercrombie & Kent.",
+      "source_id": "lefebvre_ak_ownership"
+    },
+    {
+      "id": "own_alberto_rigel",
+      "owner_id": "alberto_prada",
+      "owned_id": "rigel",
+      "percentage": 100,
+      "note": "Personal holding vehicle.",
+      "source_id": "prada_annual_2025"
+    },
+    {
+      "id": "own_rigel_bellatrix",
+      "owner_id": "rigel",
+      "owned_id": "bellatrix",
+      "percentage": 23.1,
+      "note": "Stake in Bellatrix reported for Alberto Prada's vehicle.",
+      "source_id": "prada_annual_2025"
+    },
+    {
+      "id": "own_marina_mirar",
+      "owner_id": "marina_prada",
+      "owned_id": "mirar",
+      "percentage": 100,
+      "note": "Personal holding vehicle.",
+      "source_id": "prada_annual_2025"
+    },
+    {
+      "id": "own_mirar_bellatrix",
+      "owner_id": "mirar",
+      "owned_id": "bellatrix",
+      "percentage": 23.1,
+      "note": "Stake in Bellatrix reported for Marina Prada's vehicle.",
+      "source_id": "prada_annual_2025"
+    },
+    {
+      "id": "own_veronesi_delacosta",
+      "owner_id": "sandro_veronesi_family",
+      "owned_id": "de_la_costa",
+      "percentage": 100,
+      "note": "Ultimate family ownership represented in aggregate.",
+      "source_id": "oniverse_control_2025"
+    },
+    {
+      "id": "own_arvedi_finarvedi",
+      "owner_id": "giovanni_arvedi",
+      "owned_id": "finarvedi",
+      "percentage": 100,
+      "note": "Founder-owner attribution for the parent of the Arvedi group.",
+      "source_id": "arvedi_forbes_2025"
+    },
+    {
+      "id": "own_della_valle_ddv",
+      "owner_id": "diego_della_valle",
+      "owned_id": "ddv",
+      "percentage": 100,
+      "note": "Personal family holding vehicle.",
+      "source_id": "tods_offer_2024"
+    },
+    {
+      "id": "own_mario_lir",
+      "owner_id": "mario_moretti_polegato",
+      "owned_id": "lir",
+      "percentage": 85,
+      "note": "Share capital at 31 December 2025.",
+      "source_id": "geox_annual_2025"
+    },
+    {
+      "id": "own_enrico_lir",
+      "owner_id": "enrico_moretti_polegato",
+      "owned_id": "lir",
+      "percentage": 15,
+      "note": "Share capital at 31 December 2025.",
+      "source_id": "geox_annual_2025"
+    },
+    {
+      "id": "own_lir_geox",
+      "owner_id": "lir",
+      "owned_id": "geox",
+      "percentage": 71.16,
+      "note": "Share capital at 31 December 2025.",
+      "source_id": "geox_annual_2025"
+    },
+    {
+      "id": "own_percassi_odissea",
+      "owner_id": "percassi_family",
+      "owned_id": "odissea",
+      "percentage": 100,
+      "note": "Aggregate family ownership of the holding.",
+      "source_id": "percassi_kiko_2025"
+    },
+    {
+      "id": "own_odissea_kiko",
+      "owner_id": "odissea",
+      "owned_id": "kiko_milano",
+      "percentage": 25,
+      "note": "Retained minority after L Catterton's majority acquisition; percentage reported in the cited accounts coverage.",
+      "source_id": "percassi_kiko_2025"
+    },
+    {
+      "id": "own_caprotti_supermarkets",
+      "owner_id": "caprotti_family",
+      "owned_id": "supermarkets_italiani",
+      "percentage": 100,
+      "note": "Giuliana and Marina Caprotti jointly acquired full control; represented as an aggregate family node.",
+      "source_id": "esselunga_ownership_2020"
+    },
+    {
+      "id": "own_supermarkets_esselunga",
+      "owner_id": "supermarkets_italiani",
+      "owned_id": "esselunga",
+      "percentage": 100,
+      "note": "Wholly owned operating company in the disclosed control chain.",
+      "source_id": "esselunga_ownership_2020"
+    },
+    {
+      "id": "own_ghirelli_mareterra",
+      "owner_id": "filippo_ghirelli",
+      "owned_id": "mareterra_group",
+      "percentage": 100,
+      "note": "Founder-controlled investment group.",
+      "source_id": "ghirelli_forbes_2025"
+    },
+    {
+      "id": "own_mareterra_hara",
+      "owner_id": "mareterra_group",
+      "owned_id": "hara_capital",
+      "percentage": 100,
+      "note": "Hara Capital is described as wholly owned by Mareterra.",
+      "source_id": "nayara_ownership_2023"
+    },
+    {
+      "id": "own_hara_nayara",
+      "owner_id": "hara_capital",
+      "owned_id": "nayara_energy",
+      "percentage": 24.5,
+      "note": "Indirect economic interest in Nayara Energy following the completed transaction.",
+      "source_id": "nayara_ownership_2023"
     }
   ],
   "family_links": [

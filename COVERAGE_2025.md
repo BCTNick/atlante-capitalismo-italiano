@@ -68,7 +68,7 @@ The number in the last column is the number of qualifying Forbes entries represe
 
 ## Listed companies
 
-There are 83 companies at or above the threshold. Twenty-nine were already represented by an existing ownership chain or were added with the wealth expansion; 54 additional nodes are grouped under `Listed market`. Research based primarily on 2025 annual reports, governance reports and official shareholder disclosures has added direct ownership relationships for 48 of those 54 companies.
+There are 83 companies at or above the threshold. Twenty-nine were already represented by an existing ownership chain or were added with the wealth expansion; 54 additional nodes were introduced for the listed-market coverage. Research based primarily on 2025 annual reports, governance reports and official shareholder disclosures has added direct ownership relationships for 48 of those 54 companies.
 
 Six listed companies remain deliberately without an ownership edge: Prysmian, FinecoBank, Hera, Lottomatica, Azimut Holding and BFF Bank. They remain fully visible. In these cases the official evidence describes a dispersed shareholder base, an institutional or employee pool rather than a legal controlling owner, or no family/state controller suitable for this Atlas. A missing edge must not be read as evidence that the company has no shareholders.
 

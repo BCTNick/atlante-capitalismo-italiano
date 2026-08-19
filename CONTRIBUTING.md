@@ -18,6 +18,9 @@ Thank you for helping improve Atlante del Capitalismo Italiano (Atlas of Italian
 - Do not add stakes together or estimate percentages without explaining the calculation.
 - Clearly distinguish ownership, control and a board or management role.
 - Preserve existing IDs across snapshots.
+- Assign a documented node-level `location_id`; do not recreate family or display groups.
+- Use the ordered `sectors` list for operating activities. Leave it empty for a pure holding rather than guessing a business sector.
+- Use subtype `brand` for recognizable owned assets such as newspaper titles or imprints. A 100% relationship to a brand means exclusive ownership/control of the asset and must say that it is not a share-capital percentage.
 - Do not alter a historical snapshot only because the situation changed after its date; create or update the appropriate snapshot instead.
 
 ## Correcting the 2025 snapshot
@@ -54,6 +57,7 @@ Each year must be a complete, verifiable view—not a file containing changes on
 - [ ] Percentages are between 0 and 100.
 - [ ] I did not add shortcuts for indirect ownership.
 - [ ] I did not add unnecessary personal data.
+- [ ] New nodes use an existing normalized location and valid sector IDs.
 - [ ] I ran the build and validation scripts.
 - [ ] I accept the MIT licence for code and ODbL 1.0 for data contributions.
 

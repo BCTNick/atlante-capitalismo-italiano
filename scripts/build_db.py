@@ -26,7 +26,7 @@ def project_path(relative_path: str) -> Path:
 
 def load_manifest() -> dict:
     manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
-    if manifest.get("schema_version") != 1:
+    if manifest.get("schema_version") != 2:
         fail("unsupported snapshots schema_version")
     snapshots = manifest.get("snapshots", [])
     if not snapshots:
@@ -78,24 +78,49 @@ def validate(data: dict, snapshot: dict) -> None:
     if len(nodes) != len(node_rows):
         fail("duplicate node id")
 
+    locations = data.get("locations", [])
+    location_ids = {location["id"] for location in locations}
+    if len(location_ids) != len(locations):
+        fail("duplicate location id")
+    for location in locations:
+        if not all(location.get(key) for key in ("id", "city", "region", "country_code")):
+            fail(f"incomplete location: {location.get('id')}")
+        if not isinstance(location.get("latitude"), (int, float)) or not isinstance(location.get("longitude"), (int, float)):
+            fail(f"invalid coordinates for location: {location['id']}")
+
+    sectors = data.get("sectors", [])
+    sector_ids = {sector["id"] for sector in sectors}
+    if len(sector_ids) != len(sectors):
+        fail("duplicate sector id")
+    sector_order = [sector.get("order_index") for sector in sectors]
+    if len(set(sector_order)) != len(sector_order):
+        fail("duplicate sector order_index")
+    for sector in sectors:
+        if not all(sector.get(key) is not None for key in ("id", "label", "description", "order_index")):
+            fail(f"incomplete sector: {sector.get('id')}")
+
     for node in node_rows:
         if node["category"] not in {"subject", "organization"}:
             fail(f"invalid category for node {node['id']}")
         if node["source_id"] not in source_ids:
             fail(f"missing source for node {node['id']}")
-        if not node.get("groups"):
-            fail(f"node without group: {node['id']}")
+        if node.get("location_id") not in location_ids:
+            fail(f"missing location for node {node['id']}")
+        if "groups" in node:
+            fail(f"legacy groups field on node {node['id']}")
+        node_sectors = node.get("sectors")
+        if not isinstance(node_sectors, list):
+            fail(f"node without sectors list: {node['id']}")
+        if len(node_sectors) != len(set(node_sectors)):
+            fail(f"duplicate sector on node {node['id']}")
+        unknown_sectors = set(node_sectors) - sector_ids
+        if unknown_sectors:
+            fail(f"unknown sector on node {node['id']}: {unknown_sectors}")
         value = node.get("value_eur_bn")
         if value is not None and value < 0:
             fail(f"negative value for node {node['id']}")
-
-    groups = {group for node in node_rows for group in node.get("groups", [])}
-    locations = data.get("group_locations", [])
-    location_groups = {location["group_name"] for location in locations}
-    if len(location_groups) != len(locations):
-        fail("duplicate group location")
-    if groups != location_groups:
-        fail(f"group location mismatch: missing={groups - location_groups}, extra={location_groups - groups}")
+    if "group_locations" in data:
+        fail("legacy group_locations field in snapshot")
 
     logos = data.get("logos", {})
     logo_ids = set(logos)
@@ -155,29 +180,37 @@ def build_database(data: dict, db_path: Path) -> None:
         )
         connection.executemany(
             """
+            INSERT INTO locations(id, city, region, country_code, latitude, longitude)
+            VALUES (:id, :city, :region, :country_code, :latitude, :longitude)
+            """,
+            data["locations"],
+        )
+        connection.executemany(
+            """
+            INSERT INTO sectors(id, label, description, order_index)
+            VALUES (:id, :label, :description, :order_index)
+            """,
+            data["sectors"],
+        )
+        connection.executemany(
+            """
             INSERT INTO nodes(
                 id, label, category, subtype, description,
-                value_eur_bn, value_basis, source_id
+                value_eur_bn, value_basis, location_id, source_id
             ) VALUES (
                 :id, :label, :category, :subtype, :description,
-                :value_eur_bn, :value_basis, :source_id
+                :value_eur_bn, :value_basis, :location_id, :source_id
             )
             """,
             data["nodes"],
         )
         connection.executemany(
-            "INSERT INTO node_groups(node_id, group_name) VALUES (?, ?)",
-            [(node["id"], group) for node in data["nodes"] for group in node.get("groups", [])],
-        )
-        connection.executemany(
-            """
-            INSERT INTO group_locations(
-                group_name, city, region, latitude, longitude, offset_x, offset_y
-            ) VALUES (
-                :group_name, :city, :region, :latitude, :longitude, :offset_x, :offset_y
-            )
-            """,
-            data["group_locations"],
+            "INSERT INTO node_sectors(node_id, sector_id, rank) VALUES (?, ?, ?)",
+            [
+                (node["id"], sector_id, rank)
+                for node in data["nodes"]
+                for rank, sector_id in enumerate(node.get("sectors", []))
+            ],
         )
         connection.executemany(
             """
@@ -212,7 +245,8 @@ def graph_payload(data: dict) -> dict:
     return {
         "meta": data["meta"],
         "sources": {source["id"]: source for source in data["sources"]},
-        "group_locations": data["group_locations"],
+        "locations": data["locations"],
+        "sectors": data["sectors"],
         "logos": data["logos"],
         "nodes": data["nodes"],
         "edges": [{"kind": "owns", **edge} for edge in data["ownerships"]]

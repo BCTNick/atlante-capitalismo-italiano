@@ -1341,575 +1341,776 @@
       "title": "Technogym listing prospectus — Oiren ownership",
       "publisher": "Technogym / Borsa Italiana",
       "url": "https://www.borsaitaliana.it/azioni/documenti/prospetti-informativi/prosp-1845.pdf"
+    },
+    "atalanta_group_2025": {
+      "id": "atalanta_group_2025",
+      "title": "Annual financial report at 30 June 2025 — group structure",
+      "publisher": "Atalanta Bergamasca Calcio",
+      "url": "https://images.atalanta.it/image/private/t_q-good/prd/lifuyruxlsphsjmcw1ma.pdf"
+    },
+    "monza_ownership_2025": {
+      "id": "monza_ownership_2025",
+      "title": "Beckett Layne Ventures completes the acquisition of AC Monza",
+      "publisher": "AC Monza",
+      "url": "https://www.acmonza.com/it/news/beckett-layne-ventures-finalizza-acquisizione-ac-monza/"
+    },
+    "cairo_governance_2025": {
+      "id": "cairo_governance_2025",
+      "title": "Minutes of the 8 May 2025 shareholders' meeting and ownership disclosures",
+      "publisher": "Cairo Communication",
+      "url": "https://www.cairocommunication.it/sites/default/files/Cairo%20Com_Verbale%20Assemblea_08.05.2025_con%20allegati.pdf"
+    },
+    "torino_balance_2025": {
+      "id": "torino_balance_2025",
+      "title": "Financial statements at 31 December 2025",
+      "publisher": "Torino Football Club",
+      "url": "https://www.torinofc.it/sites/default/files/bilanci/Bilancio%20311225_0.pdf"
+    },
+    "napoli_balance_2025": {
+      "id": "napoli_balance_2025",
+      "title": "Financial statements at 30 June 2025",
+      "publisher": "SSC Napoli",
+      "url": "https://cdn.sscnapoli.it/wp-content/uploads/2026/01/SSCN-Bilancio-XBRL-al-30.06.2025.pdf"
+    },
+    "sassuolo_balance_2025": {
+      "id": "sassuolo_balance_2025",
+      "title": "Financial statements at 31 December 2025",
+      "publisher": "U.S. Sassuolo Calcio",
+      "url": "https://www.sassuolocalcio.it/wp-content/uploads/files/bilancio/Fascicolo-di-bilancio-31-dicembre-2025_U.S.-Sassuolo-Calcio_.pdf"
+    },
+    "gedi_exor_2024": {
+      "id": "gedi_exor_2024",
+      "title": "EXOR rises to 100% of GEDI",
+      "publisher": "GEDI Gruppo Editoriale",
+      "url": "https://www.gedi.it/it/media/sala-stampa/exor-sale-al-100-di-gedi"
+    },
+    "gedi_sustainability_2025": {
+      "id": "gedi_sustainability_2025",
+      "title": "Sustainability Report 2025 — group perimeter and brands",
+      "publisher": "GEDI Gruppo Editoriale",
+      "url": "https://www.gedi.it/sites/default/files/documents/2026-07/Gruppo_Gedi_Report_Sostenibilita_2025.pdf"
+    },
+    "gedi_structure_2021": {
+      "id": "gedi_structure_2021",
+      "title": "Non-financial statement 2021 — detailed group structure",
+      "publisher": "GEDI Gruppo Editoriale",
+      "url": "https://www.gedi.it/sites/default/files/documents/2022-05/DNF21.pdf"
+    },
+    "rcs_governance_2025": {
+      "id": "rcs_governance_2025",
+      "title": "Corporate governance and ownership structure report 2025",
+      "publisher": "RCS MediaGroup",
+      "url": "https://www.rcsmediagroup.it/sites/default/files/documenti/2026/RCSMG_RelazioneGovernance-2025_per-deposito.pdf"
+    },
+    "rcs_group_titles": {
+      "id": "rcs_group_titles",
+      "title": "RCS MediaGroup — group and publishing titles",
+      "publisher": "RCS MediaGroup",
+      "url": "https://www.rcsmediagroup.it/gruppo"
+    },
+    "caltagirone_editore_annual_2025_titles": {
+      "id": "caltagirone_editore_annual_2025_titles",
+      "title": "Annual Report 2025 — group companies and newspapers",
+      "publisher": "Caltagirone Editore",
+      "url": "https://www.caltagironeeditore.com/wp-content/uploads/2026/04/CaltagironeEditore_ITA25.pdf"
+    },
+    "mondadori_group_structure": {
+      "id": "mondadori_group_structure",
+      "title": "Group structure and ownership percentages",
+      "publisher": "Mondadori Group",
+      "url": "https://www.gruppomondadori.it/chi-siamo/struttura-del-gruppo"
+    },
+    "mondadori_book_brands": {
+      "id": "mondadori_book_brands",
+      "title": "Book publishers and imprints",
+      "publisher": "Mondadori Group",
+      "url": "https://www.gruppomondadori.it/i-nostri-brand/libri"
+    },
+    "mfe_annual_2025_media": {
+      "id": "mfe_annual_2025_media",
+      "title": "MFE Group Annual Report 2025",
+      "publisher": "MFE-MediaForEurope",
+      "url": "https://www.mfemediaforeurope.com/binary/documentRepository/25/MFE%20Group%20Annual%20Report%202025_2495.pdf"
+    },
+    "agcom_mfe_group_2024": {
+      "id": "agcom_mfe_group_2024",
+      "title": "Decision 391/24/CONS — MFE group companies",
+      "publisher": "AGCOM",
+      "url": "https://www.agcom.it/sites/default/files/provvedimenti/delibera/2024/391_24_CONS_OMISSIS__0.pdf"
+    },
+    "filmauro_company": {
+      "id": "filmauro_company",
+      "title": "Filmauro corporate profile and productions",
+      "publisher": "Filmauro",
+      "url": "https://www.filmauro.it/static/client/Luigi-De-Laurentiis-439.aspx"
     }
   },
-  "group_locations": [
+  "locations": [
     {
-      "group_name": "Ferrero",
+      "id": "agrate_brianza_it",
+      "city": "Agrate Brianza",
+      "region": "Lombardia",
+      "country_code": "IT",
+      "latitude": 45.5748,
+      "longitude": 9.3504
+    },
+    {
+      "id": "alba_it",
       "city": "Alba",
       "region": "Piemonte",
+      "country_code": "IT",
       "latitude": 44.7009,
-      "longitude": 8.0355,
-      "offset_x": 0,
-      "offset_y": 0
+      "longitude": 8.0355
     },
     {
-      "group_name": "Del Vecchio",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": 55,
-      "offset_y": -18
+      "id": "ameglia_it",
+      "city": "Ameglia",
+      "region": "Liguria",
+      "country_code": "IT",
+      "latitude": 44.069,
+      "longitude": 9.957
     },
     {
-      "group_name": "Agnelli-Elkann",
-      "city": "Torino",
-      "region": "Piemonte",
-      "latitude": 45.0703,
-      "longitude": 7.6869,
-      "offset_x": -18,
-      "offset_y": -30
+      "id": "amsterdam_nl",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country_code": "NL",
+      "latitude": 52.3676,
+      "longitude": 4.9041
     },
     {
-      "group_name": "Benetton",
-      "city": "Treviso",
-      "region": "Veneto",
-      "latitude": 45.6669,
-      "longitude": 12.243,
-      "offset_x": 28,
-      "offset_y": -15
+      "id": "basel_ch",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "country_code": "CH",
+      "latitude": 47.5596,
+      "longitude": 7.5886
     },
     {
-      "group_name": "Prada-Bertelli",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": 0,
-      "offset_y": -72
-    },
-    {
-      "group_name": "Ferrari",
-      "city": "Maranello",
-      "region": "Emilia-Romagna",
-      "latitude": 44.5263,
-      "longitude": 10.8667,
-      "offset_x": 22,
-      "offset_y": 10
-    },
-    {
-      "group_name": "Ferragamo",
-      "city": "Firenze",
-      "region": "Toscana",
-      "latitude": 43.7696,
-      "longitude": 11.2558,
-      "offset_x": -42,
-      "offset_y": 8
-    },
-    {
-      "group_name": "Holland-Amplifon",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": -55,
-      "offset_y": 32
-    },
-    {
-      "group_name": "Crippa-Technoprobe",
-      "city": "Cernusco Lombardone",
-      "region": "Lombardia",
-      "latitude": 45.6915,
-      "longitude": 9.399,
-      "offset_x": 38,
-      "offset_y": -56
-    },
-    {
-      "group_name": "Ruffini-Moncler",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": 55,
-      "offset_y": 45
-    },
-    {
-      "group_name": "Aponte-MSC",
-      "city": "Sorrento",
-      "region": "Campania",
-      "latitude": 40.6263,
-      "longitude": 14.3758,
-      "offset_x": -20,
-      "offset_y": 8
-    },
-    {
-      "group_name": "Aleotti-Menarini",
-      "city": "Firenze",
-      "region": "Toscana",
-      "latitude": 43.7696,
-      "longitude": 11.2558,
-      "offset_x": 48,
-      "offset_y": -12
-    },
-    {
-      "group_name": "Berlusconi-Fininvest",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": -18,
-      "offset_y": 82
-    },
-    {
-      "group_name": "Doris-Mediolanum",
+      "id": "basiglio_it",
       "city": "Basiglio",
       "region": "Lombardia",
+      "country_code": "IT",
       "latitude": 45.3549,
-      "longitude": 9.1586,
-      "offset_x": -82,
-      "offset_y": 78
+      "longitude": 9.1586
     },
     {
-      "group_name": "Barilla",
-      "city": "Parma",
-      "region": "Emilia-Romagna",
-      "latitude": 44.8015,
-      "longitude": 10.3279,
-      "offset_x": -32,
-      "offset_y": 30
-    },
-    {
-      "group_name": "Lavazza",
-      "city": "Torino",
-      "region": "Piemonte",
-      "latitude": 45.0703,
-      "longitude": 7.6869,
-      "offset_x": -62,
-      "offset_y": 42
-    },
-    {
-      "group_name": "Bombassei-Brembo",
+      "id": "bergamo_it",
       "city": "Bergamo",
       "region": "Lombardia",
+      "country_code": "IT",
       "latitude": 45.6983,
-      "longitude": 9.6773,
-      "offset_x": 65,
-      "offset_y": 5
+      "longitude": 9.6773
     },
     {
-      "group_name": "Caltagirone",
-      "city": "Roma",
-      "region": "Lazio",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "offset_x": -48,
-      "offset_y": -12
-    },
-    {
-      "group_name": "De Longhi",
-      "city": "Treviso",
-      "region": "Veneto",
-      "latitude": 45.6669,
-      "longitude": 12.243,
-      "offset_x": 72,
-      "offset_y": 38
-    },
-    {
-      "group_name": "Angelini",
-      "city": "Roma",
-      "region": "Lazio",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "offset_x": 48,
-      "offset_y": 24
-    },
-    {
-      "group_name": "UniCredit",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": -185,
-      "offset_y": -95
-    },
-    {
-      "group_name": "Intesa Sanpaolo",
-      "city": "Torino",
-      "region": "Piemonte",
-      "latitude": 45.0703,
-      "longitude": 7.6869,
-      "offset_x": -170,
-      "offset_y": -75
-    },
-    {
-      "group_name": "Generali",
-      "city": "Trieste",
-      "region": "Friuli-Venezia Giulia",
-      "latitude": 45.6495,
-      "longitude": 13.7768,
-      "offset_x": 175,
-      "offset_y": -80
-    },
-    {
-      "group_name": "Mediobanca",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": 185,
-      "offset_y": -100
-    },
-    {
-      "group_name": "Banco BPM",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": -195,
-      "offset_y": 15
-    },
-    {
-      "group_name": "MPS",
-      "city": "Siena",
-      "region": "Toscana",
-      "latitude": 43.3188,
-      "longitude": 11.3308,
-      "offset_x": -145,
-      "offset_y": 35
-    },
-    {
-      "group_name": "Unipol",
+      "id": "bologna_it",
       "city": "Bologna",
       "region": "Emilia-Romagna",
+      "country_code": "IT",
       "latitude": 44.4949,
-      "longitude": 11.3426,
-      "offset_x": 140,
-      "offset_y": -15
+      "longitude": 11.3426
     },
     {
-      "group_name": "Leonardo",
-      "city": "Roma",
-      "region": "Lazio",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "offset_x": -155,
-      "offset_y": 95
+      "id": "boston_us",
+      "city": "Boston",
+      "region": "Massachusetts",
+      "country_code": "US",
+      "latitude": 42.3601,
+      "longitude": -71.0589
     },
     {
-      "group_name": "A2A",
-      "city": "Brescia",
-      "region": "Lombardia",
-      "latitude": 45.5416,
-      "longitude": 10.2118,
-      "offset_x": 175,
-      "offset_y": 65
-    },
-    {
-      "group_name": "BPER",
-      "city": "Modena",
-      "region": "Emilia-Romagna",
-      "latitude": 44.6471,
-      "longitude": 10.9252,
-      "offset_x": 95,
-      "offset_y": 95
-    },
-    {
-      "group_name": "Brunello Cucinelli",
-      "city": "Solomeo",
-      "region": "Umbria",
-      "latitude": 43.0301,
-      "longitude": 12.1855,
-      "offset_x": 125,
-      "offset_y": 45
-    },
-    {
-      "group_name": "Enel",
-      "city": "Roma",
-      "region": "Lazio",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "offset_x": 155,
-      "offset_y": 105
-    },
-    {
-      "group_name": "Eni",
-      "city": "Roma",
-      "region": "Lazio",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "offset_x": -175,
-      "offset_y": -100
-    },
-    {
-      "group_name": "Fincantieri",
-      "city": "Trieste",
-      "region": "Friuli-Venezia Giulia",
-      "latitude": 45.6495,
-      "longitude": 13.7768,
-      "offset_x": 170,
-      "offset_y": 90
-    },
-    {
-      "group_name": "ION-Pignataro",
-      "city": "Bologna",
-      "region": "Emilia-Romagna",
-      "latitude": 44.4949,
-      "longitude": 11.3426,
-      "offset_x": -175,
-      "offset_y": -85
-    },
-    {
-      "group_name": "Tether",
-      "city": "Torino",
-      "region": "Piemonte",
-      "latitude": 45.0703,
-      "longitude": 7.6869,
-      "offset_x": -150,
-      "offset_y": 70
-    },
-    {
-      "group_name": "Rocca-Techint",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": 175,
-      "offset_y": -125
-    },
-    {
-      "group_name": "Stevanato",
-      "city": "Piombino Dese",
-      "region": "Veneto",
-      "latitude": 45.6097,
-      "longitude": 11.9962,
-      "offset_x": 185,
-      "offset_y": -20
-    },
-    {
-      "group_name": "Rosso-OTB",
+      "id": "breganze_it",
       "city": "Breganze",
       "region": "Veneto",
+      "country_code": "IT",
       "latitude": 45.7041,
-      "longitude": 11.5628,
-      "offset_x": 130,
-      "offset_y": 95
+      "longitude": 11.5628
     },
     {
-      "group_name": "Seragnoli-Coesia",
-      "city": "Bologna",
-      "region": "Emilia-Romagna",
-      "latitude": 44.4949,
-      "longitude": 11.3426,
-      "offset_x": -45,
-      "offset_y": 135
-    },
-    {
-      "group_name": "Perfetti",
-      "city": "Lainate",
+      "id": "brescia_it",
+      "city": "Brescia",
       "region": "Lombardia",
-      "latitude": 45.5718,
-      "longitude": 9.0268,
-      "offset_x": -165,
-      "offset_y": -125
+      "country_code": "IT",
+      "latitude": 45.5416,
+      "longitude": 10.2118
     },
     {
-      "group_name": "Di Amato-MAIRE",
-      "city": "Roma",
-      "region": "Lazio",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "offset_x": 155,
-      "offset_y": -105
+      "id": "brugine_it",
+      "city": "Brugine",
+      "region": "Veneto",
+      "country_code": "IT",
+      "latitude": 45.2975,
+      "longitude": 11.995
     },
     {
-      "group_name": "Dolce-Gabbana",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": 25,
-      "offset_y": 155
+      "id": "buttrio_it",
+      "city": "Buttrio",
+      "region": "Friuli-Venezia Giulia",
+      "country_code": "IT",
+      "latitude": 46.0108,
+      "longitude": 13.3335
     },
     {
-      "group_name": "Beretta",
-      "city": "Gardone Val Trompia",
-      "region": "Lombardia",
-      "latitude": 45.6917,
-      "longitude": 10.1861,
-      "offset_x": 180,
-      "offset_y": 95
+      "id": "calenzano_it",
+      "city": "Calenzano",
+      "region": "Toscana",
+      "country_code": "IT",
+      "latitude": 43.8569,
+      "longitude": 11.1664
     },
     {
-      "group_name": "Garavoglia-Campari",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": -205,
-      "offset_y": 35
-    },
-    {
-      "group_name": "Armani",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": 195,
-      "offset_y": 35
-    },
-    {
-      "group_name": "Denegri-DiaSorin",
-      "city": "Saluggia",
+      "id": "casale_monferrato_it",
+      "city": "Casale Monferrato",
       "region": "Piemonte",
-      "latitude": 45.2366,
-      "longitude": 8.0145,
-      "offset_x": -190,
-      "offset_y": -35
+      "country_code": "IT",
+      "latitude": 45.1357,
+      "longitude": 8.45
     },
     {
-      "group_name": "Minozzi-Iris",
-      "city": "Fiorano Modenese",
-      "region": "Emilia-Romagna",
-      "latitude": 44.5388,
-      "longitude": 10.8115,
-      "offset_x": 160,
-      "offset_y": -105
+      "id": "cernusco_lombardone_it",
+      "city": "Cernusco Lombardone",
+      "region": "Lombardia",
+      "country_code": "IT",
+      "latitude": 45.6915,
+      "longitude": 9.399
     },
     {
-      "group_name": "Alessandri-Technogym",
+      "id": "cesena_it",
       "city": "Cesena",
       "region": "Emilia-Romagna",
+      "country_code": "IT",
       "latitude": 44.1391,
-      "longitude": 12.2431,
-      "offset_x": 190,
-      "offset_y": 40
+      "longitude": 12.2431
     },
     {
-      "group_name": "Lefebvre-Heritage",
-      "city": "Roma",
+      "id": "colleferro_it",
+      "city": "Colleferro",
       "region": "Lazio",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "offset_x": -170,
-      "offset_y": 100
+      "country_code": "IT",
+      "latitude": 41.7273,
+      "longitude": 13.0052
     },
     {
-      "group_name": "Bulgari",
-      "city": "Roma",
-      "region": "Lazio",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "offset_x": -20,
-      "offset_y": -160
-    },
-    {
-      "group_name": "Moratti",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": -65,
-      "offset_y": 205
-    },
-    {
-      "group_name": "Veronesi-Oniverse",
-      "city": "Verona",
-      "region": "Veneto",
-      "latitude": 45.4384,
-      "longitude": 10.9916,
-      "offset_x": 175,
-      "offset_y": 155
-    },
-    {
-      "group_name": "Arvedi",
+      "id": "cremona_it",
       "city": "Cremona",
       "region": "Lombardia",
+      "country_code": "IT",
       "latitude": 45.1332,
-      "longitude": 10.0227,
-      "offset_x": -165,
-      "offset_y": 135
+      "longitude": 10.0227
     },
     {
-      "group_name": "Della Valle-Tod's",
-      "city": "Sant'Elpidio a Mare",
+      "id": "desio_it",
+      "city": "Desio",
+      "region": "Lombardia",
+      "country_code": "IT",
+      "latitude": 45.6203,
+      "longitude": 9.2092
+    },
+    {
+      "id": "empoli_it",
+      "city": "Empoli",
+      "region": "Toscana",
+      "country_code": "IT",
+      "latitude": 43.7179,
+      "longitude": 10.9476
+    },
+    {
+      "id": "fabriano_it",
+      "city": "Fabriano",
       "region": "Marche",
-      "latitude": 43.2298,
-      "longitude": 13.6861,
-      "offset_x": 150,
-      "offset_y": -70
+      "country_code": "IT",
+      "latitude": 43.3356,
+      "longitude": 12.9057
     },
     {
-      "group_name": "Moretti Polegato-Geox",
+      "id": "fiorano_modenese_it",
+      "city": "Fiorano Modenese",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.5388,
+      "longitude": 10.8115
+    },
+    {
+      "id": "firenze_it",
+      "city": "Firenze",
+      "region": "Toscana",
+      "country_code": "IT",
+      "latitude": 43.7696,
+      "longitude": 11.2558
+    },
+    {
+      "id": "forli_it",
+      "city": "Forlì",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.2227,
+      "longitude": 12.0407
+    },
+    {
+      "id": "gardone_val_trompia_it",
+      "city": "Gardone Val Trompia",
+      "region": "Lombardia",
+      "country_code": "IT",
+      "latitude": 45.6917,
+      "longitude": 10.1861
+    },
+    {
+      "id": "geneva_ch",
+      "city": "Geneva",
+      "region": "Geneva",
+      "country_code": "CH",
+      "latitude": 46.2044,
+      "longitude": 6.1432
+    },
+    {
+      "id": "genova_it",
+      "city": "Genova",
+      "region": "Liguria",
+      "country_code": "IT",
+      "latitude": 44.4056,
+      "longitude": 8.9463
+    },
+    {
+      "id": "hong_kong_hk",
+      "city": "Hong Kong",
+      "region": "Hong Kong",
+      "country_code": "HK",
+      "latitude": 22.3193,
+      "longitude": 114.1694
+    },
+    {
+      "id": "imola_it",
+      "city": "Imola",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.359,
+      "longitude": 11.7132
+    },
+    {
+      "id": "jinan_cn",
+      "city": "Jinan",
+      "region": "Shandong",
+      "country_code": "CN",
+      "latitude": 36.6512,
+      "longitude": 117.1201
+    },
+    {
+      "id": "jolanda_di_savoia_it",
+      "city": "Jolanda di Savoia",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.884,
+      "longitude": 11.976
+    },
+    {
+      "id": "lainate_it",
+      "city": "Lainate",
+      "region": "Lombardia",
+      "country_code": "IT",
+      "latitude": 45.5718,
+      "longitude": 9.0268
+    },
+    {
+      "id": "london_gb",
+      "city": "London",
+      "region": "England",
+      "country_code": "GB",
+      "latitude": 51.5072,
+      "longitude": -0.1276
+    },
+    {
+      "id": "luxembourg_lu",
+      "city": "Luxembourg",
+      "region": "Luxembourg",
+      "country_code": "LU",
+      "latitude": 49.6116,
+      "longitude": 6.1319
+    },
+    {
+      "id": "maranello_it",
+      "city": "Maranello",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.5263,
+      "longitude": 10.8667
+    },
+    {
+      "id": "milano_it",
+      "city": "Milano",
+      "region": "Lombardia",
+      "country_code": "IT",
+      "latitude": 45.4642,
+      "longitude": 9.19
+    },
+    {
+      "id": "modena_it",
+      "city": "Modena",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.6471,
+      "longitude": 10.9252
+    },
+    {
+      "id": "montebelluna_it",
       "city": "Montebelluna",
       "region": "Veneto",
+      "country_code": "IT",
       "latitude": 45.7753,
-      "longitude": 12.0381,
-      "offset_x": 40,
-      "offset_y": -165
+      "longitude": 12.0381
     },
     {
-      "group_name": "Rosano",
+      "id": "monza_it",
+      "city": "Monza",
+      "region": "Lombardia",
+      "country_code": "IT",
+      "latitude": 45.5845,
+      "longitude": 9.2744
+    },
+    {
+      "id": "napoli_it",
+      "city": "Napoli",
+      "region": "Campania",
+      "country_code": "IT",
+      "latitude": 40.8518,
+      "longitude": 14.2681
+    },
+    {
+      "id": "padova_it",
+      "city": "Padova",
+      "region": "Veneto",
+      "country_code": "IT",
+      "latitude": 45.4064,
+      "longitude": 11.8768
+    },
+    {
+      "id": "paris_fr",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country_code": "FR",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "id": "parma_it",
+      "city": "Parma",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.8015,
+      "longitude": 10.3279
+    },
+    {
+      "id": "piombino_dese_it",
+      "city": "Piombino Dese",
+      "region": "Veneto",
+      "country_code": "IT",
+      "latitude": 45.6097,
+      "longitude": 11.9962
+    },
+    {
+      "id": "pistoia_it",
       "city": "Pistoia",
       "region": "Toscana",
+      "country_code": "IT",
       "latitude": 43.9335,
-      "longitude": 10.9177,
-      "offset_x": -165,
-      "offset_y": 15
+      "longitude": 10.9177
     },
     {
-      "group_name": "Percassi",
-      "city": "Bergamo",
-      "region": "Lombardia",
-      "latitude": 45.6983,
-      "longitude": 9.6773,
-      "offset_x": 85,
-      "offset_y": -180
+      "id": "prague_cz",
+      "city": "Prague",
+      "region": "Prague",
+      "country_code": "CZ",
+      "latitude": 50.0755,
+      "longitude": 14.4378
     },
     {
-      "group_name": "Giorgetta-Mapei",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": 215,
-      "offset_y": -205
+      "id": "ravenna_it",
+      "city": "Ravenna",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.4184,
+      "longitude": 12.2035
     },
     {
-      "group_name": "Caprotti-Esselunga",
-      "city": "Milano",
-      "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": -225,
-      "offset_y": -205
+      "id": "reggio_emilia_it",
+      "city": "Reggio Emilia",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.699,
+      "longitude": 10.6297
     },
     {
-      "group_name": "Iervolino",
+      "id": "reggiolo_it",
+      "city": "Reggiolo",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.9182,
+      "longitude": 10.8049
+    },
+    {
+      "id": "roma_it",
       "city": "Roma",
       "region": "Lazio",
+      "country_code": "IT",
       "latitude": 41.9028,
-      "longitude": 12.4964,
-      "offset_x": 185,
-      "offset_y": 110
+      "longitude": 12.4964
     },
     {
-      "group_name": "Ghirelli-Mareterra",
-      "city": "Roma",
-      "region": "Lazio",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "offset_x": -190,
-      "offset_y": -75
+      "id": "saluggia_it",
+      "city": "Saluggia",
+      "region": "Piemonte",
+      "country_code": "IT",
+      "latitude": 45.2366,
+      "longitude": 8.0145
     },
     {
-      "group_name": "Listed market",
-      "city": "Milano",
+      "id": "san_donato_milanese_it",
+      "city": "San Donato Milanese",
       "region": "Lombardia",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "offset_x": 0,
-      "offset_y": 340
+      "country_code": "IT",
+      "latitude": 45.4209,
+      "longitude": 9.2634
+    },
+    {
+      "id": "sant_elpidio_a_mare_it",
+      "city": "Sant'Elpidio a Mare",
+      "region": "Marche",
+      "country_code": "IT",
+      "latitude": 43.2298,
+      "longitude": 13.6861
+    },
+    {
+      "id": "sant_ilario_d_enza_it",
+      "city": "Sant'Ilario d'Enza",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.757,
+      "longitude": 10.447
+    },
+    {
+      "id": "sassuolo_it",
+      "city": "Sassuolo",
+      "region": "Emilia-Romagna",
+      "country_code": "IT",
+      "latitude": 44.5432,
+      "longitude": 10.7848
+    },
+    {
+      "id": "segrate_it",
+      "city": "Segrate",
+      "region": "Lombardia",
+      "country_code": "IT",
+      "latitude": 45.4963,
+      "longitude": 9.2956
+    },
+    {
+      "id": "siena_it",
+      "city": "Siena",
+      "region": "Toscana",
+      "country_code": "IT",
+      "latitude": 43.3188,
+      "longitude": 11.3308
+    },
+    {
+      "id": "solomeo_it",
+      "city": "Solomeo",
+      "region": "Umbria",
+      "country_code": "IT",
+      "latitude": 43.0301,
+      "longitude": 12.1855
+    },
+    {
+      "id": "sondrio_it",
+      "city": "Sondrio",
+      "region": "Lombardia",
+      "country_code": "IT",
+      "latitude": 46.1699,
+      "longitude": 9.8788
+    },
+    {
+      "id": "sorrento_it",
+      "city": "Sorrento",
+      "region": "Campania",
+      "country_code": "IT",
+      "latitude": 40.6263,
+      "longitude": 14.3758
+    },
+    {
+      "id": "torino_it",
+      "city": "Torino",
+      "region": "Piemonte",
+      "country_code": "IT",
+      "latitude": 45.0703,
+      "longitude": 7.6869
+    },
+    {
+      "id": "treviso_it",
+      "city": "Treviso",
+      "region": "Veneto",
+      "country_code": "IT",
+      "latitude": 45.6669,
+      "longitude": 12.243
+    },
+    {
+      "id": "trieste_it",
+      "city": "Trieste",
+      "region": "Friuli-Venezia Giulia",
+      "country_code": "IT",
+      "latitude": 45.6495,
+      "longitude": 13.7768
+    },
+    {
+      "id": "valdilana_it",
+      "city": "Valdilana",
+      "region": "Piemonte",
+      "country_code": "IT",
+      "latitude": 45.625,
+      "longitude": 8.154
+    },
+    {
+      "id": "venezia_it",
+      "city": "Venezia",
+      "region": "Veneto",
+      "country_code": "IT",
+      "latitude": 45.4408,
+      "longitude": 12.3155
+    },
+    {
+      "id": "verona_it",
+      "city": "Verona",
+      "region": "Veneto",
+      "country_code": "IT",
+      "latitude": 45.4384,
+      "longitude": 10.9916
+    },
+    {
+      "id": "weifang_cn",
+      "city": "Weifang",
+      "region": "Shandong",
+      "country_code": "CN",
+      "latitude": 36.7069,
+      "longitude": 119.1618
+    }
+  ],
+  "sectors": [
+    {
+      "id": "finance",
+      "label": "Financial services",
+      "description": "Banks, payments, asset management and financial data.",
+      "order_index": 0
+    },
+    {
+      "id": "insurance",
+      "label": "Insurance",
+      "description": "Insurance and insurance-led financial groups.",
+      "order_index": 1
+    },
+    {
+      "id": "energy_utilities",
+      "label": "Energy & utilities",
+      "description": "Energy, networks, utilities and environmental services.",
+      "order_index": 2
+    },
+    {
+      "id": "industry",
+      "label": "Industry & machinery",
+      "description": "Industrial manufacturing, machinery and engineered products.",
+      "order_index": 3
+    },
+    {
+      "id": "automotive",
+      "label": "Automotive & mobility",
+      "description": "Vehicles, automotive components and tyres.",
+      "order_index": 4
+    },
+    {
+      "id": "construction",
+      "label": "Construction & materials",
+      "description": "Construction, infrastructure delivery and building materials.",
+      "order_index": 5
+    },
+    {
+      "id": "technology",
+      "label": "Technology & telecoms",
+      "description": "Software, electronics, telecommunications and digital services.",
+      "order_index": 6
+    },
+    {
+      "id": "media_publishing",
+      "label": "Media & publishing",
+      "description": "Broadcasting, newspapers, books, radio and publishing brands.",
+      "order_index": 7
+    },
+    {
+      "id": "cinema_entertainment",
+      "label": "Cinema & entertainment",
+      "description": "Film production, distribution and entertainment.",
+      "order_index": 8
+    },
+    {
+      "id": "sports",
+      "label": "Sports",
+      "description": "Professional sports clubs and related operating companies.",
+      "order_index": 9
+    },
+    {
+      "id": "fashion_luxury",
+      "label": "Fashion & luxury",
+      "description": "Fashion, luxury goods, footwear and beauty.",
+      "order_index": 10
+    },
+    {
+      "id": "consumer_retail",
+      "label": "Consumer & retail",
+      "description": "Retail, household products and consumer services.",
+      "order_index": 11
+    },
+    {
+      "id": "food_beverage",
+      "label": "Food & beverages",
+      "description": "Food, coffee, confectionery and drinks.",
+      "order_index": 12
+    },
+    {
+      "id": "healthcare",
+      "label": "Pharma & healthcare",
+      "description": "Pharmaceuticals, diagnostics, medical technology and care.",
+      "order_index": 13
+    },
+    {
+      "id": "transport_logistics",
+      "label": "Transport & logistics",
+      "description": "Transport, postal services, logistics and mobility infrastructure.",
+      "order_index": 14
+    },
+    {
+      "id": "aerospace_defence",
+      "label": "Aerospace & defence",
+      "description": "Aerospace, defence, security and space systems.",
+      "order_index": 15
+    },
+    {
+      "id": "travel_hospitality",
+      "label": "Travel & hospitality",
+      "description": "Travel services, cruises and hospitality.",
+      "order_index": 16
+    },
+    {
+      "id": "agriculture",
+      "label": "Agriculture",
+      "description": "Agriculture and agro-industrial activities.",
+      "order_index": 17
+    },
+    {
+      "id": "real_estate",
+      "label": "Real estate",
+      "description": "Property ownership, development and management.",
+      "order_index": 18
+    },
+    {
+      "id": "diversified",
+      "label": "Diversified",
+      "description": "Operating groups spanning sectors without one clear primary activity.",
+      "order_index": 19
     }
   ],
   "logos": {
@@ -3217,6 +3418,181 @@
       "asset_path": null,
       "mark": "EEV",
       "background": "#315f72"
+    },
+    "la_dea": {
+      "asset_path": null,
+      "mark": "LD",
+      "background": "#233f49"
+    },
+    "pagliuca_investor_group": {
+      "asset_path": null,
+      "mark": "PIG",
+      "background": "#233f49"
+    },
+    "atalanta_bc": {
+      "asset_path": null,
+      "mark": "AB",
+      "background": "#233f49"
+    },
+    "beckett_layne_ventures": {
+      "asset_path": null,
+      "mark": "BLV",
+      "background": "#233f49"
+    },
+    "ac_monza": {
+      "asset_path": null,
+      "mark": "AM",
+      "background": "#233f49"
+    },
+    "ut_communications": {
+      "asset_path": null,
+      "mark": "UC",
+      "background": "#233f49"
+    },
+    "cairo_communication": {
+      "asset_path": null,
+      "mark": "CC",
+      "background": "#233f49"
+    },
+    "torino_fc": {
+      "asset_path": null,
+      "mark": "TF",
+      "background": "#233f49"
+    },
+    "filmauro": {
+      "asset_path": null,
+      "mark": "F",
+      "background": "#233f49"
+    },
+    "ssc_napoli": {
+      "asset_path": null,
+      "mark": "SN",
+      "background": "#233f49"
+    },
+    "us_sassuolo": {
+      "asset_path": null,
+      "mark": "USC",
+      "background": "#233f49"
+    },
+    "gedi": {
+      "asset_path": null,
+      "mark": "GGE",
+      "background": "#233f49"
+    },
+    "gnn": {
+      "asset_path": null,
+      "mark": "G",
+      "background": "#233f49"
+    },
+    "elemedia": {
+      "asset_path": null,
+      "mark": "E",
+      "background": "#233f49"
+    },
+    "la_repubblica": {
+      "asset_path": null,
+      "mark": "LR",
+      "background": "#233f49"
+    },
+    "la_stampa": {
+      "asset_path": null,
+      "mark": "LS",
+      "background": "#233f49"
+    },
+    "radio_deejay": {
+      "asset_path": null,
+      "mark": "RD",
+      "background": "#233f49"
+    },
+    "radio_capital": {
+      "asset_path": null,
+      "mark": "RC",
+      "background": "#233f49"
+    },
+    "m2o": {
+      "asset_path": null,
+      "mark": "M",
+      "background": "#233f49"
+    },
+    "rcs_mediagroup": {
+      "asset_path": null,
+      "mark": "RM",
+      "background": "#233f49"
+    },
+    "unipol_finance": {
+      "asset_path": null,
+      "mark": "UF",
+      "background": "#233f49"
+    },
+    "corriere_della_sera": {
+      "asset_path": null,
+      "mark": "CDS",
+      "background": "#233f49"
+    },
+    "gazzetta_dello_sport": {
+      "asset_path": null,
+      "mark": "LGD",
+      "background": "#233f49"
+    },
+    "il_messaggero_spa": {
+      "asset_path": null,
+      "mark": "IMS",
+      "background": "#233f49"
+    },
+    "il_mattino_spa": {
+      "asset_path": null,
+      "mark": "IMS",
+      "background": "#233f49"
+    },
+    "il_gazzettino_spa": {
+      "asset_path": null,
+      "mark": "IGS",
+      "background": "#233f49"
+    },
+    "il_messaggero": {
+      "asset_path": null,
+      "mark": "IM",
+      "background": "#233f49"
+    },
+    "il_mattino": {
+      "asset_path": null,
+      "mark": "IM",
+      "background": "#233f49"
+    },
+    "il_gazzettino": {
+      "asset_path": null,
+      "mark": "IG",
+      "background": "#233f49"
+    },
+    "mondadori_libri": {
+      "asset_path": null,
+      "mark": "ML",
+      "background": "#233f49"
+    },
+    "einaudi": {
+      "asset_path": null,
+      "mark": "GEE",
+      "background": "#233f49"
+    },
+    "rizzoli_libri": {
+      "asset_path": null,
+      "mark": "R",
+      "background": "#233f49"
+    },
+    "piemme": {
+      "asset_path": null,
+      "mark": "EP",
+      "background": "#233f49"
+    },
+    "mediaset_spa": {
+      "asset_path": null,
+      "mark": "MS",
+      "background": "#233f49"
+    },
+    "medusa_film": {
+      "asset_path": null,
+      "mark": "MF",
+      "background": "#233f49"
     }
   },
   "nodes": [
@@ -3229,9 +3605,8 @@
       "value_eur_bn": 35.206,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Ferrero"
-      ]
+      "location_id": "alba_it",
+      "sectors": []
     },
     {
       "id": "maria_franca_fissolo",
@@ -3242,9 +3617,8 @@
       "value_eur_bn": 1.961,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Ferrero"
-      ]
+      "location_id": "alba_it",
+      "sectors": []
     },
     {
       "id": "ferrero_international",
@@ -3255,8 +3629,9 @@
       "value_eur_bn": 46.8,
       "value_basis": "Implied private valuation used only for the prototype",
       "source_id": "ferrero_key_figures_2025",
-      "groups": [
-        "Ferrero"
+      "location_id": "luxembourg_lu",
+      "sectors": [
+        "food_beverage"
       ]
     },
     {
@@ -3268,9 +3643,8 @@
       "value_eur_bn": 6.393,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Del Vecchio"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "marisa_del_vecchio",
@@ -3281,9 +3655,8 @@
       "value_eur_bn": 6.393,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Del Vecchio"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "paola_del_vecchio",
@@ -3294,9 +3667,8 @@
       "value_eur_bn": 6.393,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Del Vecchio"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "leonardo_maria_del_vecchio",
@@ -3307,9 +3679,8 @@
       "value_eur_bn": 6.393,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Del Vecchio"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "luca_del_vecchio",
@@ -3320,9 +3691,8 @@
       "value_eur_bn": 6.393,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Del Vecchio"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "clemente_del_vecchio",
@@ -3333,9 +3703,8 @@
       "value_eur_bn": 6.393,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Del Vecchio"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "nicoletta_zampillo",
@@ -3346,9 +3715,8 @@
       "value_eur_bn": 6.393,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Del Vecchio"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "rocco_basilico",
@@ -3359,9 +3727,8 @@
       "value_eur_bn": 6.393,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Del Vecchio"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "delfin",
@@ -3372,11 +3739,8 @@
       "value_eur_bn": 55,
       "value_basis": "Indicative portfolio value",
       "source_id": "delfin_essilor_2026",
-      "groups": [
-        "Del Vecchio",
-        "Generali",
-        "MPS"
-      ]
+      "location_id": "luxembourg_lu",
+      "sectors": []
     },
     {
       "id": "essilorluxottica",
@@ -3387,8 +3751,10 @@
       "value_eur_bn": 126,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "essilor_urd_2025",
-      "groups": [
-        "Del Vecchio"
+      "location_id": "paris_fr",
+      "sectors": [
+        "fashion_luxury",
+        "healthcare"
       ]
     },
     {
@@ -3400,9 +3766,8 @@
       "value_eur_bn": 18.2,
       "value_basis": "Economic interest in EXOR applied to 2025 NAV",
       "source_id": "exor_ownership_2025",
-      "groups": [
-        "Agnelli-Elkann"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "giovanni_agnelli_bv",
@@ -3413,9 +3778,8 @@
       "value_eur_bn": 18.2,
       "value_basis": "Indicative look-through value of the EXOR stake",
       "source_id": "exor_ownership_2025",
-      "groups": [
-        "Agnelli-Elkann"
-      ]
+      "location_id": "amsterdam_nl",
+      "sectors": []
     },
     {
       "id": "exor",
@@ -3426,9 +3790,8 @@
       "value_eur_bn": 33.2,
       "value_basis": "Reported NAV",
       "source_id": "exor_annual_2025",
-      "groups": [
-        "Agnelli-Elkann"
-      ]
+      "location_id": "amsterdam_nl",
+      "sectors": []
     },
     {
       "id": "ferrari",
@@ -3439,9 +3802,10 @@
       "value_eur_bn": 61.7,
       "value_basis": "Market capitalization calculated from the year-end 2025 price",
       "source_id": "ferrari_annual_2025",
-      "groups": [
-        "Agnelli-Elkann",
-        "Ferrari"
+      "location_id": "maranello_it",
+      "sectors": [
+        "automotive",
+        "fashion_luxury"
       ]
     },
     {
@@ -3453,8 +3817,9 @@
       "value_eur_bn": 27.5,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "exor_annual_2025",
-      "groups": [
-        "Agnelli-Elkann"
+      "location_id": "amsterdam_nl",
+      "sectors": [
+        "automotive"
       ]
     },
     {
@@ -3466,10 +3831,8 @@
       "value_eur_bn": 9.121,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Benetton",
-        "Generali"
-      ]
+      "location_id": "treviso_it",
+      "sectors": []
     },
     {
       "id": "edizione",
@@ -3480,10 +3843,8 @@
       "value_eur_bn": 14.12,
       "value_basis": "Reported NAV",
       "source_id": "edizione_nav_2025",
-      "groups": [
-        "Benetton",
-        "Generali"
-      ]
+      "location_id": "treviso_it",
+      "sectors": []
     },
     {
       "id": "mundys",
@@ -3494,8 +3855,9 @@
       "value_eur_bn": 12.11,
       "value_basis": "Fair value implied by Edizione's stake",
       "source_id": "edizione_nav_2025",
-      "groups": [
-        "Benetton"
+      "location_id": "roma_it",
+      "sectors": [
+        "transport_logistics"
       ]
     },
     {
@@ -3507,8 +3869,10 @@
       "value_eur_bn": 7.35,
       "value_basis": "Fair value implied by Edizione's stake",
       "source_id": "edizione_nav_2025",
-      "groups": [
-        "Benetton"
+      "location_id": "basel_ch",
+      "sectors": [
+        "consumer_retail",
+        "travel_hospitality"
       ]
     },
     {
@@ -3520,8 +3884,9 @@
       "value_eur_bn": 0.035,
       "value_basis": "Carrying value",
       "source_id": "edizione_nav_2025",
-      "groups": [
-        "Benetton"
+      "location_id": "treviso_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -3533,9 +3898,8 @@
       "value_eur_bn": 4.177,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "patrizio_bertelli",
@@ -3546,9 +3910,8 @@
       "value_eur_bn": 4.177,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "lorenzo_bertelli",
@@ -3559,9 +3922,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "family_prada",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "ludo",
@@ -3572,9 +3934,8 @@
       "value_eur_bn": 3.4,
       "value_basis": "Indicative look-through value",
       "source_id": "prada_annual_2025",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "bellatrix",
@@ -3585,9 +3946,8 @@
       "value_eur_bn": 6.34,
       "value_basis": "Indicative look-through value",
       "source_id": "prada_annual_2025",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "pa_be_1",
@@ -3598,9 +3958,8 @@
       "value_eur_bn": 3.42,
       "value_basis": "Indicative look-through value",
       "source_id": "prada_annual_2025",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "prada_holding",
@@ -3611,9 +3970,8 @@
       "value_eur_bn": 9.76,
       "value_basis": "Indicative look-through value",
       "source_id": "prada_annual_2025",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "prada",
@@ -3624,8 +3982,9 @@
       "value_eur_bn": 12.2,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "prada_annual_2025",
-      "groups": [
-        "Prada-Bertelli"
+      "location_id": "milano_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -3637,9 +3996,8 @@
       "value_eur_bn": 6.479,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Ferrari"
-      ]
+      "location_id": "maranello_it",
+      "sectors": []
     },
     {
       "id": "trust_piero_ferrari",
@@ -3650,9 +4008,8 @@
       "value_eur_bn": 6.5,
       "value_basis": "Indicative value of the Ferrari stake",
       "source_id": "ferrari_shareholders_2025",
-      "groups": [
-        "Ferrari"
-      ]
+      "location_id": "maranello_it",
+      "sectors": []
     },
     {
       "id": "ferragamo_family",
@@ -3663,9 +4020,8 @@
       "value_eur_bn": 0.55,
       "value_basis": "Minimum value of the listed stake only",
       "source_id": "ferragamo_family_holding",
-      "groups": [
-        "Ferragamo"
-      ]
+      "location_id": "firenze_it",
+      "sectors": []
     },
     {
       "id": "ferragamo_finanziaria",
@@ -3676,9 +4032,8 @@
       "value_eur_bn": 0.55,
       "value_basis": "Indicative look-through value",
       "source_id": "ferragamo_family_holding",
-      "groups": [
-        "Ferragamo"
-      ]
+      "location_id": "firenze_it",
+      "sectors": []
     },
     {
       "id": "salvatore_ferragamo",
@@ -3689,8 +4044,9 @@
       "value_eur_bn": 1,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "ferragamo_shareholding_2025",
-      "groups": [
-        "Ferragamo"
+      "location_id": "firenze_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -3702,9 +4058,8 @@
       "value_eur_bn": 1.193,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Holland-Amplifon"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "ampliter",
@@ -3715,9 +4070,8 @@
       "value_eur_bn": 1.26,
       "value_basis": "Indicative look-through value",
       "source_id": "amplifon_governance_2025",
-      "groups": [
-        "Holland-Amplifon"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "amplifon",
@@ -3728,8 +4082,10 @@
       "value_eur_bn": 3,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "amplifon_governance_2025",
-      "groups": [
-        "Holland-Amplifon"
+      "location_id": "milano_it",
+      "sectors": [
+        "healthcare",
+        "consumer_retail"
       ]
     },
     {
@@ -3741,9 +4097,8 @@
       "value_eur_bn": 5.882,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Crippa-Technoprobe"
-      ]
+      "location_id": "cernusco_lombardone_it",
+      "sectors": []
     },
     {
       "id": "t_plus",
@@ -3754,9 +4109,8 @@
       "value_eur_bn": 3.67,
       "value_basis": "Indicative look-through value",
       "source_id": "technoprobe_crippa_family",
-      "groups": [
-        "Crippa-Technoprobe"
-      ]
+      "location_id": "cernusco_lombardone_it",
+      "sectors": []
     },
     {
       "id": "technoprobe",
@@ -3767,8 +4121,10 @@
       "value_eur_bn": 6.5,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "technoprobe_annual_2025",
-      "groups": [
-        "Crippa-Technoprobe"
+      "location_id": "cernusco_lombardone_it",
+      "sectors": [
+        "technology",
+        "industry"
       ]
     },
     {
@@ -3780,9 +4136,8 @@
       "value_eur_bn": 3.154,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Ruffini-Moncler"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "ruffini_partecipazioni",
@@ -3793,9 +4148,8 @@
       "value_eur_bn": 2.4,
       "value_basis": "Indicative look-through value",
       "source_id": "moncler_annual_2025",
-      "groups": [
-        "Ruffini-Moncler"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "double_r",
@@ -3806,9 +4160,8 @@
       "value_eur_bn": 2.4,
       "value_basis": "Indicative look-through value",
       "source_id": "moncler_annual_2025",
-      "groups": [
-        "Ruffini-Moncler"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "moncler",
@@ -3819,8 +4172,9 @@
       "value_eur_bn": 13.2,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "moncler_annual_2025",
-      "groups": [
-        "Ruffini-Moncler"
+      "location_id": "milano_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -3832,9 +4186,8 @@
       "value_eur_bn": 58,
       "value_basis": "Indicative aggregate family wealth; unaudited proxy",
       "source_id": "msc_family_2025",
-      "groups": [
-        "Aponte-MSC"
-      ]
+      "location_id": "sorrento_it",
+      "sectors": []
     },
     {
       "id": "msc_group",
@@ -3845,8 +4198,10 @@
       "value_eur_bn": 58,
       "value_basis": "Proxy based on family wealth; private company without a market capitalization",
       "source_id": "msc_family_2025",
-      "groups": [
-        "Aponte-MSC"
+      "location_id": "geneva_ch",
+      "sectors": [
+        "transport_logistics",
+        "travel_hospitality"
       ]
     },
     {
@@ -3858,9 +4213,8 @@
       "value_eur_bn": 6.905,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "menarini_family_2025",
-      "groups": [
-        "Aleotti-Menarini"
-      ]
+      "location_id": "firenze_it",
+      "sectors": []
     },
     {
       "id": "menarini_group",
@@ -3871,8 +4225,9 @@
       "value_eur_bn": 12.5,
       "value_basis": "Proxy based on shareholder wealth; private company",
       "source_id": "menarini_family_2025",
-      "groups": [
-        "Aleotti-Menarini"
+      "location_id": "firenze_it",
+      "sectors": [
+        "healthcare"
       ]
     },
     {
@@ -3884,9 +4239,8 @@
       "value_eur_bn": 8.865,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "berlusconi_holdings_2025",
-      "groups": [
-        "Berlusconi-Fininvest"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "fininvest_holdings",
@@ -3897,9 +4251,8 @@
       "value_eur_bn": 5,
       "value_basis": "Indicative asset value of the chain",
       "source_id": "berlusconi_holdings_2025",
-      "groups": [
-        "Berlusconi-Fininvest"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "fininvest",
@@ -3910,9 +4263,8 @@
       "value_eur_bn": 5,
       "value_basis": "Indicative value based on the main holdings",
       "source_id": "fininvest_group_2025",
-      "groups": [
-        "Berlusconi-Fininvest"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "mfe",
@@ -3923,8 +4275,9 @@
       "value_eur_bn": 3.2,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "mfe_shareholders_2025",
-      "groups": [
-        "Berlusconi-Fininvest"
+      "location_id": "amsterdam_nl",
+      "sectors": [
+        "media_publishing"
       ]
     },
     {
@@ -3936,8 +4289,9 @@
       "value_eur_bn": 0.62,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "mondadori_shareholders_2025",
-      "groups": [
-        "Berlusconi-Fininvest"
+      "location_id": "segrate_it",
+      "sectors": [
+        "media_publishing"
       ]
     },
     {
@@ -3949,9 +4303,8 @@
       "value_eur_bn": 6.393,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "mediolanum_shareholders_2025",
-      "groups": [
-        "Doris-Mediolanum"
-      ]
+      "location_id": "basiglio_it",
+      "sectors": []
     },
     {
       "id": "finprog_italia",
@@ -3962,9 +4315,8 @@
       "value_eur_bn": 3,
       "value_basis": "Indicative look-through value",
       "source_id": "mediolanum_shareholders_2025",
-      "groups": [
-        "Doris-Mediolanum"
-      ]
+      "location_id": "basiglio_it",
+      "sectors": []
     },
     {
       "id": "banca_mediolanum",
@@ -3975,9 +4327,9 @@
       "value_eur_bn": 11.4,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "mediolanum_shareholders_2025",
-      "groups": [
-        "Doris-Mediolanum",
-        "Berlusconi-Fininvest"
+      "location_id": "basiglio_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -3989,9 +4341,8 @@
       "value_eur_bn": 7.5,
       "value_basis": "Indicative family wealth estimate",
       "source_id": "barilla_family_2025",
-      "groups": [
-        "Barilla"
-      ]
+      "location_id": "parma_it",
+      "sectors": []
     },
     {
       "id": "barilla_group",
@@ -4002,8 +4353,9 @@
       "value_eur_bn": 7.5,
       "value_basis": "Proxy based on family wealth; private company",
       "source_id": "barilla_family_2025",
-      "groups": [
-        "Barilla"
+      "location_id": "parma_it",
+      "sectors": [
+        "food_beverage"
       ]
     },
     {
@@ -4015,9 +4367,8 @@
       "value_eur_bn": 4.5,
       "value_basis": "Indicative family wealth estimate",
       "source_id": "lavazza_family_2025",
-      "groups": [
-        "Lavazza"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "luigi_lavazza",
@@ -4028,8 +4379,9 @@
       "value_eur_bn": 4.5,
       "value_basis": "Proxy based on family wealth; private company",
       "source_id": "lavazza_family_2025",
-      "groups": [
-        "Lavazza"
+      "location_id": "torino_it",
+      "sectors": [
+        "food_beverage"
       ]
     },
     {
@@ -4041,9 +4393,8 @@
       "value_eur_bn": 1.961,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "brembo_shareholders_2025",
-      "groups": [
-        "Bombassei-Brembo"
-      ]
+      "location_id": "bergamo_it",
+      "sectors": []
     },
     {
       "id": "nuova_fourb",
@@ -4054,9 +4405,8 @@
       "value_eur_bn": 1.7,
       "value_basis": "Indicative look-through value",
       "source_id": "brembo_shareholders_2025",
-      "groups": [
-        "Bombassei-Brembo"
-      ]
+      "location_id": "bergamo_it",
+      "sectors": []
     },
     {
       "id": "brembo",
@@ -4067,8 +4417,10 @@
       "value_eur_bn": 3.2,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "brembo_shareholders_2025",
-      "groups": [
-        "Bombassei-Brembo"
+      "location_id": "bergamo_it",
+      "sectors": [
+        "automotive",
+        "industry"
       ]
     },
     {
@@ -4080,11 +4432,8 @@
       "value_eur_bn": 8.354,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "caltagirone_editore_2025",
-      "groups": [
-        "Caltagirone",
-        "Generali",
-        "MPS"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "fgc",
@@ -4095,9 +4444,8 @@
       "value_eur_bn": 1.4,
       "value_basis": "Indicative look-through value",
       "source_id": "caltagirone_editore_2025",
-      "groups": [
-        "Caltagirone"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "parted_1982",
@@ -4108,9 +4456,8 @@
       "value_eur_bn": 0.12,
       "value_basis": "Indicative look-through value",
       "source_id": "caltagirone_editore_2025",
-      "groups": [
-        "Caltagirone"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "caltagirone_editore",
@@ -4121,8 +4468,9 @@
       "value_eur_bn": 0.16,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "caltagirone_editore_2025",
-      "groups": [
-        "Caltagirone"
+      "location_id": "roma_it",
+      "sectors": [
+        "media_publishing"
       ]
     },
     {
@@ -4134,9 +4482,8 @@
       "value_eur_bn": 5.115,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "delonghi_governance_2025",
-      "groups": [
-        "De Longhi"
-      ]
+      "location_id": "treviso_it",
+      "sectors": []
     },
     {
       "id": "long_e_trust",
@@ -4147,9 +4494,8 @@
       "value_eur_bn": 2.6,
       "value_basis": "Indicative look-through value",
       "source_id": "delonghi_governance_2025",
-      "groups": [
-        "De Longhi"
-      ]
+      "location_id": "treviso_it",
+      "sectors": []
     },
     {
       "id": "delonghi_industrial",
@@ -4160,9 +4506,8 @@
       "value_eur_bn": 2.6,
       "value_basis": "Indicative look-through value",
       "source_id": "delonghi_governance_2025",
-      "groups": [
-        "De Longhi"
-      ]
+      "location_id": "treviso_it",
+      "sectors": []
     },
     {
       "id": "delonghi",
@@ -4173,8 +4518,10 @@
       "value_eur_bn": 4.8,
       "value_basis": "Indicative market capitalization near the snapshot date",
       "source_id": "delonghi_governance_2025",
-      "groups": [
-        "De Longhi"
+      "location_id": "treviso_it",
+      "sectors": [
+        "consumer_retail",
+        "industry"
       ]
     },
     {
@@ -4186,9 +4533,8 @@
       "value_eur_bn": 2.5,
       "value_basis": "Indicative asset value of the stake",
       "source_id": "angelini_control",
-      "groups": [
-        "Angelini"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "angelini_finanziaria",
@@ -4199,9 +4545,8 @@
       "value_eur_bn": 2.5,
       "value_basis": "Indicative consolidated net assets",
       "source_id": "angelini_control",
-      "groups": [
-        "Angelini"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "angelini_holding",
@@ -4212,9 +4557,8 @@
       "value_eur_bn": 2.45,
       "value_basis": "Holding net assets from the latest financial statements available near the snapshot date",
       "source_id": "angelini_annual_2024",
-      "groups": [
-        "Angelini"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "angelini_pharma",
@@ -4225,8 +4569,9 @@
       "value_eur_bn": 2,
       "value_basis": "Indicative value included in the private holding",
       "source_id": "angelini_annual_2024",
-      "groups": [
-        "Angelini"
+      "location_id": "roma_it",
+      "sectors": [
+        "healthcare"
       ]
     },
     {
@@ -4238,8 +4583,10 @@
       "value_eur_bn": 0.5,
       "value_basis": "Indicative value included in the private holding",
       "source_id": "angelini_group_2025",
-      "groups": [
-        "Angelini"
+      "location_id": "roma_it",
+      "sectors": [
+        "industry",
+        "technology"
       ]
     },
     {
@@ -4251,9 +4598,9 @@
       "value_eur_bn": 104.9,
       "value_basis": "Indicative market capitalization at 31 December 2025: period-end price multiplied by shares outstanding",
       "source_id": "unicredit_2025_share",
-      "groups": [
-        "UniCredit",
-        "Generali"
+      "location_id": "milano_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -4265,8 +4612,9 @@
       "value_eur_bn": 103.105,
       "value_basis": "Official market capitalization at 31 December 2025",
       "source_id": "intesa_2025_market_cap",
-      "groups": [
-        "Intesa Sanpaolo"
+      "location_id": "torino_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -4278,9 +4626,8 @@
       "value_eur_bn": null,
       "value_basis": "No comparable valuation used in the graph",
       "source_id": "intesa_2025_governance",
-      "groups": [
-        "Intesa Sanpaolo"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "fondazione_cariplo",
@@ -4291,9 +4638,8 @@
       "value_eur_bn": null,
       "value_basis": "No comparable valuation used in the graph",
       "source_id": "intesa_2025_governance",
-      "groups": [
-        "Intesa Sanpaolo"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "generali",
@@ -4304,8 +4650,10 @@
       "value_eur_bn": 55.4,
       "value_basis": "Indicative market capitalization at year-end 2025",
       "source_id": "generali_ownership_2025",
-      "groups": [
-        "Generali"
+      "location_id": "trieste_it",
+      "sectors": [
+        "insurance",
+        "finance"
       ]
     },
     {
@@ -4317,9 +4665,9 @@
       "value_eur_bn": 14.5,
       "value_basis": "Indicative official market capitalization at 31 December 2025",
       "source_id": "mediobanca_mps_2025",
-      "groups": [
-        "Mediobanca",
-        "Generali"
+      "location_id": "milano_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -4331,9 +4679,9 @@
       "value_eur_bn": 20,
       "value_basis": "Approximate market capitalization at year-end 2025",
       "source_id": "banco_bpm_governance_2025",
-      "groups": [
-        "Banco BPM",
-        "MPS"
+      "location_id": "milano_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -4345,9 +4693,8 @@
       "value_eur_bn": null,
       "value_basis": "Investment vehicle; value not estimated",
       "source_id": "banco_bpm_governance_2025",
-      "groups": [
-        "Banco BPM"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "mps",
@@ -4358,9 +4705,9 @@
       "value_eur_bn": 25,
       "value_basis": "Approximate market capitalization after the capital increase supporting the Mediobanca transaction",
       "source_id": "mps_governance_2025",
-      "groups": [
-        "MPS",
-        "Mediobanca"
+      "location_id": "siena_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -4372,11 +4719,8 @@
       "value_eur_bn": null,
       "value_basis": "Aggregate technical node; no standalone value assigned",
       "source_id": "mps_governance_2025",
-      "groups": [
-        "Caltagirone",
-        "MPS",
-        "Generali"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "unipol",
@@ -4387,9 +4731,10 @@
       "value_eur_bn": 14,
       "value_basis": "Indicative market capitalization at year-end 2025",
       "source_id": "unipol_governance_2025",
-      "groups": [
-        "Unipol",
-        "BPER"
+      "location_id": "bologna_it",
+      "sectors": [
+        "insurance",
+        "finance"
       ]
     },
     {
@@ -4401,8 +4746,9 @@
       "value_eur_bn": null,
       "value_basis": "Value not estimated",
       "source_id": "unipol_governance_2025",
-      "groups": [
-        "Unipol"
+      "location_id": "bologna_it",
+      "sectors": [
+        "consumer_retail"
       ]
     },
     {
@@ -4414,8 +4760,9 @@
       "value_eur_bn": null,
       "value_basis": "Value not estimated",
       "source_id": "unipol_governance_2025",
-      "groups": [
-        "Unipol"
+      "location_id": "bologna_it",
+      "sectors": [
+        "consumer_retail"
       ]
     },
     {
@@ -4427,9 +4774,8 @@
       "value_eur_bn": null,
       "value_basis": "Value not estimated",
       "source_id": "unipol_governance_2025",
-      "groups": [
-        "Unipol"
-      ]
+      "location_id": "bologna_it",
+      "sectors": []
     },
     {
       "id": "bper",
@@ -4440,8 +4786,9 @@
       "value_eur_bn": 24,
       "value_basis": "Indicative market capitalization at year-end 2025 after the integration of Banca Popolare di Sondrio",
       "source_id": "bper_annual_2025",
-      "groups": [
-        "BPER"
+      "location_id": "modena_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -4453,9 +4800,8 @@
       "value_eur_bn": null,
       "value_basis": "Value not estimated",
       "source_id": "bper_annual_2025",
-      "groups": [
-        "BPER"
-      ]
+      "location_id": "modena_it",
+      "sectors": []
     },
     {
       "id": "italian_mef",
@@ -4466,13 +4812,8 @@
       "value_eur_bn": null,
       "value_basis": "Public-sector subject; no asset value assigned",
       "source_id": "cdp_ownership_2025",
-      "groups": [
-        "Enel",
-        "Eni",
-        "Leonardo",
-        "Fincantieri",
-        "MPS"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "leonardo",
@@ -4483,8 +4824,9 @@
       "value_eur_bn": 28.6,
       "value_basis": "Indicative market capitalization at year-end 2025",
       "source_id": "leonardo_owner_2025",
-      "groups": [
-        "Leonardo"
+      "location_id": "roma_it",
+      "sectors": [
+        "aerospace_defence"
       ]
     },
     {
@@ -4496,9 +4838,8 @@
       "value_eur_bn": null,
       "value_basis": "Public authority; no asset value assigned",
       "source_id": "a2a_shareholding_2025",
-      "groups": [
-        "A2A"
-      ]
+      "location_id": "brescia_it",
+      "sectors": []
     },
     {
       "id": "municipality_brescia",
@@ -4509,9 +4850,8 @@
       "value_eur_bn": null,
       "value_basis": "Public authority; no asset value assigned",
       "source_id": "a2a_shareholding_2025",
-      "groups": [
-        "A2A"
-      ]
+      "location_id": "brescia_it",
+      "sectors": []
     },
     {
       "id": "a2a",
@@ -4522,8 +4862,9 @@
       "value_eur_bn": 7.237,
       "value_basis": "Official market capitalization at 30 December 2025",
       "source_id": "a2a_shareholding_2025",
-      "groups": [
-        "A2A"
+      "location_id": "brescia_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -4535,9 +4876,8 @@
       "value_eur_bn": null,
       "value_basis": "Controlling trust; no separate value assigned",
       "source_id": "cucinelli_control_2025",
-      "groups": [
-        "Brunello Cucinelli"
-      ]
+      "location_id": "solomeo_it",
+      "sectors": []
     },
     {
       "id": "foro_delle_arti",
@@ -4548,9 +4888,8 @@
       "value_eur_bn": 3.35,
       "value_basis": "Indicative look-through value of the Brunello Cucinelli stake",
       "source_id": "cucinelli_control_2025",
-      "groups": [
-        "Brunello Cucinelli"
-      ]
+      "location_id": "solomeo_it",
+      "sectors": []
     },
     {
       "id": "brunello_cucinelli",
@@ -4561,8 +4900,9 @@
       "value_eur_bn": 6.693,
       "value_basis": "Market capitalization reported on the final trading day of 2025",
       "source_id": "cucinelli_control_2025",
-      "groups": [
-        "Brunello Cucinelli"
+      "location_id": "solomeo_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -4574,10 +4914,8 @@
       "value_eur_bn": 32,
       "value_basis": "Indicative CDP net assets at year-end 2025",
       "source_id": "cdp_ownership_2025",
-      "groups": [
-        "Eni",
-        "Fincantieri"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "cdp_equity",
@@ -4588,9 +4926,8 @@
       "value_eur_bn": null,
       "value_basis": "Value not estimated separately",
       "source_id": "fincantieri_owner_2025",
-      "groups": [
-        "Fincantieri"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "enel",
@@ -4601,8 +4938,9 @@
       "value_eur_bn": 89.191,
       "value_basis": "Reported 2025 market capitalization calculated using the average December price",
       "source_id": "enel_annual_2025",
-      "groups": [
-        "Enel"
+      "location_id": "roma_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -4614,8 +4952,9 @@
       "value_eur_bn": 48,
       "value_basis": "Official market capitalization at year-end 2025",
       "source_id": "eni_annual_2025",
-      "groups": [
-        "Eni"
+      "location_id": "roma_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -4627,8 +4966,10 @@
       "value_eur_bn": 5.9,
       "value_basis": "Indicative market capitalization at year-end 2025",
       "source_id": "fincantieri_owner_2025",
-      "groups": [
-        "Fincantieri"
+      "location_id": "trieste_it",
+      "sectors": [
+        "industry",
+        "transport_logistics"
       ]
     },
     {
@@ -4640,9 +4981,8 @@
       "value_eur_bn": 31.455,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "ION-Pignataro"
-      ]
+      "location_id": "bologna_it",
+      "sectors": []
     },
     {
       "id": "ion_investment_group",
@@ -4653,8 +4993,10 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "pignataro_bloomberg_2025",
-      "groups": [
-        "ION-Pignataro"
+      "location_id": "bologna_it",
+      "sectors": [
+        "technology",
+        "finance"
       ]
     },
     {
@@ -4666,9 +5008,8 @@
       "value_eur_bn": 19.095,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Tether"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "paolo_ardoino",
@@ -4679,9 +5020,8 @@
       "value_eur_bn": 8.098,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Tether"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "tether_holdings",
@@ -4692,8 +5032,10 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tether_forbes_ownership",
-      "groups": [
-        "Tether"
+      "location_id": "torino_it",
+      "sectors": [
+        "finance",
+        "technology"
       ]
     },
     {
@@ -4705,9 +5047,8 @@
       "value_eur_bn": 10.4,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Rocca-Techint"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "san_faustin",
@@ -4718,9 +5059,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tenaris_annual_2025",
-      "groups": [
-        "Rocca-Techint"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "techint_holdings",
@@ -4731,9 +5071,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tenaris_annual_2025",
-      "groups": [
-        "Rocca-Techint"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "tenaris",
@@ -4744,8 +5083,10 @@
       "value_eur_bn": 16.75,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "tenaris_marketcap_2025",
-      "groups": [
-        "Rocca-Techint"
+      "location_id": "milano_it",
+      "sectors": [
+        "industry",
+        "energy_utilities"
       ]
     },
     {
@@ -4757,9 +5098,8 @@
       "value_eur_bn": 4.262,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Stevanato"
-      ]
+      "location_id": "piombino_dese_it",
+      "sectors": []
     },
     {
       "id": "franco_stevanato",
@@ -4770,9 +5110,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "stevanato_annual_2025",
-      "groups": [
-        "Stevanato"
-      ]
+      "location_id": "piombino_dese_it",
+      "sectors": []
     },
     {
       "id": "marco_stevanato",
@@ -4783,9 +5122,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "stevanato_annual_2025",
-      "groups": [
-        "Stevanato"
-      ]
+      "location_id": "piombino_dese_it",
+      "sectors": []
     },
     {
       "id": "stevanato_holding",
@@ -4796,9 +5134,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "stevanato_annual_2025",
-      "groups": [
-        "Stevanato"
-      ]
+      "location_id": "piombino_dese_it",
+      "sectors": []
     },
     {
       "id": "stevanato_group",
@@ -4809,8 +5146,10 @@
       "value_eur_bn": 4.81,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "stevanato_marketcap_2025",
-      "groups": [
-        "Stevanato"
+      "location_id": "piombino_dese_it",
+      "sectors": [
+        "healthcare",
+        "industry"
       ]
     },
     {
@@ -4822,9 +5161,8 @@
       "value_eur_bn": 3.666,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Rosso-OTB"
-      ]
+      "location_id": "breganze_it",
+      "sectors": []
     },
     {
       "id": "otb_group",
@@ -4835,8 +5173,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "otb_report_2025",
-      "groups": [
-        "Rosso-OTB"
+      "location_id": "breganze_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -4848,9 +5187,8 @@
       "value_eur_bn": 3.58,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Brunello Cucinelli"
-      ]
+      "location_id": "solomeo_it",
+      "sectors": []
     },
     {
       "id": "isabella_seragnoli",
@@ -4861,9 +5199,8 @@
       "value_eur_bn": 2.984,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Seragnoli-Coesia"
-      ]
+      "location_id": "bologna_it",
+      "sectors": []
     },
     {
       "id": "coesia",
@@ -4874,8 +5211,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "coesia_group_2025",
-      "groups": [
-        "Seragnoli-Coesia"
+      "location_id": "bologna_it",
+      "sectors": [
+        "industry"
       ]
     },
     {
@@ -4887,9 +5225,8 @@
       "value_eur_bn": 5.541,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Perfetti"
-      ]
+      "location_id": "lainate_it",
+      "sectors": []
     },
     {
       "id": "perfetti_van_melle",
@@ -4900,8 +5237,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "perfetti_legal_2025",
-      "groups": [
-        "Perfetti"
+      "location_id": "lainate_it",
+      "sectors": [
+        "food_beverage"
       ]
     },
     {
@@ -4913,9 +5251,8 @@
       "value_eur_bn": 2.643,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Di Amato-MAIRE"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "glv_capital",
@@ -4926,9 +5263,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "maire_shareholders_2025",
-      "groups": [
-        "Di Amato-MAIRE"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "maire",
@@ -4939,8 +5275,10 @@
       "value_eur_bn": 4.33,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "maire_marketcap_2025",
-      "groups": [
-        "Di Amato-MAIRE"
+      "location_id": "roma_it",
+      "sectors": [
+        "industry",
+        "energy_utilities"
       ]
     },
     {
@@ -4952,9 +5290,8 @@
       "value_eur_bn": 2.557,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Dolce-Gabbana"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "stefano_gabbana",
@@ -4965,9 +5302,8 @@
       "value_eur_bn": 2.557,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Dolce-Gabbana"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "dolce_gabbana_holding",
@@ -4978,9 +5314,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "dolce_gabbana_ownership",
-      "groups": [
-        "Dolce-Gabbana"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "dolce_gabbana",
@@ -4991,8 +5326,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "dolce_gabbana_ownership",
-      "groups": [
-        "Dolce-Gabbana"
+      "location_id": "milano_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -5004,9 +5340,8 @@
       "value_eur_bn": 2.472,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Beretta"
-      ]
+      "location_id": "gardone_val_trompia_it",
+      "sectors": []
     },
     {
       "id": "beretta_holding",
@@ -5017,8 +5352,10 @@
       "value_eur_bn": 1.875,
       "value_basis": "Forbes March 2025 private-company valuation converted at the snapshot FX rate",
       "source_id": "beretta_forbes_2025",
-      "groups": [
-        "Beretta"
+      "location_id": "gardone_val_trompia_it",
+      "sectors": [
+        "aerospace_defence",
+        "consumer_retail"
       ]
     },
     {
@@ -5030,9 +5367,8 @@
       "value_eur_bn": 4.433,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Garavoglia-Campari"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "lagfin",
@@ -5043,9 +5379,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "campari_annual_2025",
-      "groups": [
-        "Garavoglia-Campari"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "campari",
@@ -5056,8 +5391,9 @@
       "value_eur_bn": 6.819,
       "value_basis": "Market capitalization reported in the 2025 annual report",
       "source_id": "campari_annual_2025",
-      "groups": [
-        "Garavoglia-Campari"
+      "location_id": "milano_it",
+      "sectors": [
+        "food_beverage"
       ]
     },
     {
@@ -5069,9 +5405,8 @@
       "value_eur_bn": 2.131,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Armani"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "silvana_armani",
@@ -5082,9 +5417,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "armani_inheritance_2025",
-      "groups": [
-        "Armani"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "andrea_camerana",
@@ -5095,9 +5429,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "armani_inheritance_2025",
-      "groups": [
-        "Armani"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "roberta_armani",
@@ -5108,9 +5441,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "armani_inheritance_2025",
-      "groups": [
-        "Armani"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "rosanna_armani",
@@ -5121,9 +5453,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "armani_inheritance_2025",
-      "groups": [
-        "Armani"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "giorgio_armani_foundation",
@@ -5134,9 +5465,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "armani_inheritance_2025",
-      "groups": [
-        "Armani"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "giorgio_armani_spa",
@@ -5147,8 +5477,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "armani_inheritance_2025",
-      "groups": [
-        "Armani"
+      "location_id": "milano_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -5160,9 +5491,8 @@
       "value_eur_bn": 1.875,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Denegri-DiaSorin"
-      ]
+      "location_id": "saluggia_it",
+      "sectors": []
     },
     {
       "id": "ip_investimenti",
@@ -5173,9 +5503,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "diasorin_ownership_2025",
-      "groups": [
-        "Denegri-DiaSorin"
-      ]
+      "location_id": "saluggia_it",
+      "sectors": []
     },
     {
       "id": "diasorin",
@@ -5186,8 +5515,9 @@
       "value_eur_bn": 3.53,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "diasorin_marketcap_2025",
-      "groups": [
-        "Denegri-DiaSorin"
+      "location_id": "saluggia_it",
+      "sectors": [
+        "healthcare"
       ]
     },
     {
@@ -5199,9 +5529,8 @@
       "value_eur_bn": 1.79,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "minozzi_forbes_2025",
-      "groups": [
-        "Minozzi-Iris"
-      ]
+      "location_id": "fiorano_modenese_it",
+      "sectors": []
     },
     {
       "id": "iris_ceramica_group",
@@ -5212,8 +5541,10 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "iris_governance_2025",
-      "groups": [
-        "Minozzi-Iris"
+      "location_id": "fiorano_modenese_it",
+      "sectors": [
+        "construction",
+        "industry"
       ]
     },
     {
@@ -5225,9 +5556,8 @@
       "value_eur_bn": 1.79,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Alessandri-Technogym"
-      ]
+      "location_id": "cesena_it",
+      "sectors": []
     },
     {
       "id": "oiren",
@@ -5238,9 +5568,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "technogym_oiren_chain",
-      "groups": [
-        "Alessandri-Technogym"
-      ]
+      "location_id": "cesena_it",
+      "sectors": []
     },
     {
       "id": "tgh",
@@ -5251,9 +5580,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "technogym_governance_2025",
-      "groups": [
-        "Alessandri-Technogym"
-      ]
+      "location_id": "cesena_it",
+      "sectors": []
     },
     {
       "id": "technogym",
@@ -5264,8 +5592,10 @@
       "value_eur_bn": 3.22,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "technogym_marketcap_2025",
-      "groups": [
-        "Alessandri-Technogym"
+      "location_id": "cesena_it",
+      "sectors": [
+        "consumer_retail",
+        "healthcare"
       ]
     },
     {
@@ -5277,9 +5607,8 @@
       "value_eur_bn": 1.79,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Lefebvre-Heritage"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "lefebvre_family_trust",
@@ -5290,9 +5619,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "lefebvre_heritage_2025",
-      "groups": [
-        "Lefebvre-Heritage"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "heritage_group",
@@ -5303,8 +5631,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "lefebvre_heritage_2025",
-      "groups": [
-        "Lefebvre-Heritage"
+      "location_id": "roma_it",
+      "sectors": [
+        "travel_hospitality"
       ]
     },
     {
@@ -5316,8 +5645,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "lefebvre_ak_ownership",
-      "groups": [
-        "Lefebvre-Heritage"
+      "location_id": "roma_it",
+      "sectors": [
+        "travel_hospitality"
       ]
     },
     {
@@ -5329,9 +5659,8 @@
       "value_eur_bn": 1.705,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "marina_prada",
@@ -5342,9 +5671,8 @@
       "value_eur_bn": 1.705,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "rigel",
@@ -5355,9 +5683,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "prada_annual_2025",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "mirar",
@@ -5368,9 +5695,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "prada_annual_2025",
-      "groups": [
-        "Prada-Bertelli"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "nicola_bulgari",
@@ -5381,9 +5707,8 @@
       "value_eur_bn": 1.705,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Bulgari"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "paolo_bulgari",
@@ -5394,9 +5719,8 @@
       "value_eur_bn": 1.364,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "bulgari_forbes_2025",
-      "groups": [
-        "Bulgari"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "massimo_moratti",
@@ -5407,9 +5731,8 @@
       "value_eur_bn": 1.62,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Moratti"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "sandro_veronesi_family",
@@ -5420,9 +5743,8 @@
       "value_eur_bn": 1.62,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Veronesi-Oniverse"
-      ]
+      "location_id": "verona_it",
+      "sectors": []
     },
     {
       "id": "de_la_costa",
@@ -5433,9 +5755,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "oniverse_control_2025",
-      "groups": [
-        "Veronesi-Oniverse"
-      ]
+      "location_id": "verona_it",
+      "sectors": []
     },
     {
       "id": "oniverse",
@@ -5446,8 +5767,10 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "oniverse_control_2025",
-      "groups": [
-        "Veronesi-Oniverse"
+      "location_id": "verona_it",
+      "sectors": [
+        "fashion_luxury",
+        "consumer_retail"
       ]
     },
     {
@@ -5459,9 +5782,8 @@
       "value_eur_bn": 1.534,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Arvedi"
-      ]
+      "location_id": "cremona_it",
+      "sectors": []
     },
     {
       "id": "finarvedi",
@@ -5472,9 +5794,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "finarvedi_group_2025",
-      "groups": [
-        "Arvedi"
-      ]
+      "location_id": "cremona_it",
+      "sectors": []
     },
     {
       "id": "diego_della_valle",
@@ -5485,9 +5806,8 @@
       "value_eur_bn": 1.193,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Della Valle-Tod's"
-      ]
+      "location_id": "sant_elpidio_a_mare_it",
+      "sectors": []
     },
     {
       "id": "ddv",
@@ -5498,9 +5818,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tods_offer_2024",
-      "groups": [
-        "Della Valle-Tod's"
-      ]
+      "location_id": "sant_elpidio_a_mare_it",
+      "sectors": []
     },
     {
       "id": "tods",
@@ -5511,8 +5830,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tods_shareholders_after_offer",
-      "groups": [
-        "Della Valle-Tod's"
+      "location_id": "sant_elpidio_a_mare_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -5524,9 +5844,8 @@
       "value_eur_bn": 1.193,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "geox_annual_2025",
-      "groups": [
-        "Moretti Polegato-Geox"
-      ]
+      "location_id": "montebelluna_it",
+      "sectors": []
     },
     {
       "id": "enrico_moretti_polegato",
@@ -5537,9 +5856,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "geox_annual_2025",
-      "groups": [
-        "Moretti Polegato-Geox"
-      ]
+      "location_id": "montebelluna_it",
+      "sectors": []
     },
     {
       "id": "lir",
@@ -5550,9 +5868,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "geox_annual_2025",
-      "groups": [
-        "Moretti Polegato-Geox"
-      ]
+      "location_id": "montebelluna_it",
+      "sectors": []
     },
     {
       "id": "geox",
@@ -5563,8 +5880,9 @@
       "value_eur_bn": null,
       "value_basis": "Below the EUR 1 billion company threshold; included as the source of family wealth",
       "source_id": "geox_annual_2025",
-      "groups": [
-        "Moretti Polegato-Geox"
+      "location_id": "montebelluna_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -5576,9 +5894,8 @@
       "value_eur_bn": 1.193,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "rosano_forbes_2025",
-      "groups": [
-        "Rosano"
-      ]
+      "location_id": "pistoia_it",
+      "sectors": []
     },
     {
       "id": "percassi_family",
@@ -5589,9 +5906,8 @@
       "value_eur_bn": 1.108,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Percassi"
-      ]
+      "location_id": "bergamo_it",
+      "sectors": []
     },
     {
       "id": "odissea",
@@ -5602,9 +5918,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "percassi_kiko_2025",
-      "groups": [
-        "Percassi"
-      ]
+      "location_id": "bergamo_it",
+      "sectors": []
     },
     {
       "id": "kiko_milano",
@@ -5615,8 +5930,10 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "kiko_lcatterton_2024",
-      "groups": [
-        "Percassi"
+      "location_id": "bergamo_it",
+      "sectors": [
+        "fashion_luxury",
+        "consumer_retail"
       ]
     },
     {
@@ -5628,9 +5945,8 @@
       "value_eur_bn": 1.023,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Giorgetta-Mapei"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "marco_squinzi",
@@ -5641,9 +5957,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "mapei_family_ownership",
-      "groups": [
-        "Giorgetta-Mapei"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "veronica_squinzi",
@@ -5654,9 +5969,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "mapei_family_ownership",
-      "groups": [
-        "Giorgetta-Mapei"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "mapei",
@@ -5667,8 +5981,10 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "mapei_holding_2025",
-      "groups": [
-        "Giorgetta-Mapei"
+      "location_id": "milano_it",
+      "sectors": [
+        "construction",
+        "industry"
       ]
     },
     {
@@ -5680,9 +5996,8 @@
       "value_eur_bn": 2.046,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Caprotti-Esselunga"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "supermarkets_italiani",
@@ -5693,9 +6008,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "esselunga_ownership_2020",
-      "groups": [
-        "Caprotti-Esselunga"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "esselunga",
@@ -5706,8 +6020,10 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "esselunga_ownership_2020",
-      "groups": [
-        "Caprotti-Esselunga"
+      "location_id": "milano_it",
+      "sectors": [
+        "consumer_retail",
+        "food_beverage"
       ]
     },
     {
@@ -5719,9 +6035,8 @@
       "value_eur_bn": 1.023,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "iervolino_forbes_2025",
-      "groups": [
-        "Iervolino"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "filippo_ghirelli",
@@ -5732,9 +6047,8 @@
       "value_eur_bn": 1.279,
       "value_basis": "Forbes 12 December 2025 wealth estimate converted at EUR 1 = USD 1.1731",
       "source_id": "forbes_italia_2025",
-      "groups": [
-        "Ghirelli-Mareterra"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "mareterra_group",
@@ -5745,9 +6059,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ghirelli_forbes_2025",
-      "groups": [
-        "Ghirelli-Mareterra"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "hara_capital",
@@ -5758,9 +6071,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "nayara_ownership_2023",
-      "groups": [
-        "Ghirelli-Mareterra"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "nayara_energy",
@@ -5771,8 +6083,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "nayara_ownership_2023",
-      "groups": [
-        "Ghirelli-Mareterra"
+      "location_id": "roma_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -5784,8 +6097,10 @@
       "value_eur_bn": 27.91,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_poste_italiane",
-      "groups": [
-        "Listed market"
+      "location_id": "roma_it",
+      "sectors": [
+        "transport_logistics",
+        "finance"
       ]
     },
     {
@@ -5797,8 +6112,9 @@
       "value_eur_bn": 24.7,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "prysmian_annual_2025_ownership",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "industry"
       ]
     },
     {
@@ -5810,8 +6126,9 @@
       "value_eur_bn": 18.86,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_snam",
-      "groups": [
-        "Listed market"
+      "location_id": "san_donato_milanese_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -5823,8 +6140,9 @@
       "value_eur_bn": 18.08,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_terna",
-      "groups": [
-        "Listed market"
+      "location_id": "roma_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -5836,8 +6154,9 @@
       "value_eur_bn": 13.52,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "fineco_annual_2025_ownership",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -5849,8 +6168,9 @@
       "value_eur_bn": 11.27,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_edison",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -5862,8 +6182,9 @@
       "value_eur_bn": 11.01,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_telecom_italia",
-      "groups": [
-        "Listed market"
+      "location_id": "roma_it",
+      "sectors": [
+        "technology"
       ]
     },
     {
@@ -5875,8 +6196,9 @@
       "value_eur_bn": 9.97,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_recordati",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "healthcare"
       ]
     },
     {
@@ -5888,8 +6210,9 @@
       "value_eur_bn": 9.56,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_italgas",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -5901,8 +6224,9 @@
       "value_eur_bn": 9.43,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_buzzi_unicem",
-      "groups": [
-        "Listed market"
+      "location_id": "casale_monferrato_it",
+      "sectors": [
+        "construction"
       ]
     },
     {
@@ -5914,8 +6238,9 @@
       "value_eur_bn": 7.41,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_banca_popolare_di_sondrio",
-      "groups": [
-        "Listed market"
+      "location_id": "sondrio_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -5927,8 +6252,9 @@
       "value_eur_bn": 7,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_inwit",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "technology"
       ]
     },
     {
@@ -5940,8 +6266,9 @@
       "value_eur_bn": 6.63,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_banca_generali",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -5953,8 +6280,9 @@
       "value_eur_bn": 5.87,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "hera_shareholding_2025",
-      "groups": [
-        "Listed market"
+      "location_id": "bologna_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -5966,9 +6294,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "hera_governance_2024",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "bologna_it",
+      "sectors": []
     },
     {
       "id": "municipality_modena",
@@ -5979,9 +6306,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "hera_governance_2024",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "modena_it",
+      "sectors": []
     },
     {
       "id": "municipality_trieste",
@@ -5992,9 +6318,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "hera_governance_2024",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "trieste_it",
+      "sectors": []
     },
     {
       "id": "municipality_padua",
@@ -6005,9 +6330,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "hera_governance_2024",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "padova_it",
+      "sectors": []
     },
     {
       "id": "municipality_ravenna",
@@ -6018,9 +6342,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ravenna_participations_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "ravenna_it",
+      "sectors": []
     },
     {
       "id": "con_ami",
@@ -6031,9 +6354,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "hera_governance_2024",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "imola_it",
+      "sectors": []
     },
     {
       "id": "ravenna_holding",
@@ -6044,9 +6366,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "hera_governance_2024",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "ravenna_it",
+      "sectors": []
     },
     {
       "id": "market_pirelli",
@@ -6057,8 +6378,9 @@
       "value_eur_bn": 5.79,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_pirelli",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "automotive"
       ]
     },
     {
@@ -6070,8 +6392,9 @@
       "value_eur_bn": 5.38,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_lottomatica_group",
-      "groups": [
-        "Listed market"
+      "location_id": "roma_it",
+      "sectors": [
+        "cinema_entertainment"
       ]
     },
     {
@@ -6083,8 +6406,9 @@
       "value_eur_bn": 5.19,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_credito_emiliano",
-      "groups": [
-        "Listed market"
+      "location_id": "reggio_emilia_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -6096,8 +6420,9 @@
       "value_eur_bn": 5.07,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "azimut_governance_2025",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -6109,8 +6434,9 @@
       "value_eur_bn": 5,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_iveco_group",
-      "groups": [
-        "Listed market"
+      "location_id": "torino_it",
+      "sectors": [
+        "automotive"
       ]
     },
     {
@@ -6122,8 +6448,9 @@
       "value_eur_bn": 4.89,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_interpump_group",
-      "groups": [
-        "Listed market"
+      "location_id": "sant_ilario_d_enza_it",
+      "sectors": [
+        "industry"
       ]
     },
     {
@@ -6135,8 +6462,9 @@
       "value_eur_bn": 4.82,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_nexi",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -6148,8 +6476,9 @@
       "value_eur_bn": 4.76,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_saipem",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -6161,8 +6490,9 @@
       "value_eur_bn": 4.66,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_acea",
-      "groups": [
-        "Listed market"
+      "location_id": "roma_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -6174,8 +6504,9 @@
       "value_eur_bn": 4.43,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_sol_italy",
-      "groups": [
-        "Listed market"
+      "location_id": "monza_it",
+      "sectors": [
+        "healthcare"
       ]
     },
     {
@@ -6187,8 +6518,9 @@
       "value_eur_bn": 4.3,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_reply",
-      "groups": [
-        "Listed market"
+      "location_id": "torino_it",
+      "sectors": [
+        "technology"
       ]
     },
     {
@@ -6200,8 +6532,9 @@
       "value_eur_bn": 3.57,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_danieli_c_officine_meccaniche",
-      "groups": [
-        "Listed market"
+      "location_id": "buttrio_it",
+      "sectors": [
+        "industry"
       ]
     },
     {
@@ -6213,8 +6546,9 @@
       "value_eur_bn": 3.48,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_webuild",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "construction"
       ]
     },
     {
@@ -6226,8 +6560,9 @@
       "value_eur_bn": 3.26,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_iren",
-      "groups": [
-        "Listed market"
+      "location_id": "reggio_emilia_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -6239,8 +6574,9 @@
       "value_eur_bn": 3.16,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_erg",
-      "groups": [
-        "Listed market"
+      "location_id": "genova_it",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -6252,8 +6588,9 @@
       "value_eur_bn": 2.93,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_cementir",
-      "groups": [
-        "Listed market"
+      "location_id": "roma_it",
+      "sectors": [
+        "construction"
       ]
     },
     {
@@ -6265,8 +6602,9 @@
       "value_eur_bn": 2.76,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_carel_industries",
-      "groups": [
-        "Listed market"
+      "location_id": "brugine_it",
+      "sectors": [
+        "technology"
       ]
     },
     {
@@ -6278,8 +6616,9 @@
       "value_eur_bn": 2.56,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_enav",
-      "groups": [
-        "Listed market"
+      "location_id": "roma_it",
+      "sectors": [
+        "aerospace_defence"
       ]
     },
     {
@@ -6291,8 +6630,9 @@
       "value_eur_bn": 2.26,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_ermenegildo_zegna",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -6304,8 +6644,9 @@
       "value_eur_bn": 1.96,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "banco_bpm_annual_2025_anima",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -6317,8 +6658,9 @@
       "value_eur_bn": 1.76,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "bff_shareholding_2025",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -6330,8 +6672,10 @@
       "value_eur_bn": 1.66,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_ariston_holding",
-      "groups": [
-        "Listed market"
+      "location_id": "fabriano_it",
+      "sectors": [
+        "industry",
+        "consumer_retail"
       ]
     },
     {
@@ -6343,8 +6687,9 @@
       "value_eur_bn": 1.55,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_banca_ifis",
-      "groups": [
-        "Listed market"
+      "location_id": "venezia_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -6356,8 +6701,10 @@
       "value_eur_bn": 1.49,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_rai_way",
-      "groups": [
-        "Listed market"
+      "location_id": "roma_it",
+      "sectors": [
+        "media_publishing",
+        "technology"
       ]
     },
     {
@@ -6369,8 +6716,9 @@
       "value_eur_bn": 1.44,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_industrie_de_nora",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "industry"
       ]
     },
     {
@@ -6382,8 +6730,9 @@
       "value_eur_bn": 1.35,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_moltiply_group",
-      "groups": [
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "technology"
       ]
     },
     {
@@ -6395,8 +6744,9 @@
       "value_eur_bn": 1.34,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_avio_spa",
-      "groups": [
-        "Listed market"
+      "location_id": "colleferro_it",
+      "sectors": [
+        "aerospace_defence"
       ]
     },
     {
@@ -6408,8 +6758,9 @@
       "value_eur_bn": 1.31,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_sesa",
-      "groups": [
-        "Listed market"
+      "location_id": "empoli_it",
+      "sectors": [
+        "technology"
       ]
     },
     {
@@ -6421,8 +6772,9 @@
       "value_eur_bn": 1.28,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_comer_industries",
-      "groups": [
-        "Listed market"
+      "location_id": "reggiolo_it",
+      "sectors": [
+        "industry"
       ]
     },
     {
@@ -6434,8 +6786,9 @@
       "value_eur_bn": 1.23,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_banco_di_desio_e_della_brianza",
-      "groups": [
-        "Listed market"
+      "location_id": "desio_it",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -6447,9 +6800,8 @@
       "value_eur_bn": 1.16,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_italmobiliare",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "market_ovs_spa",
@@ -6460,8 +6812,9 @@
       "value_eur_bn": 1.16,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_ovs_spa",
-      "groups": [
-        "Listed market"
+      "location_id": "venezia_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -6473,8 +6826,9 @@
       "value_eur_bn": 1.15,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_cembre_spa",
-      "groups": [
-        "Listed market"
+      "location_id": "brescia_it",
+      "sectors": [
+        "industry"
       ]
     },
     {
@@ -6486,21 +6840,23 @@
       "value_eur_bn": 1.11,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "elen_governance_2025",
-      "groups": [
-        "Listed market"
+      "location_id": "calenzano_it",
+      "sectors": [
+        "technology"
       ]
     },
     {
       "id": "market_juventus_turin",
       "label": "Juventus Turin",
       "category": "organization",
-      "subtype": "listed_company",
+      "subtype": "sports_club",
       "description": "Football club controlled by EXOR through a direct economic interest and enhanced voting rights.",
       "value_eur_bn": 1.09,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_juventus_turin",
-      "groups": [
-        "Listed market"
+      "location_id": "torino_it",
+      "sectors": [
+        "sports"
       ]
     },
     {
@@ -6512,8 +6868,9 @@
       "value_eur_bn": 1.08,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_bfspa",
-      "groups": [
-        "Listed market"
+      "location_id": "jolanda_di_savoia_it",
+      "sectors": [
+        "agriculture"
       ]
     },
     {
@@ -6525,8 +6882,10 @@
       "value_eur_bn": 1.06,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_sanlorenzo",
-      "groups": [
-        "Listed market"
+      "location_id": "ameglia_it",
+      "sectors": [
+        "transport_logistics",
+        "industry"
       ]
     },
     {
@@ -6538,8 +6897,10 @@
       "value_eur_bn": 1.05,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_intercos",
-      "groups": [
-        "Listed market"
+      "location_id": "agrate_brianza_it",
+      "sectors": [
+        "fashion_luxury",
+        "industry"
       ]
     },
     {
@@ -6551,8 +6912,9 @@
       "value_eur_bn": 1.02,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "rosetti_shareholders_2025",
-      "groups": [
-        "Listed market"
+      "location_id": "ravenna_it",
+      "sectors": [
+        "industry"
       ]
     },
     {
@@ -6564,8 +6926,9 @@
       "value_eur_bn": 1.02,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "marketcap_2025_ferretti",
-      "groups": [
-        "Listed market"
+      "location_id": "forli_it",
+      "sectors": [
+        "transport_logistics"
       ]
     },
     {
@@ -6577,10 +6940,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cdp_reti_ownership_2025",
-      "groups": [
-        "Eni",
-        "Fincantieri"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "rai",
@@ -6591,8 +6952,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "rai_transparency_2025",
-      "groups": [
-        "Listed market"
+      "location_id": "roma_it",
+      "sectors": [
+        "media_publishing"
       ]
     },
     {
@@ -6604,9 +6966,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "acea_financial_statements_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "suez_sa",
@@ -6617,8 +6978,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "acea_financial_statements_2025",
-      "groups": [
-        "Listed market"
+      "location_id": "paris_fr",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -6630,9 +6992,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "webuild_shareholders_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "salini_costruttori",
@@ -6643,9 +7004,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "webuild_offering_circular_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "credito_emiliano_holding",
@@ -6656,9 +7016,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "credem_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "reggio_emilia_it",
+      "sectors": []
     },
     {
       "id": "brianza_unione",
@@ -6669,9 +7028,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "banco_desio_prospectus_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "presa_spa",
@@ -6682,9 +7040,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "buzzi_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "casale_monferrato_it",
+      "sectors": []
     },
     {
       "id": "fimedi_spa",
@@ -6695,9 +7052,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "buzzi_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "casale_monferrato_it",
+      "sectors": []
     },
     {
       "id": "mario_rizzante",
@@ -6708,9 +7064,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "reply_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "iceberg_reply",
@@ -6721,9 +7076,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "reply_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "alika_reply",
@@ -6734,9 +7088,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "reply_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "gas_technologies_world",
@@ -6747,9 +7100,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "sol_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "monza_it",
+      "sectors": []
     },
     {
       "id": "san_quirico",
@@ -6760,9 +7112,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "erg_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "genova_it",
+      "sectors": []
     },
     {
       "id": "nzf_bidco_2",
@@ -6773,9 +7124,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "erg_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "luxembourg_lu",
+      "sectors": []
     },
     {
       "id": "sq_renewables",
@@ -6786,9 +7136,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "erg_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "genova_it",
+      "sectors": []
     },
     {
       "id": "leila_montipo_sorelle",
@@ -6799,9 +7148,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "interpump_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "tamburi_investment_partners",
@@ -6812,9 +7160,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "interpump_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "gruppo_ipg_holding",
@@ -6825,9 +7172,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "interpump_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "sant_ilario_d_enza_it",
+      "sectors": []
     },
     {
       "id": "matteo_storchi",
@@ -6838,9 +7184,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "comer_investor_relations_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "reggiolo_it",
+      "sectors": []
     },
     {
       "id": "eagles_oak",
@@ -6851,9 +7196,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "comer_investor_relations_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "reggiolo_it",
+      "sectors": []
     },
     {
       "id": "giovanni_rosani",
@@ -6864,9 +7208,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cembre_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "sara_rosani",
@@ -6877,9 +7220,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cembre_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "lysne_spa",
@@ -6890,9 +7232,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cembre_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "central_tower_holding",
@@ -6903,9 +7244,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "inwit_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "luxembourg_lu",
+      "sectors": []
     },
     {
       "id": "daphne_3",
@@ -6916,9 +7256,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "inwit_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "impulse_i",
@@ -6929,9 +7268,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "inwit_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "luxembourg_lu",
+      "sectors": []
     },
     {
       "id": "marco_polo_international_italy",
@@ -6942,9 +7280,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "pirelli_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "camfin",
@@ -6955,9 +7292,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "pirelli_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "longmarch_holding",
@@ -6968,9 +7304,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "pirelli_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "hong_kong_hk",
+      "sectors": []
     },
     {
       "id": "camfin_alternative_assets",
@@ -6981,9 +7316,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "pirelli_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "merloni_holding",
@@ -6994,9 +7328,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ariston_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "fabriano_it",
+      "sectors": []
     },
     {
       "id": "shandong_sasac",
@@ -7007,9 +7340,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ferretti_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "jinan_cn",
+      "sectors": []
     },
     {
       "id": "shandong_guohui",
@@ -7020,9 +7352,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ferretti_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "jinan_cn",
+      "sectors": []
     },
     {
       "id": "shandong_social_security_fund",
@@ -7033,9 +7364,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ferretti_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "jinan_cn",
+      "sectors": []
     },
     {
       "id": "shig",
@@ -7046,9 +7376,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ferretti_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "jinan_cn",
+      "sectors": []
     },
     {
       "id": "weichai_group",
@@ -7059,9 +7388,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ferretti_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "weifang_cn",
+      "sectors": []
     },
     {
       "id": "weichai_holding_hk",
@@ -7072,9 +7400,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ferretti_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "hong_kong_hk",
+      "sectors": []
     },
     {
       "id": "ferretti_international_holding",
@@ -7085,9 +7412,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ferretti_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "hong_kong_hk",
+      "sectors": []
     },
     {
       "id": "azur_as",
@@ -7098,9 +7424,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "ferretti_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "prague_cz",
+      "sectors": []
     },
     {
       "id": "dompe_holdings",
@@ -7111,9 +7436,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "bf_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "arum_spa",
@@ -7124,9 +7448,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "bf_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "generali_italia",
@@ -7137,8 +7460,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "generali_italia_sfcr_2025",
-      "groups": [
-        "Generali"
+      "location_id": "trieste_it",
+      "sectors": [
+        "insurance"
       ]
     },
     {
@@ -7150,9 +7474,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "generali_vie_sfcr_2025",
-      "groups": [
-        "Generali"
-      ]
+      "location_id": "trieste_it",
+      "sectors": []
     },
     {
       "id": "generali_vie",
@@ -7163,8 +7486,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "generali_vie_sfcr_2025",
-      "groups": [
-        "Generali"
+      "location_id": "trieste_it",
+      "sectors": [
+        "insurance"
       ]
     },
     {
@@ -7176,8 +7500,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "generali_italia_sfcr_2025",
-      "groups": [
-        "Generali"
+      "location_id": "trieste_it",
+      "sectors": [
+        "insurance"
       ]
     },
     {
@@ -7189,8 +7514,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "generali_italia_sfcr_2025",
-      "groups": [
-        "Generali"
+      "location_id": "trieste_it",
+      "sectors": [
+        "insurance"
       ]
     },
     {
@@ -7202,9 +7528,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "edf_urd_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "paris_fr",
+      "sectors": []
     },
     {
       "id": "edf",
@@ -7215,8 +7540,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "edf_urd_2025",
-      "groups": [
-        "Listed market"
+      "location_id": "paris_fr",
+      "sectors": [
+        "energy_utilities"
       ]
     },
     {
@@ -7228,9 +7554,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "edison_edf_international_chain",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "paris_fr",
+      "sectors": []
     },
     {
       "id": "transalpina_energia",
@@ -7241,9 +7566,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "edison_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "sind_international",
@@ -7254,9 +7578,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "danieli_half_year_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "luxembourg_lu",
+      "sectors": []
     },
     {
       "id": "francesco_gaetano_caltagirone",
@@ -7267,9 +7590,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cementir_annual_report_2025",
-      "groups": [
-        "Caltagirone"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "calt_2004",
@@ -7280,9 +7602,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cementir_annual_report_2025",
-      "groups": [
-        "Caltagirone"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "caltagirone_spa",
@@ -7293,9 +7614,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cementir_annual_report_2025",
-      "groups": [
-        "Caltagirone"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "azufin",
@@ -7306,9 +7626,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cementir_annual_report_2025",
-      "groups": [
-        "Caltagirone"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "capitolium",
@@ -7319,9 +7638,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cementir_annual_report_2025",
-      "groups": [
-        "Caltagirone"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "socogeim",
@@ -7332,9 +7650,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cementir_annual_report_2025",
-      "groups": [
-        "Caltagirone"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "compagnia_gestioni_immobiliari",
@@ -7345,9 +7662,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cementir_annual_report_2025",
-      "groups": [
-        "Caltagirone"
-      ]
+      "location_id": "roma_it",
+      "sectors": []
     },
     {
       "id": "vianini_lavori",
@@ -7358,8 +7674,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "cementir_annual_report_2025",
-      "groups": [
-        "Caltagirone"
+      "location_id": "roma_it",
+      "sectors": [
+        "construction"
       ]
     },
     {
@@ -7371,9 +7688,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "genoa_fsu_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "genova_it",
+      "sectors": []
     },
     {
       "id": "fsu_iren",
@@ -7384,9 +7700,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "iren_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "genova_it",
+      "sectors": []
     },
     {
       "id": "comune_torino",
@@ -7397,9 +7712,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "turin_participations_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "fct_holding",
@@ -7410,9 +7724,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "iren_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "citta_metropolitana_torino",
@@ -7423,9 +7736,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "turin_participations_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "metro_holding_torino",
@@ -7436,9 +7748,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "iren_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "torino_it",
+      "sectors": []
     },
     {
       "id": "comune_reggio_emilia",
@@ -7449,9 +7760,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "iren_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "reggio_emilia_it",
+      "sectors": []
     },
     {
       "id": "comune_parma",
@@ -7462,9 +7772,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "iren_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "stt_holding",
@@ -7475,9 +7784,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "parma_participations_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "parma_infrastrutture",
@@ -7488,9 +7796,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "parma_participations_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "rossini_sarl",
@@ -7501,9 +7808,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "recordati_rossini_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "luxembourg_lu",
+      "sectors": []
     },
     {
       "id": "luigi_rossi_luciani_sapa",
@@ -7514,9 +7820,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "carel_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "athena_fh",
@@ -7527,9 +7832,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "carel_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "seven_industries_holding",
@@ -7540,9 +7844,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "carel_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "zegna_family",
@@ -7553,9 +7856,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "zegna_form_20f_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "valdilana_it",
+      "sectors": []
     },
     {
       "id": "monterubello",
@@ -7566,9 +7868,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "zegna_form_20f_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "valdilana_it",
+      "sectors": []
     },
     {
       "id": "furstenberg_scogliera_holding",
@@ -7579,9 +7880,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "banca_ifis_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "federico_de_nora",
@@ -7592,9 +7892,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "de_nora_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "giacomo_niccolo_de_nora",
@@ -7605,9 +7904,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "de_nora_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "federico_de_nora_spa",
@@ -7618,9 +7916,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "de_nora_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "norfin",
@@ -7631,9 +7928,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "de_nora_shareholding_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "asset_company_10",
@@ -7644,9 +7940,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "de_nora_shareholding_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "perotti_family",
@@ -7657,9 +7952,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "sanlorenzo_perotti_chain",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "ameglia_it",
+      "sectors": []
     },
     {
       "id": "holding_happy_life",
@@ -7670,9 +7964,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "sanlorenzo_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "ameglia_it",
+      "sectors": []
     },
     {
       "id": "dafe_4000",
@@ -7683,9 +7976,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "intercos_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "dafe_5000",
@@ -7696,9 +7988,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "intercos_annual_report_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "carlo_pesenti",
@@ -7709,9 +8000,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "italmobiliare_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "serfis",
@@ -7722,9 +8012,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "italmobiliare_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "guderian_spa",
@@ -7735,9 +8024,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "moltiply_control_chain",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "casper_srl",
@@ -7748,9 +8036,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "moltiply_control_chain",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "alma_ventures",
@@ -7761,9 +8048,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "moltiply_ownership_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "hse_spa",
@@ -7774,9 +8060,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "sesa_control_chain_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "empoli_it",
+      "sectors": []
     },
     {
       "id": "ith_spa",
@@ -7787,9 +8072,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "sesa_shareholders_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "empoli_it",
+      "sectors": []
     },
     {
       "id": "banco_bpm_vita",
@@ -7800,9 +8084,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "banco_bpm_annual_2025_anima",
-      "groups": [
-        "Banco BPM",
-        "Listed market"
+      "location_id": "milano_it",
+      "sectors": [
+        "insurance"
       ]
     },
     {
@@ -7814,9 +8098,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "elen_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "brugine_it",
+      "sectors": []
     },
     {
       "id": "alberto_pecci",
@@ -7827,9 +8110,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "elen_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "brugine_it",
+      "sectors": []
     },
     {
       "id": "gabriele_clementi",
@@ -7840,9 +8122,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "elen_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "calenzano_it",
+      "sectors": []
     },
     {
       "id": "smil",
@@ -7853,9 +8134,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "elen_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "immobiliare_il_ciliegio",
@@ -7866,9 +8146,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "elen_governance_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
     },
     {
       "id": "rosfin",
@@ -7879,9 +8158,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "rosetti_shareholders_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "ravenna_it",
+      "sectors": []
     },
     {
       "id": "cosmi_holding",
@@ -7892,9 +8170,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "rosetti_shareholders_2025",
-      "groups": [
-        "Listed market"
-      ]
+      "location_id": "ravenna_it",
+      "sectors": []
     },
     {
       "id": "crown_bidco",
@@ -7905,9 +8182,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tods_shareholders_after_offer",
-      "groups": [
-        "Della Valle-Tod's"
-      ]
+      "location_id": "sant_elpidio_a_mare_it",
+      "sectors": []
     },
     {
       "id": "lc_vista",
@@ -7918,9 +8194,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tods_shareholders_after_offer",
-      "groups": [
-        "Della Valle-Tod's"
-      ]
+      "location_id": "sant_elpidio_a_mare_it",
+      "sectors": []
     },
     {
       "id": "delphine_sas",
@@ -7931,9 +8206,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tods_shareholders_after_offer",
-      "groups": [
-        "Della Valle-Tod's"
-      ]
+      "location_id": "sant_elpidio_a_mare_it",
+      "sectors": []
     },
     {
       "id": "lvmh",
@@ -7944,8 +8218,9 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "lvmh_tods_ownership",
-      "groups": [
-        "Della Valle-Tod's"
+      "location_id": "sant_elpidio_a_mare_it",
+      "sectors": [
+        "fashion_luxury"
       ]
     },
     {
@@ -7957,9 +8232,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tods_shareholders_after_offer",
-      "groups": [
-        "Della Valle-Tod's"
-      ]
+      "location_id": "sant_elpidio_a_mare_it",
+      "sectors": []
     },
     {
       "id": "andrea_della_valle",
@@ -7970,9 +8244,8 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tods_shareholders_after_offer",
-      "groups": [
-        "Della Valle-Tod's"
-      ]
+      "location_id": "sant_elpidio_a_mare_it",
+      "sectors": []
     },
     {
       "id": "emme_esse_vi",
@@ -7983,9 +8256,513 @@
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "mapei_holding_2025",
-      "groups": [
-        "Giorgetta-Mapei"
-      ]
+      "location_id": "milano_it",
+      "sectors": []
+    },
+    {
+      "id": "la_dea",
+      "label": "La Dea",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Direct controlling company of Atalanta, owned by the Pagliuca-led investor group and Odissea.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "bergamo_it",
+      "sectors": [],
+      "source_id": "atalanta_group_2025"
+    },
+    {
+      "id": "pagliuca_investor_group",
+      "label": "Pagliuca investor group",
+      "category": "organization",
+      "subtype": "investment_fund",
+      "description": "Investor group led by Stephen Pagliuca and majority shareholder of La Dea.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "boston_us",
+      "sectors": [],
+      "source_id": "atalanta_group_2025"
+    },
+    {
+      "id": "atalanta_bc",
+      "label": "Atalanta BC",
+      "category": "organization",
+      "subtype": "sports_club",
+      "description": "Bergamo football club directly controlled by La Dea.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "bergamo_it",
+      "sectors": [
+        "sports"
+      ],
+      "source_id": "atalanta_group_2025"
+    },
+    {
+      "id": "beckett_layne_ventures",
+      "label": "Beckett Layne Ventures",
+      "category": "organization",
+      "subtype": "investment_fund",
+      "description": "Investment group that acquired 80% of AC Monza in September 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "london_gb",
+      "sectors": [],
+      "source_id": "monza_ownership_2025"
+    },
+    {
+      "id": "ac_monza",
+      "label": "AC Monza",
+      "category": "organization",
+      "subtype": "sports_club",
+      "description": "Football club owned 80% by Beckett Layne Ventures and 20% by Fininvest at the snapshot date.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "monza_it",
+      "sectors": [
+        "sports"
+      ],
+      "source_id": "monza_ownership_2025"
+    },
+    {
+      "id": "urbano_cairo",
+      "label": "Urbano Cairo",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Italian entrepreneur, direct shareholder and controlling figure of Cairo Communication.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [],
+      "source_id": "cairo_governance_2025"
+    },
+    {
+      "id": "ut_communications",
+      "label": "U.T. Communications",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Cairo holding company, direct shareholder of Cairo Communication and sole shareholder of Torino FC.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [],
+      "source_id": "cairo_governance_2025"
+    },
+    {
+      "id": "cairo_communication",
+      "label": "Cairo Communication",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Listed media group controlled by Urbano Cairo through direct and U.T. Communications interests.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "cairo_governance_2025"
+    },
+    {
+      "id": "torino_fc",
+      "label": "Torino FC",
+      "category": "organization",
+      "subtype": "sports_club",
+      "description": "Turin football club whose sole shareholder is U.T. Communications.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "torino_it",
+      "sectors": [
+        "sports"
+      ],
+      "source_id": "torino_balance_2025"
+    },
+    {
+      "id": "aurelio_de_laurentiis",
+      "label": "Aurelio De Laurentiis",
+      "category": "subject",
+      "subtype": "person",
+      "description": "Film producer and direct minority shareholder of SSC Napoli.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "roma_it",
+      "sectors": [],
+      "source_id": "napoli_balance_2025"
+    },
+    {
+      "id": "filmauro",
+      "label": "Filmauro",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Rome film-production and distribution company and controlling shareholder of SSC Napoli.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "roma_it",
+      "sectors": [
+        "cinema_entertainment"
+      ],
+      "source_id": "filmauro_company"
+    },
+    {
+      "id": "ssc_napoli",
+      "label": "SSC Napoli",
+      "category": "organization",
+      "subtype": "sports_club",
+      "description": "Naples football club whose 501 shares are held by Filmauro and Aurelio De Laurentiis.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "napoli_it",
+      "sectors": [
+        "sports"
+      ],
+      "source_id": "napoli_balance_2025"
+    },
+    {
+      "id": "us_sassuolo",
+      "label": "U.S. Sassuolo Calcio",
+      "category": "organization",
+      "subtype": "sports_club",
+      "description": "Football club with Mapei S.p.A. as sole shareholder and parent company.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "sassuolo_it",
+      "sectors": [
+        "sports"
+      ],
+      "source_id": "sassuolo_balance_2025"
+    },
+    {
+      "id": "gedi",
+      "label": "GEDI Gruppo Editoriale",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Media group wholly owned by EXOR at the snapshot date.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "torino_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "gedi_exor_2024"
+    },
+    {
+      "id": "gnn",
+      "label": "GNN",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "GEDI newspaper company publishing La Repubblica, La Stampa and local titles.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "torino_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "id": "elemedia",
+      "label": "Elemedia",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "GEDI radio company operating Radio Deejay, Radio Capital and m2o.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "id": "la_repubblica",
+      "label": "la Repubblica",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "National newspaper title in the GEDI/GNN publishing perimeter at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "roma_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "id": "la_stampa",
+      "label": "La Stampa",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "Turin newspaper title in the GEDI/GNN publishing perimeter at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "torino_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "id": "radio_deejay",
+      "label": "Radio Deejay",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "National radio brand operated by Elemedia.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "id": "radio_capital",
+      "label": "Radio Capital",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "National radio brand operated by Elemedia.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "id": "m2o",
+      "label": "m2o",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "National radio brand operated by Elemedia.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "id": "rcs_mediagroup",
+      "label": "RCS MediaGroup",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "Listed publishing group controlled by Cairo Communication.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "rcs_governance_2025"
+    },
+    {
+      "id": "unipol_finance",
+      "label": "Unipol Finance",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Unipol group vehicle with a disclosed direct stake in RCS MediaGroup.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "bologna_it",
+      "sectors": [],
+      "source_id": "rcs_governance_2025"
+    },
+    {
+      "id": "corriere_della_sera",
+      "label": "Corriere della Sera",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "National newspaper title published within RCS MediaGroup.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "rcs_group_titles"
+    },
+    {
+      "id": "gazzetta_dello_sport",
+      "label": "La Gazzetta dello Sport",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "Sports newspaper title published within RCS MediaGroup.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [
+        "media_publishing",
+        "sports"
+      ],
+      "source_id": "rcs_group_titles"
+    },
+    {
+      "id": "il_messaggero_spa",
+      "label": "Il Messaggero S.p.A.",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Caltagirone Editore publishing company for Il Messaggero.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "roma_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "id": "il_mattino_spa",
+      "label": "Il Mattino S.p.A.",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Caltagirone Editore publishing company for Il Mattino.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "napoli_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "id": "il_gazzettino_spa",
+      "label": "Il Gazzettino S.p.A.",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Caltagirone Editore publishing company for Il Gazzettino.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "venezia_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "id": "il_messaggero",
+      "label": "Il Messaggero",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "Rome newspaper title controlled through Il Messaggero S.p.A.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "roma_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "id": "il_mattino",
+      "label": "Il Mattino",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "Naples newspaper title controlled through Il Mattino S.p.A.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "napoli_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "id": "il_gazzettino",
+      "label": "Il Gazzettino",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "Veneto newspaper title controlled through Il Gazzettino S.p.A.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "venezia_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "id": "mondadori_libri",
+      "label": "Mondadori Libri",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Wholly owned Mondadori company at the head of the group's book-publishing activities.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "segrate_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "mondadori_group_structure"
+    },
+    {
+      "id": "einaudi",
+      "label": "Giulio Einaudi Editore",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Turin book publisher wholly owned by Mondadori Libri.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "torino_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "mondadori_group_structure"
+    },
+    {
+      "id": "rizzoli_libri",
+      "label": "Rizzoli",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "Book-publishing imprint in the Mondadori Libri perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "segrate_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "mondadori_book_brands"
+    },
+    {
+      "id": "piemme",
+      "label": "Edizioni Piemme",
+      "category": "organization",
+      "subtype": "brand",
+      "description": "Book-publishing imprint in the Mondadori Libri perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "segrate_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "mondadori_book_brands"
+    },
+    {
+      "id": "mediaset_spa",
+      "label": "Mediaset S.p.A.",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "Italian broadcasting company wholly held in the MFE group perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [
+        "media_publishing"
+      ],
+      "source_id": "agcom_mfe_group_2024"
+    },
+    {
+      "id": "medusa_film",
+      "label": "Medusa Film",
+      "category": "organization",
+      "subtype": "private_company",
+      "description": "MFE group company active in film production and distribution.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "location_id": "milano_it",
+      "sectors": [
+        "cinema_entertainment"
+      ],
+      "source_id": "mfe_annual_2025_media"
     }
   ],
   "edges": [
@@ -9183,8 +9960,8 @@
       "owner_id": "percassi_family",
       "owned_id": "odissea",
       "percentage": 100,
-      "note": "Aggregate family ownership of the holding.",
-      "source_id": "percassi_kiko_2025"
+      "note": "The aggregate family node represents Antonio Percassi, whom the official report identifies as Odissea's sole owner.",
+      "source_id": "atalanta_group_2025"
     },
     {
       "kind": "owns",
@@ -10697,6 +11474,366 @@
       "percentage": 100,
       "note": "Direct full ownership documented in Technogym's listing prospectus; the current governance report continues to identify control through Oiren.",
       "source_id": "technogym_oiren_chain"
+    },
+    {
+      "kind": "owns",
+      "id": "own_odissea_la_dea",
+      "owner_id": "odissea",
+      "owned_id": "la_dea",
+      "percentage": 45,
+      "note": "Direct capital stake at 30 June 2025.",
+      "source_id": "atalanta_group_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_pagliuca_la_dea",
+      "owner_id": "pagliuca_investor_group",
+      "owned_id": "la_dea",
+      "percentage": 55,
+      "note": "Direct capital stake held by the Pagliuca-led investor group.",
+      "source_id": "atalanta_group_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_la_dea_atalanta",
+      "owner_id": "la_dea",
+      "owned_id": "atalanta_bc",
+      "percentage": 86.03,
+      "note": "Direct capital stake at 30 June 2025.",
+      "source_id": "atalanta_group_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_blv_monza",
+      "owner_id": "beckett_layne_ventures",
+      "owned_id": "ac_monza",
+      "percentage": 80,
+      "note": "Stake after the transaction completed on 25 September 2025.",
+      "source_id": "monza_ownership_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_fininvest_monza",
+      "owner_id": "fininvest",
+      "owned_id": "ac_monza",
+      "percentage": 20,
+      "note": "Residual stake after the September 2025 transaction; transfer of the remainder was scheduled for 2026.",
+      "source_id": "monza_ownership_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_urbano_cairo_cairo_communication",
+      "owner_id": "urbano_cairo",
+      "owned_id": "cairo_communication",
+      "percentage": 7.22,
+      "note": "Direct capital stake disclosed for the 8 May 2025 meeting.",
+      "source_id": "cairo_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_ut_cairo_communication",
+      "owner_id": "ut_communications",
+      "owned_id": "cairo_communication",
+      "percentage": 44.59,
+      "note": "Direct capital stake disclosed for the 8 May 2025 meeting.",
+      "source_id": "cairo_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_ut_torino",
+      "owner_id": "ut_communications",
+      "owned_id": "torino_fc",
+      "percentage": 100,
+      "note": "Torino FC is a single-member company controlled by U.T. Communications.",
+      "source_id": "torino_balance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_filmauro_napoli",
+      "owner_id": "filmauro",
+      "owned_id": "ssc_napoli",
+      "percentage": 99.8004,
+      "note": "Filmauro held 500 of SSC Napoli's 501 ordinary shares at 30 June 2025.",
+      "source_id": "napoli_balance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_aurelio_napoli",
+      "owner_id": "aurelio_de_laurentiis",
+      "owned_id": "ssc_napoli",
+      "percentage": 0.1996,
+      "note": "Aurelio De Laurentiis held 1 of SSC Napoli's 501 ordinary shares at 30 June 2025.",
+      "source_id": "napoli_balance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mapei_sassuolo",
+      "owner_id": "mapei",
+      "owned_id": "us_sassuolo",
+      "percentage": 100,
+      "note": "U.S. Sassuolo Calcio is a single-member company directed and coordinated by Mapei.",
+      "source_id": "sassuolo_balance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_exor_gedi",
+      "owner_id": "exor",
+      "owned_id": "gedi",
+      "percentage": 100,
+      "note": "EXOR completed the acquisition of all GEDI shares in June 2024; the 2025 EXOR report confirms full ownership.",
+      "source_id": "gedi_exor_2024"
+    },
+    {
+      "kind": "owns",
+      "id": "own_gedi_gnn",
+      "owner_id": "gedi",
+      "owned_id": "gnn",
+      "percentage": 99.85,
+      "note": "Last detailed official percentage; the 2025 sustainability report confirms GNN remains in the controlled perimeter.",
+      "source_id": "gedi_structure_2021"
+    },
+    {
+      "kind": "owns",
+      "id": "own_gedi_elemedia",
+      "owner_id": "gedi",
+      "owned_id": "elemedia",
+      "percentage": 100,
+      "note": "Last detailed official percentage; the 2025 sustainability report confirms Elemedia remains in the controlled perimeter.",
+      "source_id": "gedi_structure_2021"
+    },
+    {
+      "kind": "owns",
+      "id": "own_gnn_repubblica",
+      "owner_id": "gnn",
+      "owned_id": "la_repubblica",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_gnn_stampa",
+      "owner_id": "gnn",
+      "owned_id": "la_stampa",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_elemedia_deejay",
+      "owner_id": "elemedia",
+      "owned_id": "radio_deejay",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_elemedia_capital",
+      "owner_id": "elemedia",
+      "owned_id": "radio_capital",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_elemedia_m2o",
+      "owner_id": "elemedia",
+      "owned_id": "m2o",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "gedi_sustainability_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_cairo_rcs",
+      "owner_id": "cairo_communication",
+      "owned_id": "rcs_mediagroup",
+      "percentage": 59.693,
+      "note": "Direct shareholding reported in the 2025 governance report.",
+      "source_id": "rcs_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_ut_rcs",
+      "owner_id": "ut_communications",
+      "owned_id": "rcs_mediagroup",
+      "percentage": 0.997,
+      "note": "Direct shareholding reported in the 2025 governance report.",
+      "source_id": "rcs_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mediobanca_rcs",
+      "owner_id": "mediobanca",
+      "owned_id": "rcs_mediagroup",
+      "percentage": 6.546,
+      "note": "Direct shareholding; ultimate declarer was MPS through controlled Mediobanca.",
+      "source_id": "rcs_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_pirelli_rcs",
+      "owner_id": "market_pirelli",
+      "owned_id": "rcs_mediagroup",
+      "percentage": 4.732,
+      "note": "Direct shareholding reported in the 2025 governance report.",
+      "source_id": "rcs_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_unipol_rcs",
+      "owner_id": "unipol",
+      "owned_id": "rcs_mediagroup",
+      "percentage": 4.812,
+      "note": "Direct shareholding reported in the 2025 governance report.",
+      "source_id": "rcs_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_unipol_finance_rcs",
+      "owner_id": "unipol_finance",
+      "owned_id": "rcs_mediagroup",
+      "percentage": 0.079,
+      "note": "Direct shareholding reported in the 2025 governance report.",
+      "source_id": "rcs_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_ddv_rcs",
+      "owner_id": "ddv",
+      "owned_id": "rcs_mediagroup",
+      "percentage": 7.624,
+      "note": "Direct shareholding held by DDV & C. and reported in the 2025 governance report.",
+      "source_id": "rcs_governance_2025"
+    },
+    {
+      "kind": "owns",
+      "id": "own_rcs_corriere",
+      "owner_id": "rcs_mediagroup",
+      "owned_id": "corriere_della_sera",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "rcs_group_titles"
+    },
+    {
+      "kind": "owns",
+      "id": "own_rcs_gazzetta",
+      "owner_id": "rcs_mediagroup",
+      "owned_id": "gazzetta_dello_sport",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "rcs_group_titles"
+    },
+    {
+      "kind": "owns",
+      "id": "own_caltagirone_editore_messaggero_spa",
+      "owner_id": "caltagirone_editore",
+      "owned_id": "il_messaggero_spa",
+      "percentage": 99.95,
+      "note": "Direct subsidiary interest at 31 December 2025.",
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "kind": "owns",
+      "id": "own_messaggero_spa_brand",
+      "owner_id": "il_messaggero_spa",
+      "owned_id": "il_messaggero",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "kind": "owns",
+      "id": "own_caltagirone_editore_mattino_spa",
+      "owner_id": "caltagirone_editore",
+      "owned_id": "il_mattino_spa",
+      "percentage": 99.95,
+      "note": "Direct subsidiary interest at 31 December 2025.",
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mattino_spa_brand",
+      "owner_id": "il_mattino_spa",
+      "owned_id": "il_mattino",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "kind": "owns",
+      "id": "own_caltagirone_editore_gazzettino_spa",
+      "owner_id": "caltagirone_editore",
+      "owned_id": "il_gazzettino_spa",
+      "percentage": 99.95,
+      "note": "Direct subsidiary interest at 31 December 2025.",
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "kind": "owns",
+      "id": "own_gazzettino_spa_brand",
+      "owner_id": "il_gazzettino_spa",
+      "owned_id": "il_gazzettino",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "caltagirone_editore_annual_2025_titles"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mondadori_mondadori_libri",
+      "owner_id": "mondadori",
+      "owned_id": "mondadori_libri",
+      "percentage": 100,
+      "note": "Direct subsidiary interest shown in the current official group structure.",
+      "source_id": "mondadori_group_structure"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mondadori_libri_einaudi",
+      "owner_id": "mondadori_libri",
+      "owned_id": "einaudi",
+      "percentage": 100,
+      "note": "Direct subsidiary interest shown in the current official group structure.",
+      "source_id": "mondadori_group_structure"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mondadori_libri_rizzoli",
+      "owner_id": "mondadori_libri",
+      "owned_id": "rizzoli_libri",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "mondadori_book_brands"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mondadori_libri_piemme",
+      "owner_id": "mondadori_libri",
+      "owned_id": "piemme",
+      "percentage": 100,
+      "note": "100 indicates exclusive ownership/control of the brand asset in the cited group perimeter, not a share-capital percentage.",
+      "source_id": "mondadori_book_brands"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mfe_mediaset",
+      "owner_id": "mfe",
+      "owned_id": "mediaset_spa",
+      "percentage": 100,
+      "note": "Mediaset S.p.A. is wholly held in the MFE group perimeter.",
+      "source_id": "agcom_mfe_group_2024"
+    },
+    {
+      "kind": "owns",
+      "id": "own_mediaset_medusa",
+      "owner_id": "mediaset_spa",
+      "owned_id": "medusa_film",
+      "percentage": 100,
+      "note": "Mediaset S.p.A. holds the entire share capital of Medusa Film.",
+      "source_id": "agcom_mfe_group_2024"
     },
     {
       "kind": "family",

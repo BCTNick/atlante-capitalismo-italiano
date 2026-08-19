@@ -15,11 +15,15 @@ Individual relationships do not carry date ranges. When the situation changes, a
 Nodes belong to two categories:
 
 - `subject`: person, family, state, region, province or municipality;
-- `organization`: holding, trust, foundation, cooperative, listed company or private company.
+- `organization`: holding, trust, foundation, cooperative, listed company, private company, sports club or a reusable `brand` node.
 
 A territorial public body may own an organization but cannot itself be owned. An organization may both own and be owned.
 
 IDs use `snake_case`, are descriptive and remain stable across years. The same entity must retain the same ID in every snapshot.
+
+Every node has one normalized `location_id` and an ordered `sectors` list. The first sector is the primary visual anchor. Pure holdings, people, families and public bodies may have no sector: their position in the sector view is derived from the operating organizations connected to them.
+
+The `brand` subtype represents a recognizable asset such as a newspaper title, radio station or book imprint without pretending that it is a separate share-capital company. It deliberately reuses the normal node and relationship model so the Atlas can show which legal publisher or operating company controls it.
 
 ## The `owns` relationship
 
@@ -34,6 +38,8 @@ Ministry of Economy and Finance → CDP → CDP Equity → Fincantieri
 No Ministry of Economy and Finance → Fincantieri link is created when the legal interest passes through CDP and CDP Equity.
 
 The relationship records a disclosed interest, not necessarily corporate control. Shareholder agreements, enhanced voting rights and other governance elements should be explained in the note and supported by a source.
+
+For a `brand` node, 100% means exclusive ownership or control of that brand asset inside the cited corporate perimeter, not 100% of a separate company's share capital. The relationship note must state this distinction.
 
 ## Family relationships
 
@@ -76,4 +82,8 @@ The source must directly support the record to which it is attached. A generic s
 
 ## Territorial positioning
 
-The city assigned to each group is a soft visual anchor based on its historical association, main headquarters or most recognizable operating centre. It is not the exact residence of any person and must not be interpreted as personal registry data.
+Each node is assigned its own city, normally using the registered office, principal headquarters or most recognizable operating centre documented by its source. The city is a soft visual anchor, not an exact address. A person's location is a broad public association and must not be interpreted as residence or registry data.
+
+## Sector positioning
+
+Sectors describe operating activity and do not change node colour. In the sector layout, companies and brands are pulled toward their primary sector. Holdings, people, families and public bodies are not assigned an artificial sector merely for display: they settle between the sector anchors of the entities connected to them through the graph.

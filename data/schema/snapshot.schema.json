@@ -3,7 +3,7 @@
   "$id": "https://example.invalid/atlante/schema/snapshot.schema.json",
   "title": "Atlante del Capitalismo Italiano (Atlas of Italian Capitalism) — Snapshot",
   "type": "object",
-  "required": ["meta", "sources", "group_locations", "logos", "nodes", "ownerships", "family_links"],
+  "required": ["meta", "sources", "locations", "sectors", "logos", "nodes", "ownerships", "family_links"],
   "properties": {
     "meta": {
       "type": "object",
@@ -27,12 +27,13 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "label", "category", "subtype", "description", "value_eur_bn", "value_basis", "groups", "source_id"],
+        "required": ["id", "label", "category", "subtype", "description", "value_eur_bn", "value_basis", "location_id", "sectors", "source_id"],
         "properties": {
           "id": {"type": "string", "pattern": "^[a-z0-9_]+$"},
           "category": {"enum": ["subject", "organization"]},
           "value_eur_bn": {"type": ["number", "null"], "minimum": 0},
-          "groups": {"type": "array", "minItems": 1, "items": {"type": "string"}}
+          "location_id": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+          "sectors": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^[a-z0-9_]+$"}}
         }
       }
     },
@@ -45,7 +46,20 @@
       }
     },
     "family_links": {"type": "array"},
-    "group_locations": {"type": "array"},
+    "locations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "city", "region", "country_code", "latitude", "longitude"]
+      }
+    },
+    "sectors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "description", "order_index"]
+      }
+    },
     "logos": {"type": "object"}
   }
 }

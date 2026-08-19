@@ -43,7 +43,7 @@
       <aside class="controls-panel" aria-label="Graph controls">
         <div class="panel-intro">
           <p class="eyebrow">ESPLORA</p>
-          <p>Follow ownership stakes while preserving a soft territorial proximity among families, public bodies and businesses.</p>
+          <p>Follow ownership stakes in two views: soft territorial proximity or operating-company clusters by sector.</p>
           <p class="release-note">Collaborative dataset: every node and relationship links to its source.</p>
         </div>
 
@@ -57,9 +57,15 @@
           <datalist id="node-list"></datalist>
         </div>
 
-        <label class="field-label" for="group-filter">Family / group</label>
-        <select id="group-filter">
-          <option value="all">Entire sample</option>
+        <div class="field-label">Layout</div>
+        <div class="segmented" role="group" aria-label="Graph layout">
+          <button class="active" id="layout-territory" type="button" aria-pressed="true">Territory</button>
+          <button id="layout-sectors" type="button" aria-pressed="false">Sectors</button>
+        </div>
+
+        <label class="field-label" for="sector-filter">Sector</label>
+        <select id="sector-filter">
+          <option value="all">All sectors</option>
         </select>
 
         <div class="field-label split-label">
@@ -90,7 +96,7 @@
           <div><span class="legend-node company"></span>Company</div>
         </div>
 
-        <p class="hint">Territorial anchors influence the layout without locking nodes. Use the wheel to zoom · drag to move.</p>
+        <p class="hint">Locations and sector anchors influence the layout without locking nodes. Use the wheel to zoom · drag to move.</p>
         <p class="data-notice">Best-effort data: always verify primary sources.</p>
       </aside>
 

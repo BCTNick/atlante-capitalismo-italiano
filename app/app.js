@@ -3,7 +3,9 @@ const ctx = canvas.getContext("2d");
 const stage = document.querySelector(".graph-stage");
 const detailPanel = document.querySelector("#detail-panel");
 const loading = document.querySelector("#loading");
-const groupFilter = document.querySelector("#group-filter");
+const sectorFilter = document.querySelector("#sector-filter");
+const territoryLayoutButton = document.querySelector("#layout-territory");
+const sectorLayoutButton = document.querySelector("#layout-sectors");
 const searchInput = document.querySelector("#search");
 const dataList = document.querySelector("#node-list");
 const stats = document.querySelector("#graph-stats");
@@ -16,11 +18,15 @@ const state = {
   nodes: [],
   edges: [],
   nodeById: new Map(),
-  groupLocations: new Map(),
+  locations: new Map(),
+  sectors: new Map(),
+  sectorAnchors: new Map(),
   logoImages: new Map(),
   selected: null,
   hover: null,
-  selectedGroup: "all",
+  selectedSector: "all",
+  visibleNodeIds: null,
+  layoutMode: "territory",
   showOwnership: true,
   showFamily: true,
   sizeByValue: true,
@@ -58,6 +64,14 @@ const subtypeLabels = {
   municipality: "Municipality",
   listed_company: "Listed company",
   private_company: "Private company",
+  sports_club: "Sports club",
+  brand: "Brand / title",
+  insurance_company: "Insurance company",
+  investment_fund: "Investment fund",
+  public_consortium: "Public consortium",
+  public_holding: "Public holding",
+  state_owned_company: "State-owned company",
+  province: "Province",
 };
 
 const mapBounds = {
@@ -76,12 +90,21 @@ function geoToWorld(latitude, longitude) {
   };
 }
 
+function locationToTerritory(location) {
+  if (location.country_code === "IT") return geoToWorld(location.latitude, location.longitude);
+  const angle = deterministic(`${location.country_code}-${location.id}`) * Math.PI * 2;
+  return {
+    x: Math.cos(angle) * 930,
+    y: Math.sin(angle) * 720,
+  };
+}
+
 function nodePalette(node) {
   if (node.category === "subject") {
-    if (["state", "municipality"].includes(node.subtype)) return palette.public;
+    if (["state", "region", "province", "municipality"].includes(node.subtype)) return palette.public;
     return node.subtype === "family" ? palette.family : palette.person;
   }
-  if (["holding", "listed_holding", "trust"].includes(node.subtype)) return palette.holding;
+  if (["holding", "listed_holding", "trust", "investment_fund"].includes(node.subtype)) return palette.holding;
   return palette.company;
 }
 
@@ -100,7 +123,7 @@ function radiusFor(node) {
 }
 
 function isVisibleNode(node) {
-  return state.selectedGroup === "all" || node.groups.includes(state.selectedGroup);
+  return state.visibleNodeIds === null || state.visibleNodeIds.has(node.id);
 }
 
 function isVisibleEdge(edge) {
@@ -118,26 +141,131 @@ function deterministic(seed) {
   return ((hash >>> 0) % 10000) / 10000;
 }
 
+function buildSectorAnchors(sectors) {
+  const sorted = sectors.slice().sort((a, b) => a.order_index - b.order_index);
+  const columns = 5;
+  const spacingX = 360;
+  const spacingY = 330;
+  const rows = Math.ceil(sorted.length / columns);
+  return new Map(sorted.map((sector, index) => {
+    const column = index % columns;
+    const row = Math.floor(index / columns);
+    return [sector.id, {
+      ...sector,
+      x: (column - (columns - 1) / 2) * spacingX,
+      y: (row - (rows - 1) / 2) * spacingY,
+    }];
+  }));
+}
+
+function sectorNodeAnchors() {
+  const resolved = new Map();
+  const neighbors = new Map(state.nodes.map((node) => [node.id, []]));
+  state.edges.forEach((edge) => {
+    neighbors.get(edge.source.id).push(edge.target.id);
+    neighbors.get(edge.target.id).push(edge.source.id);
+  });
+
+  state.nodes.forEach((node) => {
+    if (!node.sectors.length) return;
+    const anchor = state.sectorAnchors.get(node.sectors[0]);
+    if (anchor) resolved.set(node.id, { x: anchor.x, y: anchor.y });
+  });
+
+  for (let pass = 0; pass < 10; pass += 1) {
+    const additions = [];
+    state.nodes.forEach((node) => {
+      if (resolved.has(node.id)) return;
+      const linked = neighbors.get(node.id).map((id) => resolved.get(id)).filter(Boolean);
+      if (!linked.length) return;
+      additions.push([node.id, {
+        x: linked.reduce((sum, point) => sum + point.x, 0) / linked.length,
+        y: linked.reduce((sum, point) => sum + point.y, 0) / linked.length,
+      }]);
+    });
+    additions.forEach(([nodeId, anchor]) => resolved.set(nodeId, anchor));
+    if (!additions.length) break;
+  }
+
+  state.nodes.forEach((node) => {
+    if (resolved.has(node.id)) return;
+    const angle = deterministic(`${node.id}-sector-orphan`) * Math.PI * 2;
+    resolved.set(node.id, { x: Math.cos(angle) * 125, y: Math.sin(angle) * 125 });
+  });
+  return resolved;
+}
+
+function updateSectorVisibility() {
+  if (state.selectedSector === "all") {
+    state.visibleNodeIds = null;
+    return;
+  }
+  const visible = new Set(
+    state.nodes.filter((node) => node.sectors.includes(state.selectedSector)).map((node) => node.id),
+  );
+  let frontier = new Set(visible);
+  for (let depth = 0; depth < 8; depth += 1) {
+    const next = new Set();
+    state.edges.forEach((edge) => {
+      if (edge.kind === "owns") {
+        if (frontier.has(edge.target.id) && !visible.has(edge.source.id)) next.add(edge.source.id);
+        return;
+      }
+      if (frontier.has(edge.source.id) && !visible.has(edge.target.id)) next.add(edge.target.id);
+      if (frontier.has(edge.target.id) && !visible.has(edge.source.id)) next.add(edge.source.id);
+    });
+    next.forEach((id) => visible.add(id));
+    frontier = next;
+    if (!frontier.size) break;
+  }
+  state.visibleNodeIds = visible;
+}
+
+function applyLayout(mode, initialize = false) {
+  state.layoutMode = mode;
+  territoryLayoutButton.classList.toggle("active", mode === "territory");
+  sectorLayoutButton.classList.toggle("active", mode === "sectors");
+  territoryLayoutButton.setAttribute("aria-pressed", String(mode === "territory"));
+  sectorLayoutButton.setAttribute("aria-pressed", String(mode === "sectors"));
+  const computedSectorAnchors = mode === "sectors" ? sectorNodeAnchors() : null;
+
+  state.nodes.forEach((node) => {
+    const location = state.locations.get(node.location_id);
+    node.anchor = mode === "territory"
+      ? { x: location.territoryX, y: location.territoryY }
+      : computedSectorAnchors.get(node.id);
+    node.fixed = false;
+    node.vx = 0;
+    node.vy = 0;
+    if (initialize) {
+      const theta = deterministic(`${node.id}-${mode}-angle`) * Math.PI * 2;
+      const spread = 44 + deterministic(`${node.id}-${mode}-radius`) * 100;
+      node.x = node.anchor.x + Math.cos(theta) * spread;
+      node.y = node.anchor.y + Math.sin(theta) * spread;
+    }
+  });
+  state.alpha = initialize ? 1 : 0.9;
+  state.didInitialFit = false;
+  if (!initialize) window.setTimeout(fitView, 440);
+}
+
 function initializeGraph(data) {
-  groupFilter.replaceChildren(new Option("Entire sample", "all"));
+  sectorFilter.replaceChildren(new Option("All sectors", "all"));
   dataList.replaceChildren();
   state.selected = null;
   state.hover = null;
-  state.selectedGroup = "all";
+  state.selectedSector = "all";
+  state.visibleNodeIds = null;
   state.didInitialFit = false;
   state.alpha = 1;
   state.camera = { x: 0, y: 0, scale: 1 };
   state.data = data;
-  state.groupLocations = new Map(data.group_locations.map((location) => {
-    const point = geoToWorld(location.latitude, location.longitude);
-    return [location.group_name, {
-      ...location,
-      mapX: point.x + location.offset_x * 1.72,
-      mapY: point.y + location.offset_y * 1.42,
-      cityX: point.x,
-      cityY: point.y,
-    }];
+  state.locations = new Map(data.locations.map((location) => {
+    const point = locationToTerritory(location);
+    return [location.id, { ...location, territoryX: point.x, territoryY: point.y }];
   }));
+  state.sectors = new Map(data.sectors.map((sector) => [sector.id, sector]));
+  state.sectorAnchors = buildSectorAnchors(data.sectors);
 
   state.logoImages = new Map();
   Object.entries(data.logos).forEach(([nodeId, logo]) => {
@@ -149,32 +277,23 @@ function initializeGraph(data) {
     state.logoImages.set(nodeId, image);
   });
 
-  const groups = [...new Set(data.nodes.flatMap((node) => node.groups))].sort((a, b) => a.localeCompare(b));
-  const anchors = new Map();
-  groups.forEach((group) => {
-    const location = state.groupLocations.get(group);
-    anchors.set(group, { x: location.mapX, y: location.mapY });
+  data.sectors.slice().sort((a, b) => a.order_index - b.order_index).forEach((sector) => {
     const option = document.createElement("option");
-    option.value = group;
-    option.textContent = `${group} · ${location.city}`;
-    groupFilter.append(option);
+    option.value = sector.id;
+    option.textContent = sector.label;
+    sectorFilter.append(option);
   });
 
-  state.nodes = data.nodes.map((node) => {
-    const anchor = anchors.get(node.groups[0]) || { x: 0, y: 0 };
-    const theta = deterministic(`${node.id}-angle`) * Math.PI * 2;
-    const spread = 48 + deterministic(`${node.id}-radius`) * 104;
-    return {
-      ...node,
-      x: anchor.x + Math.cos(theta) * spread,
-      y: anchor.y + Math.sin(theta) * spread,
-      vx: 0,
-      vy: 0,
-      fixed: false,
-      r: radiusFor(node),
-      anchor,
-    };
-  });
+  state.nodes = data.nodes.map((node) => ({
+    ...node,
+    x: 0,
+    y: 0,
+    vx: 0,
+    vy: 0,
+    fixed: false,
+    r: radiusFor(node),
+    anchor: { x: 0, y: 0 },
+  }));
   state.nodeById = new Map(state.nodes.map((node) => [node.id, node]));
 
   state.edges = data.edges.map((edge) => ({
@@ -182,6 +301,7 @@ function initializeGraph(data) {
     source: state.nodeById.get(edge.owner_id || edge.person_a_id),
     target: state.nodeById.get(edge.owned_id || edge.person_b_id),
   }));
+  applyLayout("territory", true);
 
   for (const node of state.nodes.slice().sort((a, b) => a.label.localeCompare(b.label))) {
     const option = document.createElement("option");
@@ -316,7 +436,7 @@ function drawArrow(edge, sourcePoint, targetPoint) {
   ctx.closePath();
   ctx.fill();
 
-  if (state.camera.scale > 0.54 && !dimmed && (active || state.selectedGroup !== "all" || state.camera.scale > 1.25)) {
+  if (state.camera.scale > 0.54 && !dimmed && (active || state.selectedSector !== "all" || state.camera.scale > 1.25)) {
     const mx = (start.x + end.x) / 2;
     const my = (start.y + end.y) / 2;
     const label = `${edge.percentage.toLocaleString("en-GB", { maximumFractionDigits: 3 })}%`;
@@ -364,31 +484,12 @@ function drawTerritory() {
   ctx.save();
   ctx.lineJoin = "round";
   ctx.lineCap = "round";
-
-  const visibleGroups = [...state.groupLocations.values()].filter((location) =>
-    state.selectedGroup === "all" || location.group_name === state.selectedGroup
-  );
-  const cities = new Map();
-  visibleGroups.forEach((location) => {
-    if (!cities.has(location.city)) cities.set(location.city, location);
-    const city = worldToScreen(location.cityX, location.cityY);
-    const anchor = worldToScreen(location.mapX, location.mapY);
+  const usedLocations = new Set(state.nodes.filter(isVisibleNode).map((node) => node.location_id));
+  [...state.locations.values()].filter((location) => usedLocations.has(location.id)).forEach((location) => {
+    const point = worldToScreen(location.territoryX, location.territoryY);
     ctx.beginPath();
-    ctx.moveTo(city.x, city.y);
-    ctx.lineTo(anchor.x, anchor.y);
-    ctx.setLineDash([2, 5]);
-    ctx.strokeStyle = state.selectedGroup === "all" ? "rgba(126, 179, 170, .065)" : "rgba(255, 189, 105, .27)";
-    ctx.lineWidth = 0.8;
-    ctx.stroke();
-    ctx.setLineDash([]);
-  });
-
-  cities.forEach((location) => {
-    const point = worldToScreen(location.cityX, location.cityY);
-    const active = state.selectedGroup !== "all";
-    ctx.beginPath();
-    ctx.arc(point.x, point.y, active ? 3.1 : 2.2, 0, Math.PI * 2);
-    ctx.fillStyle = active ? "#ffbd69" : "rgba(120, 192, 181, .55)";
+    ctx.arc(point.x, point.y, state.selectedSector === "all" ? 2.2 : 3.1, 0, Math.PI * 2);
+    ctx.fillStyle = state.selectedSector === "all" ? "rgba(120, 192, 181, .48)" : "#ffbd69";
     ctx.fill();
   });
 
@@ -396,7 +497,35 @@ function drawTerritory() {
   ctx.letterSpacing = "1px";
   ctx.textAlign = "left";
   ctx.fillStyle = "rgba(132, 167, 169, .38)";
-  ctx.fillText("SOFT TERRITORIAL PROXIMITY · ANCHORS", 18, 24);
+  ctx.fillText("SOFT TERRITORIAL PROXIMITY · NODE LOCATIONS", 18, 24);
+  ctx.restore();
+}
+
+function drawSectors() {
+  ctx.save();
+  const anchors = [...state.sectorAnchors.values()].filter((sector) =>
+    state.selectedSector === "all" || sector.id === state.selectedSector
+  );
+  anchors.forEach((sector) => {
+    const point = worldToScreen(sector.x, sector.y);
+    const radius = 126 * state.camera.scale;
+    ctx.beginPath();
+    ctx.arc(point.x, point.y, radius, 0, Math.PI * 2);
+    ctx.strokeStyle = "rgba(137, 169, 174, .12)";
+    ctx.lineWidth = 1;
+    ctx.setLineDash([3, 7]);
+    ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.font = "700 9px Inter, sans-serif";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.fillStyle = "rgba(151, 180, 184, .42)";
+    ctx.fillText(sector.label.toUpperCase(), point.x, point.y - radius - 10);
+  });
+  ctx.font = "700 8px Inter, sans-serif";
+  ctx.textAlign = "left";
+  ctx.fillStyle = "rgba(132, 167, 169, .38)";
+  ctx.fillText("SECTOR CLUSTERS · HOLDINGS SETTLE BETWEEN THEIR ASSETS", 18, 24);
   ctx.restore();
 }
 
@@ -513,7 +642,7 @@ function drawNode(node) {
       ctx.fillStyle = "rgba(6, 17, 21, .68)";
       ctx.fillText(formatValue(node.value_eur_bn).replace("€ ", "€"), point.x, startY + labelLines.length * fontSize * 1.08 + 2);
     }
-  } else if (state.camera.scale >= 0.48 && (state.selectedGroup !== "all" || selected || hovered)) {
+  } else if (state.camera.scale >= 0.48 && (state.selectedSector !== "all" || selected || hovered)) {
     ctx.font = `${selected ? 700 : 600} ${selected ? 10 : 9}px Inter, sans-serif`;
     ctx.fillStyle = selected ? "#f8e6c9" : "#bccacc";
     ctx.textBaseline = "top";
@@ -526,7 +655,8 @@ function drawNode(node) {
 function render() {
   ctx.clearRect(0, 0, state.width, state.height);
   simulate();
-  drawTerritory();
+  if (state.layoutMode === "territory") drawTerritory();
+  else drawSectors();
   const visibleEdges = state.edges.filter(isVisibleEdge);
   for (const edge of visibleEdges.filter((item) => item.kind === "family")) {
     drawFamily(edge, worldToScreen(edge.source.x, edge.source.y), worldToScreen(edge.target.x, edge.target.y));
@@ -552,16 +682,18 @@ function nodeAt(screenX, screenY) {
 function fitView() {
   const nodes = state.nodes.filter(isVisibleNode);
   if (!nodes.length) return;
-  const territoryPoints = state.selectedGroup === "all"
-    ? [...state.groupLocations.values()].flatMap((location) => [
-        { x: location.cityX, y: location.cityY },
-        { x: location.mapX, y: location.mapY },
-      ])
-    : [];
-  const minX = Math.min(...nodes.map((node) => node.x - node.r), ...territoryPoints.map((point) => point.x - 18));
-  const maxX = Math.max(...nodes.map((node) => node.x + node.r), ...territoryPoints.map((point) => point.x + 18));
-  const minY = Math.min(...nodes.map((node) => node.y - node.r), ...territoryPoints.map((point) => point.y - 18));
-  const maxY = Math.max(...nodes.map((node) => node.y + node.r), ...territoryPoints.map((point) => point.y + 18));
+  const backgroundPoints = state.layoutMode === "territory"
+    ? [...new Set(nodes.map((node) => node.location_id))].map((id) => {
+        const location = state.locations.get(id);
+        return { x: location.territoryX, y: location.territoryY };
+      })
+    : [...state.sectorAnchors.values()]
+        .filter((sector) => state.selectedSector === "all" || sector.id === state.selectedSector)
+        .map((sector) => ({ x: sector.x, y: sector.y }));
+  const minX = Math.min(...nodes.map((node) => node.x - node.r), ...backgroundPoints.map((point) => point.x - 18));
+  const maxX = Math.max(...nodes.map((node) => node.x + node.r), ...backgroundPoints.map((point) => point.x + 18));
+  const minY = Math.min(...nodes.map((node) => node.y - node.r), ...backgroundPoints.map((point) => point.y - 18));
+  const maxY = Math.max(...nodes.map((node) => node.y + node.r), ...backgroundPoints.map((point) => point.y + 18));
   const graphWidth = Math.max(1, maxX - minX);
   const graphHeight = Math.max(1, maxY - minY);
   state.camera.scale = Math.max(0.28, Math.min(1.25, Math.min((state.width - 90) / graphWidth, (state.height - 90) / graphHeight)));
@@ -627,7 +759,8 @@ function selectNode(node) {
   const related = state.edges.filter((edge) => isVisibleEdge(edge) && (edge.source.id === node.id || edge.target.id === node.id));
   const ownership = related.filter((edge) => edge.kind === "owns");
   const family = related.filter((edge) => edge.kind === "family");
-  const location = state.groupLocations.get(node.groups[0]);
+  const location = state.locations.get(node.location_id);
+  const nodeSectors = node.sectors.map((sectorId) => state.sectors.get(sectorId)).filter(Boolean);
   const logo = node.category === "organization" ? state.data.logos[node.id] : null;
   detailPanel.innerHTML = `
     <button class="detail-close" type="button" aria-label="Close details">×</button>
@@ -635,7 +768,8 @@ function selectNode(node) {
       <div class="detail-kicker"><span style="background:${colors.fill}"></span>${subtypeLabels[node.subtype] || node.subtype}</div>
       ${logo ? `<div class="detail-logo" style="--logo-bg:${logo.background}">${logo.asset_path ? `<img src="${logo.asset_path}" alt="" />` : `<span>${logo.mark}</span>`}</div>` : ""}
       <h2>${node.label}</h2>
-      <div class="location-pill"><span></span>${location.city} · ${location.region}</div>
+      <div class="location-pill"><span></span>${location.city} · ${location.region}${location.country_code === "IT" ? "" : ` · ${location.country_code}`}</div>
+      ${nodeSectors.length ? `<div class="sector-pills">${nodeSectors.map((sector) => `<span>${sector.label}</span>`).join("")}</div>` : ""}
       <p>${node.description}</p>
     </div>
     <div class="value-card">
@@ -725,8 +859,9 @@ canvas.addEventListener("wheel", (event) => {
   state.camera.y += after.y - before.y;
 }, { passive: false });
 
-groupFilter.addEventListener("change", () => {
-  state.selectedGroup = groupFilter.value;
+sectorFilter.addEventListener("change", () => {
+  state.selectedSector = sectorFilter.value;
+  updateSectorVisibility();
   state.selected = null;
   selectNode(null);
   state.nodes.forEach((node) => { node.fixed = false; node.r = radiusFor(node); });
@@ -735,14 +870,18 @@ groupFilter.addEventListener("change", () => {
   updateStats();
 });
 
+territoryLayoutButton.addEventListener("click", () => applyLayout("territory"));
+sectorLayoutButton.addEventListener("click", () => applyLayout("sectors"));
+
 searchInput.addEventListener("change", () => {
   const query = searchInput.value.trim().toLocaleLowerCase("en");
   const node = state.nodes.find((item) => item.label.toLocaleLowerCase("en") === query)
     || state.nodes.find((item) => item.label.toLocaleLowerCase("en").includes(query));
   if (!node) return;
   if (!isVisibleNode(node)) {
-    state.selectedGroup = "all";
-    groupFilter.value = "all";
+    state.selectedSector = "all";
+    sectorFilter.value = "all";
+    updateSectorVisibility();
     updateStats();
   }
   selectNode(node);

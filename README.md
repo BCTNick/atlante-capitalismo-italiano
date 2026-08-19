@@ -1,8 +1,8 @@
 # Atlante del Capitalismo Italiano (Atlas of Italian Capitalism)
 
-An open-data visualization of ownership relationships among Italian people, families, public bodies, holdings and companies.
+An open-data visualization of ownership relationships among Italian people, families, public bodies, holdings, companies and recognizable assets such as newspapers and football clubs.
 
-The Atlas represents explicit corporate chains. If a person owns a stake in a holding that owns a company, both relationships are shown; no shortcut is created between the person and the final company. Node size can reflect a person's estimated wealth or a company's indicative value.
+The Atlas represents explicit corporate chains. If a person owns a stake in a holding that owns a company, both relationships are shown; no shortcut is created between the person and the final company. Node size can reflect a person's estimated wealth or a company's indicative value. The interface offers a territorial layout and a sector layout; node colours continue to identify entity type, not sector.
 
 ## Local demo
 
@@ -21,7 +21,7 @@ Or open it in my blog: <https://www.scognamiglionicola.com/atlante/app/index.htm
 
 | Date | Status | Nodes | Relationships |
 |---|---|---:|---:|
-| 31 December 2025 | published | 250 | 145 |
+| 31 December 2025 | published | 402 | 347 |
 
 Snapshots are independent, complete views rather than incremental updates. Entity IDs remain stable across years; stakes, values, relationships and sources belong to each individual snapshot.
 
@@ -39,6 +39,8 @@ data/
 - `graph.json` feeds the web application.
 - `rich_graph.sqlite` makes the snapshot available as a relational database.
 - `snapshots.json` indexes the available years.
+
+Each node has one normalized `location_id` and an ordered `sectors` list. Locations describe the node itself rather than a family display group. Empty sector lists are valid for pure holdings, people, families and public bodies: in the sector view those nodes settle between the operating assets to which they are connected.
 
 ## Contributing
 

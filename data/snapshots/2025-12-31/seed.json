@@ -1079,6 +1079,18 @@
       "url": "https://cdn-pro.bancagenerali.ows.farm/mediaObject/bgcom/documents/Corporate-Governance/Assemblea-degli-azionisti/2026/ASSEMBLEA-2026---ENG/ASSEMBLEA-2026---ENG/ODG-2/BG-RAI-2025-ENG/original/BG%2BRAI%2B2025%2BENG.pdf"
     },
     {
+      "id": "generali_italia_sfcr_2025",
+      "title": "Solvency and Financial Condition Report 2025",
+      "publisher": "Generali Italia",
+      "url": "https://www.generali.it/cmsassets/site/810e9a4e-36cd-4d0a-848d-b7fe449ce619/2025_Relazione_sulla_Solvibilita_e_Condizione_Finanziaria_Generali_Italia.pdf"
+    },
+    {
+      "id": "generali_vie_sfcr_2025",
+      "title": "Solvency and Financial Condition Report 2025",
+      "publisher": "Generali Vie",
+      "url": "https://www.generali.fr/sites/default/files-d8/2026-04/RSSF_Generali_Vie_2025.pdf"
+    },
+    {
       "id": "lottomatica_governance_2025",
       "title": "Report on Corporate Governance and Ownership Structure 2025",
       "publisher": "Lottomatica Group",
@@ -2524,6 +2536,11 @@
       "asset_path": null,
       "mark": "BG",
       "background": "#235f72"
+    },
+    "generali_france": {
+      "asset_path": null,
+      "mark": "GF",
+      "background": "#b21f2d"
     },
     "market_hera": {
       "asset_path": null,
@@ -6933,10 +6950,23 @@
       "label": "Generali Italia",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Generali Group company and direct shareholder of Banca Generali.",
+      "description": "Wholly owned subsidiary of Assicurazioni Generali and direct shareholder of Banca Generali.",
       "value_eur_bn": null,
       "value_basis": null,
-      "source_id": "banca_generali_annual_report_2025",
+      "source_id": "generali_italia_sfcr_2025",
+      "groups": [
+        "Generali"
+      ]
+    },
+    {
+      "id": "generali_france",
+      "label": "Generali France",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "French holding company of the Generali Group and direct majority shareholder of Generali Vie.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "generali_vie_sfcr_2025",
       "groups": [
         "Generali"
       ]
@@ -6946,10 +6976,10 @@
       "label": "Generali Vie",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Generali Group company and direct shareholder of Banca Generali.",
+      "description": "French insurance company majority-owned by Generali France and direct shareholder of Banca Generali.",
       "value_eur_bn": null,
       "value_basis": null,
-      "source_id": "banca_generali_annual_report_2025",
+      "source_id": "generali_vie_sfcr_2025",
       "groups": [
         "Generali"
       ]
@@ -6959,10 +6989,10 @@
       "label": "Alleanza Assicurazioni",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Generali Group company and direct shareholder of Banca Generali.",
+      "description": "Wholly owned subsidiary of Generali Italia and direct shareholder of Banca Generali.",
       "value_eur_bn": null,
       "value_basis": null,
-      "source_id": "banca_generali_annual_report_2025",
+      "source_id": "generali_italia_sfcr_2025",
       "groups": [
         "Generali"
       ]
@@ -6972,10 +7002,10 @@
       "label": "Genertel",
       "category": "organization",
       "subtype": "private_company",
-      "description": "Generali Group company and direct shareholder of Banca Generali.",
+      "description": "Wholly owned subsidiary of Generali Italia and direct shareholder of Banca Generali.",
       "value_eur_bn": null,
       "value_basis": null,
-      "source_id": "banca_generali_annual_report_2025",
+      "source_id": "generali_italia_sfcr_2025",
       "groups": [
         "Generali"
       ]
@@ -9352,6 +9382,46 @@
       "percentage": 24.15,
       "note": "Direct shareholding at 31 December 2025.",
       "source_id": "bf_annual_report_2025"
+    },
+    {
+      "id": "own_generali_generali_italia",
+      "owner_id": "generali",
+      "owned_id": "generali_italia",
+      "percentage": 100,
+      "note": "Direct wholly owned subsidiary at 31 December 2025.",
+      "source_id": "generali_italia_sfcr_2025"
+    },
+    {
+      "id": "own_generali_italia_alleanza",
+      "owner_id": "generali_italia",
+      "owned_id": "alleanza_assicurazioni",
+      "percentage": 100,
+      "note": "Direct wholly owned subsidiary at 31 December 2025.",
+      "source_id": "generali_italia_sfcr_2025"
+    },
+    {
+      "id": "own_generali_italia_genertel",
+      "owner_id": "generali_italia",
+      "owned_id": "genertel",
+      "percentage": 100,
+      "note": "Direct wholly owned subsidiary at 31 December 2025.",
+      "source_id": "generali_italia_sfcr_2025"
+    },
+    {
+      "id": "own_generali_generali_france",
+      "owner_id": "generali",
+      "owned_id": "generali_france",
+      "percentage": 66.87,
+      "note": "Direct controlling shareholding at 31 December 2025; another 31.73% was held by Generali Participations Netherlands.",
+      "source_id": "generali_vie_sfcr_2025"
+    },
+    {
+      "id": "own_generali_france_generali_vie",
+      "owner_id": "generali_france",
+      "owned_id": "generali_vie",
+      "percentage": 98.77,
+      "note": "Direct majority shareholding at 31 December 2025; the remaining material interest was held by Generali France subsidiary L'Equite.",
+      "source_id": "generali_vie_sfcr_2025"
     },
     {
       "id": "own_generali_italia_bg",

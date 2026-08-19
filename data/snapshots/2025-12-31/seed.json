@@ -1001,6 +1001,12 @@
       "url": "https://www.buzzi.com/documents/d/guest/annual-report-buzzi-spa-2025"
     },
     {
+      "id": "buzzi_governance_2025",
+      "title": "Report on Corporate Governance and Ownership Structure 2025",
+      "publisher": "Buzzi",
+      "url": "https://www.buzzi.com/documents/d/guest/corporate-governance-relazione-2026-eng-1?download=true"
+    },
+    {
       "id": "reply_annual_report_2025",
       "title": "Reply Annual Report 2025",
       "publisher": "Reply",
@@ -1043,6 +1049,18 @@
       "url": "https://www.inwit.it/wp-content/uploads/2026/04/INWIT-Report-on-Corporate-Governance-2025_ENG.pdf"
     },
     {
+      "id": "hera_governance_2024",
+      "title": "Corporate Governance Report 2024",
+      "publisher": "Hera Group",
+      "url": "https://eng.gruppohera.it/documents/1514726/0/Corporate%2BGovernance%2Breport%2B2024.pdf/18b0c52b-a519-a478-a45d-53490a34344e?t=1744105763147"
+    },
+    {
+      "id": "ravenna_participations_2025",
+      "title": "Municipality of Ravenna equity participations",
+      "publisher": "Comune di Ravenna",
+      "url": "https://www.comune.ra.it/content/download/339812/3921814/file/partecipazioni%20societ%C3%A0%20di%20capitali.pdf"
+    },
+    {
       "id": "pirelli_governance_2025",
       "title": "Corporate Governance and Share Ownership Report 2025",
       "publisher": "Pirelli",
@@ -1071,6 +1089,12 @@
       "title": "Shareholders and share capital",
       "publisher": "Webuild",
       "url": "https://www.webuildgroup.com/en/investor-relations/shareholders-capital/"
+    },
+    {
+      "id": "webuild_offering_circular_2025",
+      "title": "Webuild Bond 2025 Offering Circular",
+      "publisher": "Webuild",
+      "url": "https://media.webuildgroup.com/sites/default/files/2025-07/Webuild%20Bond%202025%20-%20%20Offering%20Circular%20%28FINAL%29.pdf"
     },
     {
       "id": "banca_generali_annual_report_2025",
@@ -1179,6 +1203,12 @@
       "title": "Shareholding structure at 31 December 2025",
       "publisher": "Industrie De Nora",
       "url": "https://denora.com/en/investors/share-information/shareholding"
+    },
+    {
+      "id": "de_nora_governance_2025",
+      "title": "Report on Corporate Governance and Ownership Structure 2025",
+      "publisher": "Industrie De Nora",
+      "url": "https://a.storyblok.com/f/286863414504080/x/4983c9bf3e/corporate-governance-report.pdf"
     },
     {
       "id": "leonardo_annual_report_2025",
@@ -1293,6 +1323,12 @@
       "title": "Essential information on the framework and shareholders' agreements",
       "publisher": "Tod's",
       "url": "https://www.todsgroup.com/sites/default/files/2024-05/Informazioni%20essenziali%20ex.%20art.%20122%20TUF%20per%20Accordo%20Quadro%20%28ENG%29%2021052024.pdf"
+    },
+    {
+      "id": "lvmh_tods_ownership",
+      "title": "LVMH increases its shareholding in Tod's to 10%",
+      "publisher": "LVMH",
+      "url": "https://www.lvmh.com/en/publications/press-release-april-22th-2021"
     },
     {
       "id": "mapei_holding_2025",
@@ -2767,6 +2803,11 @@
       "mark": "SSP",
       "background": "#315f72"
     },
+    "salini_costruttori": {
+      "asset_path": null,
+      "mark": "SC",
+      "background": "#315f72"
+    },
     "credito_emiliano_holding": {
       "asset_path": null,
       "mark": "CEH",
@@ -2850,6 +2891,21 @@
     "daphne_3": {
       "asset_path": null,
       "mark": "D3S",
+      "background": "#315f72"
+    },
+    "impulse_i": {
+      "asset_path": null,
+      "mark": "II",
+      "background": "#315f72"
+    },
+    "con_ami": {
+      "asset_path": null,
+      "mark": "CA",
+      "background": "#315f72"
+    },
+    "ravenna_holding": {
+      "asset_path": null,
+      "mark": "RH",
       "background": "#315f72"
     },
     "marco_polo_international_italy": {
@@ -3137,10 +3193,20 @@
       "mark": "CB",
       "background": "#315f72"
     },
+    "lc_vista": {
+      "asset_path": null,
+      "mark": "LC",
+      "background": "#315f72"
+    },
     "delphine_sas": {
       "asset_path": null,
       "mark": "DSA",
       "background": "#315f72"
+    },
+    "lvmh": {
+      "asset_path": null,
+      "mark": "LVMH",
+      "background": "#1f2933"
     },
     "divi_finanziaria": {
       "asset_path": null,
@@ -5883,10 +5949,101 @@
       "label": "Hera Group",
       "category": "organization",
       "subtype": "listed_company",
-      "description": "Italian multi-utility with roughly 200 public shareholders and a municipal shareholders' agreement; it is intentionally not assigned a single controlling-owner edge.",
+      "description": "Italian multi-utility with roughly 200 public shareholders and no single controller. Its principal direct municipal shareholders and public vehicles are shown separately.",
       "value_eur_bn": 5.87,
       "value_basis": "Market capitalization at the end of 2025",
       "source_id": "hera_shareholding_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "municipality_bologna",
+      "label": "Municipality of Bologna",
+      "category": "subject",
+      "subtype": "municipality",
+      "description": "Largest direct municipal shareholder of Hera in the official significant-interest table available during 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "hera_governance_2024",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "municipality_modena",
+      "label": "Municipality of Modena",
+      "category": "subject",
+      "subtype": "municipality",
+      "description": "Direct public shareholder of Hera and a party in its municipal governance framework.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "hera_governance_2024",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "municipality_trieste",
+      "label": "Municipality of Trieste",
+      "category": "subject",
+      "subtype": "municipality",
+      "description": "Direct public shareholder of Hera and a party in its municipal governance framework.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "hera_governance_2024",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "municipality_padua",
+      "label": "Municipality of Padua",
+      "category": "subject",
+      "subtype": "municipality",
+      "description": "Direct public shareholder of Hera and a party in its municipal governance framework.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "hera_governance_2024",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "municipality_ravenna",
+      "label": "Municipality of Ravenna",
+      "category": "subject",
+      "subtype": "municipality",
+      "description": "Largest shareholder of Ravenna Holding, the direct Hera shareholder for the Ravenna public perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "ravenna_participations_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "con_ami",
+      "label": "CON.AMI",
+      "category": "organization",
+      "subtype": "public_consortium",
+      "description": "Consortium of 23 local authorities and direct Hera shareholder; no single municipality is represented as its sole owner.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "hera_governance_2024",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "ravenna_holding",
+      "label": "Ravenna Holding",
+      "category": "organization",
+      "subtype": "public_holding",
+      "description": "Municipal holding and direct Hera shareholder in the Ravenna public perimeter.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "hera_governance_2024",
       "groups": [
         "Listed market"
       ]
@@ -6469,10 +6626,23 @@
       "label": "Salini S.p.A.",
       "category": "organization",
       "subtype": "holding",
-      "description": "Direct controlling shareholder of Webuild.",
+      "description": "Wholly owned Salini Costruttori vehicle and direct controlling shareholder of Webuild.",
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "webuild_shareholders_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "salini_costruttori",
+      "label": "Salini Costruttori S.p.A.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Indirect parent of Webuild through its wholly owned subsidiary Salini S.p.A.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "webuild_offering_circular_2025",
       "groups": [
         "Listed market"
       ]
@@ -6742,7 +6912,20 @@
       "label": "Daphne 3 S.p.A.",
       "category": "organization",
       "subtype": "holding",
-      "description": "Direct shareholder of INWIT at 31 December 2025.",
+      "description": "Wholly owned Impulse I vehicle and direct shareholder of INWIT at 31 December 2025.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "inwit_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "impulse_i",
+      "label": "Impulse I S.a r.l.",
+      "category": "organization",
+      "subtype": "holding",
+      "description": "Immediate parent of Daphne 3 in the documented INWIT ownership chain.",
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "inwit_governance_2025",
@@ -7405,10 +7588,23 @@
       "label": "Federico De Nora",
       "category": "subject",
       "subtype": "person",
-      "description": "Member of the De Nora family with a direct personal stake in Industrie De Nora.",
+      "description": "Member of the De Nora family with direct interests in both Federico De Nora S.p.A. and Industrie De Nora.",
       "value_eur_bn": null,
       "value_basis": null,
-      "source_id": "de_nora_shareholding_2025",
+      "source_id": "de_nora_governance_2025",
+      "groups": [
+        "Listed market"
+      ]
+    },
+    {
+      "id": "giacomo_niccolo_de_nora",
+      "label": "Giacomo and Niccolo De Nora",
+      "category": "subject",
+      "subtype": "family",
+      "description": "Federico De Nora's sons, represented jointly because their 72% interest in the family holding is held in undivided co-ownership.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "de_nora_governance_2025",
       "groups": [
         "Listed market"
       ]
@@ -7418,10 +7614,10 @@
       "label": "Federico De Nora S.p.A.",
       "category": "organization",
       "subtype": "holding",
-      "description": "Largest direct De Nora-family shareholder of Industrie De Nora.",
+      "description": "De Nora family holding and largest direct shareholder of Industrie De Nora.",
       "value_eur_bn": null,
       "value_basis": null,
-      "source_id": "de_nora_shareholding_2025",
+      "source_id": "de_nora_governance_2025",
       "groups": [
         "Listed market"
       ]
@@ -7705,7 +7901,20 @@
       "label": "Crown Bidco",
       "category": "organization",
       "subtype": "holding",
-      "description": "L Catterton vehicle and direct Tod's shareholder after the delisting offer.",
+      "description": "LC Vista / L Catterton vehicle and direct Tod's shareholder after the delisting offer.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "tods_shareholders_after_offer",
+      "groups": [
+        "Della Valle-Tod's"
+      ]
+    },
+    {
+      "id": "lc_vista",
+      "label": "LC Vista (L Catterton)",
+      "category": "organization",
+      "subtype": "investment_fund",
+      "description": "Investment vehicle that wholly owns Crown Bidco; it is managed within the L Catterton fund structure.",
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tods_shareholders_after_offer",
@@ -7718,10 +7927,23 @@
       "label": "Delphine S.A.S.",
       "category": "organization",
       "subtype": "holding",
-      "description": "LVMH-group vehicle retaining a direct minority interest in Tod's.",
+      "description": "Wholly owned LVMH vehicle retaining a direct minority interest in Tod's.",
       "value_eur_bn": null,
       "value_basis": null,
       "source_id": "tods_shareholders_after_offer",
+      "groups": [
+        "Della Valle-Tod's"
+      ]
+    },
+    {
+      "id": "lvmh",
+      "label": "LVMH",
+      "category": "organization",
+      "subtype": "listed_company",
+      "description": "French luxury group and sole parent of Delphine S.A.S. in the documented Tod's chain.",
+      "value_eur_bn": null,
+      "value_basis": null,
+      "source_id": "lvmh_tods_ownership",
       "groups": [
         "Della Valle-Tod's"
       ]
@@ -9024,6 +9246,14 @@
       "source_id": "webuild_shareholders_2025"
     },
     {
+      "id": "own_salini_costruttori_salini",
+      "owner_id": "salini_costruttori",
+      "owned_id": "salini_spa",
+      "percentage": 100,
+      "note": "Salini S.p.A. is the wholly owned direct vehicle through which Salini Costruttori controls Webuild.",
+      "source_id": "webuild_offering_circular_2025"
+    },
+    {
       "id": "own_cdp_equity_webuild",
       "owner_id": "cdp_equity",
       "owned_id": "market_webuild",
@@ -9086,6 +9316,14 @@
       "percentage": 43.04,
       "note": "Direct shareholding at 31 December 2025.",
       "source_id": "buzzi_annual_report_2025"
+    },
+    {
+      "id": "own_fimedi_presa",
+      "owner_id": "fimedi_spa",
+      "owned_id": "presa_spa",
+      "percentage": 100,
+      "note": "Presa is a wholly owned subsidiary of Fimedi; both companies also hold Buzzi shares directly.",
+      "source_id": "buzzi_governance_2025"
     },
     {
       "id": "own_fimedi_buzzi",
@@ -9254,6 +9492,70 @@
       "percentage": 30.97,
       "note": "Direct shareholding at 31 December 2025.",
       "source_id": "inwit_governance_2025"
+    },
+    {
+      "id": "own_impulse_i_daphne",
+      "owner_id": "impulse_i",
+      "owned_id": "daphne_3",
+      "percentage": 100,
+      "note": "Daphne 3 is wholly owned by Impulse I; the report identifies a further controlling parent but does not disclose its exact capital interest.",
+      "source_id": "inwit_governance_2025"
+    },
+    {
+      "id": "own_bologna_hera",
+      "owner_id": "municipality_bologna",
+      "owned_id": "market_hera",
+      "percentage": 8.402,
+      "note": "Direct municipal shareholding in the official significant-interest table published during 2025; the municipal pact remained in force through the snapshot date.",
+      "source_id": "hera_governance_2024"
+    },
+    {
+      "id": "own_conami_hera",
+      "owner_id": "con_ami",
+      "owned_id": "market_hera",
+      "percentage": 7.293,
+      "note": "Direct public-consortium shareholding in the official significant-interest table published during 2025.",
+      "source_id": "hera_governance_2024"
+    },
+    {
+      "id": "own_modena_hera",
+      "owner_id": "municipality_modena",
+      "owned_id": "market_hera",
+      "percentage": 6.519,
+      "note": "Direct municipal shareholding in the official significant-interest table published during 2025.",
+      "source_id": "hera_governance_2024"
+    },
+    {
+      "id": "own_ravenna_holding_hera",
+      "owner_id": "ravenna_holding",
+      "owned_id": "market_hera",
+      "percentage": 4.916,
+      "note": "Direct public-holding shareholding in the official significant-interest table published during 2025.",
+      "source_id": "hera_governance_2024"
+    },
+    {
+      "id": "own_ravenna_ravenna_holding",
+      "owner_id": "municipality_ravenna",
+      "owned_id": "ravenna_holding",
+      "percentage": 77.08,
+      "note": "Direct municipal interest in Ravenna Holding; the remaining capital is held by other public entities.",
+      "source_id": "ravenna_participations_2025"
+    },
+    {
+      "id": "own_trieste_hera",
+      "owner_id": "municipality_trieste",
+      "owned_id": "market_hera",
+      "percentage": 3.731,
+      "note": "Direct municipal shareholding in the official significant-interest table published during 2025.",
+      "source_id": "hera_governance_2024"
+    },
+    {
+      "id": "own_padua_hera",
+      "owner_id": "municipality_padua",
+      "owned_id": "market_hera",
+      "percentage": 3.097,
+      "note": "Direct municipal shareholding in the official significant-interest table published during 2025.",
+      "source_id": "hera_governance_2024"
     },
     {
       "id": "own_marco_polo_pirelli",
@@ -9736,6 +10038,22 @@
       "source_id": "de_nora_shareholding_2025"
     },
     {
+      "id": "own_federico_fdn_spa",
+      "owner_id": "federico_de_nora",
+      "owned_id": "federico_de_nora_spa",
+      "percentage": 28,
+      "note": "Direct full ownership; Federico also holds a non-voting usufruct over the 70% bare-owned jointly by his sons.",
+      "source_id": "de_nora_governance_2025"
+    },
+    {
+      "id": "own_giacomo_niccolo_fdn_spa",
+      "owner_id": "giacomo_niccolo_de_nora",
+      "owned_id": "federico_de_nora_spa",
+      "percentage": 72,
+      "note": "Undivided joint ownership: 70% bare ownership plus 2% full ownership, represented as one joint family subject because no individual split is disclosed.",
+      "source_id": "de_nora_governance_2025"
+    },
+    {
       "id": "own_norfin_de_nora",
       "owner_id": "norfin",
       "owned_id": "market_industrie_de_nora",
@@ -10016,12 +10334,28 @@
       "source_id": "tods_shareholders_after_offer"
     },
     {
+      "id": "own_lc_vista_crown_bidco",
+      "owner_id": "lc_vista",
+      "owned_id": "crown_bidco",
+      "percentage": 100,
+      "note": "LC Vista held the entire capital of Crown Bidco in the post-offer corporate structure.",
+      "source_id": "tods_shareholders_after_offer"
+    },
+    {
       "id": "own_delphine_tods",
       "owner_id": "delphine_sas",
       "owned_id": "tods",
       "percentage": 10,
       "note": "Direct minority interest retained by the LVMH-group vehicle.",
       "source_id": "tods_shareholders_after_offer"
+    },
+    {
+      "id": "own_lvmh_delphine",
+      "owner_id": "lvmh",
+      "owned_id": "delphine_sas",
+      "percentage": 100,
+      "note": "Delphine S.A.S. is a wholly owned LVMH subsidiary; the Tod's transaction materials confirm that Delphine retained the stake.",
+      "source_id": "lvmh_tods_ownership"
     },
     {
       "id": "own_marco_squinzi_emme_esse_vi",
